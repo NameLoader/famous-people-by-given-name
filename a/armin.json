@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Armin Veh",
+    "givenNames": [
+      "Armin"
+    ],
+    "familyName": "Veh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armin_Veh",
+    "occupation": "Football manager",
+    "achievements": [
+      "Managed Eintracht Frankfurt to a DFB-Pokal title in 2011"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Armin Shimerman",
+    "givenNames": [
+      "Armin"
+    ],
+    "familyName": "Shimerman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armin_Shimerman",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Quark in Star Trek: Deep Space Nine"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Armin van Buuren",
+    "givenNames": [
+      "Armin",
+      "Jozef",
+      "Jacobus",
+      "Daniël"
+    ],
+    "familyName": "van Buuren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armin_van_Buuren",
+    "occupation": "DJ and record producer",
+    "achievements": [
+      "One of the world's most popular trance DJs"
+    ],
+    "yearBorn": 1976
+  }
+]

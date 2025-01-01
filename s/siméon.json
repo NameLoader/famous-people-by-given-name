@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Siméon Denis Poisson",
+    "givenNames": [
+      "Siméon",
+      "Denis"
+    ],
+    "familyName": "Poisson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson",
+    "occupation": "Mathematician, Physicist",
+    "achievements": [
+      "Contributions to probability theory, partial differential equations, and mechanics.",
+      "Poisson distribution named after him."
+    ],
+    "yearBorn": 1781,
+    "yearDied": 1840
+  }
+]

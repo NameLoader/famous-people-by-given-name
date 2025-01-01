@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Jade Goody",
+    "givenNames": [
+      "Jade",
+      "Cerisa",
+      "Lorraine"
+    ],
+    "familyName": "Goody",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Goody",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Appeared on the third series of Big Brother UK in 2002",
+      "Became a prominent media figure"
+    ],
+    "yearBorn": 1981,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Jade Puget",
+    "givenNames": [
+      "Jade",
+      "Errol"
+    ],
+    "familyName": "Puget",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Puget",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead guitarist for the rock band AFI",
+      "Contributed to numerous AFI albums"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Jade Bird",
+    "givenNames": [
+      "Jade",
+      "Elizabeth"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Bird",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Released critically acclaimed debut album 'Jade Bird' in 2019"
+    ],
+    "yearBorn": 1997
+  }
+]

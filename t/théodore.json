@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Théodore Géricault",
+    "givenNames": [
+      "Théodore"
+    ],
+    "familyName": "Géricault",
+    "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his Romantic style paintings",
+      "Famous work: The Raft of the Medusa"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1824
+  }
+]

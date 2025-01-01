@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Mohamed Salah",
+    "givenNames": [
+      "Mohamed",
+      "Hamed",
+      "Mahrous",
+      "Ghaly"
+    ],
+    "familyName": "Salah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Salah",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "UEFA Champions League winner (2018-19)",
+      "Premier League Golden Boot winner (2017-18, 2018-19)",
+      "African Footballer of the Year (2017, 2018)"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Mohamed Ali",
+    "givenNames": [
+      "Mohamed"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Three-time World Heavyweight Champion",
+      "Olympic gold medalist (1960)",
+      "Activist for civil rights and religious freedom"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Mohamed Bouazizi",
+    "givenNames": [
+      "Mohamed",
+      "Tarek",
+      "El-Tayeb"
+    ],
+    "familyName": "Bouazizi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Bouazizi",
+    "occupation": "Street vendor",
+    "achievements": [
+      "His self-immolation sparked the Tunisian Revolution and the Arab Spring uprisings."
+    ],
+    "yearBorn": 1984,
+    "yearDied": 2011
+  }
+]

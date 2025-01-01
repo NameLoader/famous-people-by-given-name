@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Roger Federer",
+    "givenNames": [
+      "Roger"
+    ],
+    "familyName": "Federer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Federer",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "20 Grand Slam singles titles",
+      "Former world No. 1 for a record 310 weeks"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Roger Moore",
+    "givenNames": [
+      "Roger",
+      "George"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Moore",
+    "occupation": "Actor",
+    "achievements": [
+      "Played James Bond in seven films",
+      "Known for roles in 'The Saint' and 'The Persuaders!'"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Roger Waters",
+    "givenNames": [
+      "George",
+      "Roger"
+    ],
+    "familyName": "Waters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Co-founder and bassist of Pink Floyd",
+      "Known for concept albums like 'The Wall' and 'Animals'"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Roger Ebert",
+    "givenNames": [
+      "Roger",
+      "Joseph"
+    ],
+    "familyName": "Ebert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Ebert",
+    "occupation": "Film Critic, Journalist",
+    "achievements": [
+      "Pulitzer Prize winner for criticism",
+      "Hosted the long-running television show 'At the Movies'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2013
+  }
+]

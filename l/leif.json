@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Leif Erikson",
+    "givenNames": [
+      "Leif"
+    ],
+    "familyName": "Erikson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leif_Erikson",
+    "occupation": "Explorer",
+    "achievements": [
+      "First European to set foot on continental North America (around 1000 AD)"
+    ],
+    "yearBorn": 970,
+    "yearDied": 1020
+  }
+]

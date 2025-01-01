@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Felice Romani",
+    "givenNames": [
+      "Giuseppe",
+      "Felice"
+    ],
+    "familyName": "Romani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felice_Romani",
+    "occupation": "Italian librettist",
+    "achievements": [
+      "Wrote librettos for many famous operas, including works by Bellini, Donizetti, and Verdi"
+    ],
+    "yearBorn": 1788,
+    "yearDied": 1865
+  }
+]

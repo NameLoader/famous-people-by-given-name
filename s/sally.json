@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sally Ride",
+    "givenNames": [
+      "Sally",
+      "Kristen"
+    ],
+    "familyName": "Ride",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Ride",
+    "occupation": "Astronaut, Physicist",
+    "achievements": [
+      "First American woman in space",
+      "Physicist who specialized in lasers and astrophysics"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Sally Field",
+    "givenNames": [
+      "Sally",
+      "Margaret"
+    ],
+    "familyName": "Field",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Field",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Two-time Academy Award winner for Best Actress",
+      "Emmy Award winner for Outstanding Lead Actress in a Drama Series"
+    ],
+    "yearBorn": 1946
+  }
+]

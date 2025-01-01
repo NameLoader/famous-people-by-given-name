@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Shania Twain",
+    "givenNames": [
+      "Eilleen",
+      "Regina"
+    ],
+    "familyName": "Twain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shania_Twain",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Best-selling female artist in country music history",
+      "Five-time Grammy Award winner"
+    ],
+    "yearBorn": 1965
+  }
+]

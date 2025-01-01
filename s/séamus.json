@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Séamus Heaney",
+    "givenNames": [
+      "Seamus",
+      "Justin"
+    ],
+    "familyName": "Heaney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Heaney",
+    "occupation": "Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1995)",
+      "Irish Professor of Poetry",
+      "Numerous other literary awards and honors"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Séamus Mallon",
+    "givenNames": [
+      "Seamus",
+      "Frederick"
+    ],
+    "familyName": "Mallon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Mallon",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy First Minister of Northern Ireland (1998-2001)",
+      "Member of Parliament for Newry and Armagh"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2014
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Amedeo Modigliani",
+    "givenNames": [
+      "Amedeo",
+      "Clemente"
+    ],
+    "familyName": "Modigliani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
+    "occupation": "Painter and Sculptor",
+    "achievements": [
+      "Known for his distinctive portraits and nudes characterized by elongated figures and almond-shaped eyes.",
+      "Considered a major figure in the School of Paris."
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1920
+  },
+  {
+    "fullName": "Amedeo Avogadro",
+    "givenNames": [
+      "Amedeo",
+      "Carlo"
+    ],
+    "familyName": "Avogadro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amedeo_Avogadro",
+    "occupation": "Chemist and Physicist",
+    "achievements": [
+      "Proposed Avogadro's law, which states that equal volumes of gases at the same temperature and pressure contain the same number of molecules.",
+      "His work was fundamental to the development of atomic theory."
+    ],
+    "yearBorn": 1776,
+    "yearDied": 1856
+  }
+]

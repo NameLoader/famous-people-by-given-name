@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Pellegrino Artusi",
+    "givenNames": [
+      "Pellegrino"
+    ],
+    "familyName": "Artusi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pellegrino_Artusi",
+    "occupation": "Chef and author",
+    "achievements": [
+      "Author of 'Science in the Kitchen and the Art of Eating Well', a foundational cookbook in Italian cuisine.",
+      "Considered one of the fathers of modern Italian cooking."
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1911
+  }
+]

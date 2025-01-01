@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Maya Angelou",
+    "givenNames": [
+      "Maya"
+    ],
+    "familyName": "Angelou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Angelou",
+    "occupation": "Poet, author, and civil rights activist",
+    "achievements": [
+      "Published seven autobiographies, three books of essays, several books of poetry, and a list of plays.",
+      "Recited her poem 'On the Pulse of Morning' at President Bill Clinton's inauguration.",
+      "Received numerous awards, including the Presidential Medal of Freedom."
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Maya Rudolph",
+    "givenNames": [
+      "Maya"
+    ],
+    "familyName": "Rudolph",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_Rudolph",
+    "occupation": "Actress and comedian",
+    "achievements": [
+      "Known for her work on 'Saturday Night Live'",
+      "Starred in films such as 'Bridesmaids' and 'Grown Ups'",
+      "Won a Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series."
+    ],
+    "yearBorn": 1972
+  }
+]

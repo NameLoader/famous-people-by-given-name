@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Rudolf Diesel",
+    "givenNames": [
+      "Rudolf",
+      "Christian",
+      "Karl"
+    ],
+    "familyName": "Diesel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Diesel",
+    "occupation": "Inventor, Mechanical Engineer",
+    "achievements": [
+      "Invented the diesel engine"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1913
+  },
+  {
+    "fullName": "Rudolf Hess",
+    "givenNames": [
+      "Rudolf",
+      "Walter",
+      "Richard"
+    ],
+    "familyName": "Hess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Hess",
+    "occupation": "Nazi Politician",
+    "achievements": [
+      "Deputy Führer of Nazi Germany"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Rudolf Nureyev",
+    "givenNames": [
+      "Rudolf",
+      "Khametovich"
+    ],
+    "familyName": "Nureyev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Nureyev",
+    "occupation": "Dancer, Choreographer",
+    "achievements": [
+      "One of the greatest male ballet dancers of the 20th century"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Rudolf Steiner",
+    "givenNames": [
+      "Rudolf",
+      "Joseph",
+      "Lorenz"
+    ],
+    "familyName": "Steiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Steiner",
+    "occupation": "Philosopher, Educator",
+    "achievements": [
+      "Founded Anthroposophy and Waldorf education"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1925
+  }
+]

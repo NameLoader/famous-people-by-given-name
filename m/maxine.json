@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Maxine Elliott",
+    "givenNames": [
+      "Maxine"
+    ],
+    "familyName": "Elliott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxine_Elliott",
+    "occupation": "Actress",
+    "achievements": [
+      "Leading actress on Broadway and London stage during the early 20th century.",
+      "Known for her elegance and sophisticated performances."
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1940
+  },
+  {
+    "fullName": "Maxine Hong Kingston",
+    "givenNames": [
+      "Maxine",
+      "Hong"
+    ],
+    "familyName": "Kingston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxine_Hong_Kingston",
+    "occupation": "Writer, Professor",
+    "achievements": [
+      "Author of the acclaimed memoir 'The Woman Warrior'",
+      "Known for her exploration of Chinese-American identity and feminist themes."
+    ],
+    "yearBorn": 1940
+  }
+]

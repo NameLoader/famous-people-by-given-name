@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Marlene Dietrich",
+    "givenNames": [
+      "Marlene",
+      "Marie Magdalene"
+    ],
+    "familyName": "Dietrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlene_Dietrich",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Hollywood icon",
+      "Known for her roles in films like 'The Blue Angel' and 'Shanghai Express'",
+      "Celebrated singer with a unique contralto voice"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Marlene Dumas",
+    "givenNames": [
+      "Marlene"
+    ],
+    "familyName": "Dumas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlene_Dumas",
+    "occupation": "Painter",
+    "achievements": [
+      "Renowned South African painter",
+      "Known for her figurative paintings exploring themes of identity, sexuality, and the human condition"
+    ],
+    "yearBorn": 1953
+  }
+]

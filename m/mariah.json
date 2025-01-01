@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mariah Carey",
+    "givenNames": [
+      "Mariah"
+    ],
+    "familyName": "Carey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariah_Carey",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Five Grammy Awards",
+      "Numerous other awards and accolades"
+    ],
+    "yearBorn": 1969
+  }
+]

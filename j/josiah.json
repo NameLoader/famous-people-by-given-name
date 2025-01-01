@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Josiah Wedgwood",
+    "givenNames": [
+      "Josiah"
+    ],
+    "familyName": "Wedgwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Wedgwood",
+    "occupation": "Potter, entrepreneur, philanthropist",
+    "achievements": [
+      "Founded the Wedgwood pottery company",
+      "Pioneered mass production techniques",
+      "Developed jasperware, a distinctive type of stoneware"
+    ],
+    "yearBorn": 1730,
+    "yearDied": 1795
+  },
+  {
+    "fullName": "Josiah Quincy III",
+    "givenNames": [
+      "Josiah"
+    ],
+    "familyName": "Quincy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Quincy_III",
+    "occupation": "Politician, Mayor of Boston",
+    "achievements": [
+      "Served as Mayor of Boston from 1823 to 1826 and again from 1835 to 1839",
+      "Advocate for education and abolitionism",
+      "President of Harvard University (1829-1845)"
+    ],
+    "yearBorn": 1772,
+    "yearDied": 1864
+  },
+  {
+    "fullName": "Josiah Henson",
+    "givenNames": [
+      "Josiah"
+    ],
+    "familyName": "Henson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Henson",
+    "occupation": "Abolitionist, author, minister",
+    "achievements": [
+      "Escaped slavery and became a conductor on the Underground Railroad",
+      "Founded the Dawn Settlement in Ontario, Canada for escaped slaves",
+      "Wrote his autobiography, which inspired Harriet Beecher Stowe's novel 'Uncle Tom's Cabin'"
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1883
+  }
+]

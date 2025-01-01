@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Addie Joss",
+    "givenNames": [
+      "Adrian",
+      "Addie"
+    ],
+    "familyName": "Joss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Addie_Joss",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Considered one of the greatest pitchers of his era.",
+      "Inducted into the Baseball Hall of Fame in 1978."
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1911
+  }
+]

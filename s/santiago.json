@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Santiago Ramón y Cajal",
+    "givenNames": [
+      "Santiago"
+    ],
+    "familyName": "Ramón y Cajal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+    "occupation": "Neuroscientist, histologist",
+    "achievements": [
+      "Considered the father of modern neuroscience",
+      "Nobel Prize in Physiology or Medicine (1906)"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1934
+  },
+  {
+    "fullName": "Santiago Calatrava",
+    "givenNames": [
+      "Santiago",
+      "Valls"
+    ],
+    "familyName": "Calatrava",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+    "occupation": "Architect, structural engineer, artist",
+    "achievements": [
+      "Known for his distinctive neo-futuristic style",
+      "Designed numerous bridges, buildings, and sculptures worldwide"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Santiago Solari",
+    "givenNames": [
+      "Santiago",
+      "Hernán"
+    ],
+    "familyName": "Solari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago_Solari",
+    "occupation": "Former footballer, manager",
+    "achievements": [
+      "Won the Champions League and La Liga as a player with Real Madrid",
+      "Managed several football clubs including Real Madrid"
+    ],
+    "yearBorn": 1976
+  }
+]

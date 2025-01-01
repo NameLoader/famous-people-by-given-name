@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Takeru Kobayashi",
+    "givenNames": [
+      "Takeru"
+    ],
+    "familyName": "Kobayashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takeru_Kobayashi",
+    "occupation": "Competitive eater",
+    "achievements": [
+      "Holds numerous world records in competitive eating",
+      "Won the Nathan's Hot Dog Eating Contest six consecutive times (2001-2006)"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Takeru Satoh",
+    "givenNames": [
+      "Takeru"
+    ],
+    "familyName": "Satoh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takeru_Satoh",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in live-action adaptations of popular manga and anime series",
+      "Played the titular role in the Kamen Rider Den-O and Rurouni Kenshin film series"
+    ],
+    "yearBorn": 1989
+  }
+]

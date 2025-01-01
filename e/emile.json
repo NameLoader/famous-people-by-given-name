@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Emile Durkheim",
+    "givenNames": [
+      "Emile",
+      "David"
+    ],
+    "familyName": "Durkheim",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
+    "occupation": "Sociologist, philosopher",
+    "achievements": [
+      "Father of sociology",
+      "Developed concepts like social solidarity and anomie",
+      "Wrote influential works such as The Division of Labour in Society and Suicide"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1917
+  },
+  {
+    "fullName": "Emile Hirsch",
+    "givenNames": [
+      "Emile",
+      "Davenport"
+    ],
+    "familyName": "Hirsch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emile_Hirsch",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like Into the Wild and Milk",
+      "Nominated for a Screen Actors Guild Award for his performance in Milk"
+    ],
+    "yearBorn": 1985
+  }
+]

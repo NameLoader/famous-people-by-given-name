@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Lena Horne",
+    "givenNames": [
+      "Lena",
+      "Mary",
+      "Calhoun"
+    ],
+    "familyName": "Horne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Horne",
+    "occupation": "Singer, actress, dancer",
+    "achievements": [
+      "Tony Award winner",
+      "Grammy Lifetime Achievement Award recipient",
+      "Civil rights activist"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Lena Dunham",
+    "givenNames": [
+      "Lena"
+    ],
+    "familyName": "Dunham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Dunham",
+    "occupation": "Actress, writer, director",
+    "achievements": [
+      "Created and starred in the HBO series 'Girls'",
+      "Won two Golden Globe Awards for 'Girls'"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Lena Headey",
+    "givenNames": [
+      "Lena",
+      "Kathren"
+    ],
+    "familyName": "Headey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Headey",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Game of Thrones' and '300'"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Lena Meyer-Landrut",
+    "givenNames": [
+      "Lena",
+      "Johanna",
+      "Therese"
+    ],
+    "familyName": "Meyer-Landrut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Meyer-Landrut",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Won the Eurovision Song Contest in 2010"
+    ],
+    "yearBorn": 1991
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Marla Maples",
+    "givenNames": [
+      "Marla",
+      "Ann"
+    ],
+    "familyName": "Maples",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marla_Maples",
+    "occupation": "Actress, television personality",
+    "achievements": [
+      "Former wife of Donald Trump",
+      "Appeared in films like 'Maximum Overdrive' and 'Loving"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Marla Gibbs",
+    "givenNames": [
+      "Marla"
+    ],
+    "familyName": "Gibbs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marla_Gibbs",
+    "occupation": "Actress, comedian, singer",
+    "achievements": [
+      "Known for roles in 'The Jeffersons' and '227'",
+      "Nominated for multiple Emmy Awards"
+    ],
+    "yearBorn": 1931
+  }
+]

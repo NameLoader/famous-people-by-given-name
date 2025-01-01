@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Frida Kahlo",
+    "givenNames": [
+      "Frida",
+      "Magdalena",
+      "Carmen"
+    ],
+    "familyName": "Kahlo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for self-portraits and surrealist works exploring themes of identity, the body, and pain.",
+      "Considered a feminist icon."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1954
+  },
+  {
+    "fullName": "Frida Pinto",
+    "givenNames": [
+      "Freida",
+      "Selena"
+    ],
+    "familyName": "Pinto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freida_Pinto",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films such as Slumdog Millionaire and Rise of the Planet of the Apes.",
+      "Active advocate for social justice causes."
+    ],
+    "yearBorn": 1984
+  }
+]

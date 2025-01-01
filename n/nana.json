@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nana Akufo-Addo",
+    "givenNames": [
+      "Nana",
+      "Addo",
+      "Dankwa"
+    ],
+    "familyName": "Akufo-Addo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nana_Akufo-Addo",
+    "occupation": "Politician",
+    "achievements": [
+      "Current President of Ghana",
+      "Former Attorney General and Minister of Justice"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Nana Mouskouri",
+    "givenNames": [
+      "Ioanna",
+      "Nana"
+    ],
+    "familyName": "Mouskouri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nana_Mouskouri",
+    "occupation": "Singer",
+    "achievements": [
+      "Internationally acclaimed Greek singer",
+      "Known for her wide vocal range and multilingual repertoire"
+    ],
+    "yearBorn": 1934
+  }
+]

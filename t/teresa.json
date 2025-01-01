@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Teresa Giudice",
+    "givenNames": [
+      "Teresa"
+    ],
+    "familyName": "Giudice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Giudice",
+    "occupation": "Reality television personality, author",
+    "achievements": [
+      "Star of 'The Real Housewives of New Jersey'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Teresa Wright",
+    "givenNames": [
+      "Teresa",
+      "Muriel"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Wright",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress for 'Mrs. Miniver' (1942)",
+      "Known for roles in films like 'The Best Years of Our Lives' and 'The Pride of the Yankees'"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2005
+  }
+]

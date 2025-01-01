@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Naya Rivera",
+    "givenNames": [
+      "Naya",
+      "Marie"
+    ],
+    "familyName": "Rivera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naya_Rivera",
+    "occupation": "Actress and singer",
+    "achievements": [
+      "Known for her role as Santana Lopez on the television series Glee",
+      "Released a solo album titled \"Naya\""
+    ],
+    "yearBorn": 1987,
+    "yearDied": 2020
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dakota Fanning",
+    "givenNames": [
+      "Dakota",
+      "Hannah"
+    ],
+    "familyName": "Fanning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dakota_Fanning",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for two Screen Actors Guild Awards and a BAFTA Award.",
+      "Known for roles in films such as 'I Am Sam', 'War of the Worlds', and 'The Secret Life of Bees'."
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Dakota Johnson",
+    "givenNames": [
+      "Dakota",
+      "Mayi"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dakota_Johnson",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Anastasia Steele in the 'Fifty Shades' film series.",
+      "Daughter of actors Melanie Griffith and Don Johnson."
+    ],
+    "yearBorn": 1989
+  }
+]

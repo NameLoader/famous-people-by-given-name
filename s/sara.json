@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Sara Bareilles",
+    "givenNames": [
+      "Sara",
+      "Beth"
+    ],
+    "familyName": "Bareilles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Bareilles",
+    "occupation": "Singer-songwriter, pianist",
+    "achievements": [
+      "Grammy Award nominations",
+      "Tony Award nomination"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Sara Ramirez",
+    "givenNames": [
+      "Sara",
+      "Elena"
+    ],
+    "familyName": "Ramirez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Ramirez",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Tony Award for Best Featured Actress in a Musical",
+      "Known for role as Callie Torres on Grey's Anatomy"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Sara Danius",
+    "givenNames": [
+      "Sara",
+      "Maria"
+    ],
+    "familyName": "Danius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Danius",
+    "occupation": "Literary critic, professor",
+    "achievements": [
+      "Permanent Secretary of the Swedish Academy"
+    ],
+    "yearBorn": 1957,
+    "yearDied": 2019
+  }
+]

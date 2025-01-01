@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Cosima Wagner",
+    "givenNames": [
+      "Cosima"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cosima_Wagner",
+    "occupation": "Musician, patron of the arts",
+    "achievements": [
+      "Daughter of Franz Liszt and wife of Richard Wagner",
+      "Played a significant role in promoting and preserving Richard Wagner's works"
+    ],
+    "yearBorn": 1837,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Cosima Von Bonin",
+    "givenNames": [
+      "Cosima"
+    ],
+    "familyName": "Von Bonin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cosima_von_Bonin",
+    "occupation": "Artist",
+    "achievements": [
+      "German visual artist known for sculptures, installations and drawings",
+      "Work often explores themes of identity, history, and technology"
+    ],
+    "yearBorn": 1962
+  }
+]

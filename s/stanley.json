@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Stanley Kubrick",
+    "givenNames": [
+      "Stanley"
+    ],
+    "familyName": "Kubrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+    "occupation": "Film director, screenwriter, producer, cinematographer",
+    "achievements": [
+      "Considered one of the greatest and most influential filmmakers of all time.",
+      "Directed acclaimed films such as \"2001: A Space Odyssey\", \"A Clockwork Orange\", and \"The Shining\"."
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Stanley Ipkiss",
+    "givenNames": [
+      "Stanley"
+    ],
+    "familyName": "Ipkiss",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Mask_(1994_film)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the 1994 superhero comedy film \"The Mask\""
+    ]
+  },
+  {
+    "fullName": "Stanley Milgram",
+    "givenNames": [
+      "Stanley"
+    ],
+    "familyName": "Milgram",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Milgram",
+    "occupation": "Social psychologist",
+    "achievements": [
+      "Known for his controversial obedience experiments which explored the extent to which individuals would obey authority figures."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1984
+  }
+]

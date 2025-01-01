@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Orson Welles",
+    "givenNames": [
+      "Orson",
+      "George"
+    ],
+    "familyName": "Welles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orson_Welles",
+    "occupation": "Actor, director, writer, producer",
+    "achievements": [
+      "Considered one of the greatest film directors of all time.",
+      "Directed and starred in 'Citizen Kane' (1941), widely regarded as one of the greatest films ever made."
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1985
+  }
+]

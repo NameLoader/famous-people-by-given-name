@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gerda Taro",
+    "givenNames": [
+      "Gerda"
+    ],
+    "familyName": "Taro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerda_Taro",
+    "occupation": "Photojournalist, War correspondent",
+    "achievements": [
+      "Pioneering war photographer who covered the Spanish Civil War.",
+      "First woman to be killed covering a front line battle."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Gerda Weissmann Klein",
+    "givenNames": [
+      "Gerda",
+      "Weissmann"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerda_Weissmann_Klein",
+    "occupation": "Holocaust survivor, Author, Speaker",
+    "achievements": [
+      "Survived the Holocaust after being forced into labor camps.",
+      "Wrote a memoir about her experiences, 'All But My Life'.",
+      "Dedicated to sharing her story and promoting tolerance."
+    ],
+    "yearBorn": 1924
+  }
+]

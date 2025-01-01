@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Koko Taylor",
+    "givenNames": [
+      "Koko"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koko_Taylor",
+    "occupation": "Blues singer",
+    "achievements": [
+      "Queen of the Blues",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2009
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Marika Koroibete",
+    "givenNames": [
+      "Marika"
+    ],
+    "familyName": "Koroibete",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marika_Koroibete",
+    "occupation": "Rugby union player",
+    "achievements": [
+      "Won the Rugby World Cup with Australia in 2019",
+      "Represented Fiji at the Rugby Sevens World Cup"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Marika Hackman",
+    "givenNames": [
+      "Marika",
+      "Louise"
+    ],
+    "familyName": "Hackman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marika_Hackman",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Released critically acclaimed albums like 'We Can't Remember How It Feels'"
+    ],
+    "yearBorn": 1992
+  }
+]

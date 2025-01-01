@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Clement Attlee",
+    "givenNames": [
+      "Clement",
+      "Richard"
+    ],
+    "familyName": "Attlee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Attlee",
+    "occupation": "Prime Minister of the United Kingdom",
+    "achievements": [
+      "Led the Labour Party to victory in the 1945 general election",
+      "Oversaw the establishment of the National Health Service",
+      "Played a key role in rebuilding Britain after World War II"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Clement Greenberg",
+    "givenNames": [
+      "Clement"
+    ],
+    "familyName": "Greenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Greenberg",
+    "occupation": "Art critic",
+    "achievements": [
+      "Championed Abstract Expressionism",
+      "Highly influential figure in the development of modern art criticism"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Clement Freud",
+    "givenNames": [
+      "Clement",
+      "Raphael"
+    ],
+    "familyName": "Freud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Freud",
+    "occupation": "Broadcaster, writer, and politician",
+    "achievements": [
+      "Known for his humorous radio appearances and cookery books",
+      "Served as a Liberal Member of Parliament"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Clement Moore",
+    "givenNames": [
+      "Clement",
+      "Clarke"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Clarke_Moore",
+    "occupation": "Professor and poet",
+    "achievements": [
+      "Most famous for writing the poem 'A Visit from St. Nicholas' (also known as 'Twas the Night Before Christmas')"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1863
+  }
+]

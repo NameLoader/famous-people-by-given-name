@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Molly Shannon",
+    "givenNames": [
+      "Molly"
+    ],
+    "familyName": "Shannon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molly_Shannon",
+    "occupation": "Actress, Comedian",
+    "achievements": [
+      "Saturday Night Live cast member",
+      "Starred in films such as Superstar and Happiness"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Molly Ivins",
+    "givenNames": [
+      "Molly",
+      "Mary",
+      "Tyler"
+    ],
+    "familyName": "Ivins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molly_Ivins",
+    "occupation": "Journalist, Columnist",
+    "achievements": [
+      "Known for her sharp wit and progressive political commentary",
+      "Authored several books, including 'Straight Talkin'' and 'Bushwhacked'"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2007
+  }
+]

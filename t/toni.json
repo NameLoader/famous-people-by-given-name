@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Toni Morrison",
+    "givenNames": [
+      "Toni"
+    ],
+    "familyName": "Morrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Morrison",
+    "occupation": "Novelist, essayist, editor, professor",
+    "achievements": [
+      "Nobel Prize in Literature (1993)",
+      "Pulitzer Prize for Fiction (1988)",
+      "Presidential Medal of Freedom (2012)"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Toni Braxton",
+    "givenNames": [
+      "Toni",
+      "Michele"
+    ],
+    "familyName": "Braxton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Braxton",
+    "occupation": "Singer, songwriter, pianist, actress",
+    "achievements": [
+      "Seven Grammy Awards",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Toni Collette",
+    "givenNames": [
+      "Toni"
+    ],
+    "familyName": "Collette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Collette",
+    "occupation": "Actress, producer, singer",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress (2000)",
+      "Primetime Emmy Award for Outstanding Lead Actress in a Limited Series or Movie (2020)"
+    ],
+    "yearBorn": 1972
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Colby Covington",
+    "givenNames": [
+      "Colby",
+      "Ray"
+    ],
+    "familyName": "Covington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colby_Covington",
+    "occupation": "Mixed Martial Artist",
+    "achievements": [
+      "Former UFC Interim Welterweight Champion",
+      "Known for his outspoken and controversial personality"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Colby Rasmus",
+    "givenNames": [
+      "Colby",
+      "Ryan"
+    ],
+    "familyName": "Rasmus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colby_Rasmus",
+    "occupation": "Former Major League Baseball Player",
+    "achievements": [
+      "All-Star selection in 2010",
+      "Silver Slugger Award winner in 2010"
+    ],
+    "yearBorn": 1986
+  }
+]

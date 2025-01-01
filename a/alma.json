@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Alma Powell",
+    "givenNames": [
+      "Alma",
+      "Vivian"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Powell",
+    "occupation": "Philanthropist, Chairwoman of the America's Promise Alliance",
+    "achievements": [
+      "Wife of former Secretary of State Colin Powell"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Alma Cogan",
+    "givenNames": [
+      "Alma",
+      "Angela"
+    ],
+    "familyName": "Cogan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Cogan",
+    "occupation": "Singer",
+    "achievements": [
+      "Popular British singer in the 1950s and early 1960s"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1978
+  }
+]

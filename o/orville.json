@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Orville Wright",
+    "givenNames": [
+      "Orville"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wright_brothers",
+    "occupation": "Aviator, inventor",
+    "achievements": [
+      "Pioneered heavier-than-air flight with his brother Wilbur.",
+      "First successful airplane flight at Kitty Hawk, North Carolina in 1903."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Orville Redenbacher",
+    "givenNames": [
+      "Orville",
+      "Clarence"
+    ],
+    "familyName": "Redenbacher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orville_Redenbacher",
+    "occupation": "Farmer, businessman",
+    "achievements": [
+      "Founded the Orville Redenbacher's Gourmet Popcorn brand.",
+      "Became a recognizable figure through his appearances in popcorn commercials."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1995
+  }
+]

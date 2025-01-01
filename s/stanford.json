@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Stanford Ovshinsky",
+    "givenNames": [
+      "Stanford",
+      "Robert"
+    ],
+    "familyName": "Ovshinsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanford_R._Ovshinsky",
+    "occupation": "Scientist, inventor",
+    "achievements": [
+      "Invented the nickel-metal hydride battery",
+      "Developed amorphous silicon solar cells",
+      "Pioneer in the field of phase-change memory"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2012
+  }
+]

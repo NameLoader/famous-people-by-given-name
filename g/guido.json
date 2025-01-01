@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Guido van Rossum",
+    "givenNames": [
+      "Guido"
+    ],
+    "familyName": "van Rossum",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+    "occupation": "Computer Programmer",
+    "achievements": [
+      "Created the Python programming language"
+    ],
+    "yearBorn": 1956
+  }
+]

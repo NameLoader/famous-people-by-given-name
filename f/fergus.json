@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Fergus Ewing",
+    "givenNames": [
+      "Fergus",
+      "Stewart"
+    ],
+    "familyName": "Ewing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fergus_Ewing",
+    "occupation": "Politician",
+    "achievements": [
+      "Scottish Cabinet Secretary for Rural Economy and Tourism",
+      "Member of the Scottish Parliament since 1999"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Fergus O'Connor",
+    "givenNames": [
+      "Feargus",
+      "Edward"
+    ],
+    "familyName": "O'Connor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Feargus_O%27Connor",
+    "occupation": "Irish politician and activist",
+    "achievements": [
+      "Led the Chartist movement in Britain",
+      "Fought for political reform and workers' rights"
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1855
+  }
+]

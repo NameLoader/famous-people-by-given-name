@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tori Amos",
+    "givenNames": [
+      "Tori",
+      "Myra",
+      "Ellen"
+    ],
+    "familyName": "Amos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tori_Amos",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Released critically acclaimed albums such as Little Earthquakes and Under the Pink",
+      "Known for her distinctive piano playing style and introspective lyrics"
+    ],
+    "yearBorn": 1963
+  }
+]

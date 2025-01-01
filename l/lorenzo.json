@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Lorenzo Ghiberti",
+    "givenNames": [
+      "Lorenzo"
+    ],
+    "familyName": "Ghiberti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_Ghiberti",
+    "occupation": "Sculptor, Goldsmith",
+    "achievements": [
+      "Created the Gates of Paradise for the Florence Baptistery"
+    ],
+    "yearBorn": 1378,
+    "yearDied": 1455
+  },
+  {
+    "fullName": "Lorenzo di Credi",
+    "givenNames": [
+      "Lorenzo"
+    ],
+    "familyName": "di Credi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_di_Credi",
+    "occupation": "Painter",
+    "achievements": [
+      "Renaissance Painter associated with Leonardo da Vinci"
+    ],
+    "yearBorn": 1459,
+    "yearDied": 1537
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Royal Ivey",
+    "givenNames": [
+      "Royal",
+      "Terence"
+    ],
+    "familyName": "Ivey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Royal_Ivey",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion with the San Antonio Spurs (2007)",
+      "Played for multiple NBA teams including the Philadelphia 76ers and Memphis Grizzlies"
+    ],
+    "yearBorn": 1981
+  }
+]

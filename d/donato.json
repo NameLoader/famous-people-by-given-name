@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Donato Bramante",
+    "givenNames": [
+      "Donato"
+    ],
+    "familyName": "Bramante",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donato_Bramante",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed the Tempietto in Rome",
+      "Planned St. Peter's Basilica (although his design was later significantly altered)"
+    ],
+    "yearBorn": 1444,
+    "yearDied": 1514
+  },
+  {
+    "fullName": "Donato di Niccolò di Betto Bardi",
+    "givenNames": [
+      "Donato",
+      "di Niccolò di Betto"
+    ],
+    "familyName": "Bardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donatello",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Pioneer of the Renaissance style in sculpture",
+      "Created masterpieces like David (bronze statue) and St. George (marble statue)"
+    ],
+    "yearBorn": 1386,
+    "yearDied": 1466
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Teri Garr",
+    "givenNames": [
+      "Teri"
+    ],
+    "familyName": "Garr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teri_Garr",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in Tootsie (1982)",
+      "Known for roles in films such as Young Frankenstein and Close Encounters of the Third Kind"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Teri Hatcher",
+    "givenNames": [
+      "Teri",
+      "Lynn"
+    ],
+    "familyName": "Hatcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teri_Hatcher",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Golden Globe Award for Best Actress – Television Series Musical or Comedy for her role in Desperate Housewives",
+      "Known for roles in Lois & Clark: The New Adventures of Superman and the Spy Kids film series"
+    ],
+    "yearBorn": 1964
+  }
+]

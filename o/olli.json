@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Olli Mäki",
+    "givenNames": [
+      "Olli",
+      "Johan",
+      "Oskari"
+    ],
+    "familyName": "Mäki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olli_M%C3%A4ki",
+    "occupation": "Finnish boxer",
+    "achievements": [
+      "European Welterweight champion (1958)",
+      "Olympian (Rome 1960)"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2019
+  }
+]

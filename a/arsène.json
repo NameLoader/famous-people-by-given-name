@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arsène Wenger",
+    "givenNames": [
+      "Arsène",
+      "Charles",
+      "Ernest"
+    ],
+    "familyName": "Wenger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger",
+    "occupation": "Football manager",
+    "achievements": [
+      "Managed Arsenal F.C. for 22 years",
+      "Won three Premier League titles and seven FA Cups"
+    ],
+    "yearBorn": 1949
+  }
+]

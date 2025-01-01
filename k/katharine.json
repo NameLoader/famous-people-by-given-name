@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Katharine Hepburn",
+    "givenNames": [
+      "Katharine",
+      "Houghton"
+    ],
+    "familyName": "Hepburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a record four Academy Awards for Best Actress",
+      "Known for her independent spirit and strong female characters"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Katharine Graham",
+    "givenNames": [
+      "Katharine",
+      "Meyer"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Graham",
+    "occupation": "Publisher",
+    "achievements": [
+      "First female publisher of a major American daily newspaper (The Washington Post)",
+      "Played a key role in the publication of the Pentagon Papers"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Katharine Mansfield",
+    "givenNames": [
+      "Katharine"
+    ],
+    "familyName": "Mansfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Mansfield",
+    "occupation": "Writer",
+    "achievements": [
+      "Known for her modernist short stories",
+      "Explored themes of loneliness, alienation, and the human condition"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1923
+  }
+]

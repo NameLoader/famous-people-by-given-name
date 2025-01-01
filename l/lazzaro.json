@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lazzaro Spallanzani",
+    "givenNames": [
+      "Lazzaro"
+    ],
+    "familyName": "Spallanzani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lazzaro_Spallanzani",
+    "occupation": "Italian biologist, physiologist",
+    "achievements": [
+      "Disproved spontaneous generation",
+      "Studies on animal reproduction and digestion"
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1799
+  }
+]

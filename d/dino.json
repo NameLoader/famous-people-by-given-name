@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dino De Laurentiis",
+    "givenNames": [
+      "Dino",
+      "Agostino"
+    ],
+    "familyName": "De Laurentiis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dino_De_Laurentiis",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Produced acclaimed films such as 'Serpico', 'Death Wish' and 'King Kong'",
+      "Won an Academy Honorary Award in 2001"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Dino Zoff",
+    "givenNames": [
+      "Dino"
+    ],
+    "familyName": "Zoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dino_Zoff",
+    "occupation": "Footballer (Goalkeeper)",
+    "achievements": [
+      "Won the FIFA World Cup with Italy in 1982",
+      "Holds the record for the longest period without conceding a goal in international football"
+    ],
+    "yearBorn": 1942
+  }
+]

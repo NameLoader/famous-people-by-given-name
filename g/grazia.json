@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Grazia Deledda",
+    "givenNames": [
+      "Grazia",
+      "Maria",
+      "Cosima",
+      "Damiana"
+    ],
+    "familyName": "Deledda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grazia_Deledda",
+    "occupation": "Writer",
+    "achievements": [
+      "First Italian woman to win the Nobel Prize in Literature (1926)",
+      "Known for her novels depicting Sardinian life and culture"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1936
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alonzo Mourning",
+    "givenNames": [
+      "Alonzo",
+      "Harding"
+    ],
+    "familyName": "Mourning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alonzo_Mourning",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (2006)",
+      "7× NBA All-Star",
+      "2× Defensive Player of the Year"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Alonzo Church",
+    "givenNames": [
+      "Alonzo"
+    ],
+    "familyName": "Church",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alonzo_Church",
+    "occupation": "Mathematician and logician",
+    "achievements": [
+      "Developed the lambda calculus",
+      "Pioneer in mathematical logic and computability theory"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1995
+  }
+]

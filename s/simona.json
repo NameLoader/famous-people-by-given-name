@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Simona Halep",
+    "givenNames": [
+      "Simona"
+    ],
+    "familyName": "Halep",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simona_Halep",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Former World No. 1 in women's singles tennis",
+      "Two-time Grand Slam champion (Wimbledon and French Open)"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Simona Ventura",
+    "givenNames": [
+      "Simona"
+    ],
+    "familyName": "Ventura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simona_Ventura",
+    "occupation": "Television presenter and singer",
+    "achievements": [
+      "Prominent figure in Italian television"
+    ],
+    "yearBorn": 1965
+  }
+]

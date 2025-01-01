@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Kira Nerys",
+    "givenNames": [
+      "Kira"
+    ],
+    "familyName": "Nerys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kira_Nerys",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Major character in the science fiction television series Star Trek: Deep Space Nine",
+      "Leader of the Bajoran people"
+    ]
+  },
+  {
+    "fullName": "Kira Kosarin",
+    "givenNames": [
+      "Kira",
+      "Nicole"
+    ],
+    "familyName": "Kosarin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kira_Kosarin",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her role as Phoebe Thunderman in the Nickelodeon series The Thundermans"
+    ],
+    "yearBorn": 1993
+  }
+]

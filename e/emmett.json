@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Emmett Till",
+    "givenNames": [
+      "Emmett",
+      "Louis"
+    ],
+    "familyName": "Till",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmett_Till",
+    "occupation": "Civil Rights Activist",
+    "achievements": [
+      "His murder and the subsequent trial brought national attention to racial violence in the South."
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Emmett Kelly",
+    "givenNames": [
+      "Emmett",
+      "Leo"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmett_Kelly",
+    "occupation": "Clown, Entertainer",
+    "achievements": [
+      "Known as \"Weary Willie,\" he became one of the most famous clowns in history.",
+      "Performed internationally and starred in movies."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Emmett Smith",
+    "givenNames": [
+      "Emmitt",
+      "James"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmitt_Smith",
+    "occupation": "Professional Football Player",
+    "achievements": [
+      "Retired NFL Running Back for the Dallas Cowboys.",
+      "Holds numerous NFL records including rushing yards and touchdowns."
+    ],
+    "yearBorn": 1969
+  }
+]

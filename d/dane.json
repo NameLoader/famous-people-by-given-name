@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dane Cook",
+    "givenNames": [
+      "Dane",
+      "Jeffrey"
+    ],
+    "familyName": "Cook",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dane_Cook",
+    "occupation": "Stand-up comedian, actor",
+    "achievements": [
+      "One of the most successful stand-up comedians in the United States.",
+      "Starred in films such as 'Good Luck Chuck' and 'Employee of the Month'."
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Dane DeHaan",
+    "givenNames": [
+      "Dane",
+      "William"
+    ],
+    "familyName": "DeHaan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dane_DeHaan",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Chronicle', 'The Place Beyond the Pines', and 'Spider-Man 2'.",
+      "Received critical acclaim for his performances in independent films."
+    ],
+    "yearBorn": 1986
+  }
+]

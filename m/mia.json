@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Mia Wasikowska",
+    "givenNames": [
+      "Mia"
+    ],
+    "familyName": "Wasikowska",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mia_Wasikowska",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films such as Alice in Wonderland, Jane Eyre, and The Kids Are All Right.",
+      "Nominated for several awards, including a Golden Globe Award."
+    ],
+    "yearBorn": 1989
+  }
+]

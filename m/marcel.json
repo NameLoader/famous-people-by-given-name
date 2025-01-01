@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Marcel Proust",
+    "givenNames": [
+      "Marcel"
+    ],
+    "familyName": "Proust",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Proust",
+    "occupation": "Novelist, essayist, critic",
+    "achievements": [
+      "Author of *In Search of Lost Time*, considered one of the greatest works of 20th-century literature",
+      "Known for his exploration of themes like memory, time, and consciousness"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Marcel Duchamp",
+    "givenNames": [
+      "Marcel",
+      "Henri-Robert"
+    ],
+    "familyName": "Duchamp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Duchamp",
+    "occupation": "Painter, sculptor, chess player",
+    "achievements": [
+      "Pioneer of Dadaism and conceptual art",
+      "Famous for works like *Nude Descending a Staircase* and *Fountain*"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Marcel Marceau",
+    "givenNames": [
+      "Marcel"
+    ],
+    "familyName": "Marceau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Marceau",
+    "occupation": "Mime artist, actor",
+    "achievements": [
+      "Considered one of the greatest mimes of all time",
+      "Developed a distinctive style characterized by white face paint and black attire",
+      "Known for his character Bip the Clown"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2007
+  }
+]

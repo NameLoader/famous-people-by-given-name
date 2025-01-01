@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Shohei Ohtani",
+    "givenNames": [
+      "Shohei"
+    ],
+    "familyName": "Ohtani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shohei_Ohtani",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Two-way player (pitcher and hitter)",
+      "American League MVP (2021)",
+      "Multiple All-Star selections"
+    ],
+    "yearBorn": 1994
+  }
+]

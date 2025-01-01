@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Arne Jacobsen",
+    "givenNames": [
+      "Arne",
+      "Emil"
+    ],
+    "familyName": "Jacobsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arne_Jacobsen",
+    "occupation": "Architect and designer",
+    "achievements": [
+      "Designed iconic furniture pieces like the Egg Chair and Swan Chair",
+      "Created influential buildings including SAS Royal Hotel in Copenhagen"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1971
+  }
+]

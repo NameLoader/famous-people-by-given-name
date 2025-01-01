@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Bethany Hamilton",
+    "givenNames": [
+      "Bethany",
+      "Meilani"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bethany_Hamilton",
+    "occupation": "Professional Surfer",
+    "achievements": [
+      "Survived a shark attack at age 13 and returned to professional surfing.",
+      "Won numerous surfing titles, including an ESPY Award."
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Bethany Mota",
+    "givenNames": [
+      "Bethany",
+      "Noel"
+    ],
+    "familyName": "Mota",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bethany_Mota",
+    "occupation": "YouTuber and Actress",
+    "achievements": [
+      "One of the most popular beauty and fashion YouTubers.",
+      "Appeared in films and television shows."
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Bethany Joy Lenz",
+    "givenNames": [
+      "Bethany",
+      "Joy"
+    ],
+    "familyName": "Lenz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bethany_Joy_Lenz",
+    "occupation": "Actress and Singer-Songwriter",
+    "achievements": [
+      "Known for her role as Haley James Scott in the television series 'One Tree Hill'.",
+      "Released solo music albums."
+    ],
+    "yearBorn": 1981
+  }
+]

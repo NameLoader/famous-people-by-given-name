@@ -1,0 +1,67 @@
+[
+  {
+    "fullName": "Bernard Shaw",
+    "givenNames": [
+      "Bernard",
+      "George"
+    ],
+    "familyName": "Shaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "occupation": "Playwright, critic",
+    "achievements": [
+      "Nobel Prize in Literature (1925)",
+      "Founded the Fabian Society",
+      "Wrote influential plays like Pygmalion and Man and Superman"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Bernard Sanders",
+    "givenNames": [
+      "Bernard"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Vermont (2007-present)",
+      "Two-time presidential candidate (2016, 2020)",
+      "Advocate for democratic socialism and progressive policies"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Bernard Arnault",
+    "givenNames": [
+      "Bernard",
+      "Jean",
+      "Étienne"
+    ],
+    "familyName": "Arnault",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Arnault",
+    "occupation": "Businessman, CEO of LVMH",
+    "achievements": [
+      "One of the richest people in the world",
+      "Chairman and CEO of LVMH Moët Hennessy Louis Vuitton SE",
+      "Owns luxury brands like Louis Vuitton, Dior, and Givenchy"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Bernard Hopkins",
+    "givenNames": [
+      "Bernard",
+      "Jr."
+    ],
+    "familyName": "Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Hopkins",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Former world champion in multiple weight classes",
+      "Longest reigning middleweight champion in history (2001-2005)",
+      "Known for his defensive skills and longevity in the sport"
+    ],
+    "yearBorn": 1965
+  }
+]

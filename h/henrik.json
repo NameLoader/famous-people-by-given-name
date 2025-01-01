@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Henrik Ibsen",
+    "givenNames": [
+      "Henrik",
+      "Johan"
+    ],
+    "familyName": "Ibsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Ibsen",
+    "occupation": "Playwright, Poet, Director",
+    "achievements": [
+      "Considered one of the founders of modern drama",
+      "Known for plays such as 'A Doll's House', 'Hedda Gabler', and 'Ghosts'"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1906
+  },
+  {
+    "fullName": "Henrik Lundqvist",
+    "givenNames": [
+      "Henrik"
+    ],
+    "familyName": "Lundqvist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Lundqvist",
+    "occupation": "Ice hockey goaltender",
+    "achievements": [
+      "Two-time Olympic Gold Medalist (2006, 2014)",
+      "Vezina Trophy winner (2012)"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Henrik Kristoffersen",
+    "givenNames": [
+      "Henrik"
+    ],
+    "familyName": "Kristoffersen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Kristoffersen",
+    "occupation": "Alpine skier",
+    "achievements": [
+      "Two-time World Champion (2018, 2019)",
+      "Three-time Overall Alpine Skiing World Cup winner (2016, 2018, 2020)"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Henrik Larsson",
+    "givenNames": [
+      "Henrik"
+    ],
+    "familyName": "Larsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Larsson",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of the greatest Swedish footballers of all time",
+      "Won numerous trophies with Celtic and FC Barcelona"
+    ],
+    "yearBorn": 1971
+  }
+]

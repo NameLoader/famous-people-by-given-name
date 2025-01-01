@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Yayoi Kusama",
+    "givenNames": [
+      "Yayoi"
+    ],
+    "familyName": "Kusama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yayoi_Kusama",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for her distinctive polka dot motifs and immersive installations",
+      "One of the most important artists to emerge from Japan in the postwar era"
+    ],
+    "yearBorn": 1929
+  }
+]

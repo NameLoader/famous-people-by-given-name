@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Owen Wilson",
+    "givenNames": [
+      "Owen",
+      "Cunningham"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Wilson",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his comedic roles in films like 'Wedding Crashers' and 'Zoolander'",
+      "Nominated for two Academy Awards"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Owen Hargreaves",
+    "givenNames": [
+      "Owen",
+      "Lee"
+    ],
+    "familyName": "Hargreaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Hargreaves",
+    "occupation": "Former Footballer",
+    "achievements": [
+      "Won the UEFA Champions League with Bayern Munich in 2001",
+      "Played for England national team"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Owen Wister",
+    "givenNames": [
+      "Owen"
+    ],
+    "familyName": "Wister",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Wister",
+    "occupation": "Author",
+    "achievements": [
+      "Authored the Western novel 'The Virginian'",
+      "Considered a pioneer of the Western genre"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1938
+  }
+]

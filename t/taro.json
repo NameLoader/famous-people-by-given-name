@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Taro Kono",
+    "givenNames": [
+      "Taro"
+    ],
+    "familyName": "Kono",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taro_Kono",
+    "occupation": "Politician",
+    "achievements": [
+      "Minister for Foreign Affairs of Japan (2017-2019)",
+      "Minister for Digital Policy (2019)",
+      "Member of the House of Representatives since 1996"
+    ],
+    "yearBorn": 1963
+  }
+]

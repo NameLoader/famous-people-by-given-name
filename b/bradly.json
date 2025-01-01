@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Bradly Cooper",
+    "givenNames": [
+      "Bradley",
+      "Charles"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Cooper",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Academy Award nominations for acting and producing",
+      "Golden Globe Awards",
+      "Known for roles in 'The Hangover' trilogy, 'American Sniper', 'Silver Linings Playbook'"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Bradly Wiggins",
+    "givenNames": [
+      "Bradley",
+      "Marc"
+    ],
+    "familyName": "Wiggins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Wiggins",
+    "occupation": "Cyclist",
+    "achievements": [
+      "First British cyclist to win the Tour de France",
+      "Five Olympic gold medals"
+    ],
+    "yearBorn": 1980
+  }
+]

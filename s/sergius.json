@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Sergius Paulus",
+    "givenNames": [
+      "Lucius",
+      "Sergius"
+    ],
+    "familyName": "Paulus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergius_Paulus",
+    "occupation": "Roman Proconsul of Cyprus",
+    "achievements": [
+      "Converted to Christianity by the Apostle Paul."
+    ]
+  },
+  {
+    "fullName": "Sergius Radonezhsky",
+    "givenNames": [
+      "Sergius"
+    ],
+    "familyName": "Radonezhsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergius_of_Radonezh",
+    "occupation": "Saint and Monk",
+    "achievements": [
+      "Founder of the Trinity Lavra of St. Sergius, a major Orthodox monastery.",
+      "Considered one of the most revered saints in Russia."
+    ],
+    "yearBorn": 1322,
+    "yearDied": 1392
+  }
+]

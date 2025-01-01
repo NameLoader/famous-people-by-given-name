@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Brandi Carlile",
+    "givenNames": [
+      "Brandi",
+      "Marie"
+    ],
+    "familyName": "Carlile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandi_Carlile",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Acclaimed for her powerful vocals and Americana sound"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Brandi Glanville",
+    "givenNames": [
+      "Brandi",
+      "Lynn"
+    ],
+    "familyName": "Glanville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandi_Glanville",
+    "occupation": "Reality television personality, author, model",
+    "achievements": [
+      "Known for her appearances on 'The Real Housewives of Beverly Hills'",
+      "Author of several books including memoirs and novels"
+    ],
+    "yearBorn": 1972
+  }
+]

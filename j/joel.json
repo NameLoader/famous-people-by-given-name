@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Joel Osteen",
+    "givenNames": [
+      "Joel",
+      "Scott"
+    ],
+    "familyName": "Osteen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Osteen",
+    "occupation": "Televangelist, Pastor",
+    "achievements": [
+      "Senior Pastor of Lakewood Church in Houston, Texas",
+      "One of the most popular televangelists in the United States"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Joel Coen",
+    "givenNames": [
+      "Joel",
+      "Daniel"
+    ],
+    "familyName": "Coen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coen_brothers",
+    "occupation": "Film Director, Producer, Screenwriter",
+    "achievements": [
+      "Won four Academy Awards, including Best Original Screenplay for Fargo (1996)",
+      "Known for his collaborations with his brother Ethan Coen"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Joel Embiid",
+    "givenNames": [
+      "Joel",
+      "Hans"
+    ],
+    "familyName": "Embiid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Embiid",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "Six-time NBA All-Star",
+      "2023 NBA Most Valuable Player"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Joel Grey",
+    "givenNames": [
+      "Joel"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Grey",
+    "occupation": "Actor, Singer, Dancer",
+    "achievements": [
+      "Won an Academy Award for Best Supporting Actor in Cabaret (1972)",
+      "Tony Award winner for his performance in the Broadway production of Cabaret"
+    ],
+    "yearBorn": 1932
+  }
+]

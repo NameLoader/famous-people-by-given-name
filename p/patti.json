@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Patti LuPone",
+    "givenNames": [
+      "Patti",
+      "Ann"
+    ],
+    "familyName": "LuPone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patti_LuPone",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Tony Awards for Best Actress in a Musical (twice)",
+      "Grammy Award for Best Musical Theater Album",
+      "Distinguished career on Broadway and in film/television"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Patti Smith",
+    "givenNames": [
+      "Patti",
+      "Patricia",
+      "Lee"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patti_Smith",
+    "occupation": "Singer-songwriter, poet, visual artist",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "National Book Award for Poetry",
+      "Influence on punk rock and alternative music"
+    ],
+    "yearBorn": 1946
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Juan Ponce de León",
+    "givenNames": [
+      "Juan"
+    ],
+    "familyName": "Ponce de León",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n",
+    "occupation": "Spanish explorer and conquistador",
+    "achievements": [
+      "Founded the first European settlement in Puerto Rico",
+      "Explored Florida searching for the Fountain of Youth"
+    ],
+    "yearBorn": 1474,
+    "yearDied": 1521
+  },
+  {
+    "fullName": "Juan Carlos I",
+    "givenNames": [
+      "Juan",
+      "Carlos"
+    ],
+    "familyName": "Borbón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juan_Carlos_I",
+    "occupation": "King of Spain (1975-2014)",
+    "achievements": [
+      "Oversaw the transition of Spain to a democratic monarchy",
+      "Played a key role in Spain's entry into the European Union"
+    ],
+    "yearBorn": 1938
+  }
+]

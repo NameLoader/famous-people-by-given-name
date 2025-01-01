@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Addison Rae Easterling",
+    "givenNames": [
+      "Addison",
+      "Rae"
+    ],
+    "familyName": "Easterling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Addison_Rae",
+    "occupation": "Social media personality, dancer, actress",
+    "achievements": [
+      "One of the most-followed individuals on TikTok",
+      "Starred in the Netflix film 'He's All That'"
+    ],
+    "yearBorn": 2000
+  },
+  {
+    "fullName": "Addison Russell",
+    "givenNames": [
+      "Addison",
+      "Wayne"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Addison_Russell",
+    "occupation": "Former Major League Baseball player",
+    "achievements": [
+      "World Series champion with the Chicago Cubs in 2016",
+      "All-Star selection in 2016"
+    ],
+    "yearBorn": 1994
+  }
+]

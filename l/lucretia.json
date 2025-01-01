@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lucretia Mott",
+    "givenNames": [
+      "Lucretia"
+    ],
+    "familyName": "Mott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucretia_Mott",
+    "occupation": "Abolitionist, women's rights activist",
+    "achievements": [
+      "Key figure in the abolitionist and women's suffrage movements",
+      "Organized the Seneca Falls Convention, the first women's rights convention in the United States"
+    ],
+    "yearBorn": 1793,
+    "yearDied": 1880
+  }
+]

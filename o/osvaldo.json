@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Osvaldo Pugliese",
+    "givenNames": [
+      "Osvaldo",
+      "Pedro"
+    ],
+    "familyName": "Pugliese",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osvaldo_Pugliese",
+    "occupation": "Composer, pianist, bandleader",
+    "achievements": [
+      "Pioneer of tango nuevo",
+      "Known for his complex and innovative arrangements"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Osvaldo Ardiles",
+    "givenNames": [
+      "Osvaldo",
+      "César"
+    ],
+    "familyName": "Ardiles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osvaldo_Ardiles",
+    "occupation": "Footballer, manager",
+    "achievements": [
+      "Won the 1978 FIFA World Cup with Argentina",
+      "Played for Tottenham Hotspur and other prominent clubs"
+    ],
+    "yearBorn": 1952
+  }
+]

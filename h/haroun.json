@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Haroun Tazieff",
+    "givenNames": [
+      "Haroun"
+    ],
+    "familyName": "Tazieff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haroun_Tazieff",
+    "occupation": "Volcanologist",
+    "achievements": [
+      "Pioneer in the study of volcanoes and volcanic hazards",
+      "Developed techniques for measuring volcanic gas emissions and mapping volcanic activity",
+      "Authored numerous books and articles on volcanology"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1998
+  }
+]

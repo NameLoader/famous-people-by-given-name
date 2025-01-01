@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Hildegard von Bingen",
+    "givenNames": [
+      "Hildegard"
+    ],
+    "familyName": "von Bingen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+    "occupation": "Benedictine abbess, writer, composer, philosopher, Christian mystic, visionary, and polymath",
+    "achievements": [
+      "Composed sacred music plays (liturgical dramas)",
+      "Wrote theological, botanical, and medicinal texts",
+      "Founded the Rupertsberg Abbey"
+    ],
+    "yearBorn": 1098,
+    "yearDied": 1179
+  },
+  {
+    "fullName": "Hildegard Peplau",
+    "givenNames": [
+      "Hildegard",
+      "E."
+    ],
+    "familyName": "Peplau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hildegard_Peplau",
+    "occupation": "Nursing theorist and psychiatric nurse",
+    "achievements": [
+      "Developed the theory of interpersonal relations in nursing",
+      "Contributed significantly to the field of psychiatric nursing"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1999
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Natasha Romanoff",
+    "givenNames": [
+      "Natasha"
+    ],
+    "familyName": "Romanoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)",
+    "occupation": "Fictional Superheroine",
+    "achievements": [
+      "Highly skilled assassin and spy",
+      "Member of the Avengers"
+    ]
+  },
+  {
+    "fullName": "Natasha Bedingfield",
+    "givenNames": [
+      "Natasha",
+      "Anne"
+    ],
+    "familyName": "Bedingfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natasha_Bedingfield",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Grammy Award Nominee",
+      "Multiple top-ten singles including 'Unwritten' and 'These Words'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Natasha Lyonne",
+    "givenNames": [
+      "Natasha",
+      "Bianca"
+    ],
+    "familyName": "Lyonne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natasha_Lyonne",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Russian Doll' and 'Orange Is the New Black'",
+      "Emmy Award Nominee"
+    ],
+    "yearBorn": 1979
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Wesley Snipes",
+    "givenNames": [
+      "Wesley",
+      "Trent"
+    ],
+    "familyName": "Snipes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wesley_Snipes",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actor in 'New Jack City'",
+      "Known for roles in action films like 'Blade', 'Passenger 57', and 'Demolition Man'"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Wesley Clark",
+    "givenNames": [
+      "Wesley",
+      "Kanne"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wesley_Clark",
+    "occupation": "Retired General and Politician",
+    "achievements": [
+      "Supreme Allied Commander Europe during the Kosovo War",
+      "Democratic presidential candidate in 2004"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Wesley Matthews",
+    "givenNames": [
+      "Wesley",
+      "Joel"
+    ],
+    "familyName": "Matthews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wesley_Matthews",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA journeyman with stints on multiple teams",
+      "Known for his strong defense and three-point shooting"
+    ],
+    "yearBorn": 1986
+  }
+]

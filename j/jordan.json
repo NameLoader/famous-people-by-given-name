@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Jordan Spieth",
+    "givenNames": [
+      "Jordan",
+      "Alexander"
+    ],
+    "familyName": "Spieth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Spieth",
+    "occupation": "Golfer",
+    "achievements": [
+      "Three-time Major champion",
+      "2015 FedEx Cup champion",
+      "Former World No. 1 golfer"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Jordan Peterson",
+    "givenNames": [
+      "Jordan",
+      "Bernt"
+    ],
+    "familyName": "Peterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+    "occupation": "Professor, clinical psychologist, author",
+    "achievements": [
+      "Bestselling author of '12 Rules for Life'",
+      "Known for his lectures and podcasts on psychology and philosophy"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Jordan Peele",
+    "givenNames": [
+      "Jordan",
+      "Haworth"
+    ],
+    "familyName": "Peele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan_Peele",
+    "occupation": "Actor, comedian, filmmaker",
+    "achievements": [
+      "Academy Award winner for Best Original Screenplay ('Get Out')"
+    ],
+    "yearBorn": 1979
+  }
+]

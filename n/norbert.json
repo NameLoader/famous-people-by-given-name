@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Norbert Wiener",
+    "givenNames": [
+      "Norbert"
+    ],
+    "familyName": "Wiener",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norbert_Wiener",
+    "occupation": "Mathematician, philosopher",
+    "achievements": [
+      "Pioneering work in cybernetics and information theory",
+      "Known as the 'father of cybernetics'"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Norbert Elias",
+    "givenNames": [
+      "Norbert"
+    ],
+    "familyName": "Elias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norbert_Elias",
+    "occupation": "Sociologist, philosopher",
+    "achievements": [
+      "Developed the concept of the 'civilizing process'",
+      "Influential figure in sociological theory"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Norbert Michelisz",
+    "givenNames": [
+      "Norbert"
+    ],
+    "familyName": "Michelisz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norbert_Michelisz",
+    "occupation": "Race car driver",
+    "achievements": [
+      "2019 FIA World Touring Car Cup champion",
+      "Successful competitor in touring car racing"
+    ],
+    "yearBorn": 1984
+  }
+]

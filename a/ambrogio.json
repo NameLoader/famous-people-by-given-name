@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ambrogio Lorenzetti",
+    "givenNames": [
+      "Ambrogio"
+    ],
+    "familyName": "Lorenzetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambrogio_Lorenzetti",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for frescoes in Siena's Palazzo Pubblico",
+      "Part of the Sienese School of painting"
+    ],
+    "yearBorn": 1290,
+    "yearDied": 1348
+  }
+]

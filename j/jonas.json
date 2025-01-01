@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Jonas Salk",
+    "givenNames": [
+      "Jonas",
+      "Edward"
+    ],
+    "familyName": "Salk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Salk",
+    "occupation": "Virologist",
+    "achievements": [
+      "Developed the first effective polio vaccine"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Jonas Kaufmann",
+    "givenNames": [
+      "Jonas"
+    ],
+    "familyName": "Kaufmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Kaufmann",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Internationally acclaimed tenor known for his powerful voice and dramatic performances"
+    ]
+  },
+  {
+    "fullName": "Jonas Mekas",
+    "givenNames": [
+      "Jonas"
+    ],
+    "familyName": "Mekas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonas_Mekas",
+    "occupation": "Filmmaker, Poet, Artist",
+    "achievements": [
+      "Pioneer of avant-garde cinema and experimental film"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2019
+  }
+]

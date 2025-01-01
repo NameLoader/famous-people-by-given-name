@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ronald Reagan",
+    "givenNames": [
+      "Ronald",
+      "Wilson"
+    ],
+    "familyName": "Reagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+    "occupation": "Actor, Politician",
+    "achievements": [
+      "40th President of the United States",
+      "Hollywood actor"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Ronald Koeman",
+    "givenNames": [
+      "Ronald"
+    ],
+    "familyName": "Koeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Koeman",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Won the European Cup with PSV Eindhoven (1988)",
+      "Managed several top football clubs including Barcelona and Netherlands national team"
+    ],
+    "yearBorn": 1963
+  }
+]

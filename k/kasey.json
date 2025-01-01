@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Kasey Chambers",
+    "givenNames": [
+      "Kasey"
+    ],
+    "familyName": "Chambers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kasey_Chambers",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Multiple ARIA Music Awards winner",
+      "Grammy Award nominee",
+      "Known for her blend of country, folk, and rock music"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Kasey Kahne",
+    "givenNames": [
+      "Kasey",
+      "Kenneth"
+    ],
+    "familyName": "Kahne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kasey_Kahne",
+    "occupation": "Race car driver",
+    "achievements": [
+      "NASCAR Cup Series winner",
+      "World of Outlaws Sprint Car Series champion"
+    ],
+    "yearBorn": 1980
+  }
+]

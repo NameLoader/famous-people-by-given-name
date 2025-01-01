@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Collin Sexton",
+    "givenNames": [
+      "Collin",
+      "Darnell"
+    ],
+    "familyName": "Sexton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collin_Sexton",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Rookie of the Year Candidate (2019)",
+      "McDonald's All-American (2018)"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Collin Morikawa",
+    "givenNames": [
+      "Collin"
+    ],
+    "familyName": "Morikawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Collin_Morikawa",
+    "occupation": "Golfer",
+    "achievements": [
+      "2 Major Championship Wins (PGA Championship 2020 & The Open Championship 2021)",
+      "World No. 2 ranked golfer"
+    ],
+    "yearBorn": 1997
+  }
+]

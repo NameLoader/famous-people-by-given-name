@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Eugenio Maria de Hostos",
+    "givenNames": [
+      "Eugenio",
+      "Maria"
+    ],
+    "familyName": "de Hostos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos",
+    "occupation": "Educator, writer, activist",
+    "achievements": [
+      "Advocate for Puerto Rican independence and education reform",
+      "Founded schools and colleges in Cuba and the Dominican Republic"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1903
+  },
+  {
+    "fullName": "Eugenio Suárez",
+    "givenNames": [
+      "Eugenio",
+      "Alejandro"
+    ],
+    "familyName": "Suárez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Su%C3%A1rez",
+    "occupation": "Baseball player",
+    "achievements": [
+      "MLB All-Star (2018)",
+      "Silver Slugger Award winner (2018)"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Eugenio Montale",
+    "givenNames": [
+      "Eugenio"
+    ],
+    "familyName": "Montale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Montale",
+    "occupation": "Poet, essayist, literary critic",
+    "achievements": [
+      "Nobel Prize in Literature (1975)",
+      "Known for his introspective and melancholic poetry"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1981
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ari Emanuel",
+    "givenNames": [
+      "Ariel",
+      "Zev"
+    ],
+    "familyName": "Emanuel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ari_Emanuel",
+    "occupation": "Business executive",
+    "achievements": [
+      "CEO of Endeavor, a global entertainment and media company",
+      "Known for his influence in Hollywood and deal-making abilities"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Ari Behn",
+    "givenNames": [
+      "Ari",
+      "Mikael"
+    ],
+    "familyName": "Behn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ari_Behn",
+    "occupation": "Author and playwright",
+    "achievements": [
+      "Published several novels and plays",
+      "Known for his literary success in Norway and his marriage to Princess Märtha Louise of Norway"
+    ],
+    "yearBorn": 1972,
+    "yearDied": 2019
+  }
+]

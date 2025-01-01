@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jermaine Jackson",
+    "givenNames": [
+      "Jermaine",
+      "LaJaune"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jermaine_Jackson",
+    "occupation": "Singer, songwriter, bassist",
+    "achievements": [
+      "Member of the Jackson 5",
+      "Successful solo career"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Jermaine Dupri",
+    "givenNames": [
+      "Jermaine"
+    ],
+    "familyName": "Dupri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jermaine_Dupri",
+    "occupation": "Record producer, rapper, songwriter",
+    "achievements": [
+      "Produced hits for Mariah Carey, Usher, Janet Jackson, and others",
+      "Founded So So Def Recordings"
+    ],
+    "yearBorn": 1972
+  }
+]

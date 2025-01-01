@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Adrien Brody",
+    "givenNames": [
+      "Adrien",
+      "Nicholas"
+    ],
+    "familyName": "Brody",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrien_Brody",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for his role in The Pianist",
+      "Known for roles in films such as King Kong, The Village, and Predators"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Adrien Rabiot",
+    "givenNames": [
+      "Adrien",
+      "Thibault",
+      "Marie"
+    ],
+    "familyName": "Rabiot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrien_Rabiot",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a midfielder for Juventus and the France national team",
+      "Won Serie A with Juventus in 2020"
+    ],
+    "yearBorn": 1995
+  }
+]

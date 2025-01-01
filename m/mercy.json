@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Mercy Otis Warren",
+    "givenNames": [
+      "Mercy",
+      "Otis"
+    ],
+    "familyName": "Warren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercy_Otis_Warren",
+    "occupation": "Playwright, poet, historian",
+    "achievements": [
+      "Prominent figure in the American Revolution",
+      "Wrote influential plays and poems critical of British rule",
+      "First American woman to publish a play"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1814
+  }
+]

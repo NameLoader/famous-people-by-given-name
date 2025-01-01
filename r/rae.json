@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rae Sremmurd",
+    "givenNames": [
+      "Rae"
+    ],
+    "familyName": "Sremmurd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rae_Sremmurd",
+    "occupation": "Rappers, Songwriters",
+    "achievements": [
+      "Grammy Award Nomination for Best Rap Performance",
+      "Multi-platinum selling artists known for hits like 'Black Beatles' and 'No Flex Zone'"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Rae Dawn Chong",
+    "givenNames": [
+      "Rae",
+      "Dawn"
+    ],
+    "familyName": "Chong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rae_Dawn_Chong",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Appeared in films like 'Quest for Fire' and 'The Color Purple'",
+      "Nominated for a Golden Globe Award for Best Supporting Actress"
+    ],
+    "yearBorn": 1961
+  }
+]

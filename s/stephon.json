@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Stephon Marbury",
+    "givenNames": [
+      "Stephon",
+      "Xavier"
+    ],
+    "familyName": "Marbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephon_Marbury",
+    "occupation": "Basketball player",
+    "achievements": [
+      "2× NBA All-Star",
+      "NBA All-Rookie Team"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Stephon Gilmore",
+    "givenNames": [
+      "Stephon",
+      "Stiles"
+    ],
+    "familyName": "Gilmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephon_Gilmore",
+    "occupation": "American football player",
+    "achievements": [
+      "Super Bowl champion",
+      "4× Pro Bowl selections"
+    ],
+    "yearBorn": 1990
+  }
+]

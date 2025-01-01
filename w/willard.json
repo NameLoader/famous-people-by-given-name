@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Willard Scott",
+    "givenNames": [
+      "Willard",
+      "Herman"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willard_Scott",
+    "occupation": "Television personality, meteorologist",
+    "achievements": [
+      "Longtime weatherman on NBC's Today Show",
+      "Known for his cheerful personality and birthday greetings"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Willard Gibbs",
+    "givenNames": [
+      "Josiah",
+      "Willard"
+    ],
+    "familyName": "Gibbs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+    "occupation": "Physical chemist, mathematician",
+    "achievements": [
+      "Developed the Gibbs free energy concept",
+      "Pioneer in thermodynamics and statistical mechanics"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1903
+  }
+]

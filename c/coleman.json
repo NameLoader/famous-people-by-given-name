@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Coleman Hawkins",
+    "givenNames": [
+      "Coleman",
+      "Randolph"
+    ],
+    "familyName": "Hawkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coleman_Hawkins",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Considered one of the most influential tenor saxophonists in jazz history",
+      "Pioneer of bebop and swing music"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Coleman Young",
+    "givenNames": [
+      "Coleman",
+      "Alexander"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coleman_Young",
+    "occupation": "Politician",
+    "achievements": [
+      "First African American mayor of Detroit",
+      "Served five terms as mayor from 1974 to 1994"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1997
+  }
+]

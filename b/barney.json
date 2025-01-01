@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Barney Frank",
+    "givenNames": [
+      "Barnett",
+      "Barney"
+    ],
+    "familyName": "Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Frank",
+    "occupation": "Politician",
+    "achievements": [
+      "Served in the U.S. House of Representatives from 1981 to 2013",
+      "Known for his advocacy on LGBT rights and financial regulation"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Barney Rubble",
+    "givenNames": [
+      "Barney"
+    ],
+    "familyName": "Rubble",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Rubble",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Best friend of Fred Flintstone in the animated sitcom 'The Flintstones'"
+    ]
+  }
+]

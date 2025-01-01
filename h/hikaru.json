@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hikaru Nakamura",
+    "givenNames": [
+      "Hikaru",
+      "Christopher"
+    ],
+    "familyName": "Nakamura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hikaru_Nakamura",
+    "occupation": "Chess player",
+    "achievements": [
+      "Five-time U.S. Chess Champion",
+      "Former World Junior Chess Champion",
+      "Top-ranked chess player in the world"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Hikaru Shida",
+    "givenNames": [
+      "Hikaru"
+    ],
+    "familyName": "Shida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hikaru_Shida",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Former AEW Women's World Champion",
+      "Highly acclaimed for her in-ring ability and charisma"
+    ],
+    "yearBorn": 1988
+  }
+]

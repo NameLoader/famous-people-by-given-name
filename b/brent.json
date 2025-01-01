@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Brent Musburger",
+    "givenNames": [
+      "Brent",
+      "Woody"
+    ],
+    "familyName": "Musburger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brent_Musburger",
+    "occupation": "Sportscaster",
+    "achievements": [
+      "Longtime play-by-play announcer for major sporting events including the Super Bowl and NCAA Men's Basketball Tournament"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Brent Spiner",
+    "givenNames": [
+      "Brent",
+      "Jay"
+    ],
+    "familyName": "Spiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brent_Spiner",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Data in the Star Trek: The Next Generation franchise"
+    ],
+    "yearBorn": 1949
+  }
+]

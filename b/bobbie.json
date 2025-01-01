@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Bobbie Gentry",
+    "givenNames": [
+      "Bobbie"
+    ],
+    "familyName": "Gentry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobbie_Gentry",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for hits like \"Ode to Billie Joe\"",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Bobbie Ann Mason",
+    "givenNames": [
+      "Bobbie",
+      "Ann"
+    ],
+    "familyName": "Mason",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobbie_Ann_Mason",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Known for novels like \"In Country\"",
+      "Won the PEN/Faulkner Award for Fiction"
+    ],
+    "yearBorn": 1940
+  }
+]

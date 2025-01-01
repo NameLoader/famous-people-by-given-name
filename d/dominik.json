@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Dominik Szoboszlai",
+    "givenNames": [
+      "Dominik"
+    ],
+    "familyName": "Szoboszlai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominik_Szoboszlai",
+    "occupation": "Footballer",
+    "achievements": [
+      "Hungarian Footballer of the Year (2021)",
+      "Red Bull Salzburg league title winner (2019-2020, 2020-2021)"
+    ],
+    "yearBorn": 2000
+  },
+  {
+    "fullName": "Dominik Hasek",
+    "givenNames": [
+      "Dominik"
+    ],
+    "familyName": "Hasek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominik_Ha%C5%A1ek",
+    "occupation": "Ice Hockey Goaltender",
+    "achievements": [
+      "Two-time Stanley Cup champion (Detroit Red Wings)",
+      "Six-time Vezina Trophy winner",
+      "Olympic gold medalist (1998)"
+    ],
+    "yearBorn": 1965
+  }
+]

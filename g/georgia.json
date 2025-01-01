@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Georgia O'Keeffe",
+    "givenNames": [
+      "Georgia",
+      "Totto"
+    ],
+    "familyName": "O'Keeffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneer of American modernism",
+      "Known for abstract paintings of flowers and landscapes",
+      "One of the most successful and influential artists of the 20th century"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1986
+  }
+]

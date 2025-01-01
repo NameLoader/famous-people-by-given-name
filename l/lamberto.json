@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Lamberto Bava",
+    "givenNames": [
+      "Lamberto"
+    ],
+    "familyName": "Bava",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamberto_Bava",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Directed cult horror films like 'Macabro' (1988) and 'Blood & Black Lace' (1964)",
+      "Son of renowned Italian horror director Mario Bava"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Lamberto Dini",
+    "givenNames": [
+      "Lamberto"
+    ],
+    "familyName": "Dini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamberto_Dini",
+    "occupation": "Economist, politician",
+    "achievements": [
+      "Served as Prime Minister of Italy from 1995 to 1996",
+      "Minister of Finance and Foreign Trade"
+    ],
+    "yearBorn": 1930
+  }
+]

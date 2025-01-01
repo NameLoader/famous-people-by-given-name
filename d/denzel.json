@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Denzel Washington",
+    "givenNames": [
+      "Denzel",
+      "Hayes"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denzel_Washington",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Two-time Academy Award winner",
+      "Three Golden Globe Awards",
+      "Tony Award",
+      "Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Denzel Curry",
+    "givenNames": [
+      "Denzel",
+      "Rae",
+      "Don"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denzel_Curry",
+    "occupation": "Rapper, Singer, Songwriter",
+    "achievements": [
+      "Critical acclaim for his music",
+      "Known for his aggressive delivery and introspective lyrics"
+    ],
+    "yearBorn": 1995
+  }
+]

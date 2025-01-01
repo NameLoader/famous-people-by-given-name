@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Gisèle Bündchen",
+    "givenNames": [
+      "Gisele",
+      "Caroline"
+    ],
+    "familyName": "Bündchen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gisele_B%C3%BCndchen",
+    "occupation": "Model",
+    "achievements": [
+      "One of the highest-paid models in the world",
+      "Victoria's Secret Angel from 2000 to 2007",
+      "Appeared on over 1,200 magazine covers"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Gisèle Halimi",
+    "givenNames": [
+      "Gisèle"
+    ],
+    "familyName": "Halimi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gis%C3%A8le_Halimi",
+    "occupation": "Lawyer, feminist activist",
+    "achievements": [
+      "Known for defending women's rights and opposing the death penalty",
+      "Won landmark cases against abortion laws and female genital mutilation",
+      "Member of the French Senate from 1981 to 1997"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2020
+  }
+]

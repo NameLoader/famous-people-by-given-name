@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Maia Mitchell",
+    "givenNames": [
+      "Maia",
+      "McCall"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maia_Mitchell",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for roles in 'Teen Beach Movie' and 'The Fosters'"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Maia Morgenstern",
+    "givenNames": [
+      "Maia",
+      "Emilia",
+      "Ninel"
+    ],
+    "familyName": "Morgenstern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maia_Morgenstern",
+    "occupation": "Actress",
+    "achievements": [
+      "Acclaimed Romanian actress, known for 'The Passion of the Christ'"
+    ],
+    "yearBorn": 1962
+  }
+]

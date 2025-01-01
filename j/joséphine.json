@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Joséphine Baker",
+    "givenNames": [
+      "Joséphine",
+      "Freda",
+      "Josephine"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Baker",
+    "occupation": "Singer, dancer, actress, and civil rights activist",
+    "achievements": [
+      "International entertainer",
+      "French Resistance agent during World War II",
+      "Civil rights advocate"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  }
+]

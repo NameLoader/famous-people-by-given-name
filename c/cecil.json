@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Cecil Rhodes",
+    "givenNames": [
+      "Cecil",
+      "John"
+    ],
+    "familyName": "Rhodes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Rhodes",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Founded the De Beers diamond company",
+      "Prime Minister of the Cape Colony"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1902
+  },
+  {
+    "fullName": "Cecil Taylor",
+    "givenNames": [
+      "Cecil",
+      "Percival"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Taylor",
+    "occupation": "Jazz pianist, Composer",
+    "achievements": [
+      "Innovative free jazz pianist",
+      "Known for his complex and improvisational style"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2018
+  }
+]

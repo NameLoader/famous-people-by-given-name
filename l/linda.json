@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Linda Ronstadt",
+    "givenNames": [
+      "Linda",
+      "Maria"
+    ],
+    "familyName": "Ronstadt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_Ronstadt",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Ten Grammy Awards",
+      "Rock and Roll Hall of Fame inductee",
+      "Known for hits like 'You're No Good', 'Blue Bayou', and 'Just One Look'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Linda Hamilton",
+    "givenNames": [
+      "Linda",
+      "Carroll"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_Hamilton",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Sarah Connor in the 'Terminator' franchise",
+      "Saturn Award for Best Actress"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Linda Evangelista",
+    "givenNames": [
+      "Linda"
+    ],
+    "familyName": "Evangelista",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_Evangelista",
+    "occupation": "Model",
+    "achievements": [
+      "One of the original supermodels in the 1980s and 1990s",
+      "Known for her iconic runway walks and editorial work"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Linda Lovelace",
+    "givenNames": [
+      "Linda"
+    ],
+    "familyName": "Lovelace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_Lovelace",
+    "occupation": "Adult film actress",
+    "achievements": [],
+    "yearBorn": 1949,
+    "yearDied": 2002
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Takeshi Kitano",
+    "givenNames": [
+      "Takeshi"
+    ],
+    "familyName": "Kitano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takeshi_Kitano",
+    "occupation": "Film director, actor, comedian, writer, painter",
+    "achievements": [
+      "Palme d'Or winner for the film Hana-Bi",
+      "Renowned comedian in Japan"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Takeshi Kaneshiro",
+    "givenNames": [
+      "Takeshi"
+    ],
+    "familyName": "Kaneshiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takeshi_Kaneshiro",
+    "occupation": "Actor, singer",
+    "achievements": [
+      "Starred in popular films like House of Flying Daggers and Returner"
+    ],
+    "yearBorn": 1973
+  }
+]

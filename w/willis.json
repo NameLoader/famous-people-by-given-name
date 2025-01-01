@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Willis Carrier",
+    "givenNames": [
+      "Willis",
+      "Haviland"
+    ],
+    "familyName": "Carrier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willis_Carrier",
+    "occupation": "Inventor",
+    "achievements": [
+      "Inventor of the modern air conditioner",
+      "Founder of Carrier Corporation"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Willis O'Brien",
+    "givenNames": [
+      "Willis",
+      "Harold"
+    ],
+    "familyName": "O'Brien",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willis_H._O%27Brien",
+    "occupation": "Special effects artist, filmmaker",
+    "achievements": [
+      "Pioneer in stop-motion animation",
+      "Created special effects for films like King Kong and The Lost World"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Willis Reed",
+    "givenNames": [
+      "Willis",
+      "Jr."
+    ],
+    "familyName": "Reed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willis_Reed",
+    "occupation": "Basketball player, coach",
+    "achievements": [
+      "Hall of Fame center for the New York Knicks",
+      "Two-time NBA champion and Finals MVP"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Willis McGahee",
+    "givenNames": [
+      "Willis",
+      "Andrew"
+    ],
+    "familyName": "McGahee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willis_McGahee",
+    "occupation": "Football player",
+    "achievements": [
+      "Pro Bowl running back for the Buffalo Bills, Baltimore Ravens, and Denver Broncos"
+    ],
+    "yearBorn": 1981
+  }
+]

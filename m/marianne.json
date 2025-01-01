@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Marianne Williamson",
+    "givenNames": [
+      "Marianne",
+      "Deborah"
+    ],
+    "familyName": "Williamson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marianne_Williamson",
+    "occupation": "Author, spiritual teacher, and politician",
+    "achievements": [
+      "Best-selling author of self-help books like 'A Return to Love'",
+      "Presidential candidate in the 2020 Democratic primaries"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Marianne Faithful",
+    "givenNames": [
+      "Marianne",
+      "Evelyn",
+      "Gabriel"
+    ],
+    "familyName": "Faithfull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marianne_Faithfull",
+    "occupation": "Singer, songwriter, and actress",
+    "achievements": [
+      "Known for her distinctive contralto voice and performances in counterculture films like 'Girl on a Motorcycle'",
+      "Long-lasting career with numerous albums and singles"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Marianne Moore",
+    "givenNames": [
+      "Marianne",
+      "Craig"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marianne_Moore",
+    "occupation": "Poet and literary critic",
+    "achievements": [
+      "Pulitzer Prize winner for poetry (1952)",
+      "Known for her precise language and unconventional imagery"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1972
+  }
+]

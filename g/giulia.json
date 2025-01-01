@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Giulia Farnese",
+    "givenNames": [
+      "Giulia"
+    ],
+    "familyName": "Farnese",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giulia_Farnese",
+    "occupation": "Noblewoman, Mistress of Pope Alexander VI",
+    "achievements": [
+      "Became a prominent figure in the Roman court during the Renaissance.",
+      "Known for her beauty and intelligence."
+    ],
+    "yearBorn": 1474,
+    "yearDied": 1524
+  },
+  {
+    "fullName": "Giulia Steingruber",
+    "givenNames": [
+      "Giulia"
+    ],
+    "familyName": "Steingruber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giulia_Steingruber",
+    "occupation": "Swiss artistic gymnast",
+    "achievements": [
+      "Won a bronze medal at the 2016 Summer Olympics in Rio de Janeiro.",
+      "Multiple European and World Championship medalist."
+    ],
+    "yearBorn": 1995
+  }
+]

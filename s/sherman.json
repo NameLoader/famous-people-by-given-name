@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sherman Alexie",
+    "givenNames": [
+      "Sherman",
+      "Joseph"
+    ],
+    "familyName": "Alexie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sherman_Alexie",
+    "occupation": "Writer, poet, filmmaker",
+    "achievements": [
+      "National Book Award for Young People's Literature",
+      "PEN/Faulkner Award for Fiction"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Sherman Hemsley",
+    "givenNames": [
+      "Sherman",
+      "Alexander"
+    ],
+    "familyName": "Hemsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sherman_Hemsley",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Best known for his role as George Jefferson in the sitcom 'The Jeffersons'"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2012
+  }
+]

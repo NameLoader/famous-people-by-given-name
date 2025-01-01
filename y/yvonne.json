@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Yvonne Chaka Chaka",
+    "givenNames": [
+      "Yvonne"
+    ],
+    "familyName": "Chaka Chaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_Chaka_Chaka",
+    "occupation": "Singer, songwriter, actress, entrepreneur, and humanitarian",
+    "achievements": [
+      "Known as the 'Princess of Africa'",
+      "Sold over 20 million albums worldwide",
+      "Activist for various social causes including HIV/AIDS awareness"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Yvonne Rainer",
+    "givenNames": [
+      "Yvonne"
+    ],
+    "familyName": "Rainer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_Rainer",
+    "occupation": "Dancer, choreographer, and filmmaker",
+    "achievements": [
+      "Pioneer of postmodern dance",
+      "Known for her experimental and unconventional choreography"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Yvonne Nelson",
+    "givenNames": [
+      "Yvonne"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_Nelson",
+    "occupation": "Actress, model, film producer and entrepreneur",
+    "achievements": [
+      "One of the most prominent actresses in Ghana",
+      "Starred in numerous Nollywood and Ghallywood films"
+    ],
+    "yearBorn": 1985
+  }
+]

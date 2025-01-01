@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Secondo Luigi Piazzi",
+    "givenNames": [
+      "Secondo",
+      "Luigi"
+    ],
+    "familyName": "Piazzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Piazzi",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered the first asteroid, Ceres, in 1801"
+    ],
+    "yearBorn": 1746,
+    "yearDied": 1826
+  }
+]

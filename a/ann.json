@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Ann Richards",
+    "givenNames": [
+      "Ann",
+      "Dorothy"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Richards",
+    "occupation": "Politician",
+    "achievements": [
+      "45th Governor of Texas",
+      "Known for her sharp wit and progressive politics"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Ann Curry",
+    "givenNames": [
+      "Ann"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Curry",
+    "occupation": "Journalist",
+    "achievements": [
+      "Former co-anchor of NBC's 'Today'",
+      "Award-winning foreign correspondent"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Ann Coulter",
+    "givenNames": [
+      "Ann",
+      "Hart"
+    ],
+    "familyName": "Coulter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Coulter",
+    "occupation": "Political commentator, writer",
+    "achievements": [
+      "Author of several bestselling books on conservative politics",
+      "Frequent commentator on television and radio"
+    ],
+    "yearBorn": 1961
+  }
+]

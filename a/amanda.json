@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Amanda Seyfried",
+    "givenNames": [
+      "Amanda",
+      "Michelle"
+    ],
+    "familyName": "Seyfried",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Seyfried",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for Academy Award for Best Supporting Actress for her role in 'Mank'",
+      "Known for roles in films like 'Mean Girls', 'Mamma Mia!', and 'Les Misérables'"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Amanda Knox",
+    "givenNames": [
+      "Amanda",
+      "Marie"
+    ],
+    "familyName": "Knox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Knox",
+    "occupation": "Activist",
+    "achievements": [
+      "Subject of a highly publicized murder trial in Italy"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Amanda Gorman",
+    "givenNames": [
+      "Amanda",
+      "S.",
+      "C."
+    ],
+    "familyName": "Gorman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amanda_Gorman",
+    "occupation": "Poet",
+    "achievements": [
+      "Youngest inaugural poet in U.S. history",
+      "Published poetry collections and received numerous awards for her work"
+    ],
+    "yearBorn": 1998
+  }
+]

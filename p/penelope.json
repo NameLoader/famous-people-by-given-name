@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Penelope Fitzgerald",
+    "givenNames": [
+      "Penelope",
+      "Mary"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Penelope_Fitzgerald",
+    "occupation": "Novelist and Short Story Writer",
+    "achievements": [
+      "Booker Prize for 'Offshore'",
+      "Known for historical fiction and insightful character portrayals"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Penelope Lively",
+    "givenNames": [
+      "Penelope",
+      "Margaret"
+    ],
+    "familyName": "Lively",
+    "wikipedia": "https://en.wikipedia.org/wiki/Penelope_Lively",
+    "occupation": "Novelist and Short Story Writer",
+    "achievements": [
+      "Booker Prize for 'Moon Tiger'",
+      "Known for novels exploring themes of memory, history, and the passage of time"
+    ],
+    "yearBorn": 1933
+  }
+]

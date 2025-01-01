@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Edith Wharton",
+    "givenNames": [
+      "Edith",
+      "Newbold"
+    ],
+    "familyName": "Wharton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Wharton",
+    "occupation": "Novelist, Short Story Writer,  Designer",
+    "achievements": [
+      "Pulitzer Prize for Fiction (1921)",
+      "First woman to win the Pulitzer Prize for Fiction",
+      "Known for novels like The House of Mirth and The Age of Innocence"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Edith Piaf",
+    "givenNames": [
+      "Edith",
+      "Giovanna"
+    ],
+    "familyName": "Piaf",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89dith_Piaf",
+    "occupation": "Singer-Songwriter, Actress",
+    "achievements": [
+      "Known for her powerful vocals and emotional songs",
+      "International fame with songs like \"La Vie en Rose\" and \"Non, Je Ne Regrette Rien\"",
+      "Considered a cultural icon of France"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1963
+  }
+]

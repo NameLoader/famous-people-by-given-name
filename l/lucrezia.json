@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lucrezia Borgia",
+    "givenNames": [
+      "Lucrezia"
+    ],
+    "familyName": "Borgia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucrezia_Borgia",
+    "occupation": "Noblewoman, political figure",
+    "achievements": [
+      "Daughter of Pope Alexander VI and Vannozza Cattanei.",
+      "Known for her beauty, intelligence, and political influence.",
+      "Subject of numerous paintings, books, and operas."
+    ],
+    "yearBorn": 1480,
+    "yearDied": 1519
+  }
+]

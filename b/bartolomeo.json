@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Bartolomeo Cristofori",
+    "givenNames": [
+      "Bartolomeo"
+    ],
+    "familyName": "Cristofori",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Cristofori",
+    "occupation": "Inventor, instrument maker",
+    "achievements": [
+      "Invented the pianoforte (forerunner of the modern piano)"
+    ],
+    "yearBorn": 1655,
+    "yearDied": 1731
+  },
+  {
+    "fullName": "Bartolomeo Colleoni",
+    "givenNames": [
+      "Bartolomeo"
+    ],
+    "familyName": "Colleoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Colleoni",
+    "occupation": "Condottiero (military leader)",
+    "achievements": [
+      "Prominent figure in the Italian Wars",
+      "Known for his military prowess and building fortifications"
+    ],
+    "yearBorn": 1395,
+    "yearDied": 1475
+  }
+]

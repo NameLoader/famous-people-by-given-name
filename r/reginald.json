@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Reginald Aubrey Fessenden",
+    "givenNames": [
+      "Reginald",
+      "Aubrey"
+    ],
+    "familyName": "Fessenden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Fessenden",
+    "occupation": "Inventor, Engineer",
+    "achievements": [
+      "Pioneer in radio transmission and reception",
+      "Developed the first amplitude modulation (AM) system for voice transmission"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1932
+  },
+  {
+    "fullName": "Reginald Dyer",
+    "givenNames": [
+      "Reginald",
+      "Edward",
+      "Harry"
+    ],
+    "familyName": "Dyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Dyer",
+    "occupation": "British Army officer",
+    "achievements": [
+      "Known for his role in the Jallianwala Bagh massacre in Amritsar, India (1919)"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1927
+  }
+]

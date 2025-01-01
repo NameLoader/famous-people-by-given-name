@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Nelson Mandela",
+    "givenNames": [
+      "Nelson",
+      "Rolihlahla"
+    ],
+    "familyName": "Mandela",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+    "occupation": "Anti-apartheid revolutionary, political leader, and philanthropist",
+    "achievements": [
+      "First black president of South Africa",
+      "Nobel Peace Prize laureate (1993)"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Nelson Rockefeller",
+    "givenNames": [
+      "Nelson",
+      "Aldrich"
+    ],
+    "familyName": "Rockefeller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson_Rockefeller",
+    "occupation": "Politician, businessman",
+    "achievements": [
+      "Governor of New York (1959-1973)",
+      "Vice President of the United States (1974-1977)"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1979
+  }
+]

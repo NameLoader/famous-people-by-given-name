@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Artemisia Gentileschi",
+    "givenNames": [
+      "Artemisia"
+    ],
+    "familyName": "Gentileschi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+    "occupation": "Painter",
+    "achievements": [
+      "Considered one of the most accomplished painters of the Baroque period.",
+      "Known for her dramatic and powerful depictions of biblical and mythological scenes.",
+      "Her painting 'Judith Beheading Holofernes' is a masterpiece of Baroque art."
+    ],
+    "yearBorn": 1593,
+    "yearDied": 1656
+  }
+]

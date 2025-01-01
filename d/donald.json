@@ -1,0 +1,75 @@
+[
+  {
+    "fullName": "Donald Trump",
+    "givenNames": [
+      "Donald",
+      "John"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "45th President of the United States",
+      "Real estate developer and television personality"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Donald Duck",
+    "givenNames": [
+      "Donald"
+    ],
+    "familyName": "Duck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Duck",
+    "occupation": "Cartoon character",
+    "achievements": [
+      "Iconic Disney character",
+      "Star of numerous animated shorts, films, and television shows"
+    ]
+  },
+  {
+    "fullName": "Donald Sutherland",
+    "givenNames": [
+      "Donald",
+      "McNichol"
+    ],
+    "familyName": "Sutherland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Sutherland",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee",
+      "Starred in films like M*A*S*H, The Dirty Dozen, and Klute"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Donald Glover",
+    "givenNames": [
+      "Donald",
+      "McKinley"
+    ],
+    "familyName": "Glover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Glover",
+    "occupation": "Actor, Writer, Musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for roles in Community and Atlanta"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Donald Rumsfeld",
+    "givenNames": [
+      "Donald",
+      "Henry"
+    ],
+    "familyName": "Rumsfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Rumsfeld",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as U.S. Secretary of Defense under Presidents Gerald Ford and George W. Bush"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2021
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Woodrow Wilson",
+    "givenNames": [
+      "Thomas",
+      "Woodrow"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+    "occupation": "Politician, Academic",
+    "achievements": [
+      "28th President of the United States",
+      "Nobel Peace Prize laureate (1919)",
+      "Led the US through World War I"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1924
+  }
+]

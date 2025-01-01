@@ -1,0 +1,27 @@
+[
+  {
+    "fullName": "Daryl Hannah",
+    "givenNames": [
+      "Daryl"
+    ],
+    "familyName": "Hannah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daryl_Hannah",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like Splash, Blade Runner, and Kill Bill"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Daryl Dixon",
+    "givenNames": [
+      "Daryl"
+    ],
+    "familyName": "Dixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daryl_Dixon",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Popular crossbow-wielding survivor in the TV series The Walking Dead"
+    ]
+  }
+]

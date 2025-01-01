@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Fanny Mendelssohn",
+    "givenNames": [
+      "Fanny"
+    ],
+    "familyName": "Mendelssohn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fanny_Mendelssohn",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Prolific composer despite societal limitations placed on women",
+      "Known for her salon music and chamber works"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1847
+  },
+  {
+    "fullName": "Fanny Brice",
+    "givenNames": [
+      "Fanny",
+      "Fania"
+    ],
+    "familyName": "Brice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fanny_Brice",
+    "occupation": "Comedian, singer, actress",
+    "achievements": [
+      "Broadway star and vaudeville performer",
+      "Known for her comedic timing and distinctive voice"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1951
+  }
+]

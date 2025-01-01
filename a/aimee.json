@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Aimee Mann",
+    "givenNames": [
+      "Aimee",
+      "Elizabeth"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aimee_Mann",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nominations",
+      "Acclaimed for her introspective lyrics and alternative rock sound"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Aimee Teegarden",
+    "givenNames": [
+      "Aimee",
+      "Richelle"
+    ],
+    "familyName": "Teegarden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aime%C3%A9_Teegarden",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in TV series like 'Friday Night Lights' and 'Star-Crossed'"
+    ],
+    "yearBorn": 1989
+  }
+]

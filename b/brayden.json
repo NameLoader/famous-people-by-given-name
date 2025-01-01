@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Brayden Schenn",
+    "givenNames": [
+      "Brayden",
+      "Michael"
+    ],
+    "familyName": "Schenn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brayden_Schenn",
+    "occupation": "Ice Hockey Player",
+    "achievements": [
+      "NHL All-Star",
+      "Stanley Cup Champion"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Brayden Point",
+    "givenNames": [
+      "Brayden"
+    ],
+    "familyName": "Point",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brayden_Point",
+    "occupation": "Ice Hockey Player",
+    "achievements": [
+      "Stanley Cup Champion"
+    ],
+    "yearBorn": 1996
+  }
+]

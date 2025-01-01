@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Clifford Geertz",
+    "givenNames": [
+      "Clifford",
+      "James"
+    ],
+    "familyName": "Geertz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clifford_Geertz",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Pioneer of interpretive anthropology",
+      "Known for his ethnographic work in Indonesia and Morocco"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Clifford Odets",
+    "givenNames": [
+      "Clifford"
+    ],
+    "familyName": "Odets",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clifford_Odets",
+    "occupation": "Playwright, screenwriter",
+    "achievements": [
+      "Wrote influential plays during the Depression era",
+      "Known for works like 'Waiting for Lefty' and 'Golden Boy'"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Clifford Brown",
+    "givenNames": [
+      "Clifford",
+      "Benjamin"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clifford_Brown",
+    "occupation": "Jazz trumpeter",
+    "achievements": [
+      "Highly influential bebop trumpeter",
+      "Known for his virtuosity and melodic improvisations"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1956
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Khalid ibn al-Walid",
+    "givenNames": [
+      "Khalid"
+    ],
+    "familyName": "ibn al-Walid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid",
+    "occupation": "Military commander",
+    "achievements": [
+      "Undefeated in over 100 battles.",
+      "Key figure in the early Muslim conquests."
+    ],
+    "yearBorn": 592,
+    "yearDied": 642
+  },
+  {
+    "fullName": "Khalid Robinson",
+    "givenNames": [
+      "Khalid",
+      "Donnel"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khalid_(American_singer)",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nominee.",
+      "Multi-platinum selling artist."
+    ],
+    "yearBorn": 1998
+  }
+]

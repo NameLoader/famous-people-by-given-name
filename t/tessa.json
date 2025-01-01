@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Tessa Virtue",
+    "givenNames": [
+      "Tessa",
+      "Jane",
+      "McCormick"
+    ],
+    "familyName": "Virtue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tessa_Virtue",
+    "occupation": "Figure Skater",
+    "achievements": [
+      "Olympic gold medalist in ice dance (2010, 2018)",
+      "World champion in ice dance (2017)",
+      "Canadian national champion in ice dance (eight times)"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Tessa Thompson",
+    "givenNames": [
+      "Tessa",
+      "Lynne"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tessa_Thompson",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Creed,' 'Thor: Ragnarok,' and 'Dear White People'",
+      "Received critical acclaim for her performances in independent films and stage productions"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Rex Harrison",
+    "givenNames": [
+      "Rex",
+      "Reginald",
+      "Carey"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rex_Harrison",
+    "occupation": "Actor",
+    "achievements": [
+      "Won an Academy Award for Best Actor for his role in My Fair Lady",
+      "Known for his stage work and roles in films like Cleopatra and Doctor Dolittle"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Rex Stout",
+    "givenNames": [
+      "Rex",
+      "Todhunter"
+    ],
+    "familyName": "Stout",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rex_Stout",
+    "occupation": "Writer",
+    "achievements": [
+      "Creator of the fictional detective Nero Wolfe",
+      "Prolific mystery novelist who wrote over 40 novels and numerous short stories"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Rex Tillerson",
+    "givenNames": [
+      "Rex",
+      "Wayne"
+    ],
+    "familyName": "Tillerson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rex_Tillerson",
+    "occupation": "Diplomat, Business executive",
+    "achievements": [
+      "Served as the 69th United States Secretary of State under President Donald Trump",
+      "Former Chairman and CEO of ExxonMobil"
+    ],
+    "yearBorn": 1952
+  }
+]

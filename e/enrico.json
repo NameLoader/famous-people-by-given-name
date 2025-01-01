@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Enrico Fermi",
+    "givenNames": [
+      "Enrico"
+    ],
+    "familyName": "Fermi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+    "occupation": "Physicist",
+    "achievements": [
+      "Developed the world's first nuclear reactor",
+      "Won the Nobel Prize in Physics in 1938 for his work on induced radioactivity"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1954
+  },
+  {
+    "fullName": "Enrico Caruso",
+    "givenNames": [
+      "Enrico"
+    ],
+    "familyName": "Caruso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Caruso",
+    "occupation": "Opera singer",
+    "achievements": [
+      "One of the most famous opera singers of all time",
+      "Known for his powerful voice and dramatic performances"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1921
+  }
+]

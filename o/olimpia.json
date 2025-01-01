@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Olimpia Mancini",
+    "givenNames": [
+      "Olimpia",
+      "Olympia"
+    ],
+    "familyName": "Mancini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olympia_Mancini,_Countess_of_Soissons",
+    "occupation": "Noblewoman, mistress of King Louis XIV of France",
+    "achievements": [
+      "Mistress to King Louis XIV of France from 1674-1682",
+      "Held significant influence in the French court"
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1703
+  },
+  {
+    "fullName": "Olimpia de Gouges",
+    "givenNames": [
+      "Olympe"
+    ],
+    "familyName": "de Gouges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olympe_de_Gouges",
+    "occupation": "Playwright, political activist",
+    "achievements": [
+      "Wrote the 'Declaration of the Rights of Woman and of the Female Citizen'",
+      "Championed women's rights during the French Revolution"
+    ],
+    "yearBorn": 1748,
+    "yearDied": 1793
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Vincenzo Bellini",
+    "givenNames": [
+      "Vincenzo",
+      "Salvatore",
+      "Carmelo",
+      "Francesco"
+    ],
+    "familyName": "Bellini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
+    "occupation": "Opera composer",
+    "achievements": [
+      "Composed renowned operas like Norma and La sonnambula",
+      "Considered one of the leading Italian opera composers of the bel canto era"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1835
+  },
+  {
+    "fullName": "Vincenzo Nibali",
+    "givenNames": [
+      "Vincenzo"
+    ],
+    "familyName": "Nibali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Nibali",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Won the Giro d'Italia twice (2013, 2016)",
+      "Won the Tour de France in 2014"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Vincenzo Monti",
+    "givenNames": [
+      "Vincenzo"
+    ],
+    "familyName": "Monti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Monti",
+    "occupation": "Poet and playwright",
+    "achievements": [
+      "Known for his epic poem 'Bassvillia'"
+    ],
+    "yearBorn": 1754,
+    "yearDied": 1828
+  }
+]

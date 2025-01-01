@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rafael Palmeiro",
+    "givenNames": [
+      "Rafael"
+    ],
+    "familyName": "Palmeiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rafael_Palmeiro",
+    "occupation": "Former Professional Baseball Player",
+    "achievements": [
+      "569 career home runs",
+      "3020 career hits"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Rafael Sanzio da Urbino",
+    "givenNames": [
+      "Raffaello"
+    ],
+    "familyName": "Sanzio da Urbino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+    "occupation": "High Renaissance Painter and Architect",
+    "achievements": [
+      "Known for his mastery of perspective, composition, and color",
+      "Painted iconic works like The School of Athens and The Transfiguration"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1520
+  }
+]

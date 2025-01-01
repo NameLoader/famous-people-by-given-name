@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Janis Joplin",
+    "givenNames": [
+      "Janis",
+      "Lyn"
+    ],
+    "familyName": "Joplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Known for her powerful vocals and bluesy style"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Janis Ian",
+    "givenNames": [
+      "Janis"
+    ],
+    "familyName": "Ian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Ian",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her folk and pop music"
+    ],
+    "yearBorn": 1951
+  }
+]

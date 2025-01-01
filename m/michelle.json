@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Michelle Obama",
+    "givenNames": [
+      "Michelle",
+      "LaVaughn",
+      "Robinson"
+    ],
+    "familyName": "Obama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Obama",
+    "occupation": "Lawyer, writer, former First Lady of the United States",
+    "achievements": [
+      "First African-American First Lady of the United States",
+      "Advocate for healthy living and education"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Michelle Yeoh",
+    "givenNames": [
+      "Michelle",
+      "Choo Kheng"
+    ],
+    "familyName": "Yeoh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Yeoh",
+    "occupation": "Actress, dancer",
+    "achievements": [
+      "First Asian actress to win an Academy Award for Best Actress",
+      "Known for roles in martial arts films and action movies"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Michelle Pfeiffer",
+    "givenNames": [
+      "Michelle",
+      "Marie"
+    ],
+    "familyName": "Pfeiffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for three Academy Awards and nine Golden Globe Awards",
+      "Known for roles in films like 'Scarface', 'Dangerous Liaisons', and 'Batman Returns'"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Michelle Kwan",
+    "givenNames": [
+      "Michelle",
+      "Wingshan"
+    ],
+    "familyName": "Kwan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Kwan",
+    "occupation": "Figure skater, diplomat",
+    "achievements": [
+      "Two-time Olympic medalist",
+      "Five-time World Champion",
+      "Nine-time US Champion"
+    ],
+    "yearBorn": 1980
+  }
+]

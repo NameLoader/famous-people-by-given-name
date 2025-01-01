@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Fabio Lanzoni",
+    "givenNames": [
+      "Fabio"
+    ],
+    "familyName": "Lanzoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabio_Lanzoni",
+    "occupation": "Model, actor",
+    "achievements": [
+      "Became a popular male model in the 1980s and 1990s",
+      "Appeared on numerous magazine covers and in advertising campaigns",
+      "Transitioned into acting, appearing in films and television shows"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Fabio Cannavaro",
+    "givenNames": [
+      "Fabio"
+    ],
+    "familyName": "Cannavaro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+    "occupation": "Footballer, manager",
+    "achievements": [
+      "Won the Ballon d'Or in 2006",
+      "Captained Italy to victory in the 2006 FIFA World Cup",
+      "Renowned for his defensive skills and leadership"
+    ],
+    "yearBorn": 1973
+  }
+]

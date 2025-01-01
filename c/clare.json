@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Clare Boothe Luce",
+    "givenNames": [
+      "Clare",
+      "Boothe"
+    ],
+    "familyName": "Luce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clare_Boothe_Luce",
+    "occupation": "Writer, Playwright, Diplomat",
+    "achievements": [
+      "First woman appointed U.S. Ambassador to Italy",
+      "Pulitzer Prize-winning playwright for 'The Women'",
+      "Prominent journalist and writer"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Clare Kramer",
+    "givenNames": [
+      "Clare"
+    ],
+    "familyName": "Kramer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clare_Kramer",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Glory in the television series 'Buffy the Vampire Slayer'",
+      "Appeared in films such as 'Bring It On' and 'The Rules of Attraction'"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Clare Balding",
+    "givenNames": [
+      "Clare",
+      "Victoria"
+    ],
+    "familyName": "Balding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clare_Balding",
+    "occupation": "Broadcaster and Author",
+    "achievements": [
+      "Prominent sports broadcaster for BBC and BT Sport",
+      "Author of several bestselling books",
+      "Advocate for LGBT+ rights"
+    ],
+    "yearBorn": 1970
+  }
+]

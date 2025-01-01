@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Frederick Douglass",
+    "givenNames": [
+      "Frederick"
+    ],
+    "familyName": "Douglass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Douglass",
+    "occupation": "Abolitionist, writer, orator",
+    "achievements": [
+      "Escaped slavery and became a leading voice in the abolitionist movement",
+      "Published his autobiography, 'Narrative of the Life of Frederick Douglass, an American Slave'",
+      "Advisor to President Abraham Lincoln during the Civil War"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1895
+  },
+  {
+    "fullName": "Frederick Chopin",
+    "givenNames": [
+      "Frédéric",
+      "François"
+    ],
+    "familyName": "Chopin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Considered one of the greatest composers of the Romantic era",
+      "Known for his nocturnes, mazurkas, polonaises, and études",
+      "Influenced generations of pianists and composers"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1849
+  },
+  {
+    "fullName": "Frederick Sanger",
+    "givenNames": [
+      "Frederick"
+    ],
+    "familyName": "Sanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Sanger",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Twice awarded the Nobel Prize in Chemistry (1958 and 1980)",
+      "Developed methods for determining the amino acid sequence of proteins and the nucleotide sequence of DNA",
+      "Pioneering work in molecular biology and genetics"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2013
+  }
+]

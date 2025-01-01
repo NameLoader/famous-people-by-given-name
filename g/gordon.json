@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Gordon Ramsay",
+    "givenNames": [
+      "Gordon",
+      "James"
+    ],
+    "familyName": "Ramsay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Ramsay",
+    "occupation": "Chef, restaurateur, television personality",
+    "achievements": [
+      "Multiple Michelin stars",
+      "Host of popular cooking shows like 'Hell's Kitchen' and 'MasterChef'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Gordon Brown",
+    "givenNames": [
+      "Gordon"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Brown",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of the Exchequer (1997-2007)",
+      "Prime Minister of the United Kingdom (2007-2010)"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Gordon Moore",
+    "givenNames": [
+      "Gordon",
+      "Earle"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Moore",
+    "occupation": "Engineer, entrepreneur",
+    "achievements": [
+      "Co-founder of Intel",
+      "Moore's Law (predicting the exponential growth of transistors on integrated circuits)"
+    ],
+    "yearBorn": 1929
+  },
+  {
+    "fullName": "Gordon Lightfoot",
+    "givenNames": [
+      "Gordon",
+      "Meredith"
+    ],
+    "familyName": "Lightfoot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Lightfoot",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Renowned folk musician with hits like 'If You Could Read My Mind' and 'The Wreck of the Edmund Fitzgerald'",
+      "Inducted into the Canadian Music Hall of Fame"
+    ],
+    "yearBorn": 1938
+  }
+]

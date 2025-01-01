@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Margery Kempe",
+    "givenNames": [
+      "Margery"
+    ],
+    "familyName": "Kempe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margery_Kempe",
+    "occupation": "Mystic, author",
+    "achievements": [
+      "Wrote 'The Book of Margery Kempe', one of the first autobiographies in English"
+    ],
+    "yearBorn": 1373,
+    "yearDied": 1438
+  },
+  {
+    "fullName": "Margery Allingham",
+    "givenNames": [
+      "Margery",
+      "Louise"
+    ],
+    "familyName": "Allingham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margery_Allingham",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Known for her detective novels featuring Albert Campion",
+      "Prolific writer of mystery fiction"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1966
+  }
+]

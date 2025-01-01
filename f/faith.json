@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Faith Hill",
+    "givenNames": [
+      "Faith"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faith_Hill",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "Best-selling country music artist of all time"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Faith Evans",
+    "givenNames": [
+      "Faith",
+      "Renée"
+    ],
+    "familyName": "Evans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faith_Evans",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Multi-platinum selling artist",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1973
+  }
+]

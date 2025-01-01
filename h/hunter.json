@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Hunter Biden",
+    "givenNames": [
+      "Robert",
+      "Hunter"
+    ],
+    "familyName": "Biden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunter_Biden",
+    "occupation": "Lawyer, Lobbyist, Artist",
+    "achievements": [
+      "Son of U.S. President Joe Biden",
+      "Served on the board of directors of Burisma Holdings"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Hunter S. Thompson",
+    "givenNames": [
+      "Hunter",
+      "Stockton"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunter_S._Thompson",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Pioneer of Gonzo Journalism",
+      "Wrote 'Fear and Loathing in Las Vegas'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2005
+  }
+]

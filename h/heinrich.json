@@ -1,0 +1,67 @@
+[
+  {
+    "fullName": "Heinrich Heine",
+    "givenNames": [
+      "Heinrich",
+      "Christian",
+      "Johann"
+    ],
+    "familyName": "Heine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
+    "occupation": "Poet, writer",
+    "achievements": [
+      "Major figure in Romanticism",
+      "Known for his poems, plays, and essays"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1856
+  },
+  {
+    "fullName": "Heinrich Hertz",
+    "givenNames": [
+      "Heinrich",
+      "Rudolf"
+    ],
+    "familyName": "Hertz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Hertz",
+    "occupation": "Physicist",
+    "achievements": [
+      "Proved the existence of electromagnetic waves",
+      "Unit of frequency (Hz) named after him"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1894
+  },
+  {
+    "fullName": "Heinrich Schliemann",
+    "givenNames": [
+      "Heinrich",
+      "Johann",
+      "Ludwig"
+    ],
+    "familyName": "Schliemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Schliemann",
+    "occupation": "Archaeologist, businessman",
+    "achievements": [
+      "Excavated the ruins of Troy and Mycenae",
+      "Contributed significantly to understanding of ancient Greece"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1890
+  },
+  {
+    "fullName": "Heinrich Himmler",
+    "givenNames": [
+      "Heinrich",
+      "Luitpold"
+    ],
+    "familyName": "Himmler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Himmler",
+    "occupation": "Nazi leader",
+    "achievements": [
+      "Reichsführer-SS and chief architect of the Holocaust"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1945
+  }
+]

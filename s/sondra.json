@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sondra Locke",
+    "givenNames": [
+      "Sondra"
+    ],
+    "familyName": "Locke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sondra_Locke",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress for her role in The Heart Is a Lonely Hunter (1968)",
+      "Known for her roles in films such as 'The Outlaw Josey Wales' and 'Every Which Way but Loose'"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Sondra Radvanovsky",
+    "givenNames": [
+      "Sondra",
+      "Dee"
+    ],
+    "familyName": "Radvanovsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sondra_Radvanovsky",
+    "occupation": "Opera Singer (Soprano)",
+    "achievements": [
+      "Internationally renowned soprano known for her performances in operas by Verdi, Puccini, and Donizetti.",
+      "Recipient of numerous awards, including the Grammy Award for Best Opera Recording."
+    ],
+    "yearBorn": 1972
+  }
+]

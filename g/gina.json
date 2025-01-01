@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gina Lollobrigida",
+    "givenNames": [
+      "Gina",
+      "Luigia"
+    ],
+    "familyName": "Lollobrigida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gina_Lollobrigida",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the most prominent actresses of Italian cinema's Golden Age.",
+      "Nominated for three Golden Globe Awards and won one."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2023
+  },
+  {
+    "fullName": "Gina Rodriguez",
+    "givenNames": [
+      "Gina",
+      "Alexis"
+    ],
+    "familyName": "Rodriguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gina_Rodriguez",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Golden Globe Award for Best Actress – Television Series Musical or Comedy for her role as Jane Villanueva in the CW comedy-drama series Jane the Virgin.",
+      "Advocate for diversity and representation in Hollywood."
+    ],
+    "yearBorn": 1984
+  }
+]

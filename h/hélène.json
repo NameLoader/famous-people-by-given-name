@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Hélène Grimaud",
+    "givenNames": [
+      "Hélène",
+      "Rose",
+      "Paule"
+    ],
+    "familyName": "Grimaud",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Grimaud",
+    "occupation": "Pianist",
+    "achievements": [
+      "Internationally acclaimed pianist",
+      "Known for her interpretations of Romantic repertoire",
+      "Recipient of numerous awards, including the Victoires de la Musique"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Hélène Cixous",
+    "givenNames": [
+      "Hélène"
+    ],
+    "familyName": "Cixous",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Cixous",
+    "occupation": "Writer, philosopher, feminist theorist",
+    "achievements": [
+      "Pioneer of feminist literary theory",
+      "Known for her concept of 'écriture féminine'",
+      "Author of numerous novels, plays, and essays"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Hélène Carrère d'Encausse",
+    "givenNames": [
+      "Hélène"
+    ],
+    "familyName": "Carrère d'Encausse",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Carr%C3%A8re_d%27Encausse",
+    "occupation": "Historian, academic",
+    "achievements": [
+      "First woman elected to the Académie française",
+      "Expert on Russian history and culture",
+      "Author of numerous books and articles"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2023
+  }
+]

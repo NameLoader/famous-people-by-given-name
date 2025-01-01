@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Amina J. Mohammed",
+    "givenNames": [
+      "Amina",
+      "Jane"
+    ],
+    "familyName": "Mohammed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amina_J._Mohammed",
+    "occupation": "Politician, diplomat",
+    "achievements": [
+      "Deputy Secretary-General of the United Nations.",
+      "Former Minister of Environment of Nigeria."
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Amina Khalil",
+    "givenNames": [
+      "Amina"
+    ],
+    "familyName": "Khalil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amina_Khalil",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Egyptian films and television series.",
+      "Won awards for her performances."
+    ],
+    "yearBorn": 1988
+  }
+]

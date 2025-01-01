@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Beatrice Portinari",
+    "givenNames": [
+      "Beatrice",
+      "Bice"
+    ],
+    "familyName": "Portinari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_Portinari",
+    "occupation": "Muse and subject of Dante's poetry",
+    "achievements": [
+      "Inspired Dante Alighieri's 'Divine Comedy'",
+      "Became a symbol of idealized love and spiritual beauty"
+    ],
+    "yearBorn": 1266,
+    "yearDied": 1290
+  },
+  {
+    "fullName": "Beatrice Lillie",
+    "givenNames": [
+      "Beatrice",
+      "Gladys"
+    ],
+    "familyName": "Lillie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_Lillie",
+    "occupation": "Actress, comedian, singer",
+    "achievements": [
+      "Star of Broadway and vaudeville",
+      "Known for her witty humor and physical comedy"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Beatrice Straight",
+    "givenNames": [
+      "Beatrice",
+      "Whitney"
+    ],
+    "familyName": "Straight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_Straight",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Supporting Actress for 'Network'",
+      "Known for her roles in stage productions and films"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2002
+  }
+]

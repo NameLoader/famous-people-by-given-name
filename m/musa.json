@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Musa bin Nusayr",
+    "givenNames": [
+      "Musa"
+    ],
+    "familyName": "bin Nusayr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Musa_ibn_Nusayr",
+    "occupation": "Military Commander",
+    "achievements": [
+      "Conquest of North Africa for the Umayyad Caliphate",
+      "Establishment of Muslim rule in Spain"
+    ],
+    "yearBorn": 640,
+    "yearDied": 715
+  },
+  {
+    "fullName": "Musa Barrow",
+    "givenNames": [
+      "Musa"
+    ],
+    "familyName": "Barrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Musa_Barrow",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Plays for Bologna FC in Serie A",
+      "Represents the Gambian national team"
+    ],
+    "yearBorn": 1998
+  }
+]

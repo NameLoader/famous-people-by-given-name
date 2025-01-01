@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Chester Alan Arthur",
+    "givenNames": [
+      "Chester",
+      "Alan"
+    ],
+    "familyName": "Arthur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+    "occupation": "Politician",
+    "achievements": [
+      "21st President of the United States",
+      "Vice President under James A. Garfield"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Chester Bennington",
+    "givenNames": [
+      "Chester",
+      "Charles"
+    ],
+    "familyName": "Bennington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chester_Bennington",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead vocalist for Linkin Park",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 2017
+  }
+]

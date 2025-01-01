@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Irena Sendler",
+    "givenNames": [
+      "Irena",
+      "Stanisława"
+    ],
+    "familyName": "Sendler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irena_Sendler",
+    "occupation": "Social worker, nurse",
+    "achievements": [
+      "Saved approximately 2,500 Jewish children from the Warsaw Ghetto during World War II",
+      "Nominated for the Nobel Peace Prize in 2007"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Irena Szewińska",
+    "givenNames": [
+      "Irena"
+    ],
+    "familyName": "Szewińska",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irena_Szewi%C5%84ska",
+    "occupation": "Athlete",
+    "achievements": [
+      "Three-time Olympic medalist in sprinting and long jump",
+      "World record holder in the 200 meters"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2018
+  }
+]

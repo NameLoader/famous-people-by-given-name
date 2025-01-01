@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Robert De Niro",
+    "givenNames": [
+      "Robert",
+      "Anthony"
+    ],
+    "familyName": "De Niro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_De_Niro",
+    "occupation": "Actor",
+    "achievements": [
+      "Two-time Academy Award winner for Best Actor",
+      "Known for roles in Taxi Driver, Raging Bull, and The Godfather Part II"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Robert Plant",
+    "givenNames": [
+      "Robert",
+      "Anthony"
+    ],
+    "familyName": "Plant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Plant",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Lead vocalist of Led Zeppelin",
+      "Known for powerful vocals and influential stage presence"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Robert Frost",
+    "givenNames": [
+      "Robert",
+      "Lee"
+    ],
+    "familyName": "Frost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Frost",
+    "occupation": "Poet",
+    "achievements": [
+      "Four-time Pulitzer Prize winner for Poetry",
+      "Known for poems exploring themes of nature, isolation, and rural life"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Robert Oppenheimer",
+    "givenNames": [
+      "Robert",
+      "Julius"
+    ],
+    "familyName": "Oppenheimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer",
+    "occupation": "Theoretical Physicist",
+    "achievements": [
+      "Led the Manhattan Project, which developed the atomic bomb",
+      "Known as 'the father of the atomic bomb'"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1967
+  }
+]

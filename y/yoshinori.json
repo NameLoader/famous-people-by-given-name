@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Yoshinori Ohsumi",
+    "givenNames": [
+      "Yoshinori"
+    ],
+    "familyName": "Ohsumi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshinori_Ohsumi",
+    "occupation": "Cellular biologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2016)",
+      "Discoveries of mechanisms for autophagy"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Yoshinori Kitase",
+    "givenNames": [
+      "Yoshinori"
+    ],
+    "familyName": "Kitase",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshinori_Kitase",
+    "occupation": "Video game designer and producer",
+    "achievements": [
+      "Directed several Final Fantasy games, including FF VI, VII, and X",
+      "Known for his innovative storytelling and character development"
+    ]
+  }
+]

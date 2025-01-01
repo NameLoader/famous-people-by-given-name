@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Niels Bohr",
+    "givenNames": [
+      "Niels",
+      "Henrik",
+      "David"
+    ],
+    "familyName": "Bohr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Bohr",
+    "occupation": "Physicist",
+    "achievements": [
+      "Developed the Bohr model of the atom",
+      "Made foundational contributions to quantum mechanics",
+      "Won the Nobel Prize in Physics in 1922"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Niels Henrik Abel",
+    "givenNames": [
+      "Niels",
+      "Henrik"
+    ],
+    "familyName": "Abel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Proved the impossibility of solving the general quintic equation by radicals",
+      "Made significant contributions to the theory of elliptic functions and infinite series"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1829
+  },
+  {
+    "fullName": "Niels Ryberg Finsen",
+    "givenNames": [
+      "Niels",
+      "Ryberg"
+    ],
+    "familyName": "Finsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niels_Ryberg_Finsen",
+    "occupation": "Physician and Scientist",
+    "achievements": [
+      "Pioneered the use of light therapy for treating diseases like lupus vulgaris",
+      "Won the Nobel Prize in Physiology or Medicine in 1903"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1904
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+    "givenNames": [
+      "Cristiano",
+      "Ronaldo",
+      "dos Santos"
+    ],
+    "familyName": "Aveiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "occupation": "Footballer",
+    "achievements": [
+      "Five-time Ballon d'Or winner",
+      "Five-time UEFA Champions League winner",
+      "UEFA European Championship winner (2016)",
+      "Most international goals scored by a male player (123)"
+    ],
+    "yearBorn": 1985
+  }
+]

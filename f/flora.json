@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Flora MacDonald",
+    "givenNames": [
+      "Flora"
+    ],
+    "familyName": "MacDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flora_MacDonald",
+    "occupation": "Scottish Jacobite heroine",
+    "achievements": [
+      "Helped Bonnie Prince Charlie escape to the Isle of Skye after the Battle of Culloden"
+    ],
+    "yearBorn": 1722,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Flora Robson",
+    "givenNames": [
+      "Flora",
+      "McKenzie"
+    ],
+    "familyName": "Robson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flora_Robson",
+    "occupation": "English actress",
+    "achievements": [
+      "Starred in numerous stage productions and films",
+      "Known for her strong presence and commanding voice"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Flora Duffy",
+    "givenNames": [
+      "Flora",
+      "Jane"
+    ],
+    "familyName": "Duffy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flora_Duffy",
+    "occupation": "Bermudian triathlete",
+    "achievements": [
+      "Olympic gold medalist (2020)",
+      "World Triathlon Series champion (2016, 2017)"
+    ],
+    "yearBorn": 1987
+  }
+]

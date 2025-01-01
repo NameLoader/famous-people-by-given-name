@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Niamh Kavanagh",
+    "givenNames": [
+      "Niamh"
+    ],
+    "familyName": "Kavanagh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niamh_Kavanagh",
+    "occupation": "Singer",
+    "achievements": [
+      "Won the Eurovision Song Contest in 1993 with the song \"In Your Eyes\""
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Niamh Cusack",
+    "givenNames": [
+      "Niamh"
+    ],
+    "familyName": "Cusack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niamh_Cusack",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in theatre, film and television including  \"Heartbeat\", \"Casualty\", and \"The Bill\""
+    ],
+    "yearBorn": 1959
+  }
+]

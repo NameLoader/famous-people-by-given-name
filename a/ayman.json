@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ayman al-Zawahiri",
+    "givenNames": [
+      "Ayman",
+      "Mohammed",
+      "Rabie"
+    ],
+    "familyName": "al-Zawahiri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayman_al-Zawahiri",
+    "occupation": "Terrorist leader",
+    "achievements": [
+      "Former leader of al-Qaeda"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Ayman Mohyeldin",
+    "givenNames": [
+      "Ayman"
+    ],
+    "familyName": "Mohyeldin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayman_Mohyeldin",
+    "occupation": "Journalist",
+    "achievements": [
+      "Correspondent for NBC News and MSNBC",
+      "Covered major international events including the Arab Spring"
+    ],
+    "yearBorn": 1979
+  }
+]

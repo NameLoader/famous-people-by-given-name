@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Arturo Toscanini",
+    "givenNames": [
+      "Arturo"
+    ],
+    "familyName": "Toscanini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_Toscanini",
+    "occupation": "Conductor",
+    "achievements": [
+      "Considered one of the greatest conductors of all time",
+      "Known for his demanding rehearsals and precise interpretations"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1957
+  },
+  {
+    "fullName": "Arturo Vidal",
+    "givenNames": [
+      "Arturo",
+      "Erasmo"
+    ],
+    "familyName": "Vidal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_Vidal",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won multiple league titles in Italy and Germany",
+      "Represented Chile in the FIFA World Cup"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Arturo Pérez-Reverte",
+    "givenNames": [
+      "Arturo"
+    ],
+    "familyName": "Pérez-Reverte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arturo_P%C3%A9rez-Reverte",
+    "occupation": "Novelist, Journalist",
+    "achievements": [
+      "Bestselling author of historical novels and thrillers",
+      "Won the Premio Nacional de Narrativa in Spain"
+    ],
+    "yearBorn": 1951
+  }
+]

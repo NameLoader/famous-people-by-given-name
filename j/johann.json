@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Johann Sebastian Bach",
+    "givenNames": [
+      "Johann",
+      "Sebastian"
+    ],
+    "familyName": "Bach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the greatest composers of all time.",
+      "Master of Baroque music."
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1750
+  },
+  {
+    "fullName": "Johann Wolfgang von Goethe",
+    "givenNames": [
+      "Johann",
+      "Wolfgang"
+    ],
+    "familyName": "Goethe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+    "occupation": "Writer, Poet, Philosopher",
+    "achievements": [
+      "Author of Faust, one of the most important works of German literature.",
+      "Influential figure in German Romanticism."
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1832
+  },
+  {
+    "fullName": "Johann Gutenberg",
+    "givenNames": [
+      "Johannes",
+      "Gensfleisch"
+    ],
+    "familyName": "Gutenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+    "occupation": "Inventor, Printer",
+    "achievements": [
+      "Developed the printing press with movable type.",
+      "Revolutionized book production and dissemination of knowledge."
+    ],
+    "yearBorn": 1398,
+    "yearDied": 1468
+  },
+  {
+    "fullName": "Johann Kepler",
+    "givenNames": [
+      "Johannes"
+    ],
+    "familyName": "Kepler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "occupation": "Astronomer, Mathematician",
+    "achievements": [
+      "Formulated laws of planetary motion.",
+      "Contributed significantly to the scientific revolution."
+    ],
+    "yearBorn": 1571,
+    "yearDied": 1630
+  }
+]

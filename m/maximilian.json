@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Maximilian I",
+    "givenNames": [
+      "Maximilian"
+    ],
+    "familyName": "Habsburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor",
+    "occupation": "Holy Roman Emperor",
+    "achievements": [
+      "Expanded the Habsburg dominions",
+      "Commissioned Albrecht Dürer's famous portrait of him"
+    ],
+    "yearBorn": 1459,
+    "yearDied": 1519
+  },
+  {
+    "fullName": "Maximilian II",
+    "givenNames": [
+      "Maximilian"
+    ],
+    "familyName": "Habsburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_II,_Holy_Roman_Emperor",
+    "occupation": "Holy Roman Emperor",
+    "achievements": [
+      "Oversaw the Counter-Reformation in Austria",
+      "Patron of the arts and sciences"
+    ],
+    "yearBorn": 1527,
+    "yearDied": 1576
+  },
+  {
+    "fullName": "Maximilian Schell",
+    "givenNames": [
+      "Maximilian"
+    ],
+    "familyName": "Schell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Schell",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Won an Academy Award for Best Actor for his role in 'Judgment at Nuremberg'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2014
+  }
+]

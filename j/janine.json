@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Janine Turner",
+    "givenNames": [
+      "Janine"
+    ],
+    "familyName": "Turner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janine_Turner",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Maggie O'Connell in the television series Northern Exposure.",
+      "Nominated for a Primetime Emmy Award and two Golden Globe Awards."
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Janine Gutierrez",
+    "givenNames": [
+      "Janine",
+      "Marie",
+      "Elizabeth",
+      "de Leon"
+    ],
+    "familyName": "Gutierrez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janine_Gutierrez",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Filipino television dramas.",
+      "Received multiple acting awards and nominations."
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Janine Jansen",
+    "givenNames": [
+      "Janine"
+    ],
+    "familyName": "Jansen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janine_Jansen",
+    "occupation": "Violinist",
+    "achievements": [
+      "Internationally acclaimed violinist.",
+      "Performed with major orchestras and ensembles worldwide."
+    ],
+    "yearBorn": 1978
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Denise Richards",
+    "givenNames": [
+      "Denise",
+      "Lee"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denise_Richards",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Starred in films like Starship Troopers and Wild Things",
+      "Appeared on reality TV shows like The Real Housewives of Beverly Hills"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Denise Scott Brown",
+    "givenNames": [
+      "Denise"
+    ],
+    "familyName": "Scott Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+    "occupation": "Architect, Urban Planner",
+    "achievements": [
+      "Pritzker Prize laureate (awarded with Robert Venturi and Steven Izenour)",
+      "Known for postmodern architectural designs like the Vanna Venturi House"
+    ],
+    "yearBorn": 1931
+  }
+]

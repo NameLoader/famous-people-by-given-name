@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kou Seiya",
+    "givenNames": [
+      "Kou"
+    ],
+    "familyName": "Seiya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pegasus_Seiya",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the manga and anime series Saint Seiya"
+    ]
+  },
+  {
+    "fullName": "Kou Shibasaki",
+    "givenNames": [
+      "Ko",
+      "Kou",
+      "Koh"
+    ],
+    "familyName": "Shibasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ko_Shibasaki",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for roles in films like 'Battle Royale' and 'One Missed Call'",
+      "Successful music career"
+    ],
+    "yearBorn": 1981
+  }
+]

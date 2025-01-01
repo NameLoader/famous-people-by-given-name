@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Anya Taylor-Joy",
+    "givenNames": [
+      "Anya-Josephine",
+      "Marie"
+    ],
+    "familyName": "Taylor-Joy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Taylor-Joy",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for a Primetime Emmy Award",
+      "Won a Golden Globe Award"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Anya Kamenetz",
+    "givenNames": [
+      "Anya"
+    ],
+    "familyName": "Kamenetz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Kamenetz",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "NPR correspondent",
+      "Author of several books on education and technology"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Leland Stanford",
+    "givenNames": [
+      "Amasa",
+      "Leland"
+    ],
+    "familyName": "Stanford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leland_Stanford",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Co-founder of the Central Pacific Railroad",
+      "Governor of California (1861-1862)",
+      "Founder of Stanford University"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1893
+  }
+]

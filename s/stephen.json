@@ -1,0 +1,79 @@
+[
+  {
+    "fullName": "Stephen Hawking",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Hawking",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "occupation": "Physicist, Cosmologist",
+    "achievements": [
+      "Groundbreaking work on black holes and quantum gravity",
+      "Author of the bestselling book 'A Brief History of Time'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Stephen King",
+    "givenNames": [
+      "Stephen",
+      "Edwin"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_King",
+    "occupation": "Author",
+    "achievements": [
+      "Master of horror fiction",
+      "Prolific writer with numerous bestselling novels and short stories"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Stephen Spielberg",
+    "givenNames": [
+      "Steven",
+      "Allan"
+    ],
+    "familyName": "Spielberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+    "occupation": "Film Director, Producer",
+    "achievements": [
+      "Acclaimed director of blockbuster films like 'Jaws', 'E.T.', and 'Jurassic Park'",
+      "Winner of multiple Academy Awards"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Stephen Colbert",
+    "givenNames": [
+      "Stephen",
+      "Tyrone"
+    ],
+    "familyName": "Colbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Colbert",
+    "occupation": "Comedian, Television Host",
+    "achievements": [
+      "Host of 'The Colbert Report' and 'The Late Show with Stephen Colbert'",
+      "Known for his satirical humor and political commentary"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Stephen Curry",
+    "givenNames": [
+      "Wardell",
+      "Stephen"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Curry",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA champion with the Golden State Warriors",
+      "Two-time NBA Most Valuable Player",
+      "Considered one of the greatest shooters in basketball history"
+    ],
+    "yearBorn": 1988
+  }
+]

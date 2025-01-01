@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Vivien Leigh",
+    "givenNames": [
+      "Vivien"
+    ],
+    "familyName": "Leigh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivien_Leigh",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (twice)",
+      "Known for her roles in 'Gone with the Wind' and 'A Streetcar Named Desire'"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Vivien Maier",
+    "givenNames": [
+      "Vivian",
+      "Dorothy"
+    ],
+    "familyName": "Maier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivian_Maier",
+    "occupation": "Street photographer",
+    "achievements": [
+      "Her work was discovered posthumously and gained international acclaim.",
+      "Known for her candid street photography documenting everyday life in Chicago and New York City."
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2009
+  }
+]

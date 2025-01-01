@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Valentina Tereshkova",
+    "givenNames": [
+      "Valentina",
+      "Vladimirovna"
+    ],
+    "familyName": "Tereshkova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+    "occupation": "Cosmonaut",
+    "achievements": [
+      "First woman in space"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Valentina Shevchenko",
+    "givenNames": [
+      "Valentina"
+    ],
+    "familyName": "Shevchenko",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentina_Shevchenko",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "Former UFC Women's Flyweight Champion",
+      "Multiple-time Muay Thai and kickboxing champion"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Valentina Lisitsa",
+    "givenNames": [
+      "Valentina",
+      "Yevhenivna"
+    ],
+    "familyName": "Lisitsa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentina_Lisitsa",
+    "occupation": "Pianist",
+    "achievements": [
+      "Known for her virtuosity and expressive performances",
+      "Popular YouTube channel showcasing her music"
+    ],
+    "yearBorn": 1973
+  }
+]

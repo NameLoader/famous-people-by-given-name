@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Myra Hess",
+    "givenNames": [
+      "Myra",
+      "Julia"
+    ],
+    "familyName": "Hess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myra_Hess",
+    "occupation": "Pianist",
+    "achievements": [
+      "Renowned classical pianist",
+      "Known for her interpretations of Bach and Schubert"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Myra Breckinridge",
+    "givenNames": [
+      "Myra"
+    ],
+    "familyName": "Breckinridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myra_Breckinridge",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Gore Vidal's satirical novel Myra Breckinridge (1968)"
+    ]
+  }
+]

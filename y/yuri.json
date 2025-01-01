@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Yuri Gagarin",
+    "givenNames": [
+      "Yuri",
+      "Alekseyevich"
+    ],
+    "familyName": "Gagarin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+    "occupation": "Cosmonaut",
+    "achievements": [
+      "First human to journey into outer space"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Yuri Averbakh",
+    "givenNames": [
+      "Yuri",
+      "Lvovich"
+    ],
+    "familyName": "Averbakh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Averbakh",
+    "occupation": "Chess Grandmaster",
+    "achievements": [
+      "World Chess Championship candidate (1954)",
+      "Soviet Chess Champion (1951)"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Yuri Bezmenov",
+    "givenNames": [
+      "Yuri",
+      "Alexandrovich"
+    ],
+    "familyName": "Bezmenov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Bezmenov",
+    "occupation": "Soviet journalist, KGB defector",
+    "achievements": [
+      "Provided insights into Soviet disinformation tactics",
+      "Author of 'Love Letter to America'"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1993
+  }
+]

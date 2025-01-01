@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Noam Chomsky",
+    "givenNames": [
+      "Noam",
+      "Avram"
+    ],
+    "familyName": "Chomsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noam_Chomsky",
+    "occupation": "Linguist, philosopher, cognitive scientist, historian, social critic, and political activist",
+    "achievements": [
+      "Revolutionized the field of linguistics with his theory of generative grammar",
+      "Prominent political activist and critic of U.S. foreign policy"
+    ],
+    "yearBorn": 1928
+  }
+]

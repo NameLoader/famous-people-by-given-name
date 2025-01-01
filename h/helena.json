@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Helena Bonham Carter",
+    "givenNames": [
+      "Helena"
+    ],
+    "familyName": "Bonham Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award and BAFTA nominations",
+      "Known for roles in films like 'Fight Club', 'Harry Potter' series, and 'The King's Speech'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Helena Rubinstein",
+    "givenNames": [
+      "Helena"
+    ],
+    "familyName": "Rubinstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Rubinstein",
+    "occupation": "Entrepreneur, Cosmetics magnate",
+    "achievements": [
+      "Founded Helena Rubinstein Incorporated, a pioneering cosmetics company",
+      "Known for revolutionizing the beauty industry and empowering women through self-care"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Helena Petrovna Blavatsky",
+    "givenNames": [
+      "Helena",
+      "Petrovna"
+    ],
+    "familyName": "Blavatsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Blavatsky",
+    "occupation": "Philosopher, Occultist",
+    "achievements": [
+      "Co-founded the Theosophical Society",
+      "Promoted Eastern mysticism and esoteric teachings in the West"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Helena Christensen",
+    "givenNames": [
+      "Helena"
+    ],
+    "familyName": "Christensen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helena_Christensen",
+    "occupation": "Model, Actress, Photographer",
+    "achievements": [
+      "Supermodel in the 1990s, known for campaigns with Victoria's Secret and Revlon",
+      "Has pursued acting roles and photography"
+    ],
+    "yearBorn": 1968
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Sofia Vergara",
+    "givenNames": [
+      "Sofía",
+      "Margarita"
+    ],
+    "familyName": "Vergara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sof%C3%ADa_Vergara",
+    "occupation": "Actress, model, television host",
+    "achievements": [
+      "Known for her role as Gloria Delgado-Pritchett in the ABC sitcom Modern Family",
+      "One of the highest-paid actresses in the world"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Sofia Coppola",
+    "givenNames": [
+      "Sofia",
+      "Carmina"
+    ],
+    "familyName": "Coppola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia_Coppola",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Academy Award-nominated screenwriter and director",
+      "Known for films such as Lost in Translation, The Virgin Suicides, and Marie Antoinette"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Sofia Boutella",
+    "givenNames": [
+      "Sofia"
+    ],
+    "familyName": "Boutella",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia_Boutella",
+    "occupation": "Actress, dancer",
+    "achievements": [
+      "Known for roles in films such as Kingsman: The Secret Service and Star Trek Beyond",
+      "Former professional dancer who has worked with Madonna and Rihanna"
+    ],
+    "yearBorn": 1982
+  }
+]

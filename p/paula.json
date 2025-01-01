@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Paula Abdul",
+    "givenNames": [
+      "Paula",
+      "Julie"
+    ],
+    "familyName": "Abdul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paula_Abdul",
+    "occupation": "Singer, Dancer, Choreographer, Actress",
+    "achievements": [
+      "Multi-platinum selling recording artist",
+      "Grammy Award winner",
+      "Emmy Award nominee for Outstanding Choreography"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Paula Radcliffe",
+    "givenNames": [
+      "Paula",
+      "Jane"
+    ],
+    "familyName": "Radcliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paula_Radcliffe",
+    "occupation": "Marathon runner",
+    "achievements": [
+      "Former world record holder in the marathon",
+      "Three-time London Marathon winner",
+      "World Champion in the marathon"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Paula Patton",
+    "givenNames": [
+      "Paula",
+      "Maxine"
+    ],
+    "familyName": "Patton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paula_Patton",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Known for roles in films like 'Precious' and 'Mission: Impossible – Ghost Protocol'",
+      "Nominated for a NAACP Image Award for Outstanding Actress in a Motion Picture"
+    ],
+    "yearBorn": 1975
+  }
+]

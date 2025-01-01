@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Ludwig van Beethoven",
+    "givenNames": [
+      "Ludwig",
+      "van"
+    ],
+    "familyName": "Beethoven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the most influential figures in Western music history.",
+      "Bridged the Classical and Romantic periods.",
+      "Composed iconic works like symphonies, piano sonatas, concertos, and string quartets."
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1827
+  },
+  {
+    "fullName": "Ludwig Wittgenstein",
+    "givenNames": [
+      "Ludwig",
+      "Josef",
+      "Johann"
+    ],
+    "familyName": "Wittgenstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+    "occupation": "Philosopher",
+    "achievements": [
+      "One of the most important philosophers of the 20th century.",
+      "Made significant contributions to logic, language, and the philosophy of mind."
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1951
+  }
+]

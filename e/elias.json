@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Elias Howe",
+    "givenNames": [
+      "Elias"
+    ],
+    "familyName": "Howe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Howe",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the sewing machine",
+      "Revolutionized the textile industry"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1867
+  },
+  {
+    "fullName": "Elias Canetti",
+    "givenNames": [
+      "Elias"
+    ],
+    "familyName": "Canetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Canetti",
+    "occupation": "Novelist, playwright, essayist",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1981",
+      "Known for his works such as 'Auto-da-Fé'"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Elias Boudinot",
+    "givenNames": [
+      "Elias"
+    ],
+    "familyName": "Boudinot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Boudinot",
+    "occupation": "Politician, Founding Father of the United States",
+    "achievements": [
+      "Signed the Treaty of Paris (1783) which ended the American Revolutionary War",
+      "Served as President of the Continental Congress"
+    ],
+    "yearBorn": 1740,
+    "yearDied": 1821
+  }
+]

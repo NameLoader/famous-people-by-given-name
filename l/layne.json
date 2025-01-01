@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Layne Staley",
+    "givenNames": [
+      "Layne",
+      "Thomas"
+    ],
+    "familyName": "Staley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Layne_Staley",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Lead vocalist for the grunge band Alice in Chains",
+      "Known for his distinctive vocal style and haunting lyrics"
+    ],
+    "yearBorn": 1967,
+    "yearDied": 2002
+  }
+]

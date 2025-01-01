@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Rupert Murdoch",
+    "givenNames": [
+      "Rupert"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Murdoch",
+    "occupation": "Media Mogul",
+    "achievements": [
+      "Founded News Corporation",
+      "Owns a vast media empire including Fox News, The Wall Street Journal, and HarperCollins"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Rupert Everett",
+    "givenNames": [
+      "Rupert",
+      "James",
+      "Hector"
+    ],
+    "familyName": "Everett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Everett",
+    "occupation": "Actor, Writer, Director",
+    "achievements": [
+      "Starred in films like 'My Best Friend's Wedding', 'The Importance of Being Earnest'",
+      "Nominated for Golden Globe Award for Best Actor"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Rupert Grint",
+    "givenNames": [
+      "Rupert",
+      "Alexander",
+      "Lloyd"
+    ],
+    "familyName": "Grint",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Grint",
+    "occupation": "Actor",
+    "achievements": [
+      "Played Ron Weasley in the 'Harry Potter' film series"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Rupert Sheldrake",
+    "givenNames": [
+      "Rupert",
+      "Alfred"
+    ],
+    "familyName": "Sheldrake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+    "occupation": "Biologist, Author",
+    "achievements": [
+      "Known for his controversial theories on morphic resonance and animal telepathy"
+    ],
+    "yearBorn": 1942
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Carly Simon",
+    "givenNames": [
+      "Carly",
+      "Elisabeth"
+    ],
+    "familyName": "Simon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carly_Simon",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Hit songs 'You're So Vain' and 'Anticipation'",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1943
+  }
+]

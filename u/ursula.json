@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Ursula K. Le Guin",
+    "givenNames": [
+      "Ursula",
+      "Kroeber"
+    ],
+    "familyName": "Le Guin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+    "occupation": "Writer",
+    "achievements": [
+      "Award-winning science fiction and fantasy author",
+      "Known for works like 'The Left Hand of Darkness' and 'Earthsea' series"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Ursula Andress",
+    "givenNames": [
+      "Ursula"
+    ],
+    "familyName": "Andress",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursula_Andress",
+    "occupation": "Actress",
+    "achievements": [
+      "First Bond girl in 'Dr. No' (1962)",
+      "Appeared in films like 'Clash of the Titans' and 'She'"
+    ],
+    "yearBorn": 1936
+  },
+  {
+    "fullName": "Ursula von der Leyen",
+    "givenNames": [
+      "Ursula",
+      "Gertrud"
+    ],
+    "familyName": "von der Leyen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen",
+    "occupation": "Politician",
+    "achievements": [
+      "Current President of the European Commission",
+      "First woman to hold this position"
+    ],
+    "yearBorn": 1958
+  }
+]

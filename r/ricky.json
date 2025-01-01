@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ricky Gervais",
+    "givenNames": [
+      "Ricky",
+      "Dene"
+    ],
+    "familyName": "Gervais",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricky_Gervais",
+    "occupation": "Comedian, Actor, Writer, Director",
+    "achievements": [
+      "Golden Globe Awards Winner",
+      "Emmy Award Nominee",
+      "Known for 'The Office' and 'Extras'"
+    ],
+    "yearBorn": 1962
+  }
+]

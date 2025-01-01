@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Tracy Morgan",
+    "givenNames": [
+      "Tracy",
+      "Jamal"
+    ],
+    "familyName": "Morgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracy_Morgan",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Saturday Night Live cast member",
+      "Star of '30 Rock' and 'The Last O.G.'"
+    ],
+    "yearBorn": 1968
+  }
+]

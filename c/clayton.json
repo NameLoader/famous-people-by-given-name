@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Clayton Kershaw",
+    "givenNames": [
+      "Clayton",
+      "Edward"
+    ],
+    "familyName": "Kershaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clayton_Kershaw",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "3x Cy Young Award Winner",
+      "World Series Champion (2020)",
+      "9x MLB All-Star"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Clayton Christensen",
+    "givenNames": [
+      "Clayton",
+      "Magleby"
+    ],
+    "familyName": "Christensen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clayton_Christensen",
+    "occupation": "Business Professor and Author",
+    "achievements": [
+      "Developed the theory of disruptive innovation",
+      "Authored influential business books such as 'The Innovator's Dilemma'"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2020
+  }
+]

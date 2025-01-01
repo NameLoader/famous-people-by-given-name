@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Olga Korbut",
+    "givenNames": [
+      "Olga",
+      "Valentinovna"
+    ],
+    "familyName": "Korbut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olga_Korbut",
+    "occupation": "Gymnast",
+    "achievements": [
+      "Four-time Olympic gold medalist",
+      "Known for her innovative and daring gymnastics routines"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Olga Tokarczuk",
+    "givenNames": [
+      "Olga",
+      "Nawoja"
+    ],
+    "familyName": "Tokarczuk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olga_Tokarczuk",
+    "occupation": "Writer",
+    "achievements": [
+      "Winner of the 2018 Nobel Prize in Literature",
+      "Known for her novels exploring themes of identity, history, and morality"
+    ],
+    "yearBorn": 1962
+  }
+]

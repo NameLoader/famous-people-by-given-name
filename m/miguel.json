@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Miguel Cabrera",
+    "givenNames": [
+      "Miguel",
+      "José"
+    ],
+    "familyName": "Cabrera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Cabrera",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "Two-time American League Most Valuable Player (2012, 2013)",
+      "Four-time Silver Slugger Award winner"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Blake Lively",
+    "givenNames": [
+      "Blake",
+      "Ellender"
+    ],
+    "familyName": "Lively",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blake_Lively",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the CW teen drama series Gossip Girl",
+      "Appeared in films such as The Sisterhood of the Traveling Pants, The Age of Adaline, and A Simple Favor"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Blake Shelton",
+    "givenNames": [
+      "Blake",
+      "Tollison"
+    ],
+    "familyName": "Shelton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blake_Shelton",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Won nine Grammy Awards nominations",
+      "Served as a coach on the singing competition show The Voice"
+    ],
+    "yearBorn": 1976
+  }
+]

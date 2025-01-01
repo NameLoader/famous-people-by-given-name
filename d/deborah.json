@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Deborah Kerr",
+    "givenNames": [
+      "Deborah"
+    ],
+    "familyName": "Kerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Kerr",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee",
+      "Golden Globe Award winner"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Deborah Lipstadt",
+    "givenNames": [
+      "Deborah",
+      "Esther"
+    ],
+    "familyName": "Lipstadt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Lipstadt",
+    "occupation": "Historian",
+    "achievements": [
+      "Expert on Holocaust denial",
+      "Won libel case against David Irving"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Deborah Harry",
+    "givenNames": [
+      "Deborah",
+      "Ann"
+    ],
+    "familyName": "Harry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debbie_Harry",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Lead singer of Blondie",
+      "Punk and New Wave icon"
+    ],
+    "yearBorn": 1945
+  }
+]

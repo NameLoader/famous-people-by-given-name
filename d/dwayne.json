@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Dwayne Johnson",
+    "givenNames": [
+      "Dwayne",
+      "Douglas"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+    "occupation": "Actor, Producer, Former Professional Wrestler",
+    "achievements": [
+      "Highest-paid actor in the world (multiple years)",
+      "WWE Champion multiple times",
+      "Starred in blockbuster films like 'Jumanji', 'Fast & Furious' franchise"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Dwayne Wade",
+    "givenNames": [
+      "Dwyane",
+      "Tyrone"
+    ],
+    "familyName": "Wade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwyane_Wade",
+    "occupation": "Retired Professional Basketball Player",
+    "achievements": [
+      "3x NBA Champion (Miami Heat)",
+      "13x NBA All-Star",
+      "NBA Finals MVP (2006)"
+    ],
+    "yearBorn": 1982
+  }
+]

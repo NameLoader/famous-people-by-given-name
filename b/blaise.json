@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Blaise Pascal",
+    "givenNames": [
+      "Blaise"
+    ],
+    "familyName": "Pascal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+    "occupation": "Mathematician, physicist, inventor, writer and Catholic philosopher",
+    "achievements": [
+      "Pascal's Triangle",
+      "Pascal's Law",
+      "Development of the first mechanical calculator",
+      "Contributions to probability theory"
+    ],
+    "yearBorn": 1623,
+    "yearDied": 1662
+  },
+  {
+    "fullName": "Blaise Compaoré",
+    "givenNames": [
+      "Blaise"
+    ],
+    "familyName": "Compaoré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Compaor%C3%A9",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Burkina Faso (1987-2014)"
+    ],
+    "yearBorn": 1950
+  }
+]

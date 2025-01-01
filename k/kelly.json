@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Kelly Clarkson",
+    "givenNames": [
+      "Kelly",
+      "Brianne"
+    ],
+    "familyName": "Clarkson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelly_Clarkson",
+    "occupation": "Singer, songwriter, television personality",
+    "achievements": [
+      "Won the first season of American Idol",
+      "Grammy Award winner",
+      "Multi-platinum selling artist"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Kelly Ripa",
+    "givenNames": [
+      "Kelly",
+      "Maria"
+    ],
+    "familyName": "Ripa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelly_Ripa",
+    "occupation": "Actress, television presenter",
+    "achievements": [
+      "Known for her role on the soap opera All My Children",
+      "Co-host of the talk show Live! with Kelly and Ryan"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Kelly Slater",
+    "givenNames": [
+      "Robert",
+      "Kelly"
+    ],
+    "familyName": "Slater",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelly_Slater",
+    "occupation": "Professional surfer",
+    "achievements": [
+      "11-time World Surf League champion",
+      "Widely regarded as the greatest surfer of all time"
+    ],
+    "yearBorn": 1972
+  }
+]

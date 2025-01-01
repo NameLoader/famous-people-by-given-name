@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Cheryl Ladd",
+    "givenNames": [
+      "Cheryl"
+    ],
+    "familyName": "Ladd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Ladd",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Kris Munroe in the television series Charlie's Angels.",
+      "Nominated for a Golden Globe Award."
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Cheryl Hines",
+    "givenNames": [
+      "Cheryl",
+      "Ruth"
+    ],
+    "familyName": "Hines",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Hines",
+    "occupation": "Actress, comedian, director",
+    "achievements": [
+      "Known for her role as Cheryl David in the HBO comedy series Curb Your Enthusiasm.",
+      "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series."
+    ],
+    "yearBorn": 1965
+  }
+]

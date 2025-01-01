@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Norma Shearer",
+    "givenNames": [
+      "Edith",
+      "Norma"
+    ],
+    "familyName": "Shearer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norma_Shearer",
+    "occupation": "Actress",
+    "achievements": [
+      "Leading lady of Hollywood in the 1920s and 1930s",
+      "Won an Academy Award for Best Actress for 'The Divorcee'"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Norma McCorvey",
+    "givenNames": [
+      "Norma",
+      "Leah",
+      "Nelson"
+    ],
+    "familyName": "McCorvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norma_McCorvey",
+    "occupation": "Activist",
+    "achievements": [
+      "Plaintiff in the landmark Roe v. Wade Supreme Court case that legalized abortion in the United States"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2017
+  }
+]

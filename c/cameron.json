@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Cameron Diaz",
+    "givenNames": [
+      "Cameron",
+      "Michelle"
+    ],
+    "familyName": "Diaz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Diaz",
+    "occupation": "Actress, Producer",
+    "achievements": [],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Cameron Douglas",
+    "givenNames": [
+      "Cameron",
+      "Morrell"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Douglas",
+    "occupation": "Actor",
+    "achievements": [],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Cameron Crowe",
+    "givenNames": [
+      "Cameron",
+      "Bruce"
+    ],
+    "familyName": "Crowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Crowe",
+    "occupation": "Filmmaker, Writer",
+    "achievements": [],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Cameron Smith",
+    "givenNames": [
+      "Cameron"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Smith_(golfer)",
+    "occupation": "Professional Golfer",
+    "achievements": [],
+    "yearBorn": 1993
+  }
+]

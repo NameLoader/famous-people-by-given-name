@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Harriett Beecher Stowe",
+    "givenNames": [
+      "Harriet",
+      "Elisabeth",
+      "Beecher"
+    ],
+    "familyName": "Stowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe",
+    "occupation": "Novelist, abolitionist",
+    "achievements": [
+      "Authored the influential anti-slavery novel 'Uncle Tom's Cabin'"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "Harriett Tubman",
+    "givenNames": [
+      "Harriet"
+    ],
+    "familyName": "Tubman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+    "occupation": "Abolitionist, conductor on the Underground Railroad, spy",
+    "achievements": [
+      "Led hundreds of enslaved people to freedom through the Underground Railroad",
+      "Served as a scout and spy for the Union Army during the Civil War"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1913
+  }
+]

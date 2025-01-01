@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lachlan Macquarie",
+    "givenNames": [
+      "Lachlan"
+    ],
+    "familyName": "Macquarie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lachlan_Macquarie",
+    "occupation": "Military officer, Governor of New South Wales",
+    "achievements": [
+      "Known as the 'Father of Australia'",
+      "Oversaw significant infrastructure development in Sydney and other parts of the colony"
+    ],
+    "yearBorn": 1762,
+    "yearDied": 1824
+  },
+  {
+    "fullName": "Lachlan Murdoch",
+    "givenNames": [
+      "Lachlan",
+      "Keith"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lachlan_Murdoch",
+    "occupation": "Business executive",
+    "achievements": [
+      "Co-Chairman of News Corp",
+      "CEO of Fox Corporation"
+    ],
+    "yearBorn": 1971
+  }
+]

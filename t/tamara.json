@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Tamara Press",
+    "givenNames": [
+      "Tamara",
+      "Natanovna"
+    ],
+    "familyName": "Press",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Press",
+    "occupation": "Athlete",
+    "achievements": [
+      "Olympic champion in shot put and discus throw",
+      "Held multiple world records in shot put and discus throw"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Tamara Tunie",
+    "givenNames": [
+      "Tamara"
+    ],
+    "familyName": "Tunie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Tunie",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Broadway productions and television shows like 'Law & Order: Special Victims Unit'",
+      "Tony Award nominee for Best Featured Actress in a Play"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Tamara Rojo",
+    "givenNames": [
+      "Tamara"
+    ],
+    "familyName": "Rojo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Rojo",
+    "occupation": "Ballet dancer and choreographer",
+    "achievements": [
+      "Principal dancer with the English National Ballet and The Royal Ballet",
+      "Artistic director of English National Ballet"
+    ],
+    "yearBorn": 1974
+  }
+]

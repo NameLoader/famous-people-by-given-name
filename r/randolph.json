@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Randolph Bourne",
+    "givenNames": [
+      "Randolph",
+      "Silliman"
+    ],
+    "familyName": "Bourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randolph_Bourne",
+    "occupation": "Writer, essayist",
+    "achievements": [
+      "Advocate for pacifism and internationalism",
+      "Known for his essays on social and political issues"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Randolph Scott",
+    "givenNames": [
+      "Randolph",
+      "George"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randolph_Scott",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous Western films during the Golden Age of Hollywood",
+      "Known for his stoic demeanor and rugged good looks"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1987
+  }
+]

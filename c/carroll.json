@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Carroll O'Connor",
+    "givenNames": [
+      "Carroll"
+    ],
+    "familyName": "O'Connor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carroll_O%27Connor",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known for his role as Archie Bunker in the sitcom 'All in the Family'",
+      "Won four Primetime Emmy Awards"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Carroll Shelby",
+    "givenNames": [
+      "Carroll",
+      "Hall"
+    ],
+    "familyName": "Shelby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carroll_Shelby",
+    "occupation": "Automotive designer, racing driver",
+    "achievements": [
+      "Founded Shelby American, a high-performance car manufacturer",
+      "Designed iconic cars like the Shelby Cobra and Shelby Mustang"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2012
+  }
+]

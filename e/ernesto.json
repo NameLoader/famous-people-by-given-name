@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ernesto Guevara",
+    "givenNames": [
+      "Ernesto",
+      "Che"
+    ],
+    "familyName": "Guevara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Che_Guevara",
+    "occupation": "Marxist revolutionary, guerrilla leader, physician, and author",
+    "achievements": [
+      "Key figure in the Cuban Revolution",
+      "Became a global icon of rebellion"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Ernesto Sabato",
+    "givenNames": [
+      "Ernesto"
+    ],
+    "familyName": "Sabato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernesto_Sabato",
+    "occupation": "Writer, painter and physicist",
+    "achievements": [
+      "Won the Cervantes Prize in 1984",
+      "Known for his novels such as 'On Heroes and Tombs'"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 2011
+  }
+]

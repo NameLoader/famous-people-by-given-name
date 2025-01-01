@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Candice Bergen",
+    "givenNames": [
+      "Candice",
+      "Patricia"
+    ],
+    "familyName": "Bergen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Candice_Bergen",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Five Primetime Emmy Awards"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Candice Swanepoel",
+    "givenNames": [
+      "Candice",
+      "Susan"
+    ],
+    "familyName": "Swanepoel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Candice_Swanepoel",
+    "occupation": "Model",
+    "achievements": [
+      "Victoria's Secret Angel (2010-2018)",
+      "Forbes highest-paid models list"
+    ],
+    "yearBorn": 1988
+  }
+]

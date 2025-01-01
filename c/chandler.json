@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Chandler Bing",
+    "givenNames": [
+      "Chandler",
+      "Muriel"
+    ],
+    "familyName": "Bing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chandler_Bing",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Became a beloved character on the sitcom 'Friends'",
+      "Known for his sarcastic wit and awkward charm"
+    ]
+  },
+  {
+    "fullName": "Chandler Parsons",
+    "givenNames": [
+      "Chandler",
+      "Evan"
+    ],
+    "familyName": "Parsons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chandler_Parsons",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "Played in the NBA for teams like the Houston Rockets and Memphis Grizzlies",
+      "Two-time NBA All-Star"
+    ],
+    "yearBorn": 1988
+  }
+]

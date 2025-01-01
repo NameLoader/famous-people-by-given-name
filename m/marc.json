@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Marc Chagall",
+    "givenNames": [
+      "Marc",
+      "Moishe"
+    ],
+    "familyName": "Chagall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Chagall",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneer of modernism",
+      "Known for vibrant colors and dreamlike imagery"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Marc Jacobs",
+    "givenNames": [
+      "Marc"
+    ],
+    "familyName": "Jacobs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Jacobs",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Known for his avant-garde designs",
+      "Creative director of Louis Vuitton"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Marc Andreessen",
+    "givenNames": [
+      "Marc",
+      "Lowell"
+    ],
+    "familyName": "Andreessen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Andreessen",
+    "occupation": "Entrepreneur, Venture Capitalist",
+    "achievements": [
+      "Co-author of the Mosaic web browser",
+      "Co-founder of Netscape Communications and Andreessen Horowitz"
+    ],
+    "yearBorn": 1971
+  }
+]

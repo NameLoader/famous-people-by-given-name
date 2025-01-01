@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Zohra Sehgal",
+    "givenNames": [
+      "Zohra",
+      "Mumtaz"
+    ],
+    "familyName": "Sehgal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zohra_Sehgal",
+    "occupation": "Actress",
+    "achievements": [
+      "Pioneer of Indian theatre and cinema",
+      "Padma Shri and Padma Vibhushan awardee"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Zohra Lampert",
+    "givenNames": [
+      "Zohra"
+    ],
+    "familyName": "Lampert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zohra_Lampert",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in independent and experimental films"
+    ],
+    "yearBorn": 1943
+  }
+]

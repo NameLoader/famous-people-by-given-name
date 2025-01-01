@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Isidor Isaac Rabi",
+    "givenNames": [
+      "Isidor",
+      "Isaac"
+    ],
+    "familyName": "Rabi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isidor_Isaac_Rabi",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1944)",
+      "Developed the molecular beam method for studying atomic and molecular structure"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Isidor Straus",
+    "givenNames": [
+      "Isidor"
+    ],
+    "familyName": "Straus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isidor_Straus",
+    "occupation": "Businessman, co-owner of Macy's",
+    "achievements": [
+      "Helped build Macy's into a successful department store chain",
+      "Died with his wife Ida on the Titanic"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1912
+  }
+]

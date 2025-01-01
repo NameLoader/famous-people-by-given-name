@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Kirsten Dunst",
+    "givenNames": [
+      "Kirsten",
+      "Caroline"
+    ],
+    "familyName": "Dunst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress (Melancholia)",
+      "Golden Globe Award for Best Actress – Miniseries or Television Film (Fargo)"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Kirsten Gillibrand",
+    "givenNames": [
+      "Kirsten",
+      "Elizabeth"
+    ],
+    "familyName": "Gillibrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirsten_Gillibrand",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Senator from New York since 2009",
+      "Advocate for women's rights and family leave policies"
+    ],
+    "yearBorn": 1966
+  }
+]

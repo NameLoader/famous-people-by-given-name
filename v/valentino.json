@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Valentino Rossi",
+    "givenNames": [
+      "Valentino"
+    ],
+    "familyName": "Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentino_Rossi",
+    "occupation": "Motorcycle racer",
+    "achievements": [
+      "9-time Grand Prix Motorcycle Racing World Champion",
+      "Considered one of the greatest motorcycle racers of all time"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Valentino Garavani",
+    "givenNames": [
+      "Valentino",
+      "Clemente",
+      "Ludovico"
+    ],
+    "familyName": "Garavani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentino_(fashion_designer)",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Founded the Valentino fashion house",
+      "Known for his elegant and sophisticated designs"
+    ],
+    "yearBorn": 1932
+  }
+]

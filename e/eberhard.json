@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Eberhard Jüngel",
+    "givenNames": [
+      "Eberhard"
+    ],
+    "familyName": "Jüngel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eberhard_J%C3%BCngel",
+    "occupation": "Theologian",
+    "achievements": [
+      "Influential Protestant theologian",
+      "Known for his work on hermeneutics and the philosophy of religion"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Eberhard Bethge",
+    "givenNames": [
+      "Eberhard"
+    ],
+    "familyName": "Bethge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eberhard_Bethge",
+    "occupation": "Theologian, Pastor",
+    "achievements": [
+      "Close friend and confidant of Dietrich Bonhoeffer",
+      "Editor of Bonhoeffer's collected works",
+      "Prominent voice in the German resistance against Nazi rule"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 2000
+  }
+]

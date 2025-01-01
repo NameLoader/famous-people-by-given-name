@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Angus Young",
+    "givenNames": [
+      "Angus",
+      "McKinnon"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angus_Young",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead guitarist of the Australian rock band AC/DC",
+      "Known for his energetic stage presence and schoolboy uniform"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Angus MacGyver",
+    "givenNames": [
+      "Angus",
+      "Mac"
+    ],
+    "familyName": "MacGyver",
+    "wikipedia": "https://en.wikipedia.org/wiki/MacGyver",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the television series MacGyver",
+      "Known for his ability to solve problems using everyday objects"
+    ]
+  },
+  {
+    "fullName": "Angus Deaton",
+    "givenNames": [
+      "Angus",
+      "Stewart"
+    ],
+    "familyName": "Deaton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angus_Deaton",
+    "occupation": "Economist",
+    "achievements": [
+      "2015 Nobel Memorial Prize in Economic Sciences for his analysis of consumption, poverty, and welfare"
+    ],
+    "yearBorn": 1945
+  }
+]

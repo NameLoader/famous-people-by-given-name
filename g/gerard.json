@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Gerard Butler",
+    "givenNames": [
+      "Gerard",
+      "James"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Butler",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like '300', 'Phantom of the Opera', and 'Olympus Has Fallen'"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Gerard Way",
+    "givenNames": [
+      "Gerard",
+      "Arthur"
+    ],
+    "familyName": "Way",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Way",
+    "occupation": "Singer, Songwriter, Comic Book Writer",
+    "achievements": [
+      "Lead vocalist of the rock band My Chemical Romance",
+      "Created the comic book series 'The Umbrella Academy'"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Gerard Piqué",
+    "givenNames": [
+      "Gerard"
+    ],
+    "familyName": "Piqué",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9",
+    "occupation": "Professional Footballer (Retired)",
+    "achievements": [
+      "Won the FIFA World Cup with Spain in 2010",
+      "Won multiple La Liga and Champions League titles with FC Barcelona"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Gerard Depardieu",
+    "givenNames": [
+      "Gerard",
+      "Xavier",
+      "Marcel"
+    ],
+    "familyName": "Depardieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Depardieu",
+    "occupation": "Actor",
+    "achievements": [
+      "Acclaimed French actor known for roles in films like 'Cyrano de Bergerac' and 'Green Card'"
+    ],
+    "yearBorn": 1948
+  }
+]

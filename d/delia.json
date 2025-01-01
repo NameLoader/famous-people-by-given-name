@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Delia Derbyshire",
+    "givenNames": [
+      "Delia",
+      "Ann"
+    ],
+    "familyName": "Derbyshire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delia_Derbyshire",
+    "occupation": "Electronic music composer",
+    "achievements": [
+      "Pioneer of electronic music",
+      "Created the iconic theme music for the BBC science fiction series 'Doctor Who'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Delia Smith",
+    "givenNames": [
+      "Delia",
+      "Ann"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delia_Smith",
+    "occupation": "Chef, cookbook author, and television personality",
+    "achievements": [
+      "One of the UK's most influential and beloved cooks",
+      "Published numerous bestselling cookbooks",
+      "Known for her simple and accessible recipes"
+    ],
+    "yearBorn": 1941
+  }
+]

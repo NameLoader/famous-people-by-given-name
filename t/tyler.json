@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Tyler Perry",
+    "givenNames": [
+      "Tyler"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Perry",
+    "occupation": "Actor, director, screenwriter, producer, playwright",
+    "achievements": [
+      "Created the Madea character",
+      "Founded Tyler Perry Studios",
+      "One of the highest-grossing filmmakers in history"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Tyler Seguin",
+    "givenNames": [
+      "Tyler",
+      "Paul"
+    ],
+    "familyName": "Seguin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Seguin",
+    "occupation": "Professional ice hockey player",
+    "achievements": [
+      "Stanley Cup champion (2011)",
+      "All-Star Game selection (2014)"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Tyler, the Creator",
+    "givenNames": [
+      "Tyler",
+      "Gregory"
+    ],
+    "familyName": "Okonma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler,_the_Creator",
+    "occupation": "Rapper, singer, songwriter, record producer",
+    "achievements": [
+      "Grammy Award winner (Best Rap Album)",
+      "Founder of Odd Future"
+    ],
+    "yearBorn": 1991
+  }
+]

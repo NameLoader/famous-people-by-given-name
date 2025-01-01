@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Deanna Durbin",
+    "givenNames": [
+      "Deanna"
+    ],
+    "familyName": "Durbin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deanna_Durbin",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Child star of Hollywood's Golden Age",
+      "Known for roles in musicals and romantic comedies",
+      "Won Academy Award for Best Actress nomination"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Deanna Troi",
+    "givenNames": [
+      "Deanna"
+    ],
+    "familyName": "Troi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deanna_Troi",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Counselor on the starship USS Enterprise-D in Star Trek: The Next Generation"
+    ]
+  }
+]

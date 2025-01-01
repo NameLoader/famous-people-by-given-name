@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Diana, Princess of Wales",
+    "givenNames": [
+      "Diana",
+      "Frances"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
+    "occupation": "Royalty, Philanthropist",
+    "achievements": [
+      "Known for her humanitarian work and advocacy for causes such as AIDS awareness and landmine eradication.",
+      "Became a global icon for her style, charisma, and compassion."
+    ],
+    "yearBorn": 1961,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Diana Ross",
+    "givenNames": [
+      "Diana"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Ross",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Led the Motown group The Supremes to international fame.",
+      "Successful solo career with numerous hit songs.",
+      "Academy Award nomination for her role in the film 'Lady Sings the Blues'."
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Diana Gabaldon",
+    "givenNames": [
+      "Diana",
+      "J"
+    ],
+    "familyName": "Gabaldon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Gabaldon",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of the historical romance and time travel series 'Outlander'."
+    ],
+    "yearBorn": 1952
+  }
+]

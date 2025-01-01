@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Mina Harker",
+    "givenNames": [
+      "Mina",
+      "Wilhelmina"
+    ],
+    "familyName": "Harker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mina_Harker",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist in Bram Stoker's novel Dracula",
+      "Symbol of Victorian femininity and resilience"
+    ]
+  },
+  {
+    "fullName": "Mina Loy",
+    "givenNames": [
+      "Mina"
+    ],
+    "familyName": "Loy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mina_Loy",
+    "occupation": "Poet, Novelist, Painter",
+    "achievements": [
+      "Key figure in the modernist movement",
+      "Known for experimental poetry and feminist themes"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Mina Kimes",
+    "givenNames": [
+      "Mina",
+      "Mugil"
+    ],
+    "familyName": "Kimes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mina_Kimes",
+    "occupation": "Sports Journalist, Television Personality",
+    "achievements": [
+      "Senior Writer for ESPN",
+      "Regular commentator on NFL Live and other ESPN programs"
+    ]
+  }
+]

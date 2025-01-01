@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Benedict Cumberbatch",
+    "givenNames": [
+      "Benedict",
+      "Timothy",
+      "Carlton"
+    ],
+    "familyName": "Cumberbatch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch",
+    "occupation": "Actor",
+    "achievements": [
+      "BAFTA Award winner",
+      "Emmy Award nominee",
+      "Known for roles in Sherlock, Doctor Strange, The Imitation Game"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Benedict Arnold",
+    "givenNames": [
+      "Benedict"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Arnold",
+    "occupation": "Military Officer",
+    "achievements": [
+      "American Revolutionary War general",
+      "Later defected to the British side"
+    ],
+    "yearBorn": 1741,
+    "yearDied": 1801
+  }
+]

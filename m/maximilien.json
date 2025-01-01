@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Maximilien Robespierre",
+    "givenNames": [
+      "Maximilien",
+      "François",
+      "Marie",
+      "Isidore"
+    ],
+    "familyName": "Robespierre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Key figure in the French Revolution",
+      "Leader of the Reign of Terror",
+      "Advocate for social justice and equality"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1794
+  }
+]

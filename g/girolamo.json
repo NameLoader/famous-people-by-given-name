@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Girolamo Cardano",
+    "givenNames": [
+      "Gerolamo",
+      "Girolamo",
+      "Geronimo"
+    ],
+    "familyName": "Cardano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerolamo_Cardano",
+    "occupation": "Polymath (mathematician, physician, biologist, physicist, chemist, astronomer, astrologer)",
+    "achievements": [
+      "Developed Cardano's formula for solving cubic equations",
+      "Made significant contributions to probability theory",
+      "Wrote influential works on medicine and philosophy"
+    ],
+    "yearBorn": 1501,
+    "yearDied": 1576
+  },
+  {
+    "fullName": "Girolamo Savonarola",
+    "givenNames": [
+      "Girolamo"
+    ],
+    "familyName": "Savonarola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Savonarola",
+    "occupation": "Dominican friar, preacher",
+    "achievements": [
+      "Led a religious and political movement in Florence",
+      "Preached against corruption and sin",
+      "Excommunicated by Pope Alexander VI"
+    ],
+    "yearBorn": 1452,
+    "yearDied": 1498
+  },
+  {
+    "fullName": "Girolamo Fracastoro",
+    "givenNames": [
+      "Girolamo"
+    ],
+    "familyName": "Fracastoro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Fracastoro",
+    "occupation": "Physician, poet",
+    "achievements": [
+      "Proposed the theory of contagion for infectious diseases",
+      "Wrote the epic poem 'Syphilis sive morbus Gallicus'"
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1553
+  }
+]

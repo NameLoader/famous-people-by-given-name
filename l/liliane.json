@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Liliane Bettencourt",
+    "givenNames": [
+      "Liliane",
+      "Henriette",
+      "Charlotte"
+    ],
+    "familyName": "Bettencourt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liliane_Bettencourt",
+    "occupation": "Businesswoman, heiress",
+    "achievements": [
+      "Heiress to the L'Oréal fortune",
+      "One of the wealthiest people in the world"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Liliane Maury Pasquier",
+    "givenNames": [
+      "Liliane"
+    ],
+    "familyName": "Maury Pasquier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liliane_Maury_Pasquier",
+    "occupation": "Politician, diplomat",
+    "achievements": [
+      "President of the Parliamentary Assembly of the Council of Europe (2018-2019)",
+      "Swiss ambassador to Spain and Andorra"
+    ],
+    "yearBorn": 1956
+  }
+]

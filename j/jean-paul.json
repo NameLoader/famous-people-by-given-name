@@ -1,0 +1,53 @@
+[
+  {
+    "fullName": "Jean-Paul Sartre",
+    "givenNames": [
+      "Jean-Paul",
+      "Charles",
+      "Aymard"
+    ],
+    "familyName": "Sartre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+    "occupation": "Philosopher, playwright, novelist, screenwriter, political activist, biographer, and literary critic",
+    "achievements": [
+      "Key figure in existentialism and phenomenology",
+      "Authored influential works such as 'Being and Nothingness' and 'Nausea'",
+      "Awarded the Nobel Prize in Literature in 1964 (which he declined)"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Jean-Paul Belmondo",
+    "givenNames": [
+      "Jean-Paul",
+      "Charles"
+    ],
+    "familyName": "Belmondo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Belmondo",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in iconic French New Wave films like 'Breathless' and 'Pierrot le Fou'",
+      "Became a major international film star",
+      "Known for his charismatic performances and action-hero roles"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Jean-Paul Gaultier",
+    "givenNames": [
+      "Jean",
+      "Paul"
+    ],
+    "familyName": "Gaultier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Paul_Gaultier",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for his avant-garde and provocative designs",
+      "Revolutionized haute couture with unconventional materials and silhouettes",
+      "Created iconic looks for celebrities like Madonna"
+    ],
+    "yearBorn": 1952
+  }
+]

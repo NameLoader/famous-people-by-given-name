@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Jimmie Rodgers",
+    "givenNames": [
+      "Jimmie",
+      "James"
+    ],
+    "familyName": "Rodgers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmie_Rodgers",
+    "occupation": "Singer, songwriter, guitarist",
+    "achievements": [
+      "Considered the 'Father of Country Music'",
+      "Pioneered a distinctive vocal style and guitar technique",
+      "Influenced generations of musicians"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1933
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Quincy Jones",
+    "givenNames": [
+      "Quincy",
+      "Delight"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quincy_Jones",
+    "occupation": "Musician, composer, arranger, and record producer",
+    "achievements": [
+      "Won 28 Grammy Awards",
+      "Nominated for 80 Grammy Awards",
+      "Produced Michael Jackson's album 'Thriller'"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Quincy Adams",
+    "givenNames": [
+      "John",
+      "Quincy"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+    "occupation": "Sixth President of the United States, Diplomat, Lawyer",
+    "achievements": [
+      "Served as Secretary of State under James Monroe",
+      "Played a key role in negotiating the Treaty of Ghent which ended the War of 1812"
+    ],
+    "yearBorn": 1767,
+    "yearDied": 1848
+  }
+]

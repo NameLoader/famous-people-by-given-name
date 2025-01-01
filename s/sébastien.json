@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Sébastien Loeb",
+    "givenNames": [
+      "Sébastien"
+    ],
+    "familyName": "Loeb",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Loeb",
+    "occupation": "Rally driver",
+    "achievements": [
+      "Nine-time World Rally Champion",
+      "Record holder for most WRC victories"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Sébastien Tellier",
+    "givenNames": [
+      "Sébastien"
+    ],
+    "familyName": "Tellier",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Tellier",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Represented France in the Eurovision Song Contest 2008",
+      "Known for his electronic and psychedelic pop music"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Sébastien Chabal",
+    "givenNames": [
+      "Sébastien"
+    ],
+    "familyName": "Chabal",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Chabal",
+    "occupation": "Rugby union player",
+    "achievements": [
+      "Won the Six Nations Championship with France in 2006 and 2010"
+    ],
+    "yearBorn": 1977
+  }
+]

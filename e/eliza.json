@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Eliza Doolittle",
+    "givenNames": [
+      "Eliza"
+    ],
+    "familyName": "Doolittle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliza_Doolittle",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the play Pygmalion by George Bernard Shaw and its musical adaptation My Fair Lady"
+    ]
+  },
+  {
+    "fullName": "Eliza Scanlen",
+    "givenNames": [
+      "Eliza",
+      "Jane"
+    ],
+    "familyName": "Scanlen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliza_Scanlen",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in the HBO miniseries Sharp Objects and the film Little Women"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Eliza Dushku",
+    "givenNames": [
+      "Eliza",
+      "Patricia"
+    ],
+    "familyName": "Dushku",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliza_Dushku",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Known for roles in Buffy the Vampire Slayer, Angel, and Bring It On"
+    ],
+    "yearBorn": 1980
+  }
+]

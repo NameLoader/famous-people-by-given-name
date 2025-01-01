@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Emmeline Pankhurst",
+    "givenNames": [
+      "Emmeline"
+    ],
+    "familyName": "Pankhurst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+    "occupation": "Political activist",
+    "achievements": [
+      "Leading figure in the British suffragette movement",
+      "Founded the Women's Social and Political Union (WSPU)"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1928
+  }
+]

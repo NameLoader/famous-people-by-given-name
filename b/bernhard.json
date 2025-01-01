@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Bernhard Riemann",
+    "givenNames": [
+      "Georg",
+      "Friedrich",
+      "Bernhard"
+    ],
+    "familyName": "Riemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Contributions to analysis, number theory, and geometry",
+      "Riemannian geometry, a foundation for Einstein's theory of general relativity"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1866
+  },
+  {
+    "fullName": "Bernhard Langer",
+    "givenNames": [
+      "Bernhard"
+    ],
+    "familyName": "Langer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Langer",
+    "occupation": "Golfer",
+    "achievements": [
+      "Two-time Masters Tournament champion",
+      "Over 40 PGA Tour Champions victories"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Bernhard Heiliger",
+    "givenNames": [
+      "Bernhard"
+    ],
+    "familyName": "Heiliger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Heiliger",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Known for abstract sculptures and public art installations",
+      "His works are displayed in museums and public spaces worldwide"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1995
+  }
+]

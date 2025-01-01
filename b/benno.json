@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Benno Moiseiwitsch",
+    "givenNames": [
+      "Benno"
+    ],
+    "familyName": "Moiseiwitsch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benno_Moiseiwitsch",
+    "occupation": "Pianist",
+    "achievements": [
+      "Acclaimed concert pianist known for his virtuosity and sensitive interpretations.",
+      "Performed with renowned orchestras worldwide."
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1963
+  }
+]

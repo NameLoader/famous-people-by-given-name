@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Shari Belafonte",
+    "givenNames": [
+      "Shari",
+      "Lynn"
+    ],
+    "familyName": "Belafonte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shari_Belafonte",
+    "occupation": "Actress, singer, model",
+    "achievements": [
+      "Starred in the television series 'Hotel'",
+      "Released several albums"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Shari Lewis",
+    "givenNames": [
+      "Shari"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shari_Lewis",
+    "occupation": "Puppeteer, children's television host",
+    "achievements": [
+      "Created the puppet characters Lamb Chop and Charlie Horse",
+      "Hosted the long-running children's television show 'Lamb Chop's Play-Along'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1998
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mariam Mirzakhani",
+    "givenNames": [
+      "Maryam"
+    ],
+    "familyName": "Mirzakhani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani",
+    "occupation": "Mathematician",
+    "achievements": [
+      "First and only woman to win the Fields Medal",
+      "Known for her work on the geometry of Riemann surfaces"
+    ],
+    "yearBorn": 1977,
+    "yearDied": 2017
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Kristi Yamaguchi",
+    "givenNames": [
+      "Kristi",
+      "Kristine"
+    ],
+    "familyName": "Yamaguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristi_Yamaguchi",
+    "occupation": "Figure skater",
+    "achievements": [
+      "1992 Olympic gold medalist in figure skating",
+      "Two-time World champion",
+      "Four-time U.S. national champion"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Kristi Noem",
+    "givenNames": [
+      "Kristi",
+      "Lynn"
+    ],
+    "familyName": "Noem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristi_Noem",
+    "occupation": "Politician",
+    "achievements": [
+      "Current Governor of South Dakota",
+      "First female governor of South Dakota",
+      "Former U.S. Representative for South Dakota's at-large congressional district"
+    ],
+    "yearBorn": 1971
+  }
+]

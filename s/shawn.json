@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Shawn Mendes",
+    "givenNames": [
+      "Shawn",
+      "Peter",
+      "Raul"
+    ],
+    "familyName": "Mendes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Mendes",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Multi-platinum selling artist",
+      "Three-time Grammy Award nominee"
+    ],
+    "yearBorn": 1998
+  },
+  {
+    "fullName": "Shawn Johnson",
+    "givenNames": [
+      "Shawn"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Johnson_East",
+    "occupation": "Gymnast",
+    "achievements": [
+      "Olympic gold medalist (balance beam)",
+      "Four-time Olympic medalist"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Shawn Ashmore",
+    "givenNames": [
+      "Shawn",
+      "Robert"
+    ],
+    "familyName": "Ashmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Ashmore",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'X-Men' and 'The Following'"
+    ],
+    "yearBorn": 1979
+  }
+]

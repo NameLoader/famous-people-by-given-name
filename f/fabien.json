@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Fabien Barthez",
+    "givenNames": [
+      "Fabien",
+      "Alain"
+    ],
+    "familyName": "Barthez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabien_Barthez",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with France in 1998",
+      "Won the UEFA European Championship with France in 2000"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Fabien Galthié",
+    "givenNames": [
+      "Fabien"
+    ],
+    "familyName": "Galthié",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabien_Galthi%C3%A9",
+    "occupation": "Rugby Union Coach and Former Player",
+    "achievements": [
+      "Won the Six Nations Championship as head coach of France in 2022",
+      "Captained the French national rugby team"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Fabien Roussel",
+    "givenNames": [
+      "Fabien"
+    ],
+    "familyName": "Roussel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabien_Roussel",
+    "occupation": "Politician",
+    "achievements": [
+      "National Secretary of the French Communist Party (PCF)"
+    ],
+    "yearBorn": 1969
+  }
+]

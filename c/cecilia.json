@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Cecilia Bartoli",
+    "givenNames": [
+      "Cecilia"
+    ],
+    "familyName": "Bartoli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_Bartoli",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Grammy Award winner",
+      "Internationally acclaimed mezzo-soprano"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Cecilia Payne-Gaposchkin",
+    "givenNames": [
+      "Cecilia"
+    ],
+    "familyName": "Payne-Gaposchkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Pioneer in the study of stellar atmospheres",
+      "First to determine that stars are primarily composed of hydrogen and helium"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Cecilia Cheung",
+    "givenNames": [
+      "Cecilia",
+      "Pak-chi"
+    ],
+    "familyName": "Cheung",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_Cheung",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Hong Kong Film Award winner",
+      "One of Hong Kong's most popular actresses"
+    ],
+    "yearBorn": 1980
+  }
+]

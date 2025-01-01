@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Cristoforo Colombo",
+    "givenNames": [
+      "Cristoforo"
+    ],
+    "familyName": "Colombo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+    "occupation": "Explorer, navigator",
+    "achievements": [
+      "Reached the Americas in 1492 while searching for a westward route to Asia.",
+      "Initiated widespread European exploration and colonization of the Americas."
+    ],
+    "yearBorn": 1451,
+    "yearDied": 1506
+  }
+]

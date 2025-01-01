@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Bernice King",
+    "givenNames": [
+      "Bernice",
+      "Albertine"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernice_King",
+    "occupation": "Minister, activist",
+    "achievements": [
+      "Daughter of Martin Luther King Jr.",
+      "CEO of the King Center"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Bernice Sandler",
+    "givenNames": [
+      "Bernice",
+      "Resnick"
+    ],
+    "familyName": "Sandler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernice_Sandler",
+    "occupation": "Educator, feminist activist",
+    "achievements": [
+      "Coined the term 'sexual harassment'",
+      "Instrumental in passing Title IX legislation"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Bernice Johnson Reagon",
+    "givenNames": [
+      "Bernice",
+      "Johnson"
+    ],
+    "familyName": "Reagon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernice_Johnson_Reagon",
+    "occupation": "Singer, songwriter, activist",
+    "achievements": [
+      "Founder of the vocal group Sweet Honey in the Rock",
+      "Recipient of a Grammy Award"
+    ],
+    "yearBorn": 1943
+  }
+]

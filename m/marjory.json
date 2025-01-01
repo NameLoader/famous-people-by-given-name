@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marjory Stoneman Douglas",
+    "givenNames": [
+      "Marjory",
+      "Stoneman"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas",
+    "occupation": "Environmentalist, writer",
+    "achievements": [
+      "Instrumental in saving the Everglades",
+      "Author of several books on nature and conservation"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1998
+  }
+]

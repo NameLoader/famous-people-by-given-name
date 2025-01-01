@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Larry Bird",
+    "givenNames": [
+      "Larry",
+      "Joe"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Bird",
+    "occupation": "Former professional basketball player, coach",
+    "achievements": [
+      "NBA Hall of Famer",
+      "3-time NBA champion with the Boston Celtics",
+      "3-time NBA Most Valuable Player"
+    ],
+    "yearBorn": 1956
+  }
+]

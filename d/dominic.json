@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Dominic Cummings",
+    "givenNames": [
+      "Dominic",
+      "Mckenzie"
+    ],
+    "familyName": "Cummings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Cummings",
+    "occupation": "Political Strategist",
+    "achievements": [
+      "Senior Advisor to British Prime Minister Boris Johnson",
+      "Key figure in the Vote Leave campaign during the Brexit referendum"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Dominic West",
+    "givenNames": [
+      "Dominic",
+      "Gerard",
+      "Francis",
+      "Eagleton"
+    ],
+    "familyName": "West",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_West",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in The Wire, The Affair, and  Downton Abbey"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Dominic Thiem",
+    "givenNames": [
+      "Dominic"
+    ],
+    "familyName": "Thiem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Thiem",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Won the 2020 US Open",
+      "Reached three other Grand Slam finals"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Saint Dominic de Guzmán",
+    "givenNames": [
+      "Dominic"
+    ],
+    "familyName": "de Guzmán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Dominic",
+    "occupation": "Priest, Founder of the Dominican Order",
+    "achievements": [
+      "Known for his preaching and missionary work",
+      "Founded the Order of Preachers (Dominicans) to combat heresy"
+    ],
+    "yearBorn": 1170,
+    "yearDied": 1221
+  }
+]

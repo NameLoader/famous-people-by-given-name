@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Ernest Hemingway",
+    "givenNames": [
+      "Ernest",
+      "Miller"
+    ],
+    "familyName": "Hemingway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+    "occupation": "Writer",
+    "achievements": [
+      "Nobel Prize in Literature",
+      "Pulitzer Prize for Fiction"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Ernest Shackleton",
+    "givenNames": [
+      "Ernest",
+      "Henry"
+    ],
+    "familyName": "Shackleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+    "occupation": "Polar Explorer",
+    "achievements": [
+      "Led the Imperial Trans-Antarctic Expedition",
+      "Known for his leadership and survival skills during the Endurance expedition"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Ernest Rutherford",
+    "givenNames": [
+      "Ernest"
+    ],
+    "familyName": "Rutherford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Father of nuclear physics",
+      "Discovered the atomic nucleus",
+      "Nobel Prize in Chemistry"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Ernest Lawrence",
+    "givenNames": [
+      "Ernest",
+      "Orlando"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Lawrence",
+    "occupation": "Physicist",
+    "achievements": [
+      "Invented the cyclotron",
+      "Nobel Prize in Physics"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1958
+  }
+]

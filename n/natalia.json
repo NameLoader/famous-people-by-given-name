@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Natalia Makarova",
+    "givenNames": [
+      "Natalia",
+      "Romanovna"
+    ],
+    "familyName": "Makarova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Makarova",
+    "occupation": "Ballet dancer, choreographer",
+    "achievements": [
+      "Prima ballerina of the Bolshoi Ballet",
+      "Defected to the West in 1970",
+      "Starred in numerous ballet productions and films"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Natalia Lafourcade",
+    "givenNames": [
+      "Natalia"
+    ],
+    "familyName": "Lafourcade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Lafourcade",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Won multiple Latin Grammy Awards",
+      "Known for her blend of traditional Mexican music and indie pop"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Natalia Vodianova",
+    "givenNames": [
+      "Natalia",
+      "Mikhailovna"
+    ],
+    "familyName": "Vodianova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Vodianova",
+    "occupation": "Model, philanthropist",
+    "achievements": [
+      "One of the world's highest-paid models",
+      "Founded the Naked Heart Foundation to help children in Russia"
+    ],
+    "yearBorn": 1982
+  }
+]

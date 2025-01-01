@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Jackie Robinson",
+    "givenNames": [
+      "Jack",
+      "Roosevelt"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+    "occupation": "Professional baseball player, activist",
+    "achievements": [
+      "Broke Major League Baseball's color barrier",
+      "Advocate for civil rights and social justice"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1972
+  }
+]

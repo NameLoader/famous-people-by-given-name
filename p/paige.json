@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Paige Spiranac",
+    "givenNames": [
+      "Paige",
+      "Renee"
+    ],
+    "familyName": "Spiranac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paige_Spiranac",
+    "occupation": "Professional golfer, social media personality",
+    "achievements": [
+      "Won the All-American Golf Conference championship in 2015.",
+      "Highly successful golf influencer with a large following on social media."
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Paige VanZant",
+    "givenNames": [
+      "Paige",
+      "Michelle"
+    ],
+    "familyName": "VanZant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paige_VanZant",
+    "occupation": "MMA fighter, actress",
+    "achievements": [
+      "Competed in the UFC's women's flyweight division.",
+      "Appeared on the television show 'Dancing with the Stars'."
+    ],
+    "yearBorn": 1994
+  }
+]

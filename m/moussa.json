@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Moussa Sissoko",
+    "givenNames": [
+      "Moussa"
+    ],
+    "familyName": "Sissoko",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moussa_Sissoko",
+    "occupation": "Footballer",
+    "achievements": [
+      "Reached the UEFA Champions League Final with Tottenham Hotspur",
+      "Represented France at the FIFA World Cup"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Moussa Traoré",
+    "givenNames": [
+      "Moussa"
+    ],
+    "familyName": "Traoré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moussa_Traor%C3%A9",
+    "occupation": "Military officer and politician",
+    "achievements": [
+      "Served as President of Mali from 1968 to 1991"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2023
+  }
+]

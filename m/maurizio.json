@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Maurizio Sarri",
+    "givenNames": [
+      "Maurizio"
+    ],
+    "familyName": "Sarri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurizio_Sarri",
+    "occupation": "Football manager",
+    "achievements": [
+      "Won the UEFA Europa League with Chelsea in 2019",
+      "Led Napoli to two Serie A runner-up finishes"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Maurizio Pollini",
+    "givenNames": [
+      "Maurizio"
+    ],
+    "familyName": "Pollini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurizio_Pollini",
+    "occupation": "Pianist",
+    "achievements": [
+      "Renowned for his interpretations of the works of Beethoven, Chopin, and Debussy",
+      "Winner of multiple Grammy Awards"
+    ],
+    "yearBorn": 1942
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ida Lupino",
+    "givenNames": [
+      "Ida"
+    ],
+    "familyName": "Lupino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ida_Lupino",
+    "occupation": "Actress, director",
+    "achievements": [
+      "One of the few women directors in Hollywood during the Golden Age",
+      "Known for her film noir and crime dramas"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Ida McKinley",
+    "givenNames": [
+      "Ida"
+    ],
+    "familyName": "McKinley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ida_Saxton_McKinley",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Wife of President William McKinley",
+      "Known for her dedication to charitable work"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1907
+  }
+]

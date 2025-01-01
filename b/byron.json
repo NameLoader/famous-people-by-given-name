@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Byron Scott",
+    "givenNames": [
+      "Byron",
+      "Antom"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Byron_Scott",
+    "occupation": "Basketball player and coach",
+    "achievements": [
+      "NBA All-Star",
+      "NBA Champion as a player (Los Angeles Lakers)",
+      "NBA Coach of the Year"
+    ],
+    "yearBorn": 1961
+  }
+]

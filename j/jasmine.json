@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jasmine Guy",
+    "givenNames": [
+      "Jasmine",
+      "Chanel"
+    ],
+    "familyName": "Guy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jasmine_Guy",
+    "occupation": "Actress, director, singer",
+    "achievements": [
+      "Known for her role as Whitley Gilbert-Wayne on the NBC sitcom 'A Different World'",
+      "Won two NAACP Image Awards for Outstanding Actress in a Comedy Series"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Jasmine Cephas Jones",
+    "givenNames": [
+      "Jasmine"
+    ],
+    "familyName": "Cephas Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jasmine_Cephas_Jones",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Won a Grammy Award for Best Musical Theater Album as part of the original Broadway cast of 'Hamilton'",
+      "Appeared in films such as 'Blindspotting' and 'Dog Days'"
+    ],
+    "yearBorn": 1989
+  }
+]

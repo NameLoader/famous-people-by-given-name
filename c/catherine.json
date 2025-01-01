@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Catherine the Great",
+    "givenNames": [
+      "Catherine"
+    ],
+    "familyName": "Romanova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+    "occupation": "Empress of Russia",
+    "achievements": [
+      "Expanded the Russian Empire",
+      "Patron of the arts and sciences",
+      "Enlightened despot"
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1796
+  },
+  {
+    "fullName": "Catherine Deneuve",
+    "givenNames": [
+      "Catherine"
+    ],
+    "familyName": "Deneuve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Deneuve",
+    "occupation": "Actress",
+    "achievements": [
+      "Two César Awards for Best Actress",
+      "International film icon"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Catherine O'Hara",
+    "givenNames": [
+      "Catherine",
+      "Anne"
+    ],
+    "familyName": "O'Hara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_O%27Hara",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Emmy Award winner",
+      "Known for her roles in SCTV, Home Alone, and Schitt's Creek"
+    ],
+    "yearBorn": 1954
+  }
+]

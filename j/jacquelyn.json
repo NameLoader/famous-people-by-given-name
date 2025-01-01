@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Jacquelyn Smith",
+    "givenNames": [
+      "Jaclyn"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaclyn_Smith",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the TV series Charlie's Angels",
+      "Received a star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1945
+  }
+]

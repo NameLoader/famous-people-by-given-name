@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Brock Lesnar",
+    "givenNames": [
+      "Brock",
+      "Edward"
+    ],
+    "familyName": "Lesnar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brock_Lesnar",
+    "occupation": "Professional wrestler, mixed martial artist",
+    "achievements": [
+      "WWE Champion",
+      "UFC Heavyweight Champion",
+      "NCAA Division I Wrestling Champion"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Brock Boeser",
+    "givenNames": [
+      "Brock",
+      "Michael"
+    ],
+    "familyName": "Boeser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brock_Boeser",
+    "occupation": "Professional ice hockey player",
+    "achievements": [
+      "Vancouver Canucks leading scorer"
+    ],
+    "yearBorn": 1997
+  }
+]

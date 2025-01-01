@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Merle Haggard",
+    "givenNames": [
+      "Merle",
+      "Ronald"
+    ],
+    "familyName": "Haggard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merle_Haggard",
+    "occupation": "Country Music Singer-Songwriter",
+    "achievements": [
+      "Inducted into the Country Music Hall of Fame",
+      "Won numerous Grammy Awards and CMA Awards",
+      "Known for songs like 'Okie from Muskogee' and 'Mama Tried'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Merle Oberon",
+    "givenNames": [
+      "Merle"
+    ],
+    "familyName": "Oberon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merle_Oberon",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'The Dark Angel' and 'Wuthering Heights'",
+      "Nominated for an Academy Award for Best Actress"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1984
+  }
+]

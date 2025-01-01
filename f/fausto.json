@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Fausto Coppi",
+    "givenNames": [
+      "Angelo",
+      "Fausto"
+    ],
+    "familyName": "Coppi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fausto_Coppi",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Winner of the Giro d'Italia five times",
+      "Winner of the Tour de France twice",
+      "Considered one of the greatest cyclists of all time"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1953
+  }
+]

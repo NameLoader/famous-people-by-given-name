@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Beverley Sills",
+    "givenNames": [
+      "Beverley"
+    ],
+    "familyName": "Sills",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beverly_Sills",
+    "occupation": "Opera singer",
+    "achievements": [
+      "First American to sing at La Scala in Milan.",
+      "Won numerous awards including the Grammy Award and the National Medal of Arts."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Beverley Callard",
+    "givenNames": [
+      "Beverley"
+    ],
+    "familyName": "Callard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beverley_Callard",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Liz McDonald in the British soap opera Coronation Street."
+    ],
+    "yearBorn": 1957
+  }
+]

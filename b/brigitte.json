@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Brigitte Bardot",
+    "givenNames": [
+      "Brigitte",
+      "Anne-Marie"
+    ],
+    "familyName": "Bardot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brigitte_Bardot",
+    "occupation": "Actress, Singer, Model",
+    "achievements": [
+      "Iconic sex symbol of the 1950s and 60s",
+      "Starred in films like 'And God Created Woman'",
+      "Animal rights activist"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Brigitte Macron",
+    "givenNames": [
+      "Brigitte",
+      "Marie-Claude"
+    ],
+    "familyName": "Macron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brigitte_Macron",
+    "occupation": "Educator, First Lady of France",
+    "achievements": [
+      "Former teacher and high school drama coach",
+      "Married to Emmanuel Macron, President of France"
+    ],
+    "yearBorn": 1953
+  }
+]

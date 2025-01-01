@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Mario Draghi",
+    "givenNames": [
+      "Mario"
+    ],
+    "familyName": "Draghi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Draghi",
+    "occupation": "Economist, Banker, Politician",
+    "achievements": [
+      "President of the European Central Bank (2011-2019)",
+      "Prime Minister of Italy (2021-2022)"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Mario Cuomo",
+    "givenNames": [
+      "Mario",
+      "Matthew"
+    ],
+    "familyName": "Cuomo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Cuomo",
+    "occupation": "Politician",
+    "achievements": [
+      "Governor of New York (1983-1994)"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Mario Andretti",
+    "givenNames": [
+      "Mario",
+      "Gabriele"
+    ],
+    "familyName": "Andretti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Andretti",
+    "occupation": "Race car driver",
+    "achievements": [
+      "Formula One World Champion (1978)",
+      "Indianapolis 500 winner (1969)"
+    ],
+    "yearBorn": 1940
+  }
+]

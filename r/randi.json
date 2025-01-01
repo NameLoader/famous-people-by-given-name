@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Randi Rhodes",
+    "givenNames": [
+      "Randi",
+      "Joyce"
+    ],
+    "familyName": "Rhodes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randi_Rhodes",
+    "occupation": "Radio Talk Show Host",
+    "achievements": [
+      "Progressive talk radio host",
+      "Author of several books"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Randi Weingarten",
+    "givenNames": [
+      "Rhonda",
+      "Randi"
+    ],
+    "familyName": "Weingarten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randi_Weingarten",
+    "occupation": "Labor Union Leader",
+    "achievements": [
+      "President of the American Federation of Teachers",
+      "Advocate for public education and teachers' rights"
+    ],
+    "yearBorn": 1957
+  }
+]

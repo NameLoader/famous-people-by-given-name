@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Curtis Jackson",
+    "givenNames": [
+      "Curtis",
+      "James"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/50_Cent",
+    "occupation": "Rapper, Actor, Entrepreneur",
+    "achievements": [
+      "Grammy Award-winning rapper",
+      "Successful entrepreneur with businesses in music, film, and fashion"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Curtis Mayfield",
+    "givenNames": [
+      "Curtis",
+      "Lee"
+    ],
+    "familyName": "Mayfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curtis_Mayfield",
+    "occupation": "Singer, Songwriter, Guitarist, Record Producer",
+    "achievements": [
+      "Pioneer of soul and funk music",
+      "Influential songwriter with numerous hit songs",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1999
+  }
+]

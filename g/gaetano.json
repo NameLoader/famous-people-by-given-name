@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gaetano Donizetti",
+    "givenNames": [
+      "Gaetano",
+      "Domenico"
+    ],
+    "familyName": "Donizetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaetano_Donizetti",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific Italian opera composer of the bel canto era.",
+      "Known for operas such as Lucia di Lammermoor, Don Pasquale, and L'elisir d'amore."
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1848
+  },
+  {
+    "fullName": "Gaetano Scirea",
+    "givenNames": [
+      "Gaetano"
+    ],
+    "familyName": "Scirea",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaetano_Scirea",
+    "occupation": "Footballer",
+    "achievements": [
+      "Legendary Italian defender who played for Juventus and the Italian national team.",
+      "Won numerous titles including Serie A championships, Coppa Italia, European Cup, and UEFA Intercontinental Cup."
+    ],
+    "yearBorn": 1958,
+    "yearDied": 1989
+  }
+]

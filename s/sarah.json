@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Sarah Bernhardt",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Bernhardt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+    "occupation": "Actress",
+    "achievements": [
+      "Considered one of the greatest actresses of all time",
+      "Known for her powerful performances and flamboyant personality"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Sarah Jessica Parker",
+    "givenNames": [
+      "Sarah",
+      "Jessica"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Jessica_Parker",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Known for her role as Carrie Bradshaw in the HBO series Sex and the City",
+      "Won four Golden Globe Awards and three Screen Actors Guild Awards"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Sarah Palin",
+    "givenNames": [
+      "Sarah",
+      "Louise"
+    ],
+    "familyName": "Palin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Palin",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 9th governor of Alaska from 2006 to 2009",
+      "Was the Republican Party's vice presidential nominee in the 2008 United States presidential election"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Sarah Koenig",
+    "givenNames": [
+      "Sarah"
+    ],
+    "familyName": "Koenig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Koenig",
+    "occupation": "Journalist, Podcaster",
+    "achievements": [
+      "Co-creator and host of the popular podcast Serial",
+      "Known for her investigative journalism and immersive storytelling style"
+    ],
+    "yearBorn": 1969
+  }
+]

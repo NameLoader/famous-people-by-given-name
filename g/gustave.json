@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Gustave Flaubert",
+    "givenNames": [
+      "Gustave"
+    ],
+    "familyName": "Flaubert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Flaubert",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Authored Madame Bovary, one of the most influential novels in Western literature.",
+      "Pioneer of literary realism."
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1880
+  },
+  {
+    "fullName": "Gustave Eiffel",
+    "givenNames": [
+      "Alexandre",
+      "Gustave"
+    ],
+    "familyName": "Eiffel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Eiffel",
+    "occupation": "Civil engineer, architect",
+    "achievements": [
+      "Designed the Eiffel Tower.",
+      "Constructed the Statue of Liberty's internal framework."
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Gustave Moreau",
+    "givenNames": [
+      "Gustave"
+    ],
+    "familyName": "Moreau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Moreau",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Leading figure in the Symbolist movement.",
+      "Known for his mystical and dreamlike imagery."
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1898
+  }
+]

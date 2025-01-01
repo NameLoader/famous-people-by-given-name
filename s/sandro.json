@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sandro Botticelli",
+    "givenNames": [
+      "Sandro"
+    ],
+    "familyName": "Botticelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+    "occupation": "Painter",
+    "achievements": [
+      "Renaissance master known for paintings like 'The Birth of Venus' and 'Primavera'"
+    ],
+    "yearBorn": 1445,
+    "yearDied": 1510
+  },
+  {
+    "fullName": "Sandro Pertini",
+    "givenNames": [
+      "Alessandro",
+      "Sandro"
+    ],
+    "familyName": "Pertini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandro_Pertini",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as President of Italy from 1978 to 1985"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1990
+  }
+]

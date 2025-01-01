@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Alfred Nobel",
+    "givenNames": [
+      "Alfred",
+      "Bernhard"
+    ],
+    "familyName": "Nobel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Nobel",
+    "occupation": "Inventor, Engineer, Chemist, Philanthropist",
+    "achievements": [
+      "Invented dynamite",
+      "Established the Nobel Prizes"
+    ],
+    "yearBorn": 1833,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "Alfred Hitchcock",
+    "givenNames": [
+      "Alfred",
+      "Joseph"
+    ],
+    "familyName": "Hitchcock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
+    "occupation": "Film director, Producer, Screenwriter",
+    "achievements": [
+      "Master of suspense films",
+      "Directed classics like 'Psycho', 'Rear Window', and 'Vertigo'"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1980
+  }
+]

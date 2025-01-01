@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Raphael Sanzio da Urbino",
+    "givenNames": [
+      "Raffaello"
+    ],
+    "familyName": "Sanzio da Urbino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
+    "occupation": "Painter and architect",
+    "achievements": [
+      "High Renaissance master",
+      "Known for frescoes in the Vatican Palace",
+      "Painted iconic works like 'The School of Athens'"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1520
+  }
+]

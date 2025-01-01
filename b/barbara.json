@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Barbara Streisand",
+    "givenNames": [
+      "Barbara",
+      "Joan"
+    ],
+    "familyName": "Streisand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+    "occupation": "Singer, actress, filmmaker",
+    "achievements": [
+      "Academy Award winner",
+      "Tony Award winner",
+      "Grammy Award winner",
+      "Emmy Award winner",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Barbara Walters",
+    "givenNames": [
+      "Barbara",
+      "Jill"
+    ],
+    "familyName": "Walters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Walters",
+    "occupation": "Journalist, television broadcaster",
+    "achievements": [
+      "First female co-anchor of a network evening news program",
+      "Pioneering interviewer who conducted numerous high-profile interviews"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Barbara Bush",
+    "givenNames": [
+      "Barbara"
+    ],
+    "familyName": "Bush",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Bush",
+    "occupation": "First Lady of the United States (1989-1993)",
+    "achievements": [
+      "Advocate for literacy",
+      "Founded the Barbara Bush Foundation for Family Literacy"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Barbara McClintock",
+    "givenNames": [
+      "Barbara"
+    ],
+    "familyName": "McClintock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_McClintock",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1983)",
+      "Discovery of transposons (jumping genes)"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1992
+  }
+]

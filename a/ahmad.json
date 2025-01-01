@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ahmad Shah Massoud",
+    "givenNames": [
+      "Ahmad",
+      "Shah"
+    ],
+    "familyName": "Massoud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud",
+    "occupation": "Military commander, politician",
+    "achievements": [
+      "Led the Afghan resistance against the Soviet invasion in the 1980s.",
+      "Became a symbol of Afghan resistance against the Taliban."
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Ahmad ibn Hanbal",
+    "givenNames": [
+      "Ahmad"
+    ],
+    "familyName": "ibn Hanbal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal",
+    "occupation": "Islamic scholar, jurist",
+    "achievements": [
+      "Founder of the Hanbali school of Islamic jurisprudence.",
+      "Considered one of the most important Sunni jurists."
+    ],
+    "yearBorn": 780,
+    "yearDied": 855
+  }
+]

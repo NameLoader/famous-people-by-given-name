@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Corey Feldman",
+    "givenNames": [
+      "Corey",
+      "Scott"
+    ],
+    "familyName": "Feldman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corey_Feldman",
+    "occupation": "Actor, musician",
+    "achievements": [
+      "Notable child actor in the 1980s",
+      "Starred in films like 'The Goonies', 'Stand By Me', and 'Lost Boys'"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Corey Taylor",
+    "givenNames": [
+      "Corey",
+      "Todd"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corey_Taylor",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Lead vocalist for Slipknot and Stone Sour",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1973
+  }
+]

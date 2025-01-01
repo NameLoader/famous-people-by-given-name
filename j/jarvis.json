@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jarvis Cocker",
+    "givenNames": [
+      "Jarvis",
+      "Branson"
+    ],
+    "familyName": "Cocker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jarvis_Cocker",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Frontman of the band Pulp",
+      "Solo musical career"
+    ],
+    "yearBorn": 1963
+  }
+]

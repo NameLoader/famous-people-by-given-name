@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Denny McLain",
+    "givenNames": [
+      "Denny",
+      "Dennis",
+      "Dale"
+    ],
+    "familyName": "McLain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denny_McLain",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Cy Young Award Winner (1968)",
+      "World Series Champion (1968)"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Denny Hamlin",
+    "givenNames": [
+      "James",
+      "Dennis",
+      "Alan"
+    ],
+    "familyName": "Hamlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denny_Hamlin",
+    "occupation": "Professional Stock Car Racing Driver",
+    "achievements": [
+      "3x Daytona 500 Winner",
+      "NASCAR Cup Series Champion (2023)"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Christina Aguilera",
+    "givenNames": [
+      "Christina",
+      "María"
+    ],
+    "familyName": "Aguilera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Aguilera",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Five Grammy Awards",
+      "One Latin Grammy Award",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Christina Hendricks",
+    "givenNames": [
+      "Christina",
+      "Rene"
+    ],
+    "familyName": "Hendricks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Hendricks",
+    "occupation": "Actress",
+    "achievements": [
+      "Six Primetime Emmy Award nominations",
+      "Two Screen Actors Guild Awards"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Christina Ricci",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Ricci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Ricci",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for a Golden Globe Award",
+      "Young Artist Award winner"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Christina Applegate",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Applegate",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Applegate",
+    "occupation": "Actress",
+    "achievements": [
+      "Primetime Emmy Award winner",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1971
+  }
+]

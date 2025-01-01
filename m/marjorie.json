@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Marjorie Merriweather Post",
+    "givenNames": [
+      "Marjorie",
+      "Merriweather"
+    ],
+    "familyName": "Post",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marjorie_Merriweather_Post",
+    "occupation": "Socialite, philanthropist, businesswoman",
+    "achievements": [
+      "Heiress to the Post cereal fortune",
+      "Prominent art collector and philanthropist",
+      "Founded the Hillwood Estate, Museum & Gardens"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Marjorie Kinnan Rawlings",
+    "givenNames": [
+      "Marjorie",
+      "Kinnan"
+    ],
+    "familyName": "Rawlings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marjorie_Kinnan_Rawlings",
+    "occupation": "Author",
+    "achievements": [
+      "Won the Pulitzer Prize for Fiction for her novel 'The Yearling'"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1953
+  }
+]

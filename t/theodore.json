@@ -1,0 +1,70 @@
+[
+  {
+    "fullName": "Theodore Roosevelt",
+    "givenNames": [
+      "Theodore"
+    ],
+    "familyName": "Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+    "occupation": "Politician, Statesman",
+    "achievements": [
+      "26th President of the United States",
+      "Nobel Peace Prize laureate",
+      "Conservationist",
+      "Author"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Theodore Seuss Geisel",
+    "givenNames": [
+      "Theodore",
+      "Seuss"
+    ],
+    "familyName": "Geisel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss",
+    "occupation": "Author, Illustrator",
+    "achievements": [
+      "Known for writing and illustrating children's books under the pen name Dr. Seuss",
+      "Created iconic characters like The Cat in the Hat and Horton the Elephant",
+      "Influential figure in children's literature"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Theodore Bikel",
+    "givenNames": [
+      "Theodore",
+      "Meir"
+    ],
+    "familyName": "Bikel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Bikel",
+    "occupation": "Actor, Singer, Activist",
+    "achievements": [
+      "Starred in numerous Broadway and film productions",
+      "Known for his roles in 'Fiddler on the Roof' and 'The Sound of Music'",
+      "Prominent folk singer and political activist"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Theodore Dreiser",
+    "givenNames": [
+      "Theodore",
+      "Herman",
+      "Albert"
+    ],
+    "familyName": "Dreiser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
+    "occupation": "Novelist, Journalist",
+    "achievements": [
+      "American naturalist writer known for his critical social commentary",
+      "Authored influential novels like 'Sister Carrie' and 'An American Tragedy'"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1945
+  }
+]

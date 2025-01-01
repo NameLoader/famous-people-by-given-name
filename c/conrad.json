@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Conrad Hilton",
+    "givenNames": [
+      "Conrad",
+      "Nicholson"
+    ],
+    "familyName": "Hilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Hilton",
+    "occupation": "Hotelier",
+    "achievements": [
+      "Founded the Hilton Hotels chain",
+      "Pioneer in modern hotel development"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Conrad Ferdinand Meyer",
+    "givenNames": [
+      "Conrad",
+      "Ferdinand"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Swiss author of the Romantic era",
+      "Known for his historical novels and poems"
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1898
+  }
+]

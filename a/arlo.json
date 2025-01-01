@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arlo Guthrie",
+    "givenNames": [
+      "Arlo",
+      "Davy"
+    ],
+    "familyName": "Guthrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arlo_Guthrie",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for his song 'Alice's Restaurant'",
+      "Son of folk singer Woody Guthrie"
+    ],
+    "yearBorn": 1947
+  }
+]

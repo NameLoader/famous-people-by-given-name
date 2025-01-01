@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Piero della Francesca",
+    "givenNames": [
+      "Piero"
+    ],
+    "familyName": "della Francesca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piero_della_Francesca",
+    "occupation": "Painter",
+    "achievements": [
+      "Early Renaissance painter known for his frescoes and paintings",
+      "Master of perspective and composition"
+    ],
+    "yearBorn": 1415,
+    "yearDied": 1492
+  },
+  {
+    "fullName": "Piero Sraffa",
+    "givenNames": [
+      "Piero"
+    ],
+    "familyName": "Sraffa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piero_Sraffa",
+    "occupation": "Economist",
+    "achievements": [
+      "Influential economist who contributed to Cambridge economics",
+      "Known for his work on the theory of production and value"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Piero Manzoni",
+    "givenNames": [
+      "Piero"
+    ],
+    "familyName": "Manzoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piero_Manzoni",
+    "occupation": "Artist",
+    "achievements": [
+      "Italian Arte Povera artist known for his conceptual and provocative works",
+      "Famous for pieces like 'Artist's Shit'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1963
+  }
+]

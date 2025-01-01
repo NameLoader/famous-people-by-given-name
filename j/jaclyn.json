@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Jaclyn Smith",
+    "givenNames": [
+      "Jaclyn"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaclyn_Smith",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the television series Charlie's Angels",
+      "Won three Golden Globe Awards nominations"
+    ],
+    "yearBorn": 1945
+  }
+]

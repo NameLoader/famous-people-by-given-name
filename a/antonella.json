@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Antonella Clerici",
+    "givenNames": [
+      "Antonella"
+    ],
+    "familyName": "Clerici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonella_Clerici",
+    "occupation": "Television presenter",
+    "achievements": [
+      "Popular Italian television personality known for hosting various cooking and entertainment shows."
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Antonella Roccuzzo",
+    "givenNames": [
+      "Antonela"
+    ],
+    "familyName": "Roccuzzo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonela_Roccuzzo",
+    "occupation": "Businesswoman",
+    "achievements": [
+      "Wife of Argentinian footballer Lionel Messi.",
+      "Involved in philanthropic work and brand endorsements."
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Antonella Barba",
+    "givenNames": [
+      "Antonella",
+      "Maria"
+    ],
+    "familyName": "Barba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonella_Barba",
+    "occupation": "Singer, model, actress",
+    "achievements": [
+      "Rose to fame as a contestant on the sixth season of American Idol.",
+      "Worked as a model and appeared in films."
+    ],
+    "yearBorn": 1986
+  }
+]

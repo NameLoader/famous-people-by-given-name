@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Olivier Giroud",
+    "givenNames": [
+      "Olivier",
+      "Jonathan"
+    ],
+    "familyName": "Giroud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_Giroud",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "FIFA World Cup winner (2018)",
+      "UEFA Euro runner-up (2016)",
+      "Chelsea FC Player of the Year (2018)"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Olivier Messiaen",
+    "givenNames": [
+      "Olivier",
+      "Eugène",
+      "Prosper",
+      "Charles"
+    ],
+    "familyName": "Messiaen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_Messiaen",
+    "occupation": "Composer, organist, and ornithologist",
+    "achievements": [
+      "Recipient of the Grand Prix de Rome (1932)",
+      "Considered one of the most influential composers of the 20th century"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Olivier Assayas",
+    "givenNames": [
+      "Olivier"
+    ],
+    "familyName": "Assayas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_Assayas",
+    "occupation": "Film director, screenwriter, and film editor",
+    "achievements": [
+      "Winner of the Palme d'Or for his film 'Personal Shopper' (2016)",
+      "Known for films such as 'Clouds of Sils Maria', 'Summer Hours', and 'Demonlover'"
+    ],
+    "yearBorn": 1955
+  }
+]

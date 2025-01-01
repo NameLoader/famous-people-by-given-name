@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ronan Keating",
+    "givenNames": [
+      "Ronan",
+      "Patrick",
+      "John"
+    ],
+    "familyName": "Keating",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronan_Keating",
+    "occupation": "Singer, songwriter, television personality",
+    "achievements": [
+      "Lead singer of the Irish boy band Boyzone",
+      "Successful solo career with hits like 'When You Say Nothing at All'",
+      "Judge on The X Factor and other TV shows"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Ronan Farrow",
+    "givenNames": [
+      "Ronan"
+    ],
+    "familyName": "Farrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronan_Farrow",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Pulitzer Prize-winning investigative journalist",
+      "Known for reporting on sexual misconduct allegations against Harvey Weinstein and others",
+      "Author of the bestselling book 'Catch and Kill'"
+    ],
+    "yearBorn": 1987
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Christoph Willibald Gluck",
+    "givenNames": [
+      "Christoph",
+      "Willibald"
+    ],
+    "familyName": "Gluck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+    "occupation": "Composer",
+    "achievements": [
+      "German composer of operas and ballet",
+      "Considered a pivotal figure in the transition from Baroque to Classical opera"
+    ],
+    "yearBorn": 1714,
+    "yearDied": 1787
+  }
+]

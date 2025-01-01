@@ -1,0 +1,56 @@
+[
+  {
+    "fullName": "Irene Joliot-Curie",
+    "givenNames": [
+      "Irène"
+    ],
+    "familyName": "Joliot-Curie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+    "occupation": "Chemist, Physicist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1935) for the discovery of artificial radioactivity"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Irene Dunne",
+    "givenNames": [
+      "Irene"
+    ],
+    "familyName": "Dunne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irene_Dunne",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for five Academy Awards"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Irene Cara",
+    "givenNames": [
+      "Irene"
+    ],
+    "familyName": "Cara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irene_Cara",
+    "occupation": "Singer, Actress, Songwriter",
+    "achievements": [
+      "Academy Award for Best Original Song (1984) for 'Flashdance... What a Feeling'"
+    ],
+    "yearBorn": 1959,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Irene Adler",
+    "givenNames": [
+      "Irene"
+    ],
+    "familyName": "Adler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irene_Adler",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Sherlock Holmes' only love interest in Sir Arthur Conan Doyle's stories"
+    ]
+  }
+]

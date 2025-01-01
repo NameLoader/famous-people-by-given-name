@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Lauren Bacall",
+    "givenNames": [
+      "Lauren"
+    ],
+    "familyName": "Bacall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauren_Bacall",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress in a Leading Role",
+      "Golden Globe Award for Best Actress – Motion Picture Musical or Comedy",
+      "Screen Actors Guild Life Achievement Award"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Lauren Conrad",
+    "givenNames": [
+      "Lauren",
+      "Katherine"
+    ],
+    "familyName": "Conrad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauren_Conrad",
+    "occupation": "Reality television personality, fashion designer, author",
+    "achievements": [
+      "Starred in MTV reality shows 'Laguna Beach: The Real Orange County' and 'The Hills'",
+      "Founded the fashion lines LC Lauren Conrad and Paper Crown",
+      "Authored several New York Times bestselling novels"
+    ],
+    "yearBorn": 1986
+  }
+]

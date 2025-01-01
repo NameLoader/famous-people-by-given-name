@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Antony Gormley",
+    "givenNames": [
+      "Antony",
+      "Mark",
+      "David"
+    ],
+    "familyName": "Gormley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antony_Gormley",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Known for his large-scale figurative sculptures",
+      "Recipient of the Turner Prize in 1994"
+    ],
+    "yearBorn": 1950
+  }
+]

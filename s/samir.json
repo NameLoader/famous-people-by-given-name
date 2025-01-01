@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Samir Geagea",
+    "givenNames": [
+      "Samir",
+      "Farid"
+    ],
+    "familyName": "Geagea",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samir_Geagea",
+    "occupation": "Politician, Military leader",
+    "achievements": [
+      "Leader of the Lebanese Forces militia during the Lebanese Civil War",
+      "Member of the Lebanese Parliament"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Samir Nasri",
+    "givenNames": [
+      "Samir"
+    ],
+    "familyName": "Nasri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samir_Nasri",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Premier League and FA Cup with Manchester City",
+      "Represented France at international level"
+    ],
+    "yearBorn": 1987
+  }
+]

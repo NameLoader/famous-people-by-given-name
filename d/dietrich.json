@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dietrich Bonhoeffer",
+    "givenNames": [
+      "Dietrich"
+    ],
+    "familyName": "Bonhoeffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+    "occupation": "Theologian, pastor, and anti-Nazi dissident",
+    "achievements": [
+      "Key figure in the German Resistance movement against Nazism.",
+      "Known for his theological works exploring ethics, community, and discipleship."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Dietrich Fischer-Dieskau",
+    "givenNames": [
+      "Dietrich"
+    ],
+    "familyName": "Fischer-Dieskau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_Fischer-Dieskau",
+    "occupation": "Baritone and conductor",
+    "achievements": [
+      "One of the most celebrated Lieder singers of the 20th century.",
+      "Widely praised for his interpretations of Schubert, Schumann, and Brahms."
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2012
+  }
+]

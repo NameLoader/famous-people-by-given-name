@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Penny Marshall",
+    "givenNames": [
+      "Penny",
+      "Carole"
+    ],
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Penny_Marshall",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Directed the films 'Big' and 'A League of Their Own'",
+      "First woman to direct a film that grossed over $100 million"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2018
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Denis Diderot",
+    "givenNames": [
+      "Denis"
+    ],
+    "familyName": "Diderot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
+    "occupation": "Philosopher, Writer, Encyclopedist",
+    "achievements": [
+      "Co-founder and chief editor of the Encyclopédie",
+      "Key figure in the Enlightenment",
+      "Known for his philosophical works on ethics, religion, and aesthetics"
+    ],
+    "yearBorn": 1713,
+    "yearDied": 1784
+  },
+  {
+    "fullName": "Denis Villeneuve",
+    "givenNames": [
+      "Denis"
+    ],
+    "familyName": "Villeneuve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Villeneuve",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Directed acclaimed films such as 'Arrival', 'Blade Runner 2049', and 'Dune'",
+      "Known for his visually stunning and thought-provoking sci-fi films"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Denis Leary",
+    "givenNames": [
+      "Denis",
+      "Colin"
+    ],
+    "familyName": "Leary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Leary",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Starred in the television series 'Rescue Me'",
+      "Known for his dark humor and stand-up comedy"
+    ],
+    "yearBorn": 1957
+  }
+]

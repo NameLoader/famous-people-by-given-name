@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Charlene Wittstock",
+    "givenNames": [
+      "Charlene",
+      "Lynette"
+    ],
+    "familyName": "Wittstock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlene,_Princess_of_Monaco",
+    "occupation": "Princess Consort of Monaco",
+    "achievements": [
+      "Olympic swimmer representing South Africa",
+      "Married to Prince Albert II of Monaco"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Charlene Tilton",
+    "givenNames": [
+      "Charlene",
+      "L"
+    ],
+    "familyName": "Tilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlene_Tilton",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Lucy Ewing on the television series Dallas"
+    ],
+    "yearBorn": 1959
+  }
+]

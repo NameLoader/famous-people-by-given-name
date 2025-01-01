@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Gunther von Hagens",
+    "givenNames": [
+      "Gunther"
+    ],
+    "familyName": "von Hagens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gunther_von_Hagens",
+    "occupation": "Anatomist, Inventor",
+    "achievements": [
+      "Known for his work with plastination, a preservation technique that replaces body fluids with plastic.",
+      "Founded the Institute for Plastination in Heidelberg, Germany."
+    ],
+    "yearBorn": 1945
+  }
+]

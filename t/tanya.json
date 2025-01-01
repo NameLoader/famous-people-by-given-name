@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Tanya Donelly",
+    "givenNames": [
+      "Tanya"
+    ],
+    "familyName": "Donelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanya_Donelly",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Known for her work with the bands Throwing Muses and Belly",
+      "Released numerous solo albums"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Tanya Tucker",
+    "givenNames": [
+      "Tanya",
+      "Denise"
+    ],
+    "familyName": "Tucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanya_Tucker",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Became a country music star at a young age",
+      "Known for hits like 'Delta Dawn' and 'Strong Enough to Bend'"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Tanya Harding",
+    "givenNames": [
+      "Tonya",
+      "Maxene"
+    ],
+    "familyName": "Harding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonya_Harding",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Two-time US Champion figure skater",
+      "Became infamous for her involvement in the attack on Nancy Kerrigan"
+    ],
+    "yearBorn": 1970
+  }
+]

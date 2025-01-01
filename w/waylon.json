@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Waylon Jennings",
+    "givenNames": [
+      "Waylon",
+      "Arnold"
+    ],
+    "familyName": "Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waylon_Jennings",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Pioneered the Outlaw country movement",
+      "Won multiple Grammy Awards",
+      "Inducted into the Country Music Hall of Fame"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2002
+  }
+]

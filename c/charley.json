@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Charley Pride",
+    "givenNames": [
+      "Charley",
+      "Frank"
+    ],
+    "familyName": "Pride",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charley_Pride",
+    "occupation": "Country music singer",
+    "achievements": [
+      "First Black country music superstar",
+      "Grammy Award winner",
+      "Country Music Hall of Fame inductee"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2020
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Pina Bausch",
+    "givenNames": [
+      "Philippine",
+      "Pina"
+    ],
+    "familyName": "Bausch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pina_Bausch",
+    "occupation": "Dancer and choreographer",
+    "achievements": [
+      "Revolutionized modern dance with her highly expressive and emotional style.",
+      "Founded the Tanztheater Wuppertal Pina Bausch, a renowned dance company."
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2009
+  }
+]

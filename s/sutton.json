@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Sutton Foster",
+    "givenNames": [
+      "Sutton",
+      "Lenore"
+    ],
+    "familyName": "Foster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sutton_Foster",
+    "occupation": "Actress, singer, dancer",
+    "achievements": [
+      "Tony Award winner for Best Actress in a Musical (Anything Goes)",
+      "Grammy Award nominee for Best Musical Theater Album (Violet)"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Sutton Stracke",
+    "givenNames": [
+      "Sutton"
+    ],
+    "familyName": "Stracke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sutton_Stracke",
+    "occupation": "Reality television personality, fashion designer",
+    "achievements": [
+      "Cast member on The Real Housewives of Beverly Hills"
+    ],
+    "yearBorn": 1972
+  }
+]

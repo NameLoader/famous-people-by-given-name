@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Abramo Lincoln",
+    "givenNames": [
+      "Abraham"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "occupation": "Lawyer, Politician",
+    "achievements": [
+      "16th President of the United States, Led the Union through the Civil War, Emancipation Proclamation"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1865
+  }
+]

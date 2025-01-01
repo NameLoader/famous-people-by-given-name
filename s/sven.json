@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sven Hedin",
+    "givenNames": [
+      "Sven",
+      "Anders"
+    ],
+    "familyName": "Hedin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Hedin",
+    "occupation": "Explorer, geographer, writer",
+    "achievements": [
+      "Explored Central Asia extensively",
+      "Authored numerous books about his travels and discoveries",
+      "Awarded the Royal Swedish Academy of Sciences' Gold Medal"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Sven Ulreich",
+    "givenNames": [
+      "Sven"
+    ],
+    "familyName": "Ulreich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Ulreich",
+    "occupation": "Footballer (Goalkeeper)",
+    "achievements": [
+      "Played for Bayern Munich and other Bundesliga clubs",
+      "Won multiple German Bundesliga titles"
+    ],
+    "yearBorn": 1988
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Taylor Swift",
+    "givenNames": [
+      "Taylor",
+      "Alison"
+    ],
+    "familyName": "Swift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "Best-selling music artist of the 21st century",
+      "Known for her narrative songwriting and genre versatility"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Taylor Lautner",
+    "givenNames": [
+      "Taylor",
+      "Daniel"
+    ],
+    "familyName": "Lautner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Lautner",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Jacob Black in the Twilight saga",
+      "Has appeared in films such as Abduction and Valentine's Day"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Taylor Kinney",
+    "givenNames": [
+      "Taylor",
+      "Jackson"
+    ],
+    "familyName": "Kinney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Kinney",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Lieutenant Kelly Severide in the television series Chicago Fire"
+    ],
+    "yearBorn": 1982
+  }
+]

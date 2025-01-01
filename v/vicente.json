@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Vicente Fernández",
+    "givenNames": [
+      "Vicente"
+    ],
+    "familyName": "Fernández",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez",
+    "occupation": "Singer, actor",
+    "achievements": [
+      "Known as 'El Charro de Huentitán'",
+      "Grammy Award winner",
+      "One of the most successful mariachi singers of all time"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Vicente Fox Quesada",
+    "givenNames": [
+      "Vicente"
+    ],
+    "familyName": "Fox Quesada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Fox",
+    "occupation": "Politician",
+    "achievements": [
+      "55th President of Mexico (2000–2006)",
+      "First president from the National Action Party (PAN)"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Vicente Aleixandre",
+    "givenNames": [
+      "Vicente",
+      "Pío",
+      "Marcelino",
+      "Cirilo"
+    ],
+    "familyName": "Aleixandre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Aleixandre",
+    "occupation": "Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1977)"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1984
+  }
+]

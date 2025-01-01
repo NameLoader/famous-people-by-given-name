@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Aloïs Alzheimer",
+    "givenNames": [
+      "Aloïs"
+    ],
+    "familyName": "Alzheimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alois_Alzheimer",
+    "occupation": "Psychiatrist",
+    "achievements": [
+      "Identified the disease now known as Alzheimer's disease.",
+      "Made significant contributions to the study of psychiatry and neurology."
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Aloïs Senefelder",
+    "givenNames": [
+      "Aloïs",
+      "Johann"
+    ],
+    "familyName": "Senefelder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alois_Senefelder",
+    "occupation": "Actor, playwright, inventor",
+    "achievements": [
+      "Invented lithography, a printing process still used today.",
+      "Wrote several successful plays."
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1834
+  }
+]

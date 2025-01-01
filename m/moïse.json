@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Moïse Kisling",
+    "givenNames": [
+      "Moïse",
+      "Mojżesz"
+    ],
+    "familyName": "Kisling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Kisling",
+    "occupation": "Painter, sculptor",
+    "achievements": [
+      "Known for his Expressionist and Cubist paintings.",
+      "Portraits of prominent figures such as Gertrude Stein and James Joyce."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Moïse de Camondo",
+    "givenNames": [
+      "Moïse"
+    ],
+    "familyName": "de Camondo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mo%C3%AFse_de_Camondo",
+    "occupation": "Banker, art collector",
+    "achievements": [
+      "Built the Hôtel de Camondo in Paris.",
+      "Collected a renowned collection of 18th-century French decorative arts."
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1935
+  }
+]

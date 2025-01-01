@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Darrell Green",
+    "givenNames": [
+      "Darrell",
+      "Ray"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darrell_Green",
+    "occupation": "American football player",
+    "achievements": [
+      "Three-time Super Bowl champion with the Washington Redskins",
+      "Seven-time Pro Bowl selection",
+      "Two-time NFL Defensive Player of the Year"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Darrell Royal",
+    "givenNames": [
+      "Darrell",
+      "K"
+    ],
+    "familyName": "Royal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darrell_Royal",
+    "occupation": "College football coach",
+    "achievements": [
+      "Three-time National Champion with the University of Texas Longhorns",
+      "Inducted into the College Football Hall of Fame"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Darrell Hammond",
+    "givenNames": [
+      "Darrell",
+      "Clayton"
+    ],
+    "familyName": "Hammond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darrell_Hammond",
+    "occupation": "Comedian, actor",
+    "achievements": [
+      "Longest-tenured cast member on Saturday Night Live (14 seasons)",
+      "Known for impressions of Bill Clinton and Sean Connery"
+    ],
+    "yearBorn": 1956
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jonah Hill",
+    "givenNames": [
+      "Jonah"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonah_Hill",
+    "occupation": "Actor, filmmaker",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actor",
+      "Known for roles in films like 'Superbad', 'Moneyball', and 'The Wolf of Wall Street'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Jonah Lomu",
+    "givenNames": [
+      "Jonah",
+      "Tali"
+    ],
+    "familyName": "Lomu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonah_Lomu",
+    "occupation": "Rugby union player",
+    "achievements": [
+      "Considered one of the greatest rugby players of all time",
+      "First New Zealand rugby player to score 30 international tries"
+    ],
+    "yearBorn": 1975,
+    "yearDied": 2015
+  }
+]

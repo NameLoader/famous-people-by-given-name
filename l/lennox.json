@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Lennox Lewis",
+    "givenNames": [
+      "Lennox",
+      "Claudius"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lennox_Lewis",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Former three-time world heavyweight champion",
+      "Considered one of the greatest heavyweight boxers of all time"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Lennox Berkeley",
+    "givenNames": [
+      "Lennox",
+      "Randal",
+      "Francis"
+    ],
+    "familyName": "Berkeley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lennox_Berkeley",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his neo-classical style",
+      "Wrote operas, ballets, orchestral works, and chamber music"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1989
+  }
+]

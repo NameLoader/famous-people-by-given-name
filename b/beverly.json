@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Beverly Sills",
+    "givenNames": [
+      "Beverly"
+    ],
+    "familyName": "Sills",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beverly_Sills",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Internationally acclaimed soprano",
+      "Director of the New York City Opera"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Beverly Cleary",
+    "givenNames": [
+      "Beverly",
+      "Atlee"
+    ],
+    "familyName": "Cleary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beverly_Cleary",
+    "occupation": "Children's Author",
+    "achievements": [
+      "Wrote beloved children's books such as the Ramona Quimby series and Beezus and Ramona",
+      "National Medal of Arts recipient"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2021
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "fullName": "Lonnie Rashid Lynn Jr.",
+    "givenNames": [
+      "Lonnie",
+      "Rashid"
+    ],
+    "familyName": "Lynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_(rapper)",
+    "occupation": "Rapper, actor, author",
+    "achievements": [
+      "Grammy Award winner",
+      "Multi-platinum selling artist",
+      "Known for socially conscious lyrics and jazz influences"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Lonnie Johnson",
+    "givenNames": [
+      "Lonnie",
+      "Alonzo"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Johnson_(musician)",
+    "occupation": "Blues guitarist, singer, songwriter",
+    "achievements": [
+      "Pioneering blues musician",
+      "Influential guitar stylist",
+      "Recorded prolifically throughout his career"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Lonnie Donegan",
+    "givenNames": [
+      "Lonnie",
+      "Anthony",
+      "James"
+    ],
+    "familyName": "Donegan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Donegan",
+    "occupation": "Skiffle musician, singer-songwriter",
+    "achievements": [
+      "Popularized skiffle music in the UK",
+      "Influenced the British Invasion bands",
+      "Known for hits like 'Rock Island Line'"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2002
+  }
+]

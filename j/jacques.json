@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Jacques Cousteau",
+    "givenNames": [
+      "Jacques",
+      "Yves"
+    ],
+    "familyName": "Cousteau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Cousteau",
+    "occupation": "Oceanographer, filmmaker",
+    "achievements": [
+      "Pioneer of scuba diving and underwater exploration",
+      "Created numerous documentaries about the ocean"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Jacques Derrida",
+    "givenNames": [
+      "Jacques"
+    ],
+    "familyName": "Derrida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Derrida",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed deconstruction, a key concept in postmodern philosophy"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Jacques Lacan",
+    "givenNames": [
+      "Jacques",
+      "Marie",
+      "Émile"
+    ],
+    "familyName": "Lacan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Lacan",
+    "occupation": "Psychoanalyst",
+    "achievements": [
+      "Influential figure in French psychoanalysis and structuralism"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Jacques Offenbach",
+    "givenNames": [
+      "Jacques"
+    ],
+    "familyName": "Offenbach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his operettas like 'The Tales of Hoffmann'"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1880
+  }
+]

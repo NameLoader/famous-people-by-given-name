@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Gideon Levy",
+    "givenNames": [
+      "Gideon"
+    ],
+    "familyName": "Levy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gideon_Levy",
+    "occupation": "Journalist",
+    "achievements": [
+      "Haaretz columnist known for his critical views on Israeli policies"
+    ]
+  },
+  {
+    "fullName": "Gideon Rachman",
+    "givenNames": [
+      "Gideon"
+    ],
+    "familyName": "Rachman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gideon_Rachman",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Chief foreign affairs commentator for the Financial Times"
+    ]
+  }
+]

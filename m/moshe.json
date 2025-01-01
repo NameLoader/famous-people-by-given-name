@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Moshe Dayan",
+    "givenNames": [
+      "Moshe"
+    ],
+    "familyName": "Dayan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moshe_Dayan",
+    "occupation": "Military leader, politician",
+    "achievements": [
+      "Israeli Minister of Defense during the Six-Day War",
+      "Key figure in Israel's military history"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Moshe Katsav",
+    "givenNames": [
+      "Moshe"
+    ],
+    "familyName": "Katsav",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moshe_Katsav",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the eighth President of Israel from 2000 to 2007"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Moshe Safdie",
+    "givenNames": [
+      "Moshe"
+    ],
+    "familyName": "Safdie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moshe_Safdie",
+    "occupation": "Architect",
+    "achievements": [
+      "Known for his Brutalist and postmodern architectural style",
+      "Designed notable buildings such as Habitat 67 in Montreal and the Marina Bay Sands in Singapore"
+    ],
+    "yearBorn": 1938
+  }
+]

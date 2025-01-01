@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Salvador Dalí",
+    "givenNames": [
+      "Salvador",
+      "Domingo",
+      "Felipe",
+      "Jacinto"
+    ],
+    "familyName": "Dalí",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneered Surrealism",
+      "Known for his bizarre and dreamlike paintings"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Salvador Allende",
+    "givenNames": [
+      "Salvador",
+      "Guillermo"
+    ],
+    "familyName": "Allende",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Allende",
+    "occupation": "Politician",
+    "achievements": [
+      "First Marxist president of Chile"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1973
+  }
+]

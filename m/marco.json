@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Marco Polo",
+    "givenNames": [
+      "Marco"
+    ],
+    "familyName": "Polo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Polo",
+    "occupation": "Explorer, Merchant",
+    "achievements": [
+      "Traveled to Asia along the Silk Road",
+      "Met Kublai Khan",
+      "Wrote the book 'The Travels of Marco Polo'"
+    ],
+    "yearBorn": 1254,
+    "yearDied": 1324
+  },
+  {
+    "fullName": "Marco Rubio",
+    "givenNames": [
+      "Marco",
+      "Antonio"
+    ],
+    "familyName": "Rubio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Senator from Florida",
+      "Republican presidential candidate in 2016"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Marco Pierre White",
+    "givenNames": [
+      "Marco",
+      "Pierre"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Pierre_White",
+    "occupation": "Chef, Restaurateur, Television Personality",
+    "achievements": [
+      "Youngest chef to be awarded three Michelin stars",
+      "Known for his volatile temperament and culinary innovation"
+    ],
+    "yearBorn": 1961
+  }
+]

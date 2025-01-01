@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Solomon Schechter",
+    "givenNames": [
+      "Solomon"
+    ],
+    "familyName": "Schechter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Solomon_Schechter",
+    "occupation": "Jewish scholar, rabbi",
+    "achievements": [
+      "Founded the Jewish Theological Seminary of America.",
+      "Pioneer in the field of Talmudic studies."
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1913
+  },
+  {
+    "fullName": "Solomon Burke",
+    "givenNames": [
+      "Solomon",
+      "Vincent",
+      "McDonald"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Solomon_Burke",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known as the 'King of Rock and Soul'",
+      "Influential figure in the development of soul music."
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2010
+  }
+]

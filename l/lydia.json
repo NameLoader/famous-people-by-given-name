@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Lydia Maria Child",
+    "givenNames": [
+      "Lydia",
+      "Maria"
+    ],
+    "familyName": "Child",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lydia_Maria_Child",
+    "occupation": "Writer, abolitionist, women's rights activist",
+    "achievements": [
+      "Wrote influential anti-slavery novels and pamphlets",
+      "Advocated for Native American rights",
+      "Promoted women's education and suffrage"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1880
+  },
+  {
+    "fullName": "Lydia Davis",
+    "givenNames": [
+      "Lydia"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lydia_Davis",
+    "occupation": "Writer",
+    "achievements": [
+      "Known for her minimalist short stories and experimental fiction",
+      "Won the Man Booker International Prize in 2013"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Lydia Lunch",
+    "givenNames": [
+      "Lydia"
+    ],
+    "familyName": "Lunch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lydia_Lunch",
+    "occupation": "Singer, songwriter, actress, writer",
+    "achievements": [
+      "Pioneer of the no wave music scene in New York City",
+      "Known for her confrontational and experimental performance art"
+    ],
+    "yearBorn": 1959
+  }
+]

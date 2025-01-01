@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Marta Vieira da Silva",
+    "givenNames": [
+      "Marta"
+    ],
+    "familyName": "Vieira da Silva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marta_(footballer)",
+    "occupation": "Footballer",
+    "achievements": [
+      "Six-time FIFA World Player of the Year",
+      "Olympic silver medalist (2004, 2008)"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Marta Kauffman",
+    "givenNames": [
+      "Marta",
+      "Fran"
+    ],
+    "familyName": "Kauffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marta_Kauffman",
+    "occupation": "Television producer, writer",
+    "achievements": [
+      "Co-creator of the television sitcoms 'Friends' and 'Grace and Frankie'"
+    ],
+    "yearBorn": 1956
+  }
+]

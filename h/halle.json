@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Halle Berry",
+    "givenNames": [
+      "Halle",
+      "Maria"
+    ],
+    "familyName": "Berry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Halle_Berry",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "First African-American woman to win the Academy Award for Best Actress",
+      "Numerous film and television awards including a Golden Globe and Emmy Award"
+    ],
+    "yearBorn": 1966
+  }
+]

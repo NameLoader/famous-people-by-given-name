@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Teodoro Obiang Nguema Mbasogo",
+    "givenNames": [
+      "Teodoro"
+    ],
+    "familyName": "Obiang Nguema Mbasogo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Equatorial Guinea since 1979"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Teodoro Petkoff",
+    "givenNames": [
+      "Teodoro"
+    ],
+    "familyName": "Petkoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teodoro_Petkoff",
+    "occupation": "Politician, Journalist, Writer",
+    "achievements": [
+      "Former Minister of Planning in Venezuela",
+      "Candidate for President of Venezuela in 1998"
+    ],
+    "yearBorn": 1932
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Caitlyn Jenner",
+    "givenNames": [
+      "Caitlyn",
+      "Marie"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caitlyn_Jenner",
+    "occupation": "Olympic athlete, television personality",
+    "achievements": [
+      "Won the gold medal in the decathlon at the 1976 Summer Olympics",
+      "Starred in the reality television series Keeping Up with the Kardashians"
+    ],
+    "yearBorn": 1949
+  }
+]

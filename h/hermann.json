@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Hermann Hesse",
+    "givenNames": [
+      "Hermann",
+      "Karl"
+    ],
+    "familyName": "Hesse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Hesse",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1946)",
+      "Known for works like Steppenwolf, Siddhartha, and The Glass Bead Game"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Hermann Göring",
+    "givenNames": [
+      "Hermann",
+      "Wilhelm"
+    ],
+    "familyName": "Göring",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring",
+    "occupation": "Nazi politician and military leader",
+    "achievements": [
+      "Commander-in-Chief of the Luftwaffe (German Air Force)",
+      "Convicted war criminal at the Nuremberg Trials"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1946
+  },
+  {
+    "fullName": "Hermann Weyl",
+    "givenNames": [
+      "Hermann",
+      "Klaus",
+      "Hugo"
+    ],
+    "familyName": "Weyl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Weyl",
+    "occupation": "Mathematician and physicist",
+    "achievements": [
+      "Significant contributions to the fields of differential geometry, topology, and quantum mechanics",
+      "Known for Weyl's Theorem, Weyl groups, and the concept of gauge theory"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1955
+  }
+]

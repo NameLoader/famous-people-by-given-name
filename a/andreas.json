@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Andreas Vesalius",
+    "givenNames": [
+      "Andreas"
+    ],
+    "familyName": "Vesalius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Vesalius",
+    "occupation": "Physician, Anatomist",
+    "achievements": [
+      "Considered the father of modern anatomy.",
+      "Published De humani corporis fabrica (On the Fabric of the Human Body), a groundbreaking anatomical text."
+    ],
+    "yearBorn": 1514,
+    "yearDied": 1564
+  },
+  {
+    "fullName": "Andreas Papandreou",
+    "givenNames": [
+      "Andreas",
+      "Georgiou"
+    ],
+    "familyName": "Papandreou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Papandreou",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Greece from 1981 to 1989 and again from 1993 to 1996.",
+      "Founded the Panhellenic Socialist Movement (PASOK)."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Andreas Seppi",
+    "givenNames": [
+      "Andreas"
+    ],
+    "familyName": "Seppi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Seppi",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Reached a career-high singles ranking of No. 18 in the world.",
+      "Won four ATP Tour singles titles."
+    ],
+    "yearBorn": 1984
+  }
+]

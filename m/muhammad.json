@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Muhammad Ali",
+    "givenNames": [
+      "Muhammad"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+    "occupation": "Boxer, Activist",
+    "achievements": [
+      "Three-time World Heavyweight Champion",
+      "Known for his speed, agility, and trash-talking",
+      "Prominent figure in the Civil Rights Movement"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Muhammad Yunus",
+    "givenNames": [
+      "Muhammad"
+    ],
+    "familyName": "Yunus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus",
+    "occupation": "Economist, Banker",
+    "achievements": [
+      "Pioneer of microcredit and microfinance",
+      "Founded the Grameen Bank",
+      "Nobel Peace Prize laureate (2006)"
+    ],
+    "yearBorn": 1940
+  }
+]

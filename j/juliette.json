@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Juliette Binoche",
+    "givenNames": [
+      "Juliette"
+    ],
+    "familyName": "Binoche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliette_Binoche",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "César Award for Best Actress (three times)",
+      "Known for roles in films like 'The English Patient', 'Chocolat', and 'Three Colors: Blue'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Juliette Lewis",
+    "givenNames": [
+      "Juliette",
+      "Lake"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliette_Lewis",
+    "occupation": "Actress, Musician",
+    "achievements": [
+      "Nominated for Academy Award and Golden Globe Award for her role in 'Natural Born Killers'",
+      "Known for roles in films like 'Yellowjackets', 'From Dusk Till Dawn', and 'Cape Fear'"
+    ],
+    "yearBorn": 1973
+  }
+]

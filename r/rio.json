@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rio Ferdinand",
+    "givenNames": [
+      "Rio",
+      "Gavin"
+    ],
+    "familyName": "Ferdinand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rio_Ferdinand",
+    "occupation": "Footballer",
+    "achievements": [
+      "Premier League winner with Manchester United",
+      "UEFA Champions League winner with Manchester United",
+      "England international footballer"
+    ],
+    "yearBorn": 1978
+  }
+]

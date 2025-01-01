@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Tamika Catchings",
+    "givenNames": [
+      "Tamika",
+      "Devonne"
+    ],
+    "familyName": "Catchings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamika_Catchings",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "4x Olympic Gold Medalist",
+      "WNBA Champion",
+      "WNBA MVP",
+      "15x WNBA All-Star"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Tamika Mallory",
+    "givenNames": [
+      "Tamika",
+      "Danielle"
+    ],
+    "familyName": "Mallory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamika_Mallory",
+    "occupation": "Activist",
+    "achievements": [
+      "Co-Chair of the Women's March on Washington",
+      "Advocate for racial justice and social equality"
+    ]
+  }
+]

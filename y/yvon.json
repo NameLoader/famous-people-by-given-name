@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Yvon Chouinard",
+    "givenNames": [
+      "Yvon"
+    ],
+    "familyName": "Chouinard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvon_Chouinard",
+    "occupation": "Businessman, environmentalist, climber",
+    "achievements": [
+      "Founded Patagonia, Inc.",
+      "Pioneer in rock climbing gear and techniques",
+      "Environmental activist"
+    ],
+    "yearBorn": 1938
+  }
+]

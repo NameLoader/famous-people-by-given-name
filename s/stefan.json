@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Stefan Zweig",
+    "givenNames": [
+      "Stefan"
+    ],
+    "familyName": "Zweig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Zweig",
+    "occupation": "Writer, biographer",
+    "achievements": [
+      "Prolific author of novellas, novels, plays, and biographies.",
+      "Nominated for the Nobel Prize in Literature multiple times."
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1942
+  },
+  {
+    "fullName": "Stefan Edberg",
+    "givenNames": [
+      "Stefan",
+      "Jan"
+    ],
+    "familyName": "Edberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Edberg",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Won six Grand Slam singles titles.",
+      "Ranked world No. 1 for 72 weeks."
+    ],
+    "yearBorn": 1966
+  }
+]

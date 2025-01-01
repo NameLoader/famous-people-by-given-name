@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Anna Freud",
+    "givenNames": [
+      "Anna"
+    ],
+    "familyName": "Freud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Freud",
+    "occupation": "Psychoanalyst",
+    "achievements": [
+      "Pioneer in child psychoanalysis",
+      "Developed techniques for analyzing children's defense mechanisms",
+      "Founded the Hampstead Child Therapy Clinic and Training Centre"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Anna Wintour",
+    "givenNames": [
+      "Anna"
+    ],
+    "familyName": "Wintour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Wintour",
+    "occupation": "Fashion Journalist, Editor",
+    "achievements": [
+      "Editor-in-Chief of Vogue magazine since 1988",
+      "Influential figure in the fashion industry",
+      "Known for her distinctive bob haircut and sunglasses"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Anna Paquin",
+    "givenNames": [
+      "Anna"
+    ],
+    "familyName": "Paquin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Paquin",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Supporting Actress at age 11 for her role in 'The Piano'",
+      "Starred in films like 'X-Men' and 'True Blood'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Anna Kendrick",
+    "givenNames": [
+      "Anna",
+      "Cooke"
+    ],
+    "familyName": "Kendrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Kendrick",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in 'Up in the Air'",
+      "Starred in musicals like 'Pitch Perfect' and 'Into the Woods'"
+    ],
+    "yearBorn": 1985
+  }
+]

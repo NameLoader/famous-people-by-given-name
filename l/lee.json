@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lee Marvin",
+    "givenNames": [
+      "Lee"
+    ],
+    "familyName": "Marvin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Marvin",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (Cat Ballou)",
+      "Known for roles in films like The Dirty Dozen and Point Blank"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1987
+  }
+]

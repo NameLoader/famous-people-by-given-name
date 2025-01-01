@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Adele Laurie Blue Adkins",
+    "givenNames": [
+      "Adele",
+      "Laurie",
+      "Blue"
+    ],
+    "familyName": "Adkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adele",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won 16 Grammy Awards",
+      "Sold over 120 million records worldwide",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Adele Astaire",
+    "givenNames": [
+      "Adele"
+    ],
+    "familyName": "Astaire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adele_Astaire",
+    "occupation": "Dancer, actress",
+    "achievements": [
+      "Performed on Broadway and in vaudeville",
+      "Starred in several Hollywood films with her brother Fred Astaire"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1981
+  }
+]

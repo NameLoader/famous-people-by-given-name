@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Estelle Parsons",
+    "givenNames": [
+      "Estelle"
+    ],
+    "familyName": "Parsons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estelle_Parsons",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress for her role in Bonnie and Clyde (1967)",
+      "Three Tony Awards for her stage performances",
+      "Emmy Award nomination for her role in the television series Roseanne"
+    ],
+    "yearBorn": 1927
+  },
+  {
+    "fullName": "Estelle Getty",
+    "givenNames": [
+      "Estelle"
+    ],
+    "familyName": "Getty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estelle_Getty",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Sophia Petrillo on the television sitcom The Golden Girls (1985-1992)",
+      "Won a Primetime Emmy Award and a Screen Actors Guild Award for her performance in The Golden Girls"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Estelle Lefébure",
+    "givenNames": [
+      "Estelle"
+    ],
+    "familyName": "Lefébure",
+    "wikipedia": "https://en.wikipedia.org/wiki/Estelle_Lef%C3%A9bure",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "Known for her work with brands such as Chanel and Ralph Lauren",
+      "Appeared in numerous films and television shows"
+    ],
+    "yearBorn": 1965
+  }
+]

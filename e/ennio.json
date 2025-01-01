@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ennio Morricone",
+    "givenNames": [
+      "Ennio"
+    ],
+    "familyName": "Morricone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ennio_Morricone",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed soundtracks for over 500 films and television series.",
+      "Won an Academy Award for Best Original Score for 'The Hateful Eight' (2015).",
+      "Received a lifetime achievement Oscar in 2007."
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2020
+  }
+]

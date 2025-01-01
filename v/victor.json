@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Victor Hugo",
+    "givenNames": [
+      "Victor",
+      "Marie"
+    ],
+    "familyName": "Hugo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hugo",
+    "occupation": "Writer, Poet, Dramatist",
+    "achievements": [
+      "Author of Les Misérables and The Hunchback of Notre-Dame",
+      "Key figure in the Romantic movement"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1885
+  },
+  {
+    "fullName": "Victor Fleming",
+    "givenNames": [
+      "Victor",
+      "Lonzo"
+    ],
+    "familyName": "Fleming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Fleming",
+    "occupation": "Film director",
+    "achievements": [
+      "Directed Gone with the Wind and The Wizard of Oz"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1949
+  },
+  {
+    "fullName": "Victor Vasarely",
+    "givenNames": [
+      "Victor"
+    ],
+    "familyName": "Vasarely",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Vasarely",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneer of Op art",
+      "Known for geometric abstract paintings and sculptures"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1997
+  }
+]

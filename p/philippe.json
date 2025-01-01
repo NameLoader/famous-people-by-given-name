@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Philippe Pétain",
+    "givenNames": [
+      "Henri",
+      "Philippe",
+      "Bénoni",
+      "Omer",
+      "Joseph"
+    ],
+    "familyName": "Pétain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_P%C3%A9tain",
+    "occupation": "Military officer, statesman",
+    "achievements": [
+      "Marshal of France",
+      "Leader of the Vichy regime during World War II"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1951
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rutger Hauer",
+    "givenNames": [
+      "Rutger",
+      "Oelsen"
+    ],
+    "familyName": "Hauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rutger_Hauer",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Blade Runner, The Hitcher, and Ladyhawke",
+      "Received critical acclaim for his performances"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Rutger Bregman",
+    "givenNames": [
+      "Rutger",
+      "Christiaan"
+    ],
+    "familyName": "Bregman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rutger_Bregman",
+    "occupation": "Historian and author",
+    "achievements": [
+      "Bestselling author of 'Utopia for Realists' and 'Humankind'",
+      "Known for his optimistic view of human nature"
+    ],
+    "yearBorn": 1988
+  }
+]

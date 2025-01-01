@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Mauro Camoranesi",
+    "givenNames": [
+      "Mauro",
+      "Germán"
+    ],
+    "familyName": "Camoranesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Camoranesi",
+    "occupation": "Footballer",
+    "achievements": [
+      "FIFA World Cup winner (2006)",
+      "Serie A champion (2005-06)"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Mauro Icardi",
+    "givenNames": [
+      "Mauro",
+      "Emanuel"
+    ],
+    "familyName": "Icardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Icardi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Serie A top scorer (2014-15, 2017-18)"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Mauro Ranallo",
+    "givenNames": [
+      "Mauro",
+      "Domenico"
+    ],
+    "familyName": "Ranallo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Ranallo",
+    "occupation": "Commentator",
+    "achievements": [
+      "WWE Hall of Fame announcer",
+      "MMA commentator for Showtime and Bellator"
+    ],
+    "yearBorn": 1969
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Clark Gable",
+    "givenNames": [
+      "Clark"
+    ],
+    "familyName": "Gable",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clark_Gable",
+    "occupation": "Actor",
+    "achievements": [
+      "Won an Academy Award for Best Actor",
+      "Known for his roles in films like Gone with the Wind and It Happened One Night"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1960
+  }
+]

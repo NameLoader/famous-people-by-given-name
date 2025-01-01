@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Pete Seeger",
+    "givenNames": [
+      "Pete",
+      "Peter"
+    ],
+    "familyName": "Seeger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Seeger",
+    "occupation": "Folk Singer, Activist",
+    "achievements": [
+      "Prominent figure in the American folk music revival",
+      "Advocate for social justice and peace",
+      "Wrote influential songs like 'Where Have All the Flowers Gone?' and 'If I Had a Hammer'"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Pete Best",
+    "givenNames": [
+      "Randolph",
+      "Peter"
+    ],
+    "familyName": "Best",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Best",
+    "occupation": "Drummer",
+    "achievements": [
+      "Original drummer for The Beatles",
+      "Replaced by Ringo Starr in 1962"
+    ],
+    "yearBorn": 1941
+  }
+]

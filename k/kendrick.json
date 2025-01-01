@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kendrick Lamar Duckworth",
+    "givenNames": [
+      "Kendrick",
+      "Lamar"
+    ],
+    "familyName": "Duckworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendrick_Lamar",
+    "occupation": "Rapper, Songwriter",
+    "achievements": [
+      "Pulitzer Prize for Music",
+      "17 Grammy Awards",
+      "Known for complex lyrical themes and storytelling"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Kendrick Perkins",
+    "givenNames": [
+      "Kendrick",
+      "Le'Dale"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendrick_Perkins",
+    "occupation": "Former NBA Player, Basketball Analyst",
+    "achievements": [
+      "NBA Champion (2008)",
+      "Known for his defensive skills and rebounding"
+    ],
+    "yearBorn": 1984
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Oswald the Lucky Rabbit",
+    "givenNames": [
+      "Oswald",
+      "Ozzie"
+    ],
+    "familyName": "Rabbit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_the_Lucky_Rabbit",
+    "occupation": "Cartoon character",
+    "achievements": [
+      "Iconic cartoon character created by Walt Disney",
+      "Starred in numerous animated shorts"
+    ]
+  },
+  {
+    "fullName": "Oswald Spengler",
+    "givenNames": [
+      "Oswald",
+      "Arnold",
+      "Gottfried"
+    ],
+    "familyName": "Spengler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Spengler",
+    "occupation": "Historian, philosopher",
+    "achievements": [
+      "Author of 'The Decline of the West'",
+      "Influential thinker on cultural history and philosophy"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1936
+  }
+]

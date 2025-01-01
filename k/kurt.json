@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Kurt Cobain",
+    "givenNames": [
+      "Kurt",
+      "Donald"
+    ],
+    "familyName": "Cobain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Frontman of the band Nirvana",
+      "Key figure in the grunge movement",
+      "Influential songwriter and guitarist"
+    ],
+    "yearBorn": 1967,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Kurt Vonnegut",
+    "givenNames": [
+      "Kurt"
+    ],
+    "familyName": "Vonnegut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+    "occupation": "Writer, Novelist",
+    "achievements": [
+      "Author of satirical and darkly humorous novels",
+      "Known for works like Slaughterhouse-Five and Cat's Cradle",
+      "Influential voice in American literature"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Kurt Gödel",
+    "givenNames": [
+      "Kurt",
+      "Friedrich"
+    ],
+    "familyName": "Gödel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del",
+    "occupation": "Logician, Mathematician",
+    "achievements": [
+      "Developed Gödel's incompleteness theorems",
+      "Revolutionized mathematical logic and philosophy",
+      "Influential figure in the foundations of mathematics"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1978
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Godfrey Harold Hardy",
+    "givenNames": [
+      "Godfrey",
+      "Harold"
+    ],
+    "familyName": "Hardy",
+    "wikipedia": "https://en.wikipedia.org/wiki/G._H._Hardy",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Contributions to number theory",
+      "Collaboration with Srinivasa Ramanujan"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1947
+  }
+]

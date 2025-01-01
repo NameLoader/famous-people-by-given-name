@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Peter the Great",
+    "givenNames": [
+      "Peter"
+    ],
+    "familyName": "Romanov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Great",
+    "occupation": "Tsar of Russia",
+    "achievements": [
+      "Westernized Russia",
+      "Founded St. Petersburg",
+      "Expanded Russian Empire"
+    ],
+    "yearBorn": 1672,
+    "yearDied": 1725
+  },
+  {
+    "fullName": "Peter Paul Rubens",
+    "givenNames": [
+      "Peter",
+      "Paul"
+    ],
+    "familyName": "Rubens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens",
+    "occupation": "Painter",
+    "achievements": [
+      "Baroque master",
+      "Known for religious and mythological paintings",
+      "Influential figure in Flemish art"
+    ],
+    "yearBorn": 1577,
+    "yearDied": 1640
+  },
+  {
+    "fullName": "Peter Higgs",
+    "givenNames": [
+      "Peter",
+      "Ware"
+    ],
+    "familyName": "Higgs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Higgs",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Proposed the Higgs boson",
+      "Nobel Prize in Physics (2013)"
+    ],
+    "yearBorn": 1929
+  },
+  {
+    "fullName": "Peter Dinklage",
+    "givenNames": [
+      "Peter",
+      "Hayden"
+    ],
+    "familyName": "Dinklage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Dinklage",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Game of Thrones' and 'Station Agent'",
+      "Primetime Emmy Award winner"
+    ],
+    "yearBorn": 1969
+  }
+]

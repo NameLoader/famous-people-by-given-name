@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Everett McKinley Dirksen",
+    "givenNames": [
+      "Everett",
+      "McKinley"
+    ],
+    "familyName": "Dirksen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Everett_Dirksen",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a U.S. Senator from Illinois (1951-1964)",
+      "Leader of the Republican Party in the Senate",
+      "Key figure in passing civil rights legislation"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Everett H. Koop",
+    "givenNames": [
+      "Everett",
+      "Charles"
+    ],
+    "familyName": "Koop",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._Everett_Koop",
+    "occupation": "Surgeon General of the United States",
+    "achievements": [
+      "Promoted public health awareness on issues like AIDS and smoking",
+      "Advocate for safer sex practices and needle exchange programs"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2013
+  }
+]

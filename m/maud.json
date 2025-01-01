@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Maud Adams",
+    "givenNames": [
+      "Maud",
+      "Solveig",
+      "Christina"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maud_Adams",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in James Bond films 'Octopussy' and 'The Man with the Golden Gun'"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Maud Lewis",
+    "givenNames": [
+      "Maud",
+      "Kathleen"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maud_Lewis",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for her vibrant folk art paintings despite living with physical disabilities"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Maud Gonne",
+    "givenNames": [
+      "Maud"
+    ],
+    "familyName": "Gonne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maud_Gonne",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Irish nationalist and suffragette who inspired W.B. Yeats' poetry"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1953
+  }
+]

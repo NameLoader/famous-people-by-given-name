@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Tracie Thoms",
+    "givenNames": [
+      "Tracie"
+    ],
+    "familyName": "Thoms",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracie_Thoms",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her roles in Broadway productions like 'Rent' and 'The Devil Wears Prada'",
+      "Appeared in television shows such as 'Cold Case' and 'Lovecraft Country'"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Tracie Bennett",
+    "givenNames": [
+      "Tracie"
+    ],
+    "familyName": "Bennett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracie_Bennett",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Acclaimed stage actress, particularly known for her role as Judy Garland in 'End of the Rainbow'",
+      "Nominated for Olivier Awards and Tony Awards for her performances"
+    ],
+    "yearBorn": 1961
+  }
+]

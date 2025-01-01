@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Troy Aikman",
+    "givenNames": [
+      "Troy",
+      "Kenneth"
+    ],
+    "familyName": "Aikman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troy_Aikman",
+    "occupation": "Former American football quarterback, analyst",
+    "achievements": [
+      "Three-time Super Bowl champion with the Dallas Cowboys",
+      "Six-time Pro Bowler",
+      "NFL Hall of Famer"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Troy Polamalu",
+    "givenNames": [
+      "Troy",
+      "Aumua"
+    ],
+    "familyName": "Polamalu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troy_Polamalu",
+    "occupation": "Former American football safety",
+    "achievements": [
+      "Two-time Super Bowl champion with the Pittsburgh Steelers",
+      "Eight-time Pro Bowler",
+      "NFL Defensive Player of the Year (2010)",
+      "NFL Hall of Famer"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Troy McClure",
+    "givenNames": [
+      "Troy"
+    ],
+    "familyName": "McClure",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troy_McClure",
+    "occupation": "Fictional character, actor",
+    "achievements": [
+      "Known for his self-important demeanor and numerous catchphrases in the animated series 'The Simpsons'"
+    ]
+  }
+]

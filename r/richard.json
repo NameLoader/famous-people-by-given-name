@@ -1,0 +1,79 @@
+[
+  {
+    "fullName": "Richard Branson",
+    "givenNames": [
+      "Richard",
+      "Charles",
+      "Nicholas"
+    ],
+    "familyName": "Branson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Branson",
+    "occupation": "Entrepreneur, Businessman",
+    "achievements": [
+      "Founded the Virgin Group",
+      "Known for his ventures in aviation, music, telecommunications, and space tourism"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Richard Feynman",
+    "givenNames": [
+      "Richard",
+      "Phillips"
+    ],
+    "familyName": "Feynman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1965 for his work on quantum electrodynamics",
+      "Known for his innovative teaching style and popular science books"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Richard Nixon",
+    "givenNames": [
+      "Richard",
+      "Milhous"
+    ],
+    "familyName": "Nixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 37th President of the United States (1969-1974)",
+      "Opened relations with China",
+      "Oversaw the end of the Vietnam War"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Richard Gere",
+    "givenNames": [
+      "Richard",
+      "Tiffany"
+    ],
+    "familyName": "Gere",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Gere",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films such as 'Pretty Woman', 'An Officer and a Gentleman', and 'Chicago'"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Richard Dawkins",
+    "givenNames": [
+      "Richard"
+    ],
+    "familyName": "Dawkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Dawkins",
+    "occupation": "Biologist, Author",
+    "achievements": [
+      "Prominent evolutionary biologist and atheist writer",
+      "Author of 'The Selfish Gene' and 'The God Delusion'"
+    ],
+    "yearBorn": 1941
+  }
+]

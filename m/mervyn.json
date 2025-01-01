@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mervyn Peake",
+    "givenNames": [
+      "Mervyn",
+      "Laurence"
+    ],
+    "familyName": "Peake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mervyn_Peake",
+    "occupation": "Novelist, poet, illustrator",
+    "achievements": [
+      "Author of the Gormenghast trilogy",
+      "Illustrator of books and magazines"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Mervyn King",
+    "givenNames": [
+      "Mervyn",
+      "Allister"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury",
+    "occupation": "Economist",
+    "achievements": [
+      "Governor of the Bank of England (2003-2013)",
+      "Key figure in the UK's response to the financial crisis of 2008"
+    ],
+    "yearBorn": 1948
+  }
+]

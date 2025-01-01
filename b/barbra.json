@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Barbra Streisand",
+    "givenNames": [
+      "Barbara",
+      "Joan",
+      "Barbra"
+    ],
+    "familyName": "Streisand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+    "occupation": "Singer, Actress, Filmmaker",
+    "achievements": [
+      "Academy Award winner",
+      "Grammy Award winner",
+      "Tony Award winner",
+      "Emmy Award winner",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1942
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Isabel Allende",
+    "givenNames": [
+      "Isabel",
+      "Angelica"
+    ],
+    "familyName": "Allende",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Allende",
+    "occupation": "Author",
+    "achievements": [
+      "Internationally acclaimed novelist known for magical realism works like 'The House of the Spirits'",
+      "Recipient of numerous awards including the Chilean National Prize for Literature"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Isabel Marant",
+    "givenNames": [
+      "Isabel"
+    ],
+    "familyName": "Marant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Marant",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Known for her Parisian chic and bohemian-inspired designs",
+      "Her brand is highly sought after by celebrities and fashion influencers"
+    ]
+  }
+]

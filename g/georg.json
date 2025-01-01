@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Georg Wilhelm Friedrich Hegel",
+    "givenNames": [
+      "Georg",
+      "Wilhelm",
+      "Friedrich"
+    ],
+    "familyName": "Hegel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed a complex and influential system of idealist philosophy",
+      "Key figure in German idealism and the history of Western thought"
+    ],
+    "yearBorn": 1770,
+    "yearDied": 1831
+  },
+  {
+    "fullName": "Georg Cantor",
+    "givenNames": [
+      "Georg",
+      "Ferdinand",
+      "Ludwig",
+      "Philipp"
+    ],
+    "familyName": "Cantor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Cantor",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Founded set theory, a fundamental branch of mathematics",
+      "Made groundbreaking contributions to the understanding of infinity and transfinite numbers"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Georg Trakl",
+    "givenNames": [
+      "Georg"
+    ],
+    "familyName": "Trakl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Trakl",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his melancholic and Expressionist poetry",
+      "Influential figure in Austrian literature of the early 20th century"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1914
+  }
+]

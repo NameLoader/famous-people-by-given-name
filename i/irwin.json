@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Irwin Allen",
+    "givenNames": [
+      "Irwin"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Allen",
+    "occupation": "Film and television producer",
+    "achievements": [
+      "Known for producing disaster films such as The Poseidon Adventure and The Towering Inferno",
+      "Created the science fiction television series Lost in Space and Voyage to the Bottom of the Sea"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Irwin Shaw",
+    "givenNames": [
+      "Irwin"
+    ],
+    "familyName": "Shaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Shaw",
+    "occupation": "Novelist, playwright, and screenwriter",
+    "achievements": [
+      "Wrote the bestselling novel The Young Lions",
+      "Won a Tony Award for his play Bury Me My Name is Not Yours"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Irwin Rose",
+    "givenNames": [
+      "Irwin",
+      "Allan"
+    ],
+    "familyName": "Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Rose",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Shared the Nobel Prize in Chemistry in 2004 for his work on ubiquitin-mediated protein degradation"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2015
+  }
+]

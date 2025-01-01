@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Annette Bening",
+    "givenNames": [
+      "Annette",
+      "Carol"
+    ],
+    "familyName": "Bening",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annette_Bening",
+    "occupation": "Actress",
+    "achievements": [
+      "Four-time Academy Award nominee",
+      "Tony Award winner for Best Actress in a Play"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Annette Funicello",
+    "givenNames": [
+      "Annette",
+      "Joanne"
+    ],
+    "familyName": "Funicello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annette_Funicello",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Disney Mouseketeer",
+      "Popular beach party film actress"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2013
+  }
+]

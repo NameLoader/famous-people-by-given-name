@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mikel Arteta Amatriain",
+    "givenNames": [
+      "Mikel"
+    ],
+    "familyName": "Arteta Amatriain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikel_Arteta",
+    "occupation": "Football Manager, former footballer",
+    "achievements": [
+      "Won the FA Cup as a manager with Arsenal FC.",
+      "Played professionally for clubs like Everton and Arsenal.",
+      "Earned 5 caps for the Spanish national team."
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Mikel John Obi",
+    "givenNames": [
+      "Mikel",
+      "John"
+    ],
+    "familyName": "Obi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikel_John_Obi",
+    "occupation": "Former footballer",
+    "achievements": [
+      "Won the UEFA Champions League and Europa League with Chelsea FC.",
+      "Earned 91 caps for the Nigerian national team.",
+      "Captained Nigeria at the 2014 FIFA World Cup."
+    ],
+    "yearBorn": 1987
+  }
+]

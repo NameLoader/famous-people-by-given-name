@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Tyson Fury",
+    "givenNames": [
+      "Tyson",
+      "Luke"
+    ],
+    "familyName": "Fury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyson_Fury",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "World Heavyweight Champion (WBC)",
+      "Known for his unorthodox fighting style and outspoken personality"
+    ],
+    "yearBorn": 1988
+  }
+]

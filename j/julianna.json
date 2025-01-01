@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Julianna Margulies",
+    "givenNames": [
+      "Julianna"
+    ],
+    "familyName": "Margulies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julianna_Margulies",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award winner for her role in 'ER'",
+      "Golden Globe Award winner for her role in 'The Good Wife'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Julianna Peña",
+    "givenNames": [
+      "Julianna",
+      "Nicole"
+    ],
+    "familyName": "Peña",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julianna_Pe%C3%B1a",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "UFC Women's Bantamweight Champion"
+    ],
+    "yearBorn": 1989
+  }
+]

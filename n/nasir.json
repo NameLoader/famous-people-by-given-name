@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nasir bin Olu Dara Jones",
+    "givenNames": [
+      "Nasir",
+      "bin Olu Dara"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nas",
+    "occupation": "Rapper, songwriter, entrepreneur",
+    "achievements": [
+      "Considered one of the greatest rappers of all time",
+      "Won numerous awards including Grammy Awards"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Nasir al-Din al-Tusi",
+    "givenNames": [
+      "Nasir",
+      "al-Din"
+    ],
+    "familyName": "al-Tusi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
+    "occupation": "Polymath, astronomer, mathematician, philosopher",
+    "achievements": [
+      "Made significant contributions to astronomy, mathematics and optics",
+      "Built the first astronomical observatory in Iran"
+    ],
+    "yearBorn": 1201,
+    "yearDied": 1274
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Miyamoto Koujirou",
+    "givenNames": [
+      "Musashi"
+    ],
+    "familyName": "Miyamoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miyamoto_Musashi",
+    "occupation": "Samurai, swordsman, writer",
+    "achievements": [
+      "Renowned duelist undefeated in over 60 duels.",
+      "Author of The Book of Five Rings, a treatise on swordsmanship and strategy."
+    ],
+    "yearBorn": 1584,
+    "yearDied": 1645
+  }
+]

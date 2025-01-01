@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Peggy Lee",
+    "givenNames": [
+      "Peggy"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Lee",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Grammy Award Winner",
+      "Nominated for an Academy Award"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Peggy Guggenheim",
+    "givenNames": [
+      "Peggy",
+      "Marguerite"
+    ],
+    "familyName": "Guggenheim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Guggenheim",
+    "occupation": "Art Collector, Philanthropist",
+    "achievements": [
+      "Founded the Peggy Guggenheim Collection in Venice",
+      "Played a key role in supporting Surrealist and Abstract Expressionist artists"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Peggy Whitson",
+    "givenNames": [
+      "Peggy",
+      "Annette"
+    ],
+    "familyName": "Whitson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Whitson",
+    "occupation": "Astronaut, Biochemist",
+    "achievements": [
+      "Holds the record for most days in space by a US astronaut (665)",
+      "First woman to command the International Space Station twice"
+    ],
+    "yearBorn": 1960
+  }
+]

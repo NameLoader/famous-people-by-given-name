@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Julius Peppers",
+    "givenNames": [
+      "Julius",
+      "Frazier"
+    ],
+    "familyName": "Peppers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Peppers",
+    "occupation": "Former American football player",
+    "achievements": [
+      "Nine-time Pro Bowl selection",
+      "Three-time First-team All-Pro selection",
+      "Super Bowl XLV champion"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Julius Erving",
+    "givenNames": [
+      "Julius",
+      "Winfield"
+    ],
+    "familyName": "Erving",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Erving",
+    "occupation": "Former basketball player",
+    "achievements": [
+      "NBA Champion (Philadelphia 76ers)",
+      "ABA Champion (Virginia Squires, New York Nets)",
+      "16-time NBA All-Star",
+      "Naismith Memorial Basketball Hall of Fame Inductee"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Julius Nyerere",
+    "givenNames": [
+      "Julius",
+      "Kambarage"
+    ],
+    "familyName": "Nyerere",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+    "occupation": "Tanzanian politician",
+    "achievements": [
+      "First President of Tanzania",
+      "Leader of the Tanzanian independence movement",
+      "Promoter of pan-Africanism"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1999
+  }
+]

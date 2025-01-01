@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hideki Tojo",
+    "givenNames": [
+      "Hideki"
+    ],
+    "familyName": "Tojo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideki_Tojo",
+    "occupation": "General, Prime Minister of Japan",
+    "achievements": [
+      "Led Japan during World War II",
+      "Convicted of war crimes"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Hideki Matsui",
+    "givenNames": [
+      "Hideki"
+    ],
+    "familyName": "Matsui",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideki_Matsui",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "World Series champion with the New York Yankees",
+      "MVP of the 2009 World Series",
+      "Seven-time All-Star in Japan"
+    ],
+    "yearBorn": 1974
+  }
+]

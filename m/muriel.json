@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Muriel Spark",
+    "givenNames": [
+      "Muriel",
+      "Sarah"
+    ],
+    "familyName": "Spark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muriel_Spark",
+    "occupation": "Novelist, poet, and short story writer",
+    "achievements": [
+      "Winner of the James Tait Black Memorial Prize",
+      "Nominated for the Booker Prize"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Muriel Rukeyser",
+    "givenNames": [
+      "Muriel"
+    ],
+    "familyName": "Rukeyser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muriel_Rukeyser",
+    "occupation": "Poet, essayist, and political activist",
+    "achievements": [
+      "Known for her experimental poetry and feminist themes",
+      "Wrote influential works like 'The Book of the Dead'",
+      "Advocate for social justice and labor rights"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1980
+  }
+]

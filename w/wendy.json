@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Wendy Williams",
+    "givenNames": [
+      "Wendy"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendy_Williams",
+    "occupation": "Television host, actress, author",
+    "achievements": [
+      "Hosted 'The Wendy Williams Show' from 2008 to 2022",
+      "Radio personality known for her outspoken commentary"
+    ],
+    "yearBorn": 1964
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Rosetta Stone",
+    "givenNames": [
+      "Rosetta"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+    "occupation": "Historical Artifact",
+    "achievements": [
+      "A granodiorite stele inscribed with a decree issued at Memphis, Egypt in 196 BC on behalf of King Ptolemy V.",
+      "Key to deciphering hieroglyphs due to its inscription in three scripts: Ancient Egyptian hieroglyphs, Demotic script, and Ancient Greek."
+    ]
+  }
+]

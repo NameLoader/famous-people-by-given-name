@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "George Washington",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
+    "occupation": "Military Leader, President of the United States",
+    "achievements": [
+      "Led the Continental Army to victory in the American Revolutionary War",
+      "First President of the United States",
+      "Presided over the Constitutional Convention"
+    ],
+    "yearBorn": 1732,
+    "yearDied": 1799
+  },
+  {
+    "fullName": "George Orwell",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Orwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Orwell",
+    "occupation": "Novelist, Essayist",
+    "achievements": [
+      "Authored influential novels such as 'Nineteen Eighty-Four' and 'Animal Farm'",
+      "Known for his sharp political commentary and criticism of totalitarianism"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "George Harrison",
+    "givenNames": [
+      "George"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Harrison",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Lead guitarist for the Beatles",
+      "Successful solo career with hits like 'My Sweet Lord'",
+      "Pioneer of Eastern music influences in Western pop music"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "George Clooney",
+    "givenNames": [
+      "George",
+      "Timothy"
+    ],
+    "familyName": "Clooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Clooney",
+    "occupation": "Actor, Director, Producer",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actor ('Syriana') and Best Picture ('Argo')",
+      "Known for roles in films like 'Ocean's Eleven', 'Gravity', and 'Up in the Air'",
+      "Prominent humanitarian and activist"
+    ],
+    "yearBorn": 1961
+  }
+]

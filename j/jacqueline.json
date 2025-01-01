@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jacqueline Bisset",
+    "givenNames": [
+      "Jacqueline",
+      "Winifred"
+    ],
+    "familyName": "Bisset",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Bisset",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous films including 'Bullitt'",
+      "Nominated for a Golden Globe Award"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Jacqueline Fernandez",
+    "givenNames": [
+      "Jacqueline",
+      "Genevieve"
+    ],
+    "familyName": "Fernandez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Fernandez",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Won several awards for her acting performances in Bollywood films"
+    ],
+    "yearBorn": 1985
+  }
+]

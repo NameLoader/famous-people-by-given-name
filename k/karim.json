@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Karim Benzema",
+    "givenNames": [
+      "Karim",
+      "Mostafa"
+    ],
+    "familyName": "Benzema",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karim_Benzema",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Ballon d'Or winner (2022)",
+      "UEFA Champions League winner (5 times)",
+      "La Liga winner (4 times)"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Karim Adeyemi",
+    "givenNames": [
+      "Karim",
+      "David"
+    ],
+    "familyName": "Adeyemi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karim_Adeyemi",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Bundesliga winner (2023)",
+      "DFB-Pokal winner (2023)"
+    ],
+    "yearBorn": 2002
+  },
+  {
+    "fullName": "Karim Rashid",
+    "givenNames": [
+      "Karim"
+    ],
+    "familyName": "Rashid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karim_Rashid",
+    "occupation": "Industrial Designer",
+    "achievements": [
+      "Over 3000 designs produced",
+      "Products sold in over 40 countries"
+    ]
+  }
+]

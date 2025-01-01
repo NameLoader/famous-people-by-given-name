@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Donna Summer",
+    "givenNames": [
+      "Donna"
+    ],
+    "familyName": "Summer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donna_Summer",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Queen of Disco",
+      "Five Grammy Awards",
+      "Induction into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Donna Tartt",
+    "givenNames": [
+      "Donna",
+      "Louise"
+    ],
+    "familyName": "Tartt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donna_Tartt",
+    "occupation": "Novelist",
+    "achievements": [
+      "Pulitzer Prize for Fiction for 'The Goldfinch'",
+      "Bestselling author"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Donna Brazile",
+    "givenNames": [
+      "Donna",
+      "Lease"
+    ],
+    "familyName": "Brazile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donna_Brazile",
+    "occupation": "Political Strategist, Author",
+    "achievements": [
+      "Former interim Chair of the Democratic National Committee",
+      "Political commentator"
+    ],
+    "yearBorn": 1959
+  }
+]

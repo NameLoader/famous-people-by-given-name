@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Triston Casas",
+    "givenNames": [
+      "Triston",
+      "Ray"
+    ],
+    "familyName": "Casas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Triston_Casas",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "MLB First baseman for the Boston Red Sox",
+      "2018 MLB Draft first-round pick by the Boston Red Sox"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Triston McKenzie",
+    "givenNames": [
+      "Triston",
+      "Andrew"
+    ],
+    "familyName": "McKenzie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Triston_McKenzie",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "MLB Pitcher for the Cleveland Guardians",
+      "2015 MLB Draft first-round pick by the Cleveland Indians"
+    ],
+    "yearBorn": 1997
+  }
+]

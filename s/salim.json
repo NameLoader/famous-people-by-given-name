@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Salim Ali",
+    "givenNames": [
+      "Sálim",
+      "Moizuddin",
+      "Abdul"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salim_Ali",
+    "occupation": "Ornithologist",
+    "achievements": [
+      "Known as the 'Birdman of India'",
+      "Pioneered ornithological studies in India",
+      "Founded the Bombay Natural History Society (BNHS)"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1987
+  }
+]

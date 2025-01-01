@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Yukio Mishima",
+    "givenNames": [
+      "Yukio"
+    ],
+    "familyName": "Mishima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+    "occupation": "Writer, poet, playwright, actor",
+    "achievements": [
+      "Nobel Prize in Literature nominee",
+      "Prolific writer of novels, short stories, plays, and essays",
+      "Known for his exploration of themes such as beauty, death, and the samurai spirit"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Yukio Hatoyama",
+    "givenNames": [
+      "Yukio"
+    ],
+    "familyName": "Hatoyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Hatoyama",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Japan (2009-2010)",
+      "Leader of the Democratic Party of Japan"
+    ],
+    "yearBorn": 1947
+  }
+]

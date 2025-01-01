@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Daniela Hantuchová",
+    "givenNames": [
+      "Daniela"
+    ],
+    "familyName": "Hantuchová",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniela_Hantuchov%C3%A1",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached a career-high singles ranking of world No. 5",
+      "Won 7 WTA Tour singles titles and 4 WTA Tour doubles titles"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Daniela Mercury",
+    "givenNames": [
+      "Daniela"
+    ],
+    "familyName": "Mercury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniela_Mercury",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "One of Brazil's most popular singers",
+      "Known for her powerful vocals and energetic performances",
+      "Won multiple Grammy Awards and Latin Grammy Awards"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Daniela Katzenberger",
+    "givenNames": [
+      "Daniela",
+      "Denise"
+    ],
+    "familyName": "Katzenberger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniela_Katzenberger",
+    "occupation": "Reality television personality, model",
+    "achievements": [
+      "Known for her appearances on the German reality television series 'Goodbye Deutschland!'"
+    ],
+    "yearBorn": 1986
+  }
+]

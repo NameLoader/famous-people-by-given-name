@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Aisha bint Abi Bakr",
+    "givenNames": [
+      "Aisha"
+    ],
+    "familyName": "bint Abi Bakr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aisha",
+    "occupation": "Wife of the Prophet Muhammad",
+    "achievements": [
+      "Considered one of the most influential women in Islamic history",
+      "Known for her intelligence, piety, and political acumen",
+      "Contributed significantly to the transmission of hadiths (sayings of the Prophet Muhammad)"
+    ],
+    "yearBorn": 614,
+    "yearDied": 678
+  },
+  {
+    "fullName": "Aisha Tyler",
+    "givenNames": [
+      "Aisha"
+    ],
+    "familyName": "Tyler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aisha_Tyler",
+    "occupation": "Actress, comedian, director, writer, and talk show host",
+    "achievements": [
+      "Known for her roles in television shows such as 'Friends' and 'Archer'",
+      "Hosted the CBS daytime talk show 'The Talk'"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Seamus Heaney",
+    "givenNames": [
+      "Seamus",
+      "Justin"
+    ],
+    "familyName": "Heaney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Heaney",
+    "occupation": "Poet, playwright, translator",
+    "achievements": [
+      "Nobel Prize in Literature (1995)",
+      "Whitbread Book of the Year Award (twice)",
+      "Forward Poetry Prize (twice)"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Seamus Mallon",
+    "givenNames": [
+      "Seamus",
+      "Frederick"
+    ],
+    "familyName": "Mallon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seamus_Mallon",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy Leader of the Social Democratic and Labour Party (SDLP)",
+      "Member of Parliament for Newry and Armagh (1986-2005)"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Seamus Darby",
+    "givenNames": [
+      "Seamus",
+      "Séamus"
+    ],
+    "familyName": "Darby",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9amus_Darby",
+    "occupation": "Gaelic Footballer",
+    "achievements": [
+      "Scored the winning goal in the 1982 All-Ireland Senior Football Championship Final"
+    ],
+    "yearBorn": 1950
+  }
+]

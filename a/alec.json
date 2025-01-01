@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alec Guinness",
+    "givenNames": [
+      "Alec"
+    ],
+    "familyName": "Guinness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alec_Guinness",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award winner",
+      "Known for roles in films like 'Star Wars' and 'The Bridge on the River Kwai'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2000
+  }
+]

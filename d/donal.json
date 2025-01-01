@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Donal Óg Cusack",
+    "givenNames": [
+      "Dónal",
+      "Óg"
+    ],
+    "familyName": "Cusack",
+    "wikipedia": "https://en.wikipedia.org/wiki/D%C3%B3nal_%C3%93g_Cusack",
+    "occupation": "Hurler, Sports Analyst",
+    "achievements": [
+      "Three-time All-Ireland Senior Hurling Championship winner with Cork",
+      "Sports analyst for RTÉ"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Donal Logue",
+    "givenNames": [
+      "Donal",
+      "Francis"
+    ],
+    "familyName": "Logue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donal_Logue",
+    "occupation": "Actor, Writer, Director",
+    "achievements": [
+      "Known for roles in 'Grounded for Life', 'Sons of Anarchy' and 'Gotham'",
+      "Award-winning playwright"
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Archie Hahn",
+    "givenNames": [
+      "Archie",
+      "Charles Archibald"
+    ],
+    "familyName": "Hahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archie_Hahn",
+    "occupation": "Athlete",
+    "achievements": [
+      "Three-time Olympic gold medalist in sprinting"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Archie Shepp",
+    "givenNames": [
+      "Archie"
+    ],
+    "familyName": "Shepp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archie_Shepp",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Acclaimed saxophonist and composer"
+    ],
+    "yearBorn": 1937
+  }
+]

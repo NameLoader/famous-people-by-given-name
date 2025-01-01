@@ -1,0 +1,27 @@
+[
+  {
+    "fullName": "Hartmut Michel",
+    "givenNames": [
+      "Hartmut"
+    ],
+    "familyName": "Michel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hartmut_Michel",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1988) for the determination of the three-dimensional structure of a photosynthetic reaction center."
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Hartmut Rosa",
+    "givenNames": [
+      "Hartmut"
+    ],
+    "familyName": "Rosa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hartmut_Rosa",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Known for his work on acceleration and social theory."
+    ]
+  }
+]

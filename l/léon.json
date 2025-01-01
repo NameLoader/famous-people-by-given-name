@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Léon Blum",
+    "givenNames": [
+      "Léon",
+      "André"
+    ],
+    "familyName": "Blum",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9on_Blum",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of France",
+      "Advocate for social justice and workers' rights"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Léon Foucault",
+    "givenNames": [
+      "Léon",
+      "Jean",
+      "Bernard"
+    ],
+    "familyName": "Foucault",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9on_Foucault",
+    "occupation": "Physicist",
+    "achievements": [
+      "Invented the Foucault pendulum",
+      "Made significant contributions to optics and magnetism"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1868
+  },
+  {
+    "fullName": "Léon Tolstoi",
+    "givenNames": [
+      "Lev",
+      "Nikolaevich"
+    ],
+    "familyName": "Tolstoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+    "occupation": "Writer",
+    "achievements": [
+      "Authored literary classics like War and Peace and Anna Karenina",
+      "Philosopher and social reformer"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1910
+  }
+]

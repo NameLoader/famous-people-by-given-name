@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Bastian Schweinsteiger",
+    "givenNames": [
+      "Bastian"
+    ],
+    "familyName": "Schweinsteiger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bastian_Schweinsteiger",
+    "occupation": "Footballer",
+    "achievements": [
+      "FIFA World Cup winner (2014)",
+      "UEFA Champions League winner (2013)"
+    ],
+    "yearBorn": 1984
+  }
+]

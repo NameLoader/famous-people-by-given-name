@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aristotele Onassis",
+    "givenNames": [
+      "Aristotele",
+      "Socrates"
+    ],
+    "familyName": "Onassis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristotle_Onassis",
+    "occupation": "Shipping magnate",
+    "achievements": [
+      "Built a vast shipping empire",
+      "Married Jacqueline Kennedy Onassis"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  }
+]

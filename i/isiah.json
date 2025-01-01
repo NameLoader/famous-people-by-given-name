@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Isiah Thomas",
+    "givenNames": [
+      "Isiah",
+      "Lord"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isiah_Thomas",
+    "occupation": "Basketball Player, Coach",
+    "achievements": [
+      "NBA Champion (1989, 1990)",
+      "12x NBA All-Star",
+      "NBA Finals MVP (1990)",
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1961
+  }
+]

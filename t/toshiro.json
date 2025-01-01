@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Toshiro Mifune",
+    "givenNames": [
+      "Toshiro"
+    ],
+    "familyName": "Mifune",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toshiro_Mifune",
+    "occupation": "Actor",
+    "achievements": [
+      "Considered one of Japan's greatest actors.",
+      "Starred in films by Akira Kurosawa, including Rashomon and Seven Samurai."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1997
+  }
+]

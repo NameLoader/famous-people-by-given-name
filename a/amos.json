@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Amos Oz",
+    "givenNames": [
+      "Amos"
+    ],
+    "familyName": "Oz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amos_Oz",
+    "occupation": "Writer, novelist, essayist, and journalist",
+    "achievements": [
+      "Won the Israel Prize for Literature in 1998.",
+      "Nominated for the Nobel Prize in Literature multiple times."
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Amos Tversky",
+    "givenNames": [
+      "Amos",
+      "Nathan"
+    ],
+    "familyName": "Tversky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amos_Tversky",
+    "occupation": "Cognitive and mathematical psychologist",
+    "achievements": [
+      "Known for his work on prospect theory, cognitive biases, and decision-making.",
+      "Collaborated extensively with Daniel Kahneman."
+    ],
+    "yearBorn": 1937,
+    "yearDied": 1996
+  }
+]

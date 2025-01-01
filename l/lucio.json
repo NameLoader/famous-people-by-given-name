@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Lucio Battisti",
+    "givenNames": [
+      "Lucio"
+    ],
+    "familyName": "Battisti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucio_Battisti",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "One of the most popular and influential Italian singer-songwriters.",
+      "Sold over 30 million records worldwide."
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Lucio Fontana",
+    "givenNames": [
+      "Lucio"
+    ],
+    "familyName": "Fontana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucio_Fontana",
+    "occupation": "Artist, sculptor",
+    "achievements": [
+      "Known for his Spatialist canvases with slashes and holes.",
+      "Considered a pioneer of abstract art."
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Lucio Dalla",
+    "givenNames": [
+      "Lucio"
+    ],
+    "familyName": "Dalla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucio_Dalla",
+    "occupation": "Singer-songwriter, musician, composer",
+    "achievements": [
+      "Known for his unique blend of rock, pop, and opera.",
+      "Wrote the hit song 'Cara'"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2012
+  }
+]

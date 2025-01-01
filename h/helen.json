@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Helen Keller",
+    "givenNames": [
+      "Helen",
+      "Adams"
+    ],
+    "familyName": "Keller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "occupation": "Author, political activist, lecturer",
+    "achievements": [
+      "First deaf-blind person to earn a Bachelor of Arts degree",
+      "Advocate for people with disabilities"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Helen Mirren",
+    "givenNames": [
+      "Helen"
+    ],
+    "familyName": "Mirren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_Mirren",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Tony Award winner"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Helen Hunt",
+    "givenNames": [
+      "Helen",
+      "Elizabeth"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_Hunt",
+    "occupation": "Actress, filmmaker",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Emmy Award winner"
+    ],
+    "yearBorn": 1963
+  }
+]

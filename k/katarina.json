@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Katarina Witt",
+    "givenNames": [
+      "Katarina"
+    ],
+    "familyName": "Witt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katarina_Witt",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Two-time Olympic champion",
+      "Four-time World champion",
+      "Six-time European champion"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Katarina Johnson-Thompson",
+    "givenNames": [
+      "Katarina",
+      "Mary"
+    ],
+    "familyName": "Johnson-Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katarina_Johnson-Thompson",
+    "occupation": "Heptathlon athlete",
+    "achievements": [
+      "World champion in heptathlon (2019)",
+      "European champion in heptathlon (2019)"
+    ],
+    "yearBorn": 1993
+  }
+]

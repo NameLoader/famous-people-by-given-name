@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "André Agassi",
+    "givenNames": [
+      "Andre",
+      "Kirk"
+    ],
+    "familyName": "Agassi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andre_Agassi",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "8-time Grand Slam singles champion",
+      "Former World No. 1"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Althea Gibson",
+    "givenNames": [
+      "Althea",
+      "Neale"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Althea_Gibson",
+    "occupation": "Tennis player, golfer",
+    "achievements": [
+      "First African American to win a Grand Slam title (French Open in 1956)",
+      "Won Wimbledon and the US Championships in 1957 & 1958",
+      "Inducted into the International Tennis Hall of Fame in 1971"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2003
+  }
+]

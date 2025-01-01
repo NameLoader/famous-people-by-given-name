@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Torsten Hägerstrand",
+    "givenNames": [
+      "Torsten"
+    ],
+    "familyName": "Hägerstrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Torsten_H%C3%A4gerstrand",
+    "occupation": "Geographer",
+    "achievements": [
+      "Pioneering work in spatial analysis and time geography",
+      "Developed the concept of 'time-space prisms'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Torsten Wiesel",
+    "givenNames": [
+      "Torsten",
+      "Nils"
+    ],
+    "familyName": "Wiesel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Torsten_Wiesel",
+    "occupation": "Neuroscientist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1981)",
+      "Research on the visual system and how the brain processes information from the eyes"
+    ],
+    "yearBorn": 1924
+  }
+]

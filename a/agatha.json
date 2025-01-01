@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Agatha Christie",
+    "givenNames": [
+      "Agatha",
+      "Mary",
+      "Clarissa"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie",
+    "occupation": "Writer",
+    "achievements": [
+      "Best-selling fiction writer of all time",
+      "Known for her detective novels featuring Hercule Poirot and Miss Marple"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1976
+  }
+]

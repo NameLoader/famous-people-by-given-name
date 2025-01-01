@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Gertrude Stein",
+    "givenNames": [
+      "Gertrude"
+    ],
+    "familyName": "Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Stein",
+    "occupation": "Writer, poet, art collector",
+    "achievements": [
+      "Pioneer of modernist literature",
+      "Known for her experimental writing style and unconventional use of language"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1946
+  },
+  {
+    "fullName": "Gertrude Ederle",
+    "givenNames": [
+      "Gertrude",
+      "Caroline"
+    ],
+    "familyName": "Ederle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Ederle",
+    "occupation": "Swimmer",
+    "achievements": [
+      "First woman to swim across the English Channel",
+      "Set a new world record for the fastest crossing"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Gertrude Jekyll",
+    "givenNames": [
+      "Gertrude"
+    ],
+    "familyName": "Jekyll",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Jekyll",
+    "occupation": "Gardener, designer",
+    "achievements": [
+      "Pioneering figure in garden design",
+      "Known for her naturalistic style and use of colorful plants"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1932
+  }
+]

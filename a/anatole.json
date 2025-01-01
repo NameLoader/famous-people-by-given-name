@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anatole France",
+    "givenNames": [
+      "Anatole"
+    ],
+    "familyName": "France",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anatole_France",
+    "occupation": "Writer",
+    "achievements": [
+      "Nobel Prize in Literature (1921)",
+      "Known for his satirical and philosophical novels"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1924
+  }
+]

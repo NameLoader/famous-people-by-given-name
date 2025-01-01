@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Melania Trump",
+    "givenNames": [
+      "Melania"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melania_Trump",
+    "occupation": "Former First Lady of the United States, model",
+    "achievements": [
+      "Served as First Lady of the United States from 2017 to 2021",
+      "Successful modeling career"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Norah Jones",
+    "givenNames": [
+      "Norah"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norah_Jones",
+    "occupation": "Singer-songwriter, pianist",
+    "achievements": [
+      "Nine Grammy Awards",
+      "Sold over 50 million records worldwide"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Norah O'Donnell",
+    "givenNames": [
+      "Norah",
+      "Morahan"
+    ],
+    "familyName": "O'Donnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norah_O%27Donnell",
+    "occupation": "Journalist, television anchor",
+    "achievements": [
+      "Anchor of CBS Evening News",
+      "Former co-host of CBS This Morning"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Sergio Leone",
+    "givenNames": [
+      "Sergio"
+    ],
+    "familyName": "Leone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Leone",
+    "occupation": "Film Director",
+    "achievements": [
+      "Known for his Spaghetti Westerns, including 'A Fistful of Dollars', 'For a Few Dollars More', and 'The Good, the Bad and the Ugly'",
+      "Revolutionized the Western genre",
+      "Influenced countless filmmakers"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Sergio Marchionne",
+    "givenNames": [
+      "Sergio"
+    ],
+    "familyName": "Marchionne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Marchionne",
+    "occupation": "Business Executive",
+    "achievements": [
+      "CEO of Fiat Chrysler Automobiles",
+      "Led the turnaround of Fiat and Chrysler",
+      "Instrumental in the merger of the two companies"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2018
+  }
+]

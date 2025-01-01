@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Terrence Malick",
+    "givenNames": [
+      "Terrence",
+      "Frederick"
+    ],
+    "familyName": "Malick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrence_Malick",
+    "occupation": "Film Director",
+    "achievements": [
+      "Academy Award nominee",
+      "Known for films like 'The Tree of Life' and 'Badlands'"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Terrence Howard",
+    "givenNames": [
+      "Terrence",
+      "Dashon"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrence_Howard",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee",
+      "Known for roles in 'Hustle & Flow' and 'Iron Man'"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Terrence McKenna",
+    "givenNames": [
+      "Terence",
+      "Kemp"
+    ],
+    "familyName": "McKenna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_McKenna",
+    "occupation": "Author, Ethnobotanist",
+    "achievements": [
+      "Promoted the use of psychedelics for personal and spiritual growth"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2000
+  }
+]

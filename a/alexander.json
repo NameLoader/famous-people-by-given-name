@@ -1,0 +1,79 @@
+[
+  {
+    "fullName": "Alexander the Great",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Macedon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+    "occupation": "King and military leader",
+    "achievements": [
+      "Conquered the Persian Empire",
+      "Spread Hellenistic culture throughout his empire"
+    ],
+    "yearBorn": -356,
+    "yearDied": -323
+  },
+  {
+    "fullName": "Alexander Pushkin",
+    "givenNames": [
+      "Alexander",
+      "Sergeyevich"
+    ],
+    "familyName": "Pushkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+    "occupation": "Poet, playwright, novelist",
+    "achievements": [
+      "Considered the founder of modern Russian literature",
+      "Wrote famous works like 'Eugene Onegin' and 'The Captain's Daughter'"
+    ],
+    "yearBorn": 1799,
+    "yearDied": 1837
+  },
+  {
+    "fullName": "Alexander Fleming",
+    "givenNames": [
+      "Alexander"
+    ],
+    "familyName": "Fleming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+    "occupation": "Bacteriologist, pharmacologist",
+    "achievements": [
+      "Discovered penicillin, the first antibiotic",
+      "Won the Nobel Prize in Physiology or Medicine in 1945"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Alexander Graham Bell",
+    "givenNames": [
+      "Alexander",
+      "Graham"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+    "occupation": "Inventor, scientist",
+    "achievements": [
+      "Invented the telephone",
+      "Pioneer in deaf education"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Alexander Ovechkin",
+    "givenNames": [
+      "Alexander",
+      "Mikhailovich"
+    ],
+    "familyName": "Ovechkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Ovechkin",
+    "occupation": "Professional ice hockey player",
+    "achievements": [
+      "Considered one of the greatest goal scorers in NHL history",
+      "Won the Stanley Cup with the Washington Capitals in 2018"
+    ],
+    "yearBorn": 1985
+  }
+]

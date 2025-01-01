@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Philippa Gregory",
+    "givenNames": [
+      "Philippa"
+    ],
+    "familyName": "Gregory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippa_Gregory",
+    "occupation": "Historian, novelist",
+    "achievements": [
+      "Bestselling author of historical fiction novels",
+      "Known for her works set in the Tudor period"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Philippa Foot",
+    "givenNames": [
+      "Philippa",
+      "Ruth"
+    ],
+    "familyName": "Foot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippa_Foot",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for her work in moral philosophy",
+      "Influential figure in the revival of virtue ethics"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Philippa Perry",
+    "givenNames": [
+      "Philippa"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippa_Perry",
+    "occupation": "Psychotherapist, author",
+    "achievements": [
+      "Known for her books and television appearances on parenting and relationships",
+      "Offers a compassionate and practical approach to mental health"
+    ]
+  }
+]

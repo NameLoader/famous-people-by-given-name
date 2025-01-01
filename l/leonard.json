@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Leonard Euler",
+    "givenNames": [
+      "Leonhard"
+    ],
+    "familyName": "Euler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "occupation": "Mathematician and physicist",
+    "achievements": [
+      "Contributions to calculus, graph theory, topology",
+      "Euler's identity"
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1783
+  },
+  {
+    "fullName": "Leonard Bernstein",
+    "givenNames": [
+      "Leonard"
+    ],
+    "familyName": "Bernstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+    "occupation": "Composer, conductor, pianist, music educator, and author",
+    "achievements": [
+      "West Side Story",
+      "Candide",
+      "On the Waterfront"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Leonard Cohen",
+    "givenNames": [
+      "Leonard",
+      "Norman"
+    ],
+    "familyName": "Cohen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+    "occupation": "Singer-songwriter, poet, novelist",
+    "achievements": [
+      "Hallelujah",
+      "Suzanne",
+      "Books of poetry and prose"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2016
+  }
+]

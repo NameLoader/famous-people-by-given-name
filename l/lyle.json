@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Lyle Lovett",
+    "givenNames": [
+      "Lyle",
+      "Pearce"
+    ],
+    "familyName": "Lovett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyle_Lovett",
+    "occupation": "Singer-songwriter, actor",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for country, folk, and Americana music",
+      "Starred in films like 'The Player' and 'Short Cuts'"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Lyle Waggoner",
+    "givenNames": [
+      "Lyle",
+      "Wesley"
+    ],
+    "familyName": "Waggoner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyle_Waggoner",
+    "occupation": "Actor, model",
+    "achievements": [
+      "Starred in 'The Carol Burnett Show'",
+      "Played Steve Trevor in the 'Wonder Woman' TV series"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2020
+  }
+]

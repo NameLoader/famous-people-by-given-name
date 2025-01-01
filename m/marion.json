@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Marion Barry",
+    "givenNames": [
+      "Marion",
+      "Shepilov"
+    ],
+    "familyName": "Barry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marion_Barry",
+    "occupation": "Politician",
+    "achievements": [
+      "First Mayor of the District of Columbia (elected)",
+      "Advocate for social justice and civil rights"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Marion Cotillard",
+    "givenNames": [
+      "Marion"
+    ],
+    "familyName": "Cotillard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marion_Cotillard",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for Best Actress (La Vie en Rose)",
+      "Known for roles in films like Inception and The Dark Knight Rises"
+    ],
+    "yearBorn": 1975
+  }
+]

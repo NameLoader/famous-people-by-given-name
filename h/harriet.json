@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Harriet Tubman",
+    "givenNames": [
+      "Harriet"
+    ],
+    "familyName": "Tubman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+    "occupation": "Abolitionist, Activist",
+    "achievements": [
+      "Conductor on the Underground Railroad",
+      "Spy for the Union Army during the Civil War",
+      "Women's suffrage activist"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1913
+  },
+  {
+    "fullName": "Harriet Beecher Stowe",
+    "givenNames": [
+      "Harriet",
+      "Elisabeth"
+    ],
+    "familyName": "Stowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe",
+    "occupation": "Novelist, Abolitionist",
+    "achievements": [
+      "Author of Uncle Tom's Cabin, a bestselling novel that fueled the abolitionist movement"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "Harriet Monroe",
+    "givenNames": [
+      "Harriet"
+    ],
+    "familyName": "Monroe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Monroe",
+    "occupation": "Poet, Literary Critic, Editor",
+    "achievements": [
+      "Founded Poetry magazine, a leading publication for American poetry"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Harriet Quimby",
+    "givenNames": [
+      "Harriet"
+    ],
+    "familyName": "Quimby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Quimby",
+    "occupation": "Aviator",
+    "achievements": [
+      "First woman to earn a pilot's license in the United States",
+      "First woman to fly solo across the English Channel"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1912
+  }
+]

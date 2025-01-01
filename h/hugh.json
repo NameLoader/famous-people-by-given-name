@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Hugh Jackman",
+    "givenNames": [
+      "Hugh",
+      "Michael"
+    ],
+    "familyName": "Jackman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Jackman",
+    "occupation": "Actor",
+    "achievements": [
+      "Tony Award winner",
+      "Grammy Award nominee",
+      "Known for roles in X-Men, Les Misérables, The Greatest Showman"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Hugh Grant",
+    "givenNames": [
+      "Hugh",
+      "John",
+      "Mungo"
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Grant",
+    "occupation": "Actor",
+    "achievements": [
+      "BAFTA Award winner",
+      "Known for roles in Four Weddings and a Funeral, Notting Hill, Love Actually"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Hugh Laurie",
+    "givenNames": [
+      "Hugh",
+      "James"
+    ],
+    "familyName": "Laurie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Laurie",
+    "occupation": "Actor, Musician",
+    "achievements": [
+      "Golden Globe Award winner",
+      "Known for roles in House M.D., Blackadder, The Night Manager"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Hugh Hefner",
+    "givenNames": [
+      "Hugh",
+      "Marston"
+    ],
+    "familyName": "Hefner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Hefner",
+    "occupation": "Publisher, Founder of Playboy magazine",
+    "achievements": [
+      "Pioneer of the sexual revolution"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2017
+  }
+]

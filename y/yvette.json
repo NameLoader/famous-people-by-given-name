@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Yvette Nicole Brown",
+    "givenNames": [
+      "Yvette",
+      "Nicole"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvette_Nicole_Brown",
+    "occupation": "Actress, comedian, host",
+    "achievements": [
+      "Known for roles in 'Community' and 'Drake & Josh'",
+      "Voice actress in animated series like 'Avengers Assemble'"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Yvette Mimieux",
+    "givenNames": [
+      "Yvette",
+      "Carmen"
+    ],
+    "familyName": "Mimieux",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvette_Mimieux",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'Where the Boys Are' and 'The Time Machine'",
+      "Known for her beauty and captivating screen presence"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2023
+  }
+]

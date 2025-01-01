@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Eiji Toyoda",
+    "givenNames": [
+      "Eiji"
+    ],
+    "familyName": "Toyoda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eiji_Toyoda",
+    "occupation": "Industrialist",
+    "achievements": [
+      "Led the expansion of Toyota Motor Corporation",
+      "Developed innovative manufacturing techniques like the Toyota Production System"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2000
+  }
+]

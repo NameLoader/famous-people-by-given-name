@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Pádraig Pearse",
+    "givenNames": [
+      "Pádraig",
+      "Patrick Henry"
+    ],
+    "familyName": "Pearse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
+    "occupation": "Teacher, poet, writer, and political activist",
+    "achievements": [
+      "Key figure in the Easter Rising of 1916",
+      "Prominent member of the Gaelic League and Sinn Féin",
+      "Wrote influential Irish-language works"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Pádraig Harrington",
+    "givenNames": [
+      "Pádraig",
+      "Peter"
+    ],
+    "familyName": "Harrington",
+    "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A1draig_Harrington",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "Three-time major champion (Open Championships in 2007 and 2008, PGA Championship in 2008)",
+      "Six-time winner on the European Tour"
+    ],
+    "yearBorn": 1971
+  }
+]

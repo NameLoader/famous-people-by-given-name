@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Julien Benda",
+    "givenNames": [
+      "Julien"
+    ],
+    "familyName": "Benda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julien_Benda",
+    "occupation": "Philosopher, essayist",
+    "achievements": [
+      "Known for his book 'La Trahison des Clercs' (The Treason of the Clerks)",
+      "Criticized intellectuals for abandoning their moral responsibilities"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Julien Green",
+    "givenNames": [
+      "Julien",
+      "Julian"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julien_Green",
+    "occupation": "Novelist, playwright, essayist",
+    "achievements": [
+      "Wrote novels in both English and French",
+      "Recipient of the Prix Goncourt for his novel 'Si j'étais vous'"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Julien Donkey-Boy",
+    "givenNames": [
+      "Julien"
+    ],
+    "familyName": "Donkey-Boy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julien_Donkey-Boy",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the Harmony Korine film 'Julien Donkey-Boy'"
+    ]
+  }
+]

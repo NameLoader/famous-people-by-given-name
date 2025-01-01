@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Guglielmo Marconi",
+    "givenNames": [
+      "Guglielmo",
+      "Giovanni",
+      "Maria"
+    ],
+    "familyName": "Marconi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+    "occupation": "Electrical engineer and inventor",
+    "achievements": [
+      "Pioneer of wireless telegraphy",
+      "Nobel Prize in Physics (1909)",
+      "Developed the first practical radio communication system"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1937
+  }
+]

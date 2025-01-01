@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dallas Willard",
+    "givenNames": [
+      "Dallas",
+      "Albert"
+    ],
+    "familyName": "Willard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Willard",
+    "occupation": "Philosopher, author",
+    "achievements": [
+      "Influential Christian philosopher",
+      "Author of numerous books on spirituality and faith"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Dallas Roberts",
+    "givenNames": [
+      "Dallas",
+      "Mark"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Roberts",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in television series like 'The Walking Dead' and 'Unforgettable'",
+      "Appeared in films such as 'Walk the Line' and '3:10 to Yuma'"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ugo Foscolo",
+    "givenNames": [
+      "Ugo"
+    ],
+    "familyName": "Foscolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ugo_Foscolo",
+    "occupation": "Poet, writer, critic",
+    "achievements": [
+      "Wrote influential Romantic poems like 'Dei Sepolcri'",
+      "Championed Italian nationalism and unification"
+    ],
+    "yearBorn": 1778,
+    "yearDied": 1827
+  }
+]

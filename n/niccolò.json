@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Niccolò Machiavelli",
+    "givenNames": [
+      "Niccolò"
+    ],
+    "familyName": "Machiavelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+    "occupation": "Renaissance philosopher, writer, poet, and historian",
+    "achievements": [
+      "Author of 'The Prince', a seminal work on political philosophy",
+      "Considered one of the founders of modern political science"
+    ],
+    "yearBorn": 1469,
+    "yearDied": 1527
+  },
+  {
+    "fullName": "Niccolò Paganini",
+    "givenNames": [
+      "Niccolò",
+      "Nicolò"
+    ],
+    "familyName": "Paganini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini",
+    "occupation": "Violinist and composer",
+    "achievements": [
+      "Widely considered one of the greatest violinists of all time",
+      "Known for his virtuosity, technical brilliance, and flamboyant stage presence"
+    ],
+    "yearBorn": 1782,
+    "yearDied": 1840
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "fullName": "William Shakespeare",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Shakespeare",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Shakespeare",
+    "occupation": "Playwright, Poet, Actor",
+    "achievements": [
+      "Considered the greatest writer in the English language",
+      "Authored renowned plays like Hamlet, Romeo and Juliet, Macbeth"
+    ],
+    "yearBorn": 1564,
+    "yearDied": 1616
+  },
+  {
+    "fullName": "William Wilberforce",
+    "givenNames": [
+      "William"
+    ],
+    "familyName": "Wilberforce",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Wilberforce",
+    "occupation": "Politician, Philanthropist",
+    "achievements": [
+      "Led the movement to abolish slavery in the British Empire",
+      "Key figure in the evangelical movement"
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1833
+  },
+  {
+    "fullName": "William Henry Gates III",
+    "givenNames": [
+      "William",
+      "Henry"
+    ],
+    "familyName": "Gates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Gates",
+    "occupation": "Business Magnate, Software Developer, Philanthropist",
+    "achievements": [
+      "Co-founder of Microsoft",
+      "One of the wealthiest people in the world",
+      "Philanthropic work through the Bill & Melinda Gates Foundation"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "William Faulkner",
+    "givenNames": [
+      "William",
+      "Cuthbert"
+    ],
+    "familyName": "Faulkner",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Faulkner",
+    "occupation": "Novelist, Short Story Writer, Poet",
+    "achievements": [
+      "Nobel Prize in Literature (1949)",
+      "Known for his complex novels set in the American South, like The Sound and the Fury and As I Lay Dying"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "William Golding",
+    "givenNames": [
+      "William",
+      "Gerald"
+    ],
+    "familyName": "Golding",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Golding",
+    "occupation": "Novelist, Poet, Playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1983)",
+      "Known for his novels exploring the darker aspects of human nature, like Lord of the Flies"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1993
+  }
+]

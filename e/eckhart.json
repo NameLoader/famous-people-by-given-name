@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Eckhart Tolle",
+    "givenNames": [
+      "Eckhart"
+    ],
+    "familyName": "Tolle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eckhart_Tolle",
+    "occupation": "Spiritual teacher and author",
+    "achievements": [
+      "Author of the bestselling spiritual guide 'The Power of Now'",
+      "Advocate for presence and mindfulness"
+    ],
+    "yearBorn": 1948
+  }
+]

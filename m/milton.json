@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Milton Friedman",
+    "givenNames": [
+      "Milton"
+    ],
+    "familyName": "Friedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton_Friedman",
+    "occupation": "Economist",
+    "achievements": [
+      "Won the Nobel Memorial Prize in Economic Sciences in 1976",
+      "Advocated for free-market capitalism and monetarism",
+      "Influential figure in economic policy"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Milton Glaser",
+    "givenNames": [
+      "Milton"
+    ],
+    "familyName": "Glaser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Milton_Glaser",
+    "occupation": "Graphic designer",
+    "achievements": [
+      "Designed the iconic 'I ♥ NY' logo",
+      "Created numerous influential posters and book covers",
+      "Co-founded Push Pin Studios"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2020
+  }
+]

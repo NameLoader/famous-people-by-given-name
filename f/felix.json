@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Felix Baumgartner",
+    "givenNames": [
+      "Felix"
+    ],
+    "familyName": "Baumgartner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Baumgartner",
+    "occupation": "Skydiver, BASE jumper, and daredevil",
+    "achievements": [
+      "First person to break the sound barrier in freefall from a helium balloon"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Felix Frankfurter",
+    "givenNames": [
+      "Felix"
+    ],
+    "familyName": "Frankfurter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Frankfurter",
+    "occupation": "Justice of the Supreme Court of the United States",
+    "achievements": [
+      "Known for his influential opinions on civil liberties and constitutional law"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1965
+  }
+]

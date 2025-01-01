@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Alban Berg",
+    "givenNames": [
+      "Alban",
+      "Maria",
+      "Johannes"
+    ],
+    "familyName": "Berg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alban_Berg",
+    "occupation": "Composer",
+    "achievements": [
+      "Developed a distinctive style of atonality",
+      "Wrote influential operas such as Wozzeck and Lulu"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1935
+  }
+]

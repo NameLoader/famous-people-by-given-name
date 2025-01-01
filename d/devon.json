@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Devon Aoki",
+    "givenNames": [
+      "Devon",
+      "Edwenna"
+    ],
+    "familyName": "Aoki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Aoki",
+    "occupation": "Model, actress",
+    "achievements": [
+      "Appeared in films like '2 Fast 2 Furious' and 'Sin City'",
+      "Successful modeling career for brands like Versace and Chanel"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Devon Rex",
+    "givenNames": [
+      "Devon"
+    ],
+    "familyName": "Rex",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Rex",
+    "occupation": "Cat Breed",
+    "achievements": [
+      "Unique curly-coated breed of cat"
+    ]
+  },
+  {
+    "fullName": "Devon Still",
+    "givenNames": [
+      "Devon",
+      "Joshua"
+    ],
+    "familyName": "Still",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Still",
+    "occupation": "Former NFL player",
+    "achievements": [
+      "Played defensive tackle for the Cincinnati Bengals and Houston Texans"
+    ],
+    "yearBorn": 1989
+  }
+]

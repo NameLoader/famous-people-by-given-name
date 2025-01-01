@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Alcide De Gasperi",
+    "givenNames": [
+      "Alcide",
+      "Amedeo",
+      "Francesco"
+    ],
+    "familyName": "De Gasperi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcide_De_Gasperi",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Italy (1945-1946, 1948-1953)",
+      "Key figure in the Italian Resistance during World War II",
+      "Founder and leader of the Christian Democracy party in Italy"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1954
+  }
+]

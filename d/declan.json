@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Declan Rice",
+    "givenNames": [
+      "Declan"
+    ],
+    "familyName": "Rice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Declan_Rice",
+    "occupation": "Footballer",
+    "achievements": [
+      "England international footballer",
+      "West Ham United captain"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Declan McKenna",
+    "givenNames": [
+      "Declan",
+      "Benedict"
+    ],
+    "familyName": "McKenna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Declan_McKenna",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Brit Award nominee",
+      "Mercury Prize nominee"
+    ],
+    "yearBorn": 1998
+  }
+]

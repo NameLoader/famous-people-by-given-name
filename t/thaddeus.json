@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Thaddeus Stevens",
+    "givenNames": [
+      "Thaddeus"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thaddeus_Stevens",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative from Pennsylvania",
+      "Key figure in the Radical Republicans during Reconstruction",
+      "Advocate for civil rights for African Americans"
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1868
+  },
+  {
+    "fullName": "Thaddeus Young",
+    "givenNames": [
+      "Thaddeus",
+      "Charles"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thaddeus_Young",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA player for multiple teams",
+      "Known for his versatility and scoring ability"
+    ],
+    "yearBorn": 1988
+  }
+]

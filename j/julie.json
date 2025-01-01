@@ -1,0 +1,73 @@
+[
+  {
+    "fullName": "Julie Andrews",
+    "givenNames": [
+      "Julie"
+    ],
+    "familyName": "Andrews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Andrews",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "BAFTA Award for Best Actress in a Leading Role",
+      "Golden Globe Award for Best Actress – Motion Picture Musical or Comedy"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Julie Bowen",
+    "givenNames": [
+      "Julie"
+    ],
+    "familyName": "Bowen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Bowen",
+    "occupation": "Actress",
+    "achievements": [
+      "Two Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Julie Delpy",
+    "givenNames": [
+      "Julie"
+    ],
+    "familyName": "Delpy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Delpy",
+    "occupation": "Actress, director, screenwriter",
+    "achievements": [
+      "César Award for Best Supporting Actress",
+      "Nominated for two Independent Spirit Awards"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Julie Christie",
+    "givenNames": [
+      "Julie",
+      "Frances"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Christie",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Golden Globe Award for Best Actress – Motion Picture Drama"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Julie Taymor",
+    "givenNames": [
+      "Julie"
+    ],
+    "familyName": "Taymor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Taymor",
+    "occupation": "Director, actress, screenwriter",
+    "achievements": [
+      "Tony Award for Best Direction of a Musical",
+      "Nominated for an Academy Award for Best Director"
+    ],
+    "yearBorn": 1952
+  }
+]

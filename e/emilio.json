@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Emilio Estevez",
+    "givenNames": [
+      "Emilio"
+    ],
+    "familyName": "Estevez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Estevez",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Starred in 'The Breakfast Club'",
+      "Directed and starred in 'The Mighty Ducks'"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Emilio Fernández",
+    "givenNames": [
+      "Emilio"
+    ],
+    "familyName": "Fernández",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Fern%C3%A1ndez",
+    "occupation": "Film Director, Actor",
+    "achievements": [
+      "Won the Palme d'Or at Cannes for 'Maria Candelaria'",
+      "Pioneer of Mexican cinema"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Emilio Aguinaldo",
+    "givenNames": [
+      "Emilio"
+    ],
+    "familyName": "Aguinaldo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Aguinaldo",
+    "occupation": "Politician, Military Leader",
+    "achievements": [
+      "First President of the Philippines",
+      "Led the Philippine Revolution against Spain"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1964
+  }
+]

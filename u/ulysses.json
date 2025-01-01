@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ulysses S. Grant",
+    "givenNames": [
+      "Ulysses",
+      "Hiram"
+    ],
+    "familyName": "Grant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+    "occupation": "General, Politician",
+    "achievements": [
+      "18th President of the United States",
+      "Union General during the American Civil War",
+      "Led the Union to victory at Vicksburg and Appomattox Court House"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1885
+  }
+]

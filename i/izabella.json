@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Izabella Scorupco",
+    "givenNames": [
+      "Izabella"
+    ],
+    "familyName": "Scorupco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Izabella_Scorupco",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the James Bond film 'GoldenEye'",
+      "Appeared in films such as 'Vertical Limit' and 'Exorcist: The Beginning'"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Izabella Miko",
+    "givenNames": [
+      "Izabella"
+    ],
+    "familyName": "Miko",
+    "wikipedia": "https://en.wikipedia.org/wiki/Izabella_Miko",
+    "occupation": "Actress, Dancer",
+    "achievements": [
+      "Appeared in films like 'Coyote Ugly' and 'Showtime'",
+      "Known for her dancing skills and stage presence"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "fullName": "Andrea Bocelli",
+    "givenNames": [
+      "Andrea"
+    ],
+    "familyName": "Bocelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Bocelli",
+    "occupation": "Tenor and Multi-instrumentalist",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Known for his powerful voice and crossover appeal"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Andrea Pirlo",
+    "givenNames": [
+      "Andrea"
+    ],
+    "familyName": "Pirlo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Pirlo",
+    "occupation": "Footballer and Manager",
+    "achievements": [
+      "Won two FIFA World Cups with Italy (2006, 2014)",
+      "Considered one of the greatest midfielders of all time"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Andrea Riseborough",
+    "givenNames": [
+      "Andrea",
+      "Louise"
+    ],
+    "familyName": "Riseborough",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Riseborough",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Birdman' and 'The Death of Stalin'",
+      "Nominated for an Academy Award for Best Actress for her role in 'To Leslie'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Andrea Mitchell",
+    "givenNames": [
+      "Andrea"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Mitchell",
+    "occupation": "Journalist",
+    "achievements": [
+      "Chief foreign affairs correspondent for NBC News",
+      "Covered major international events for over four decades"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Andrea Dworkin",
+    "givenNames": [
+      "Andrea",
+      "Rita"
+    ],
+    "familyName": "Dworkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_Dworkin",
+    "occupation": "Feminist writer and activist",
+    "achievements": [
+      "Known for her controversial work on pornography and sexual violence"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2005
+  }
+]

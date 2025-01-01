@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Heather Locklear",
+    "givenNames": [
+      "Heather",
+      "Deen"
+    ],
+    "familyName": "Locklear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heather_Locklear",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in TV shows like Dynasty and Melrose Place",
+      "Won four Golden Globe nominations"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Heather Graham",
+    "givenNames": [
+      "Heather",
+      "Joan"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heather_Graham",
+    "occupation": "Actress and Filmmaker",
+    "achievements": [
+      "Appeared in films like Boogie Nights, Austin Powers: The Spy Who Shagged Me, and Sweet Home Alabama",
+      "Directed the film Half Magic"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Heather Parisi",
+    "givenNames": [
+      "Heather",
+      "Elizabeth"
+    ],
+    "familyName": "Parisi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heather_Parisi",
+    "occupation": "Showgirl, Dancer, Television Personality",
+    "achievements": [
+      "Popular figure in Italian television and entertainment"
+    ],
+    "yearBorn": 1960
+  }
+]

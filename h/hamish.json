@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Hamish Henderson",
+    "givenNames": [
+      "Hamish",
+      "James"
+    ],
+    "familyName": "Henderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamish_Henderson",
+    "occupation": "Poet and songwriter",
+    "achievements": [
+      "Known for his contributions to Scottish folk music and literature",
+      "Wrote the lyrics to 'The Freedom Come All Ye'",
+      "Awarded the Queen's Gold Medal for Poetry in 1996"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2002
+  }
+]

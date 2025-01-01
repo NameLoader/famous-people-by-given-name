@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Mattéo Guendouzi",
+    "givenNames": [
+      "Mattéo",
+      "Elias",
+      "Kenzo"
+    ],
+    "familyName": "Guendouzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matt%C3%A9o_Guendouzi",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Plays as a midfielder for Marseille",
+      "Represented the France national team at various youth levels"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Mattéo Darmian",
+    "givenNames": [
+      "Matteo"
+    ],
+    "familyName": "Darmian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Darmian",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Plays as a right-back for Inter Milan",
+      "Won the UEFA Europa League with Manchester United in 2017"
+    ],
+    "yearBorn": 1989
+  }
+]

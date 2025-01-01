@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Victoria Beckham",
+    "givenNames": [
+      "Victoria",
+      "Caroline"
+    ],
+    "familyName": "Beckham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Beckham",
+    "occupation": "Fashion Designer, Singer, Model",
+    "achievements": [
+      "Spice Girls member",
+      "Successful fashion brand"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Victoria Principal",
+    "givenNames": [
+      "Victoria",
+      "Vicki Ree"
+    ],
+    "familyName": "Principal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Principal",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Dallas actress",
+      "Successful businesswoman"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Victoria Azarenka",
+    "givenNames": [
+      "Victoria",
+      "Fiodaraŭna"
+    ],
+    "familyName": "Azarenka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Azarenka",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Former World No. 1",
+      "Two-time Grand Slam singles champion"
+    ],
+    "yearBorn": 1989
+  }
+]

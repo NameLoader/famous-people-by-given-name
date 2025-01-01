@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Lucas Cranach the Elder",
+    "givenNames": [
+      "Lucas"
+    ],
+    "familyName": "Cranach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder",
+    "occupation": "Painter",
+    "achievements": [
+      "German Renaissance painter and printmaker",
+      "Known for his portraits and religious paintings"
+    ],
+    "yearBorn": 1472,
+    "yearDied": 1553
+  },
+  {
+    "fullName": "Lucas Torreira",
+    "givenNames": [
+      "Lucas",
+      "Sebastián"
+    ],
+    "familyName": "Torreira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Torreira",
+    "occupation": "Footballer",
+    "achievements": [
+      "Uruguayan professional footballer who plays as a midfielder for Galatasaray"
+    ],
+    "yearBorn": 1996
+  }
+]

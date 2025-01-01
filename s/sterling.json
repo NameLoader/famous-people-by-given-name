@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Sterling Archer",
+    "givenNames": [
+      "Sterling"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archer_(2009_TV_series)",
+    "occupation": "Fictional Spy",
+    "achievements": [
+      "Protagonist of the animated comedy series Archer"
+    ]
+  },
+  {
+    "fullName": "Sterling K. Brown",
+    "givenNames": [
+      "Sterling",
+      "Kelby"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sterling_K._Brown",
+    "occupation": "Actor",
+    "achievements": [
+      "Emmy Award winner for Outstanding Lead Actor in a Drama Series for This Is Us",
+      "Golden Globe Award winner for Best Actor – Television Series Drama for This Is Us"
+    ],
+    "yearBorn": 1976
+  }
+]

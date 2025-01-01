@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Stanislas Wawrinka",
+    "givenNames": [
+      "Stanislas"
+    ],
+    "familyName": "Wawrinka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stan_Wawrinka",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Won three Grand Slam singles titles: the Australian Open (2014), the French Open (2015), and the US Open (2016)",
+      "Reached a career-high ranking of world No. 3 in 2014"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Stanislas Leszczyński",
+    "givenNames": [
+      "Stanislas",
+      "Stanisław"
+    ],
+    "familyName": "Leszczyński",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Leszczy%C5%84ski",
+    "occupation": "King of Poland and Duke of Lorraine",
+    "achievements": [
+      "Elected King of Poland in 1704",
+      "Served as Duke of Lorraine from 1738 to 1766"
+    ],
+    "yearBorn": 1677,
+    "yearDied": 1766
+  }
+]

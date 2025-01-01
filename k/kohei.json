@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Kohei Uchimura",
+    "givenNames": [
+      "Kōhei"
+    ],
+    "familyName": "Uchimura",
+    "wikipedia": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Uchimura",
+    "occupation": "Gymnast",
+    "achievements": [
+      "3-time Olympic All-Around Champion",
+      "Most decorated gymnast in World Championship history"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Kohei Horikoshi",
+    "givenNames": [
+      "Kohei"
+    ],
+    "familyName": "Horikoshi",
+    "wikipedia": "https://en.wikipedia.org/wiki/K%C5%8Dhei_Horikoshi",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Creator of the manga series My Hero Academia"
+    ],
+    "yearBorn": 1980
+  }
+]

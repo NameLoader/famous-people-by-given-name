@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Willow Smith",
+    "givenNames": [
+      "Willow"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willow_Smith",
+    "occupation": "Singer, actress, dancer",
+    "achievements": [
+      "Released hit singles like 'Whip My Hair' and '21st Century Girl'",
+      "Acted in films such as 'I Am Legend'"
+    ],
+    "yearBorn": 2000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Annibale Carracci",
+    "givenNames": [
+      "Annibale"
+    ],
+    "familyName": "Carracci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annibale_Carracci",
+    "occupation": "Painter",
+    "achievements": [
+      "Leader of the Carracci Academy in Bologna.",
+      "Known for his frescoes and easel paintings that combined Renaissance ideals with naturalism."
+    ],
+    "yearBorn": 1560,
+    "yearDied": 1609
+  }
+]

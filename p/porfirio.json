@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Porfirio Díaz",
+    "givenNames": [
+      "Porfirio"
+    ],
+    "familyName": "Díaz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz",
+    "occupation": "President of Mexico",
+    "achievements": [
+      "Dictatorship lasting over 30 years known as the Porfiriato",
+      "Modernization and infrastructure development in Mexico"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1915
+  }
+]

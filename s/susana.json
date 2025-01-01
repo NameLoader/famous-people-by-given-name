@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Susana Dosamantes",
+    "givenNames": [
+      "Susana"
+    ],
+    "familyName": "Dosamantes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susana_Dosamantes",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous Mexican films and telenovelas",
+      "Known for her roles in 'El amor tiene cara de mujer' and 'Cuna de lobos'"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Susana Giménez",
+    "givenNames": [
+      "Susana"
+    ],
+    "familyName": "Giménez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susana_Gim%C3%A9nez",
+    "occupation": "Television host, actress, singer",
+    "achievements": [
+      "One of the most popular and influential television personalities in Argentina",
+      "Known for her long-running talk show 'Susana Giménez'"
+    ],
+    "yearBorn": 1944
+  }
+]

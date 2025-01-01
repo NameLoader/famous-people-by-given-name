@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Florence Nightingale",
+    "givenNames": [
+      "Florence"
+    ],
+    "familyName": "Nightingale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+    "occupation": "Nurse, Social Reformer",
+    "achievements": [
+      "Founder of modern nursing",
+      "Pioneer of sanitation and hygiene practices in hospitals"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1910
+  },
+  {
+    "fullName": "Florence Griffith-Joyner",
+    "givenNames": [
+      "Florence",
+      "Delorez"
+    ],
+    "familyName": "Griffith-Joyner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Griffith_Joyner",
+    "occupation": "Track and field athlete",
+    "achievements": [
+      "World record holder in the 100m and 200m sprints",
+      "Olympic gold medalist"
+    ],
+    "yearBorn": 1959,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Florence Welch",
+    "givenNames": [
+      "Florence",
+      "Leontine",
+      "Mary"
+    ],
+    "familyName": "Welch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Welch",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Lead vocalist of the indie rock band Florence and the Machine",
+      "Grammy Award nominee"
+    ],
+    "yearBorn": 1986
+  }
+]

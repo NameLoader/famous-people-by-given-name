@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Zakariya al-Razi",
+    "givenNames": [
+      "Abu Bakr",
+      "Mohammad",
+      "Zakariya"
+    ],
+    "familyName": "al-Razi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_ibn_Zakariya_al-Razi",
+    "occupation": "Physician, alchemist, philosopher",
+    "achievements": [
+      "Pioneer of clinical trials and experimental medicine.",
+      "Wrote influential medical texts like 'Al-Hawi'",
+      "Contributed to chemistry and alchemy."
+    ],
+    "yearBorn": 865,
+    "yearDied": 925
+  }
+]

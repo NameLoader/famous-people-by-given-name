@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Shinsuke Nakamura",
+    "givenNames": [
+      "Shinsuke"
+    ],
+    "familyName": "Nakamura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinsuke_Nakamura",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Two-time WWE Intercontinental Champion",
+      "One-time WWE United States Champion",
+      "Former IWGP Heavyweight Champion"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Shinsuke Yamanaka",
+    "givenNames": [
+      "Shinsuke"
+    ],
+    "familyName": "Yamanaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinsuke_Yamanaka",
+    "occupation": "Former professional boxer",
+    "achievements": [
+      "Three-time WBC bantamweight champion"
+    ],
+    "yearBorn": 1982
+  }
+]

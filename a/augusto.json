@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Augusto Pinochet",
+    "givenNames": [
+      "Augusto",
+      "José",
+      "Ramón"
+    ],
+    "familyName": "Pinochet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augusto_Pinochet",
+    "occupation": "Military dictator",
+    "achievements": [
+      "Led a military coup in Chile in 1973",
+      "Ruled Chile as a dictator for 17 years",
+      "Oversaw widespread human rights violations"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Augusto César Sandino",
+    "givenNames": [
+      "Augusto",
+      "César"
+    ],
+    "familyName": "Sandino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augusto_C%C3%A9sar_Sandino",
+    "occupation": "Nicaraguan revolutionary",
+    "achievements": [
+      "Led a rebellion against the US occupation of Nicaragua",
+      "Became a national hero in Nicaragua"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1934
+  },
+  {
+    "fullName": "Augusto de Campos",
+    "givenNames": [
+      "Augusto"
+    ],
+    "familyName": "de Campos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augusto_de_Campos",
+    "occupation": "Brazilian poet, visual artist, and essayist",
+    "achievements": [
+      "Key figure in the Brazilian Concrete poetry movement"
+    ],
+    "yearBorn": 1931
+  }
+]

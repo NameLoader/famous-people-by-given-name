@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Federica Pellegrini",
+    "givenNames": [
+      "Federica"
+    ],
+    "familyName": "Pellegrini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federica_Pellegrini",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Olympic gold medalist",
+      "World champion swimmer"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Federica Mogherini",
+    "givenNames": [
+      "Federica"
+    ],
+    "familyName": "Mogherini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federica_Mogherini",
+    "occupation": "Politician",
+    "achievements": [
+      "High Representative of the Union for Foreign Affairs and Security Policy",
+      "Vice-President of the European Commission"
+    ],
+    "yearBorn": 1973
+  }
+]

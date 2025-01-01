@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Khalil Gibran",
+    "givenNames": [
+      "Kahlil",
+      "Khalil"
+    ],
+    "familyName": "Gibran",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kahlil_Gibran",
+    "occupation": "Poet, Writer",
+    "achievements": [
+      "Author of 'The Prophet'",
+      "Prominent figure in the Lebanese Literary Renaissance"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1931
+  },
+  {
+    "fullName": "Khalil Mack",
+    "givenNames": [
+      "Khalil",
+      "Delshon"
+    ],
+    "familyName": "Mack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khalil_Mack",
+    "occupation": "American Football Player",
+    "achievements": [
+      "3x Pro Bowl selection",
+      "2x First-team All-Pro",
+      "NFL Defensive Player of the Year (2016)"
+    ],
+    "yearBorn": 1991
+  }
+]

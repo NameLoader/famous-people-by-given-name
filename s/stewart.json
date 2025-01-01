@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Stewart Copeland",
+    "givenNames": [
+      "Stewart",
+      "Armstrong"
+    ],
+    "familyName": "Copeland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Copeland",
+    "occupation": "Musician",
+    "achievements": [
+      "Drummer for The Police",
+      "Film composer"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Stewart Lee",
+    "givenNames": [
+      "Stewart",
+      "Graham"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Lee",
+    "occupation": "Comedian, writer",
+    "achievements": [
+      "Acclaimed stand-up comedian known for his observational and political humor",
+      "Writer for television shows like 'Fist of Fun' and 'Stewart Lee's Comedy Vehicle'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Stewart Butterfield",
+    "givenNames": [
+      "Stewart",
+      "Daniel"
+    ],
+    "familyName": "Butterfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Butterfield",
+    "occupation": "Entrepreneur",
+    "achievements": [
+      "Co-founder of Slack",
+      "Co-founder of Flickr"
+    ],
+    "yearBorn": 1973
+  }
+]

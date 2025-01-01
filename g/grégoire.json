@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Grégoire de Tours",
+    "givenNames": [
+      "Grégoire"
+    ],
+    "familyName": "de Tours",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Tours",
+    "occupation": "Historian, Bishop",
+    "achievements": [
+      "Wrote the 'History of the Franks'",
+      "Important source for understanding Merovingian Francia"
+    ],
+    "yearBorn": 538,
+    "yearDied": 594
+  }
+]

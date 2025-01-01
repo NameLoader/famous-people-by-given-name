@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Maja Ivarsson",
+    "givenNames": [
+      "Maja"
+    ],
+    "familyName": "Ivarsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maja_Ivarsson",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Lead singer of the Swedish rock band The Sounds",
+      "Known for her powerful vocals and energetic stage presence"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Maja Salvador",
+    "givenNames": [
+      "Maja",
+      "Ross",
+      "Andres"
+    ],
+    "familyName": "Salvador",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maja_Salvador",
+    "occupation": "Actress, dancer, singer",
+    "achievements": [
+      "One of the most popular actresses in the Philippines",
+      "Known for her roles in television dramas and films"
+    ],
+    "yearBorn": 1988
+  }
+]

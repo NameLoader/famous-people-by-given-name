@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hetty Green",
+    "givenNames": [
+      "Henrietta",
+      "Hetty"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hetty_Green",
+    "occupation": "Financier, Businesswoman",
+    "achievements": [
+      "Known as the 'Witch of Wall Street'",
+      "One of the wealthiest women in history"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1916
+  }
+]

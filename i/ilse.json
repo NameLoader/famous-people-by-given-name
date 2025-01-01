@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Ilse Koch",
+    "givenNames": [
+      "Ilse"
+    ],
+    "familyName": "Koch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilse_Koch",
+    "occupation": "War criminal",
+    "achievements": [
+      "Known as the 'Bitch of Buchenwald' for her cruelty towards prisoners during World War II"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Ilse Aigner",
+    "givenNames": [
+      "Ilse"
+    ],
+    "familyName": "Aigner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilse_Aigner",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Federal Minister of Consumer Protection, Food and Agriculture in Germany from 2009 to 2013"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Ilse Bing",
+    "givenNames": [
+      "Ilse"
+    ],
+    "familyName": "Bing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilse_Bing",
+    "occupation": "Photographer",
+    "achievements": [
+      "Pioneer of modernist photography, known for her street scenes and portraits"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1996
+  }
+]

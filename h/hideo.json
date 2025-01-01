@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hideo Kojima",
+    "givenNames": [
+      "Hideo"
+    ],
+    "familyName": "Kojima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideo_Kojima",
+    "occupation": "Video game designer, director, producer, writer",
+    "achievements": [
+      "Created the Metal Gear series",
+      "Known for innovative gameplay and cinematic storytelling",
+      "Founded Kojima Productions"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Hideo Nomo",
+    "givenNames": [
+      "Hideo"
+    ],
+    "familyName": "Nomo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideo_Nomo",
+    "occupation": "Former professional baseball pitcher",
+    "achievements": [
+      "First Japanese player to win a Rookie of the Year award in Major League Baseball (MLB)",
+      "Pitched a no-hitter in MLB",
+      "Selected to four All-Star Games"
+    ],
+    "yearBorn": 1968
+  }
+]

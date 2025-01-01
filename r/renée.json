@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Renée Zellweger",
+    "givenNames": [
+      "Renée",
+      "Kathleen"
+    ],
+    "familyName": "Zellweger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Golden Globe Awards for Best Actress – Motion Picture Drama and Best Actress – Motion Picture Musical or Comedy"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Renée Fleming",
+    "givenNames": [
+      "Renée",
+      "Lynn"
+    ],
+    "familyName": "Fleming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Fleming",
+    "occupation": "Opera singer and classical singer",
+    "achievements": [
+      "Four Grammy Awards",
+      "National Medal of Arts"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Renée Elise Goldsberry",
+    "givenNames": [
+      "Renée",
+      "Elise"
+    ],
+    "familyName": "Goldsberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Elise_Goldsberry",
+    "occupation": "Actress and singer",
+    "achievements": [
+      "Tony Award for Best Featured Actress in a Musical",
+      "Grammy Award for Best Musical Theater Album"
+    ],
+    "yearBorn": 1971
+  }
+]

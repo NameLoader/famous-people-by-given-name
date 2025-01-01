@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Pio Pico",
+    "givenNames": [
+      "Pio",
+      "Pío"
+    ],
+    "familyName": "Pico",
+    "wikipedia": "https://en.wikipedia.org/wiki/P%C3%ADo_Pico",
+    "occupation": "Politician",
+    "achievements": [
+      "Last Governor of Alta California under Mexican rule",
+      "Prominent figure in Californian history"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1894
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Julia Child",
+    "givenNames": [
+      "Julia",
+      "Carolyn"
+    ],
+    "familyName": "Child",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Child",
+    "occupation": "Chef, author, television personality",
+    "achievements": [
+      "Introduced French cuisine to America",
+      "Authored numerous cookbooks, including 'Mastering the Art of French Cooking'",
+      "Hosted popular cooking shows like 'The French Chef'"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Julia Roberts",
+    "givenNames": [
+      "Julia",
+      "Fiona"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Roberts",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for Best Actress ('Erin Brockovich')",
+      "Starred in numerous box office hits including 'Pretty Woman', 'Notting Hill' and 'Steel Magnolias'"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Julia Louis-Dreyfus",
+    "givenNames": [
+      "Julia",
+      "Scarlett",
+      "Elizabeth"
+    ],
+    "familyName": "Louis-Dreyfus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Louis-Dreyfus",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Multiple Emmy Award winner for her roles in 'Seinfeld' and 'Veep'",
+      "Known for her comedic timing and sharp wit"
+    ],
+    "yearBorn": 1961
+  }
+]

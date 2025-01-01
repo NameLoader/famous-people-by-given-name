@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Hannes Alfvén",
+    "givenNames": [
+      "Hannes",
+      "Olof",
+      "Gösta"
+    ],
+    "familyName": "Alfvén",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n",
+    "occupation": "Plasma physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1970)",
+      "Developed the theory of magnetohydrodynamics"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1995
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nigel Farage",
+    "givenNames": [
+      "Nigel",
+      "Paul"
+    ],
+    "familyName": "Farage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Farage",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the UK Independence Party (UKIP)",
+      "Prominent figure in the Brexit campaign"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Nigel Mansell",
+    "givenNames": [
+      "Nigel",
+      "Ernest",
+      "James"
+    ],
+    "familyName": "Mansell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Mansell",
+    "occupation": "Former racing driver",
+    "achievements": [
+      "Formula One World Champion (1992)",
+      "Won 31 Formula One Grands Prix"
+    ],
+    "yearBorn": 1953
+  }
+]

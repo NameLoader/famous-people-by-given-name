@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Abdullah bin Abdulaziz Al Saud",
+    "givenNames": [
+      "Abdullah",
+      "bin Abdulaziz"
+    ],
+    "familyName": "Al Saud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia",
+    "occupation": "King of Saudi Arabia",
+    "achievements": [
+      "Longest-reigning monarch in Saudi Arabian history"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Abdullah Gül",
+    "givenNames": [
+      "Abdullah"
+    ],
+    "familyName": "Gül",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdullah_G%C3%BCl",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Turkey (2007-2014)"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Abdullah ibn Mas'ud",
+    "givenNames": [
+      "Abdullah"
+    ],
+    "familyName": "ibn Mas'ud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abd_Allah_ibn_Mas%27ud",
+    "occupation": "Companion of the Prophet Muhammad",
+    "achievements": [
+      "Renowned Islamic scholar and interpreter of the Quran"
+    ],
+    "yearBorn": 583,
+    "yearDied": 658
+  }
+]

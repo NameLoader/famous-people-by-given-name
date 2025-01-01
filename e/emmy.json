@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Emmy Noether",
+    "givenNames": [
+      "Amalie",
+      "Emmy"
+    ],
+    "familyName": "Noether",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmy_Noether",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Made groundbreaking contributions to abstract algebra and theoretical physics.",
+      "Developed Noether's theorem, a fundamental principle connecting symmetry in physical systems to conservation laws."
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1935
+  }
+]

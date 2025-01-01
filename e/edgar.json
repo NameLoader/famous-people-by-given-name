@@ -1,0 +1,67 @@
+[
+  {
+    "fullName": "Edgar Allan Poe",
+    "givenNames": [
+      "Edgar",
+      "Allan"
+    ],
+    "familyName": "Poe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+    "occupation": "Writer, Poet, Literary Critic",
+    "achievements": [
+      "Considered one of the pioneers of the detective fiction genre",
+      "Known for his dark and macabre poems and short stories",
+      "Influential figure in American literature"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1849
+  },
+  {
+    "fullName": "Edgar Degas",
+    "givenNames": [
+      "Edgar",
+      "Hilaire-Germain-Edgar"
+    ],
+    "familyName": "Degas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Degas",
+    "occupation": "Painter, Sculptor",
+    "achievements": [
+      "Famous for his paintings of dancers and horses",
+      "Key figure in the Impressionist movement",
+      "Innovative use of perspective and composition"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1917
+  },
+  {
+    "fullName": "Edgar Bronfman Sr.",
+    "givenNames": [
+      "Edgar",
+      "Miles"
+    ],
+    "familyName": "Bronfman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Bronfman_Sr.",
+    "occupation": "Businessman",
+    "achievements": [
+      "Led the Seagram Company, a major producer of alcoholic beverages",
+      "Known for his philanthropy and involvement in Jewish organizations"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Edgar Wright",
+    "givenNames": [
+      "Edgar",
+      "Howard"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Wright",
+    "occupation": "Film Director, Screenwriter, Producer",
+    "achievements": [
+      "Known for his distinctive visual style and comedic timing",
+      "Directed films such as 'Shaun of the Dead', 'Hot Fuzz', and 'Baby Driver'"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Luis Suárez",
+    "givenNames": [
+      "Luis",
+      "Alberto"
+    ],
+    "familyName": "Suárez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "UEFA Champions League winner",
+      "Premier League Golden Boot Winner (x2)",
+      "La Liga Top scorer (x4)"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Luis Buñuel",
+    "givenNames": [
+      "Luis"
+    ],
+    "familyName": "Buñuel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Bu%C3%B1uel",
+    "occupation": "Film Director",
+    "achievements": [
+      "Pioneer of Surrealist cinema",
+      "Known for films like \"Un Chien Andalou\" and \"Belle de Jour\""
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1983
+  }
+]

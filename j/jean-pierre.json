@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Jean-Pierre Papin",
+    "givenNames": [
+      "Jean-Pierre"
+    ],
+    "familyName": "Papin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Papin",
+    "occupation": "Footballer",
+    "achievements": [
+      "Ballon d'Or winner (1991)",
+      "European Cup winner (1993)"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Jean-Pierre Raffarin",
+    "givenNames": [
+      "Jean-Pierre"
+    ],
+    "familyName": "Raffarin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Raffarin",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of France (2002-2005)"
+    ],
+    "yearBorn": 1948
+  }
+]

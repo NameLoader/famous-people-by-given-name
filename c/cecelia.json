@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Cecelia Payne-Gaposchkin",
+    "givenNames": [
+      "Cecilia"
+    ],
+    "familyName": "Payne-Gaposchkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Pioneer in the field of stellar astrophysics",
+      "First to determine that stars are primarily composed of hydrogen and helium"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Cecelia Ahern",
+    "givenNames": [
+      "Cecelia"
+    ],
+    "familyName": "Ahern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cecelia_Ahern",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of international bestselling novels such as 'PS, I Love You'",
+      "Known for her heartwarming and emotionally resonant stories"
+    ],
+    "yearBorn": 1981
+  }
+]

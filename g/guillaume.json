@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Guillaume Apollinaire",
+    "givenNames": [
+      "Guillaume"
+    ],
+    "familyName": "Apollinaire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume_Apollinaire",
+    "occupation": "Poet, novelist, playwright, and art critic",
+    "achievements": [
+      "Pioneer of Surrealism",
+      "Influential figure in the development of modern poetry"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Guillaume Du Fay",
+    "givenNames": [
+      "Guillaume"
+    ],
+    "familyName": "Du Fay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume_Du_Fay",
+    "occupation": "Composer",
+    "achievements": [
+      "Leading composer of the early Renaissance",
+      "Known for his expressive and complex polyphony"
+    ],
+    "yearBorn": 1397,
+    "yearDied": 1474
+  },
+  {
+    "fullName": "Guillaume Musso",
+    "givenNames": [
+      "Guillaume"
+    ],
+    "familyName": "Musso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume_Musso",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author in France and internationally",
+      "Known for his romantic novels with suspenseful plots"
+    ],
+    "yearBorn": 1974
+  }
+]

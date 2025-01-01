@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Satoshi Nakamoto",
+    "givenNames": [
+      "Satoshi"
+    ],
+    "familyName": "Nakamoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
+    "occupation": "Cryptographer, creator of Bitcoin",
+    "achievements": [
+      "Created Bitcoin, the first decentralized cryptocurrency",
+      "Authored the Bitcoin whitepaper"
+    ]
+  },
+  {
+    "fullName": "Satoshi Tajiri",
+    "givenNames": [
+      "Satoshi"
+    ],
+    "familyName": "Tajiri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Tajiri",
+    "occupation": "Video game designer, entrepreneur",
+    "achievements": [
+      "Created the Pokémon franchise",
+      "Founded Game Freak"
+    ],
+    "yearBorn": 1965
+  }
+]

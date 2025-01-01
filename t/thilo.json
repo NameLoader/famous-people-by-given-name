@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Thilo Sarrazin",
+    "givenNames": [
+      "Thilo"
+    ],
+    "familyName": "Sarrazin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thilo_Sarrazin",
+    "occupation": "Politician, Banker",
+    "achievements": [
+      "Member of the Social Democratic Party of Germany (SPD)",
+      "Former Finance Senator of Berlin",
+      "Controversial author known for his views on immigration and Islam"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Thilo Kehrer",
+    "givenNames": [
+      "Jan",
+      "Thilo"
+    ],
+    "familyName": "Kehrer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thilo_Kehrer",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a defender for West Ham United",
+      "Represented Germany at international level"
+    ],
+    "yearBorn": 1996
+  }
+]

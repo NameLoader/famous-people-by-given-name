@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gennaro Gattuso",
+    "givenNames": [
+      "Gennaro",
+      "Ivan"
+    ],
+    "familyName": "Gattuso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gennaro_Gattuso",
+    "occupation": "Football Manager, Former Footballer",
+    "achievements": [
+      "Won the 2006 FIFA World Cup with Italy",
+      "Serie A titles with AC Milan and Napoli",
+      "Successful managerial career"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Gennaro Contaldo",
+    "givenNames": [
+      "Gennaro"
+    ],
+    "familyName": "Contaldo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gennaro_Contaldo",
+    "occupation": "Chef, Restaurateur, Television Personality",
+    "achievements": [
+      "Known for his traditional Italian cooking techniques",
+      "Appeared on numerous television shows including 'Jamie's Italy'",
+      "Authored several cookbooks"
+    ]
+  }
+]

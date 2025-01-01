@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Nicolas Cage",
+    "givenNames": [
+      "Nicolas",
+      "Kim"
+    ],
+    "familyName": "Cage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Cage",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (Leaving Las Vegas)",
+      "Known for roles in films like Face/Off, Con Air, and Raising Arizona"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Nicolas Sarkozy",
+    "givenNames": [
+      "Nicolas",
+      "Paul",
+      "Stéphane"
+    ],
+    "familyName": "Sarkozy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Sarkozy",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France from 2007 to 2012"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Nicolas Winding Refn",
+    "givenNames": [
+      "Nicolas",
+      "Winding"
+    ],
+    "familyName": "Refn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Winding_Refn",
+    "occupation": "Film director",
+    "achievements": [
+      "Directed acclaimed films like Drive, Only God Forgives, and The Neon Demon"
+    ],
+    "yearBorn": 1970
+  }
+]

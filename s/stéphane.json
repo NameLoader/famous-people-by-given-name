@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Stéphane Mallarmé",
+    "givenNames": [
+      "Stéphane",
+      "Étienne"
+    ],
+    "familyName": "Mallarmé",
+    "wikipedia": "https://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9",
+    "occupation": "Poet",
+    "achievements": [
+      "Influential Symbolist poet",
+      "Known for his innovative use of language and typography"
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1898
+  },
+  {
+    "fullName": "Stéphane Peterhansel",
+    "givenNames": [
+      "Stéphane"
+    ],
+    "familyName": "Peterhansel",
+    "wikipedia": "https://en.wikipedia.org/wiki/St%C3%A9phane_Peterhansel",
+    "occupation": "Rally driver",
+    "achievements": [
+      "Most successful Dakar Rally driver of all time with 14 wins",
+      "Won the World Rally Raid Championship multiple times"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Stéphane Courtois",
+    "givenNames": [
+      "Stéphane"
+    ],
+    "familyName": "Courtois",
+    "wikipedia": "https://en.wikipedia.org/wiki/St%C3%A9phane_Courtois",
+    "occupation": "Historian",
+    "achievements": [
+      "Co-author of 'The Black Book of Communism'",
+      "Specialist in totalitarian regimes and the history of communism"
+    ],
+    "yearBorn": 1947
+  }
+]

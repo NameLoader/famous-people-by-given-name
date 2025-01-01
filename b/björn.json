@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Björn Borg",
+    "givenNames": [
+      "Björn",
+      "Rune"
+    ],
+    "familyName": "Borg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Won 11 Grand Slam singles titles",
+      "Dominated men's tennis in the late 1970s and early 1980s"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Björn Andrésen",
+    "givenNames": [
+      "Björn",
+      "Johan"
+    ],
+    "familyName": "Andrésen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Andr%C3%A9sen",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the controversial film 'Death in Venice' (1971)",
+      "Became an international teen idol"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Björn Ulvaeus",
+    "givenNames": [
+      "Björn",
+      "Kristian"
+    ],
+    "familyName": "Ulvaeus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Ulvaeus",
+    "occupation": "Musician, songwriter",
+    "achievements": [
+      "Co-founded the Swedish pop group ABBA",
+      "Wrote many of ABBA's biggest hits"
+    ],
+    "yearBorn": 1945
+  }
+]

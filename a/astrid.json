@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Astrid Lindgren",
+    "givenNames": [
+      "Astrid",
+      "Anna",
+      "Emilia"
+    ],
+    "familyName": "Lindgren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrid_Lindgren",
+    "occupation": "Author",
+    "achievements": [
+      "Created beloved children's characters like Pippi Longstocking",
+      "Won the Hans Christian Andersen Medal"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Astrid Kirchherr",
+    "givenNames": [
+      "Astrid"
+    ],
+    "familyName": "Kirchherr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrid_Kirchherr",
+    "occupation": "Photographer",
+    "achievements": [
+      "Captured iconic images of the Beatles in their early years",
+      "Influenced the band's style and image"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Astrid S",
+    "givenNames": [
+      "Astrid"
+    ],
+    "familyName": "Smeplass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrid_S",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Chart-topping artist in Norway and internationally",
+      "Known for her catchy pop music and powerful vocals"
+    ],
+    "yearBorn": 1996
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Nicholas Copernicus",
+    "givenNames": [
+      "Nicolaus"
+    ],
+    "familyName": "Copernicus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "occupation": "Astronomer, Mathematician",
+    "achievements": [
+      "Developed the heliocentric model of the solar system"
+    ],
+    "yearBorn": 1473,
+    "yearDied": 1543
+  },
+  {
+    "fullName": "Nicholas Sparks",
+    "givenNames": [
+      "Nicholas",
+      "Charles"
+    ],
+    "familyName": "Sparks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Sparks",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author of romance novels such as The Notebook, A Walk to Remember, and Message in a Bottle",
+      "Many of his novels have been adapted into successful films"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Nicholas Tse",
+    "givenNames": [
+      "Nicholas",
+      "Ting-fung"
+    ],
+    "familyName": "Tse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Tse",
+    "occupation": "Actor, Singer, Martial Artist",
+    "achievements": [
+      "Popular Hong Kong actor and singer",
+      "Known for roles in films such as  The Promise, Shaolin Soccer, and New Police Story"
+    ],
+    "yearBorn": 1980
+  }
+]

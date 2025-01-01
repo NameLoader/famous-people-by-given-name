@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Fernando Alonso",
+    "givenNames": [
+      "Fernando"
+    ],
+    "familyName": "Alonso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Alonso",
+    "occupation": "Racing Driver",
+    "achievements": [
+      "Two-time Formula One World Champion (2005, 2006)",
+      "Winner of the 24 Hours of Le Mans (2018, 2019)"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Fernando Torres",
+    "givenNames": [
+      "Fernando",
+      "José"
+    ],
+    "familyName": "Torres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Torres",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Euro 2008 winner with Spain",
+      "FIFA World Cup winner with Spain (2010)",
+      "Former Premier League and La Liga top scorer"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Fernando Pessoa",
+    "givenNames": [
+      "Fernando",
+      "António",
+      "Nogueira",
+      "de Seabra"
+    ],
+    "familyName": "Pessoa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Pessoa",
+    "occupation": "Poet, Writer",
+    "achievements": [
+      "Considered one of the most important Portuguese poets of the 20th century",
+      "Known for his heteronyms (fictional literary personas)"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1935
+  }
+]

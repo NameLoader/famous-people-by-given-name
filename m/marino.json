@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Marino Faliero",
+    "givenNames": [
+      "Marino"
+    ],
+    "familyName": "Faliero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marino_Faliero",
+    "occupation": "Doge of Venice",
+    "achievements": [
+      "Led a rebellion against the Venetian Republic",
+      "Executed for treason"
+    ],
+    "yearBorn": 1285,
+    "yearDied": 1355
+  }
+]

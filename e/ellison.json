@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ellison Onizuka",
+    "givenNames": [
+      "Ellison",
+      "Shoji"
+    ],
+    "familyName": "Onizuka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellison_Onizuka",
+    "occupation": "Astronaut, Engineer",
+    "achievements": [
+      "First Asian American astronaut in space.",
+      "Lost his life in the Space Shuttle Challenger disaster."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1986
+  }
+]

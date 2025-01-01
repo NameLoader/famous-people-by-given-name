@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stone Cold Steve Austin",
+    "givenNames": [
+      "Steve"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stone_Cold_Steve_Austin",
+    "occupation": "Professional wrestler, actor",
+    "achievements": [
+      "Six-time WWF Champion",
+      "Three-time WCW World Heavyweight Champion",
+      "WWE Hall of Famer"
+    ],
+    "yearBorn": 1964
+  }
+]

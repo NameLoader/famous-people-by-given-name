@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Morgan Freeman",
+    "givenNames": [
+      "Morgan"
+    ],
+    "familyName": "Freeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Freeman",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Screen Actors Guild Life Achievement Award"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Morgan le Fay",
+    "givenNames": [
+      "Morgan"
+    ],
+    "familyName": "le Fay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_le_Fay",
+    "occupation": "Arthurian Legend Figure",
+    "achievements": [
+      "Powerful sorceress in Arthurian legend"
+    ]
+  },
+  {
+    "fullName": "Morgan Spurlock",
+    "givenNames": [
+      "Morgan",
+      "Valentine"
+    ],
+    "familyName": "Spurlock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Spurlock",
+    "occupation": "Filmmaker, Television Producer, Author",
+    "achievements": [
+      "Known for his documentary films, including 'Super Size Me'"
+    ],
+    "yearBorn": 1970
+  }
+]

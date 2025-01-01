@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Bertram Brockhouse",
+    "givenNames": [
+      "Bertram",
+      "Neville"
+    ],
+    "familyName": "Brockhouse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertram_Brockhouse",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1994)",
+      "Pioneer in the development of neutron scattering techniques"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2003
+  }
+]

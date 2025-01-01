@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Rowan Atkinson",
+    "givenNames": [
+      "Rowan",
+      "Sebastian"
+    ],
+    "familyName": "Atkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Atkinson",
+    "occupation": "Actor, comedian, screenwriter",
+    "achievements": [
+      "Known for his roles as Mr. Bean and Blackadder.",
+      "Recipient of numerous awards, including a BAFTA."
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Rowan Williams",
+    "givenNames": [
+      "Rowan",
+      "Douglas"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Williams",
+    "occupation": "Theologian, Archbishop of Canterbury",
+    "achievements": [
+      "Served as the 104th Archbishop of Canterbury from 2002 to 2012.",
+      "Prominent theologian and author."
+    ],
+    "yearBorn": 1950
+  }
+]

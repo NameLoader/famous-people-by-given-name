@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Bodo Ramelow",
+    "givenNames": [
+      "Bodo"
+    ],
+    "familyName": "Ramelow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodo_Ramelow",
+    "occupation": "Politician",
+    "achievements": [
+      "Minister-President of Thuringia (Germany)",
+      "Member of the Left Party"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Bodo Illgner",
+    "givenNames": [
+      "Bodo"
+    ],
+    "familyName": "Illgner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodo_Illgner",
+    "occupation": "Footballer (Goalkeeper)",
+    "achievements": [
+      "Won the FIFA World Cup with Germany in 1990",
+      "Played for clubs like FC Köln and Borussia Dortmund"
+    ],
+    "yearBorn": 1967
+  }
+]

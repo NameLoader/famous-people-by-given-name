@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Luc Besson",
+    "givenNames": [
+      "Luc",
+      "Paul",
+      "Maurice"
+    ],
+    "familyName": "Besson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luc_Besson",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Directed acclaimed films such as 'The Fifth Element', 'Léon: The Professional', and 'La Femme Nikita'",
+      "Known for his distinctive visual style and action sequences"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Luc Montagnier",
+    "givenNames": [
+      "Luc"
+    ],
+    "familyName": "Montagnier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luc_Montagnier",
+    "occupation": "Virologist",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 2008 for his co-discovery of the human immunodeficiency virus (HIV)",
+      "Pioneered research on retroviruses and their role in causing disease"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2022
+  }
+]

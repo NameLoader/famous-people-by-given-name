@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Johnnie Cochran",
+    "givenNames": [
+      "Johnnie",
+      "Lee"
+    ],
+    "familyName": "Cochran",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johnnie_Cochran",
+    "occupation": "Lawyer",
+    "achievements": [
+      "Represented O. J. Simpson in his murder trial",
+      "Civil rights lawyer"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2005
+  }
+]

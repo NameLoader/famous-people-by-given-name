@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Artur Rubinstein",
+    "givenNames": [
+      "Artur"
+    ],
+    "familyName": "Rubinstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Rubinstein",
+    "occupation": "Pianist",
+    "achievements": [
+      "Renowned classical pianist",
+      "Recorded extensively and performed worldwide"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Artur M. Schlesinger Jr.",
+    "givenNames": [
+      "Arthur",
+      "Meier",
+      "Jr."
+    ],
+    "familyName": "Schlesinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_M._Schlesinger_Jr.",
+    "occupation": "Historian",
+    "achievements": [
+      "Pulitzer Prize-winning author",
+      "Known for his works on American history and liberalism"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2014
+  }
+]

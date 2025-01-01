@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Griffin Dunne",
+    "givenNames": [
+      "Griffin",
+      "Thomas"
+    ],
+    "familyName": "Dunne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffin_Dunne",
+    "occupation": "Actor, director, writer",
+    "achievements": [
+      "Known for roles in films like 'After Hours' and 'An American Werewolf in London'",
+      "Directed the documentary 'Joan Didion: The Center Will Not Hold'"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Griffin Gluck",
+    "givenNames": [
+      "Griffin",
+      "Alexander"
+    ],
+    "familyName": "Gluck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Griffin_Gluck",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the Netflix series 'American Vandal'",
+      "Appeared in films like 'Private Practice' and 'Middle School: The Worst Years of My Life'"
+    ],
+    "yearBorn": 2000
+  }
+]

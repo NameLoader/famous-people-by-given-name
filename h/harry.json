@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Harry S. Truman",
+    "givenNames": [
+      "Harry",
+      "S"
+    ],
+    "familyName": "Truman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+    "occupation": "Politician",
+    "achievements": [
+      "33rd President of the United States",
+      "Led the US through the end of World War II and the beginning of the Cold War"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "Harry Styles",
+    "givenNames": [
+      "Harry",
+      "Edward"
+    ],
+    "familyName": "Styles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Styles",
+    "occupation": "Singer, Songwriter, Actor",
+    "achievements": [
+      "Former member of the boy band One Direction",
+      "Successful solo career with multiple chart-topping albums and singles"
+    ],
+    "yearBorn": 1994
+  }
+]

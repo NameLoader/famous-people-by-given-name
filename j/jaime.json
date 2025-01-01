@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jaime Escalante",
+    "givenNames": [
+      "Jaime",
+      "Alfonso"
+    ],
+    "familyName": "Escalante",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaime_Escalante",
+    "occupation": "Educator, Mathematician",
+    "achievements": [
+      "Known for his innovative teaching methods in calculus.",
+      "Inspired the film 'Stand and Deliver'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Jaime Lannister",
+    "givenNames": [
+      "Jaime"
+    ],
+    "familyName": "Lannister",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaime_Lannister",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "One of the main protagonists in George R.R. Martin's fantasy series 'A Song of Ice and Fire'",
+      "Known for his complex character arc and skilled swordsmanship"
+    ]
+  }
+]

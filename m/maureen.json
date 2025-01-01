@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Maureen Stapleton",
+    "givenNames": [
+      "Maureen",
+      "Lois"
+    ],
+    "familyName": "Stapleton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maureen_Stapleton",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Supporting Actress in 'Airport'",
+      "Known for her versatility and powerful performances on stage and screen"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Maureen Dowd",
+    "givenNames": [
+      "Maureen",
+      "Brigid"
+    ],
+    "familyName": "Dowd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maureen_Dowd",
+    "occupation": "Journalist and Columnist",
+    "achievements": [
+      "Won a Pulitzer Prize for her insightful commentary on American politics and culture",
+      "Known for her sharp wit and often controversial opinions"
+    ],
+    "yearBorn": 1956
+  }
+]

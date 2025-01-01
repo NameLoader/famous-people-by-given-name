@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dudley Moore",
+    "givenNames": [
+      "Dudley"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dudley_Moore",
+    "occupation": "Actor, comedian, musician",
+    "achievements": [
+      "Academy Award nomination for Best Actor",
+      "Grammy Award winner",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2002
+  }
+]

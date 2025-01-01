@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Amélia Earhart",
+    "givenNames": [
+      "Amelia",
+      "Mary"
+    ],
+    "familyName": "Earhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+    "occupation": "Aviator, Author",
+    "achievements": [
+      "First female aviator to fly solo across the Atlantic Ocean",
+      "Set many other aviation records"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1937
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Cristina Fernández de Kirchner",
+    "givenNames": [
+      "Cristina",
+      "Elisabet"
+    ],
+    "familyName": "Fernández de Kirchner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner",
+    "occupation": "Politician",
+    "achievements": [
+      "First female president of Argentina",
+      "Served two terms as president (2007-2015)"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Cristina Scabbia",
+    "givenNames": [
+      "Cristina",
+      "Adriana",
+      "Chiara"
+    ],
+    "familyName": "Scabbia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristina_Scabbia",
+    "occupation": "Singer",
+    "achievements": [
+      "Lead vocalist of the Italian gothic metal band Lacuna Coil"
+    ]
+  },
+  {
+    "fullName": "Cristina Yang",
+    "givenNames": [
+      "Cristina"
+    ],
+    "familyName": "Yang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristina_Yang",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Highly skilled neurosurgeon on the television series Grey's Anatomy"
+    ]
+  }
+]

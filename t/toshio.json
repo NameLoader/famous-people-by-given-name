@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Toshio Hosokawa",
+    "givenNames": [
+      "Toshio"
+    ],
+    "familyName": "Hosokawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toshio_Hosokawa",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his operas and orchestral works",
+      "His music blends traditional Japanese aesthetics with Western classical techniques"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Toshio Suzuki",
+    "givenNames": [
+      "Toshio"
+    ],
+    "familyName": "Suzuki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toshio_Suzuki",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Producer of Studio Ghibli films like Spirited Away and My Neighbor Totoro",
+      "Instrumental in shaping the studio's distinctive animation style"
+    ],
+    "yearBorn": 1948
+  }
+]

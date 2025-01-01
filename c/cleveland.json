@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Cleveland Abbe",
+    "givenNames": [
+      "Cleveland"
+    ],
+    "familyName": "Abbe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Abbe",
+    "occupation": "Meteorologist, physicist",
+    "achievements": [
+      "Considered the founder of the U.S. Weather Bureau.",
+      "Developed the first weather forecasting system in the United States."
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Cleveland Cavalier",
+    "givenNames": [
+      "Cleveland"
+    ],
+    "familyName": "Cavalier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Cavaliers",
+    "occupation": "Professional Basketball Team",
+    "achievements": [
+      "NBA Championship in 2016",
+      "Four Eastern Conference Titles"
+    ]
+  }
+]

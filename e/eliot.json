@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Eliot Ness",
+    "givenNames": [
+      "Eliot"
+    ],
+    "familyName": "Ness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliot_Ness",
+    "occupation": "Law enforcement officer",
+    "achievements": [
+      "Led the Untouchables in bringing down Al Capone's Chicago Outfit",
+      "Served as Director of Public Safety in Cleveland, Ohio"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1957
+  }
+]

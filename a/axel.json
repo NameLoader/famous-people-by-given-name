@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Axel Rudi Pell",
+    "givenNames": [
+      "Axel",
+      "Rudi"
+    ],
+    "familyName": "Pell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_Rudi_Pell",
+    "occupation": "Guitarist, songwriter",
+    "achievements": [
+      "Known for neoclassical heavy metal",
+      "Released numerous solo albums and collaborated with other musicians"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Axel Tuanzebe",
+    "givenNames": [
+      "Axel"
+    ],
+    "familyName": "Tuanzebe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_Tuanzebe",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Played for Manchester United and other Premier League clubs",
+      "Represented England at youth international levels"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Axel Springer",
+    "givenNames": [
+      "Axel",
+      "Cäsar"
+    ],
+    "familyName": "Springer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_Springer",
+    "occupation": "Publisher, businessman",
+    "achievements": [
+      "Founded Axel Springer SE, a major media conglomerate in Germany",
+      "Published newspapers and magazines with significant political influence"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1985
+  }
+]

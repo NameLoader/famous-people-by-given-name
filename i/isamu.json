@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Isamu Noguchi",
+    "givenNames": [
+      "Isamu"
+    ],
+    "familyName": "Noguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isamu_Noguchi",
+    "occupation": "Sculptor, Designer",
+    "achievements": [
+      "Known for his abstract sculptures and gardens.",
+      "Designed the iconic Akari light sculptures.",
+      "Created public sculptures and playgrounds worldwide."
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Isamu Akasaki",
+    "givenNames": [
+      "Isamu"
+    ],
+    "familyName": "Akasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isamu_Akasaki",
+    "occupation": "Physicist, Engineer",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 2014 for his work on blue LEDs.",
+      "Pioneered the development of gallium nitride (GaN) semiconductors.",
+      "His inventions revolutionized lighting technology and displays."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2021
+  }
+]

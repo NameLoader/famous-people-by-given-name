@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Elio Petri",
+    "givenNames": [
+      "Elio"
+    ],
+    "familyName": "Petri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elio_Petri",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Won the Academy Award for Best Foreign Language Film for 'Investigation of a Citizen Above Suspicion' (1970)",
+      "Known for his politically charged and surrealist films"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Elio Di Rupo",
+    "givenNames": [
+      "Elio"
+    ],
+    "familyName": "Di Rupo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elio_Di_Rupo",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Belgium from 2011 to 2014",
+      "First Belgian Prime Minister of Italian origin"
+    ],
+    "yearBorn": 1951
+  }
+]

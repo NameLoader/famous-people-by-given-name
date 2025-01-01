@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Elijah Muhammad",
+    "givenNames": [
+      "Elijah"
+    ],
+    "familyName": "Muhammad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elijah_Muhammad",
+    "occupation": "Religious leader",
+    "achievements": [
+      "Founded the Nation of Islam",
+      "Prominent figure in the Civil Rights Movement"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Elijah Cummings",
+    "givenNames": [
+      "Elijah",
+      "Eugene"
+    ],
+    "familyName": "Cummings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elijah_Cummings",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Maryland's 7th congressional district",
+      "Known for his strong advocacy and oversight during the Trump presidency"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2019
+  }
+]

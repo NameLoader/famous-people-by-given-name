@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Norio Sasaki",
+    "givenNames": [
+      "Norio"
+    ],
+    "familyName": "Sasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norio_Sasaki",
+    "occupation": "Football coach",
+    "achievements": [
+      "Led the Japan women's national football team to victory at the 2011 FIFA Women's World Cup"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Norio Ohga",
+    "givenNames": [
+      "Norio"
+    ],
+    "familyName": "Ohga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norio_Ohga",
+    "occupation": "Business executive",
+    "achievements": [
+      "Transformed Sony into a global electronics giant",
+      "Pioneered the development of compact discs (CDs)"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2011
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Nadia Comăneci",
+    "givenNames": [
+      "Nadia",
+      "Elena"
+    ],
+    "familyName": "Comăneci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci",
+    "occupation": "Gymnast",
+    "achievements": [
+      "First gymnast to score a perfect 10 at the Olympic Games",
+      "Five Olympic gold medals"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Nadia Sawalha",
+    "givenNames": [
+      "Nadia"
+    ],
+    "familyName": "Sawalha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Sawalha",
+    "occupation": "Actress, television presenter",
+    "achievements": [
+      "Known for roles in British soap operas 'EastEnders' and 'Casualty'",
+      "Regular panelist on the ITV daytime talk show 'Loose Women'"
+    ],
+    "yearBorn": 1964
+  }
+]

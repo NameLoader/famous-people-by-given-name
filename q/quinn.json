@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Quinn Cummings",
+    "givenNames": [
+      "Quinn",
+      "L."
+    ],
+    "familyName": "Cummings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quinn_Cummings",
+    "occupation": "Actress, author",
+    "achievements": [],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Quinn Fabray",
+    "givenNames": [
+      "Quinn"
+    ],
+    "familyName": "Fabray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quinn_Fabray",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Prominent character on the TV series Glee"
+    ]
+  }
+]

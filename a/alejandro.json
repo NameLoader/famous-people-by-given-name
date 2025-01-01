@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alejandro Sanz",
+    "givenNames": [
+      "Alejandro"
+    ],
+    "familyName": "Sanz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alejandro_Sanz",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won multiple Grammy Awards",
+      "Sold over 25 million albums worldwide"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Alejandro Toledo",
+    "givenNames": [
+      "Alejandro",
+      "Celestino"
+    ],
+    "familyName": "Toledo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alejandro_Toledo",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as President of Peru from 2001 to 2006",
+      "First indigenous president of Peru"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2023
+  }
+]

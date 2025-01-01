@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Shelton Jackson Lee",
+    "givenNames": [
+      "Shelton",
+      "Jackson"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spike_Lee",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Academy Honorary Award recipient",
+      "Known for films like 'Do the Right Thing', 'Malcolm X', and 'BlacKkKlansman'"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Shelton Benjamin",
+    "givenNames": [
+      "Shelton",
+      "James"
+    ],
+    "familyName": "Benjamin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shelton_Benjamin",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Former WWE Intercontinental Champion",
+      "Known for his athleticism and technical wrestling skills"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Shelton Hank Williams III",
+    "givenNames": [
+      "Shelton",
+      "Hank",
+      "III"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hank_Williams_III",
+    "occupation": "Country singer-songwriter, musician",
+    "achievements": [
+      "Known for his outlaw country sound and punk rock influences",
+      "Grandson of legendary country music star Hank Williams Sr."
+    ],
+    "yearBorn": 1972
+  }
+]

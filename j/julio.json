@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Julio Cortázar",
+    "givenNames": [
+      "Julio",
+      "Florencio"
+    ],
+    "familyName": "Cortázar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_Cort%C3%A1zar",
+    "occupation": "Writer, Translator",
+    "achievements": [
+      "Pioneer of the Latin American Boom",
+      "Known for his experimental and surrealist fiction",
+      "Notable works include 'Hopscotch' and 'Blow-Up'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Julio Iglesias",
+    "givenNames": [
+      "Julio",
+      "José"
+    ],
+    "familyName": "Iglesias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_Iglesias",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "One of the best-selling Latin music artists of all time",
+      "Known for romantic ballads and multilingual repertoire"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Julio César Chávez",
+    "givenNames": [
+      "Julio",
+      "César"
+    ],
+    "familyName": "Chávez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Ch%C3%A1vez",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Former world champion in three weight divisions",
+      "Considered one of the greatest Mexican boxers of all time"
+    ],
+    "yearBorn": 1962
+  }
+]

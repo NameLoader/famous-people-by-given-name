@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Debra Messing",
+    "givenNames": [
+      "Debra",
+      "Lynn"
+    ],
+    "familyName": "Messing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debra_Messing",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award for Outstanding Lead Actress in a Comedy Series for her role as Grace Adler on the NBC sitcom Will & Grace"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Debra Winger",
+    "givenNames": [
+      "Debra",
+      "Lynn"
+    ],
+    "familyName": "Winger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debra_Winger",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for three Academy Awards and won the National Board of Review Award for Best Actress for her role in An Officer and a Gentleman."
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Debra Paget",
+    "givenNames": [
+      "Debra"
+    ],
+    "familyName": "Paget",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debra_Paget",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films such as  'Prince Valiant', 'The Ten Commandments', and 'Love Me or Leave Me'."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2013
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gioacchino Murat",
+    "givenNames": [
+      "Gioacchino"
+    ],
+    "familyName": "Murat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Murat",
+    "occupation": "Military Leader, King of Naples",
+    "achievements": [
+      "Brother-in-law of Napoleon Bonaparte",
+      "Played a key role in Napoleon's conquests",
+      "Ruled the Kingdom of Naples from 1808 to 1815"
+    ],
+    "yearBorn": 1767,
+    "yearDied": 1815
+  }
+]

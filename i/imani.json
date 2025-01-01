@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Imani Perry",
+    "givenNames": [
+      "Imani"
+    ],
+    "familyName": "Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imani_Perry",
+    "occupation": "Professor, Author",
+    "achievements": [
+      "Princeton University Professor of African American Studies",
+      "Author of several books including 'Breathe: A Letter to My Sons'",
+      "Award-winning scholar and public intellectual"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Imani Hakim",
+    "givenNames": [
+      "Imani"
+    ],
+    "familyName": "Hakim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imani_Hakim",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in television shows 'Mythic Quest' and 'Everybody Hates Chris'",
+      "Voice actress in animated series 'Miles from Tomorrowland'"
+    ],
+    "yearBorn": 1993
+  }
+]

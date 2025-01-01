@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Christine Lagarde",
+    "givenNames": [
+      "Christine",
+      "Madeleine",
+      "Odette"
+    ],
+    "familyName": "Lagarde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Lagarde",
+    "occupation": "Economist, Lawyer, Politician",
+    "achievements": [
+      "Managing Director of the International Monetary Fund (IMF)",
+      "First woman to hold the position",
+      "Minister of Economy, Finance and Industry of France"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Christine Amanpour",
+    "givenNames": [
+      "Christiane",
+      "Maria",
+      "Heideh"
+    ],
+    "familyName": "Amanpour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_Amanpour",
+    "occupation": "Journalist, Television Host",
+    "achievements": [
+      "Chief International Anchor for CNN",
+      "Host of Amanpour on PBS",
+      "Known for her coverage of major international events"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Christine Sinclair",
+    "givenNames": [
+      "Christine",
+      "Margaret"
+    ],
+    "familyName": "Sinclair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Sinclair",
+    "occupation": "Soccer Player",
+    "achievements": [
+      "Captain of the Canada women's national soccer team",
+      "All-time leading goal scorer in international soccer history (men and women)",
+      "Olympic bronze medalist (2012, 2016)"
+    ],
+    "yearBorn": 1983
+  }
+]

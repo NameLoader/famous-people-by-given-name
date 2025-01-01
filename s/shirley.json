@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Shirley MacLaine",
+    "givenNames": [
+      "Shirley"
+    ],
+    "familyName": "MacLaine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_MacLaine",
+    "occupation": "Actress, dancer, author",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in 'Terms of Endearment'",
+      "Nominated for six other Oscars",
+      "Known for roles in films such as 'Sweet Charity' and 'The Apartment'"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Shirley Chisholm",
+    "givenNames": [
+      "Shirley",
+      "Anita"
+    ],
+    "familyName": "Chisholm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+    "occupation": "Politician, educator",
+    "achievements": [
+      "First African-American woman elected to the United States Congress",
+      "Ran for President of the United States in 1972",
+      "Advocate for civil rights and social justice"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2005
+  }
+]

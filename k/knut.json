@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Knut Hamsun",
+    "givenNames": [
+      "Knut"
+    ],
+    "familyName": "Hamsun",
+    "wikipedia": "https://en.wikipedia.org/wiki/Knut_Hamsun",
+    "occupation": "Novelist, Poet, Playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1920)",
+      "Known for novels like 'Hunger', 'Mysteries' and 'Growth of the Soil'"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1952
+  }
+]

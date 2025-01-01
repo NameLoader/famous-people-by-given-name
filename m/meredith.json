@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Meredith Baxter",
+    "givenNames": [
+      "Meredith",
+      "Ann"
+    ],
+    "familyName": "Baxter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meredith_Baxter",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in the television series 'Family' and 'Family Ties'"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Meredith Vieira",
+    "givenNames": [
+      "Meredith",
+      "Louise"
+    ],
+    "familyName": "Vieira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meredith_Vieira",
+    "occupation": "Television journalist and host",
+    "achievements": [
+      "Hosted 'The Today Show' and 'Who Wants to Be a Millionaire'",
+      "Won multiple Emmy Awards"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Meredith Grey",
+    "givenNames": [
+      "Meredith"
+    ],
+    "familyName": "Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meredith_Grey",
+    "occupation": "Fictional character (Surgeon)",
+    "achievements": [
+      "Protagonist of the long-running television series 'Grey's Anatomy'"
+    ]
+  }
+]

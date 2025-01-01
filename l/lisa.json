@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Lisa Kudrow",
+    "givenNames": [
+      "Lisa",
+      "Valerie"
+    ],
+    "familyName": "Kudrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Kudrow",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Emmy Award winner for her role as Phoebe Buffay in the sitcom 'Friends'",
+      "Known for roles in films like 'Romy and Michele's High School Reunion' and 'The Comeback'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Lisa Marie Presley",
+    "givenNames": [
+      "Lisa",
+      "Marie"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Marie_Presley",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Only child of Elvis Presley",
+      "Released three albums and had several charting singles"
+    ],
+    "yearBorn": 1968,
+    "yearDied": 2023
+  },
+  {
+    "fullName": "Lisa Leslie",
+    "givenNames": [
+      "Lisa",
+      "Deshaun"
+    ],
+    "familyName": "Leslie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Leslie",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Four-time Olympic gold medalist with the US women's basketball team",
+      "Eight-time WNBA All-Star and two-time WNBA MVP"
+    ],
+    "yearBorn": 1972
+  }
+]

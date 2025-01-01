@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Bonnie Tyler",
+    "givenNames": [
+      "Bonnie"
+    ],
+    "familyName": "Tyler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonnie_Tyler",
+    "occupation": "Singer",
+    "achievements": [
+      "Known for her powerful vocals and hits like 'Total Eclipse of the Heart' and 'Holding Out for a Hero'",
+      "Sold over 100 million records worldwide"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Bonnie Raitt",
+    "givenNames": [
+      "Bonnie",
+      "Lynn"
+    ],
+    "familyName": "Raitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonnie_Raitt",
+    "occupation": "Singer-songwriter, guitarist",
+    "achievements": [
+      "Won 13 Grammy Awards",
+      "Known for her slide guitar skills and bluesy vocals"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Bonnie McKee",
+    "givenNames": [
+      "Bonnie",
+      "Leigh"
+    ],
+    "familyName": "McKee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonnie_McKee",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Written hit songs for artists like Katy Perry, Britney Spears, and Taio Cruz",
+      "Released her own debut album 'Bombastic' in 2014"
+    ],
+    "yearBorn": 1984
+  }
+]

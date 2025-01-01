@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Déborah Kerr",
+    "givenNames": [
+      "Deborah",
+      "Jane"
+    ],
+    "familyName": "Kerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Kerr",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee for Best Actress",
+      "Starred in classic films such as 'Black Narcissus' and 'From Here to Eternity'"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Déborah Harry",
+    "givenNames": [
+      "Deborah",
+      "Ann"
+    ],
+    "familyName": "Harry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debbie_Harry",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Lead singer of the punk rock band Blondie",
+      "Known for hits such as 'Heart of Glass' and 'Call Me'"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Déborah Cox",
+    "givenNames": [
+      "Déborah"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Cox",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Multiple Juno Award nominee",
+      "Known for hits such as 'Nobody's Supposed to Be Here'"
+    ],
+    "yearBorn": 1974
+  }
+]

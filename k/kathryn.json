@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Kathryn Bigelow",
+    "givenNames": [
+      "Kathryn",
+      "Ann"
+    ],
+    "familyName": "Bigelow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Bigelow",
+    "occupation": "Film director, producer",
+    "achievements": [
+      "First woman to win the Academy Award for Best Director (The Hurt Locker)",
+      "Known for action and war films like Point Break, Zero Dark Thirty"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Kathryn Morris",
+    "givenNames": [
+      "Kathryn"
+    ],
+    "familyName": "Morris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Morris",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Detective Lilly Rush in the TV series Cold Case"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Kathryn Hahn",
+    "givenNames": [
+      "Kathryn",
+      "Marie"
+    ],
+    "familyName": "Hahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Hahn",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Known for comedic roles in movies like Step Brothers, Bad Moms",
+      "Nominated for Emmy Awards for her performances in WandaVision and Transparent"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Kathryn Dennis",
+    "givenNames": [
+      "Kathryn",
+      "Calhoun"
+    ],
+    "familyName": "Dennis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern_Charm",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Known for her appearances on the Bravo reality series Southern Charm"
+    ],
+    "yearBorn": 1991
+  }
+]

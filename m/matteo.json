@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Matteo Ricci",
+    "givenNames": [
+      "Matteo"
+    ],
+    "familyName": "Ricci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Ricci",
+    "occupation": "Jesuit missionary and sinologist",
+    "achievements": [
+      "Introduced Western science and technology to China",
+      "Pioneered the use of Chinese language in Jesuit missions",
+      "Established a deep understanding of Chinese culture and philosophy"
+    ],
+    "yearBorn": 1552,
+    "yearDied": 1610
+  },
+  {
+    "fullName": "Matteo Salvini",
+    "givenNames": [
+      "Matteo"
+    ],
+    "familyName": "Salvini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Salvini",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the League party",
+      "Deputy Prime Minister of Italy (2018-2019)",
+      "Known for his populist and nationalist views"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Matteo Darmian",
+    "givenNames": [
+      "Matteo"
+    ],
+    "familyName": "Darmian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Darmian",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a right-back or left-back",
+      "Won the Premier League title with Manchester United in 2017",
+      "Represented Italy at the international level"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Matteo Renzi",
+    "givenNames": [
+      "Matteo"
+    ],
+    "familyName": "Renzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Renzi",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Italy (2014-2016)",
+      "Leader of the Italian Democratic Party",
+      "Known for his reformist agenda and controversial political style"
+    ],
+    "yearBorn": 1975
+  }
+]

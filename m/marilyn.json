@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Marilyn Monroe",
+    "givenNames": [
+      "Marilyn"
+    ],
+    "familyName": "Monroe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+    "occupation": "Actress, Model, Singer",
+    "achievements": [
+      "Became a major sex symbol and one of the most popular actresses of the 1950s and early 1960s",
+      "Starred in iconic films such as 'Gentlemen Prefer Blondes', 'Some Like It Hot', and 'The Seven Year Itch'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Marilyn vos Savant",
+    "givenNames": [
+      "Marilyn"
+    ],
+    "familyName": "vos Savant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_vos_Savant",
+    "occupation": "Columnist, Author, Lecturer",
+    "achievements": [
+      "Listed in the Guinness Book of World Records for having the highest recorded IQ (228)",
+      "Known for her long-running 'Ask Marilyn' column in Parade magazine, where she answered reader questions on a variety of topics"
+    ],
+    "yearBorn": 1946
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Dusty Springfield",
+    "givenNames": [
+      "Dusty"
+    ],
+    "familyName": "Springfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dusty_Springfield",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known for her powerful vocals and distinctive sound.",
+      "Achieved international fame in the 1960s with hits like 'Son of a Preacher Man' and 'You Don't Have to Say You Love Me.'",
+      "Inducted into the Rock and Roll Hall of Fame in 1999."
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1999
+  }
+]

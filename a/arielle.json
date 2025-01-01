@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Arielle Kebbel",
+    "givenNames": [
+      "Arielle"
+    ],
+    "familyName": "Kebbel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arielle_Kebbel",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'John Tucker Must Die' and 'The Vampire Diaries'"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Arielle Dombasle",
+    "givenNames": [
+      "Arielle"
+    ],
+    "familyName": "Dombasle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arielle_Dombasle",
+    "occupation": "Singer, Actress, Film Director",
+    "achievements": [
+      "Known for her roles in French cinema and her collaborations with musician Bernard-Henri Lévy"
+    ],
+    "yearBorn": 1951
+  }
+]

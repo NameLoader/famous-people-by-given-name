@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Ralph Waldo Emerson",
+    "givenNames": [
+      "Ralph",
+      "Waldo"
+    ],
+    "familyName": "Emerson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "occupation": "Writer, Poet, Philosopher",
+    "achievements": [
+      "Key figure in the Transcendentalist movement",
+      "Influential essayist and poet"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1882
+  },
+  {
+    "fullName": "Ralph Lauren",
+    "givenNames": [
+      "Ralph"
+    ],
+    "familyName": "Lauren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Lauren",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Founded the Ralph Lauren Corporation",
+      "Known for his preppy and classic American style"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Ralph Nader",
+    "givenNames": [
+      "Ralph"
+    ],
+    "familyName": "Nader",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Nader",
+    "occupation": "Consumer Advocate, Political Activist",
+    "achievements": [
+      "Pioneered consumer protection laws and regulations",
+      "Four-time presidential candidate advocating for political reform"
+    ],
+    "yearBorn": 1934
+  }
+]

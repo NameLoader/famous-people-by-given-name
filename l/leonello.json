@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Leonello d'Este",
+    "givenNames": [
+      "Leonello",
+      "Lionello"
+    ],
+    "familyName": "d'Este",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonello_d%27Este",
+    "occupation": "Marquis of Ferrara, Italian humanist and patron of the arts",
+    "achievements": [
+      "Ruled Ferrara from 1441 to 1450.",
+      "Known for his patronage of artists like Piero della Francesca and the architect Leon Battista Alberti.",
+      "Commissioned the construction of the Palazzo Schifanoia."
+    ],
+    "yearBorn": 1407,
+    "yearDied": 1450
+  }
+]

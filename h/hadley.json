@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hadley Wickham",
+    "givenNames": [
+      "Hadley",
+      "Alexander"
+    ],
+    "familyName": "Wickham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hadley_Wickham",
+    "occupation": "Statistician, Data Scientist",
+    "achievements": [
+      "Developed the ggplot2 package for R",
+      "Contributed to the tidyverse suite of packages",
+      "Author of several influential books on data visualization and analysis"
+    ],
+    "yearBorn": 1979
+  }
+]

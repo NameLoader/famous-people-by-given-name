@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Grace Hopper",
+    "givenNames": [
+      "Grace",
+      "Brewster"
+    ],
+    "familyName": "Hopper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Hopper",
+    "occupation": "Computer Scientist and United States Navy rear admiral",
+    "achievements": [
+      "Developed the first compiler for a computer programming language",
+      "Pioneered the idea of machine-independent programming languages"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Grace Kelly",
+    "givenNames": [
+      "Grace",
+      "Patricia"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Kelly",
+    "occupation": "Actress and Princess of Monaco",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in 'The Country Girl'",
+      "Became Princess consort of Monaco after marrying Prince Rainier III"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Grace VanderWaal",
+    "givenNames": [
+      "Grace",
+      "Avery"
+    ],
+    "familyName": "VanderWaal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_VanderWaal",
+    "occupation": "Singer-songwriter and musician",
+    "achievements": [
+      "Won the eleventh season of 'America's Got Talent'",
+      "Released multiple successful albums and singles"
+    ],
+    "yearBorn": 2004
+  }
+]

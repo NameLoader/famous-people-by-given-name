@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Austin Butler",
+    "givenNames": [
+      "Austin",
+      "Robert"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin_Butler",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in 'Zoey 101', 'The Carrie Diaries', and as Elvis Presley in the biopic 'Elvis'"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Austin Mahone",
+    "givenNames": [
+      "Austin",
+      "Harris"
+    ],
+    "familyName": "Mahone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin_Mahone",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Rose to fame through social media, known for his pop music and catchy singles like 'What About Love'"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Austin Powers",
+    "givenNames": [
+      "Austin"
+    ],
+    "familyName": "Powers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin_Powers",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the comedic spy film franchise 'Austin Powers'"
+    ]
+  }
+]

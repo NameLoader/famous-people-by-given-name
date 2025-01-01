@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Justin Trudeau",
+    "givenNames": [
+      "Justin",
+      "Pierre",
+      "James"
+    ],
+    "familyName": "Trudeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Trudeau",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Canada",
+      "Leader of the Liberal Party of Canada"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Justin Timberlake",
+    "givenNames": [
+      "Justin",
+      "Randall"
+    ],
+    "familyName": "Timberlake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Timberlake",
+    "occupation": "Singer, songwriter, actor",
+    "achievements": [
+      "Grammy Award winner",
+      "Former member of NSYNC"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Justin Bieber",
+    "givenNames": [
+      "Justin",
+      "Drew"
+    ],
+    "familyName": "Bieber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Bieber",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Justin Chambers",
+    "givenNames": [
+      "Justin",
+      "Willman"
+    ],
+    "familyName": "Chambers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justin_Chambers",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Alex Karev in Grey's Anatomy"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lizzie Borden",
+    "givenNames": [
+      "Lizzie",
+      "Andrew"
+    ],
+    "familyName": "Borden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lizzie_Borden",
+    "occupation": "Subject of a Famous Murder Trial",
+    "achievements": [
+      "Accused of murdering her father and stepmother in 1892"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1927
+  }
+]

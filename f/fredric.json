@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Fredric March",
+    "givenNames": [
+      "Fredric"
+    ],
+    "familyName": "March",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fredric_March",
+    "occupation": "Actor",
+    "achievements": [
+      "Won two Academy Awards for Best Actor (Dr. Jekyll and Mr. Hyde, The Best Years of Our Lives)",
+      "Known for his versatility and range in both dramatic and comedic roles"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1975
+  }
+]

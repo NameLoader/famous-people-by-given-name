@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Alastair Sim",
+    "givenNames": [
+      "Alastair",
+      "George",
+      "Bell"
+    ],
+    "familyName": "Sim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alastair_Sim",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films like 'A Christmas Carol' and 'Greenmantle'",
+      "Highly regarded stage actor"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Alastair Campbell",
+    "givenNames": [
+      "Alastair",
+      "John"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alastair_Campbell",
+    "occupation": "Journalist, Politician",
+    "achievements": [
+      "Director of Communications and Strategy for Prime Minister Tony Blair",
+      "Author and broadcaster"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Alastair Darling",
+    "givenNames": [
+      "Alistair",
+      "Maclean"
+    ],
+    "familyName": "Darling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Darling",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of the Exchequer (2007-2010)",
+      "Member of Parliament for Edinburgh South West"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Alastair MacLean",
+    "givenNames": [
+      "Alistair",
+      "Stuart"
+    ],
+    "familyName": "MacLean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_MacLean",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author of thriller novels such as 'The Guns of Navarone' and 'Where Eagles Dare'",
+      "His works have been adapted into numerous films"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1987
+  }
+]

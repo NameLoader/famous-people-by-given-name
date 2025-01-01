@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Janice Joplin",
+    "givenNames": [
+      "Janis",
+      "Lyn"
+    ],
+    "familyName": "Joplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Rock and roll icon",
+      "Known for her powerful vocals and bluesy style",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Janice Dickinson",
+    "givenNames": [
+      "Janice",
+      "Doreen"
+    ],
+    "familyName": "Dickinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janice_Dickinson",
+    "occupation": "Model, photographer, television personality",
+    "achievements": [
+      "One of the first supermodels",
+      "Known for her outspoken personality and controversial remarks",
+      "Appeared in numerous magazines and fashion shows"
+    ],
+    "yearBorn": 1955
+  }
+]

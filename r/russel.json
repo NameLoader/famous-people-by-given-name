@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Russel Crowe",
+    "givenNames": [
+      "Russell",
+      "Ira"
+    ],
+    "familyName": "Crowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Crowe",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Golden Globe Award for Best Actor – Motion Picture Drama"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Russel Westbrook",
+    "givenNames": [
+      "Russell",
+      "III"
+    ],
+    "familyName": "Westbrook",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Westbrook",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Most Valuable Player",
+      "9× NBA All-Star"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Russel Brand",
+    "givenNames": [
+      "Russell",
+      "Edward"
+    ],
+    "familyName": "Brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
+    "occupation": "Comedian, Actor, Author",
+    "achievements": [
+      "MTV Movie Award for Best Comedic Performance",
+      "Author of several bestselling books"
+    ],
+    "yearBorn": 1975
+  }
+]

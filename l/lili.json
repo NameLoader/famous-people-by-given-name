@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Lili Reinhart",
+    "givenNames": [
+      "Lili",
+      "Pauline"
+    ],
+    "familyName": "Reinhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lili_Reinhart",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Betty Cooper in the CW television series Riverdale",
+      "Won a Teen Choice Award for Choice TV Actress: Drama"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Lili Boulanger",
+    "givenNames": [
+      "Lili",
+      "Marie-Juliette",
+      "Olga"
+    ],
+    "familyName": "Boulanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lili_Boulanger",
+    "occupation": "Composer",
+    "achievements": [
+      "First woman to win the Prix de Rome for composition",
+      "Known for her works such as 'Psalm 24' and 'Pie Jesu'"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1918
+  }
+]

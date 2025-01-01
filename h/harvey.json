@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Harvey Milk",
+    "givenNames": [
+      "Harvey",
+      "Bernard"
+    ],
+    "familyName": "Milk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Milk",
+    "occupation": "Politician, Activist",
+    "achievements": [
+      "First openly gay elected official in California",
+      "Advocate for LGBTQ+ rights"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1978
+  },
+  {
+    "fullName": "Harvey Weinstein",
+    "givenNames": [
+      "Harvey"
+    ],
+    "familyName": "Weinstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Weinstein",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Co-founder of Miramax Films",
+      "Produced numerous award-winning films"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Harvey Fierstein",
+    "givenNames": [
+      "Harvey",
+      "Forbes"
+    ],
+    "familyName": "Fierstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Fierstein",
+    "occupation": "Actor, Playwright, Screenwriter",
+    "achievements": [
+      "Tony Award-winning playwright for 'Torch Song Trilogy'",
+      "Academy Award nomination for Best Original Screenplay for 'Mrs. Doubtfire'"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Harvey Dent",
+    "givenNames": [
+      "Harvey"
+    ],
+    "familyName": "Dent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Two-Face",
+    "occupation": "Fictional Character (District Attorney)",
+    "achievements": [
+      "Batman adversary known as Two-Face"
+    ]
+  }
+]

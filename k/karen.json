@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Karen Carpenter",
+    "givenNames": [
+      "Karen",
+      "Anne"
+    ],
+    "familyName": "Carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Carpenter",
+    "occupation": "Singer, drummer",
+    "achievements": [
+      "Grammy Award-winning singer and drummer for the Carpenters",
+      "Known for her distinctive contralto vocals"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Karen Allen",
+    "givenNames": [
+      "Karen",
+      "Jane"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Allen",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'Raiders of the Lost Ark' and 'Starman'",
+      "Known for her portrayal of strong female characters"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Karen Horney",
+    "givenNames": [
+      "Karen"
+    ],
+    "familyName": "Horney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Horney",
+    "occupation": "Psychoanalyst",
+    "achievements": [
+      "Pioneer in the field of feminist psychoanalysis",
+      "Developed theories on neurosis and anxiety"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1952
+  }
+]

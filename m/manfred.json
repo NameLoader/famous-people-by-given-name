@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Manfred von Richthofen",
+    "givenNames": [
+      "Manfred",
+      "Albrecht",
+      "Freiherr"
+    ],
+    "familyName": "von Richthofen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen",
+    "occupation": "World War I fighter pilot",
+    "achievements": [
+      "Top-scoring ace of World War I",
+      "Credited with 80 aerial victories"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Manfred Eigen",
+    "givenNames": [
+      "Manfred"
+    ],
+    "familyName": "Eigen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_Eigen",
+    "occupation": "Biophysical chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1967)",
+      "Known for his work on enzyme kinetics and molecular self-organization"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2019
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Naoki Urasawa",
+    "givenNames": [
+      "Naoki"
+    ],
+    "familyName": "Urasawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naoki_Urasawa",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Created critically acclaimed manga series like Monster, 20th Century Boys, and Pluto.",
+      "Won multiple awards, including the Tezuka Osamu Cultural Prize."
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Naoki Yoshida",
+    "givenNames": [
+      "Naoki"
+    ],
+    "familyName": "Yoshida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naoki_Yoshida",
+    "occupation": "Video game producer and director",
+    "achievements": [
+      "Revived the Final Fantasy XIV MMORPG after its troubled launch.",
+      "Led development of critically acclaimed expansions for FFXIV."
+    ]
+  }
+]

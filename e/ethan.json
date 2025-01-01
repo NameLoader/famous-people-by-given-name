@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Ethan Hawke",
+    "givenNames": [
+      "Ethan",
+      "Green"
+    ],
+    "familyName": "Hawke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Hawke",
+    "occupation": "Actor, Director, Writer",
+    "achievements": [
+      "Academy Award Nomination for Best Actor in Training Day",
+      "Four-time Tony Award Nominee",
+      "Known for roles in films like Dead Poets Society and Before Sunrise trilogy"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Ethan Allen",
+    "givenNames": [
+      "Ethan"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Allen",
+    "occupation": "Revolutionary War General, Businessman",
+    "achievements": [
+      "Led the Green Mountain Boys in the capture of Fort Ticonderoga",
+      "Founded the town of Burlington, Vermont"
+    ],
+    "yearBorn": 1738,
+    "yearDied": 1789
+  },
+  {
+    "fullName": "Ethan Coen",
+    "givenNames": [
+      "Ethan",
+      "Jesse"
+    ],
+    "familyName": "Coen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coen_brothers",
+    "occupation": "Film Director, Screenwriter, Producer",
+    "achievements": [
+      "Academy Award for Best Original Screenplay for Fargo",
+      "Four Academy Award Nominations for Best Director",
+      "Known for his collaborative filmmaking with brother Joel Coen, creating films like The Big Lebowski and No Country for Old Men"
+    ],
+    "yearBorn": 1957
+  }
+]

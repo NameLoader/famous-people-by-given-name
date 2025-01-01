@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Delbert McClinton",
+    "givenNames": [
+      "Delbert"
+    ],
+    "familyName": "McClinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delbert_McClinton",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Blues Hall of Fame inductee"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Delbert Mann",
+    "givenNames": [
+      "Delbert",
+      "Martin"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delbert_Mann",
+    "occupation": "Film and television director",
+    "achievements": [
+      "Academy Award for Best Director (Marty)"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2007
+  }
+]

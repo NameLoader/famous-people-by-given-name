@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Dominique Wilkins",
+    "givenNames": [
+      "Dominique",
+      "Jacques"
+    ],
+    "familyName": "Wilkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominique_Wilkins",
+    "occupation": "Basketball player",
+    "achievements": [
+      "9x NBA All-Star",
+      "NBA Slam Dunk Contest champion (1985, 1990)",
+      "Naismith Memorial Basketball Hall of Fame inductee (2006)"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Dominique Strauss-Kahn",
+    "givenNames": [
+      "Dominique",
+      "Gaston",
+      "André"
+    ],
+    "familyName": "Strauss-Kahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominique_Strauss-Kahn",
+    "occupation": "Economist, politician",
+    "achievements": [
+      "Managing Director of the International Monetary Fund (2007-2011)",
+      "French Minister of Economy, Finance and Industry (1991-1993)"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Dominique Tipper",
+    "givenNames": [
+      "Dominique",
+      "Jade"
+    ],
+    "familyName": "Tipper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominique_Tipper",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Naomi Nagata in the science fiction series 'The Expanse'"
+    ],
+    "yearBorn": 1988
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kelli O'Hara",
+    "givenNames": [
+      "Kelli",
+      "Christine"
+    ],
+    "familyName": "O'Hara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelli_O%27Hara",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Tony Award winner for Best Actress in a Musical",
+      "Grammy Award nominee"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Kelli Giddish",
+    "givenNames": [
+      "Kelli",
+      "Marie"
+    ],
+    "familyName": "Giddish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelli_Giddish",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Detective Amanda Rollins on Law & Order: Special Victims Unit"
+    ],
+    "yearBorn": 1980
+  }
+]

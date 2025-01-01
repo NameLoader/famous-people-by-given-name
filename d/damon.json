@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Damon Albarn",
+    "givenNames": [
+      "Damon"
+    ],
+    "familyName": "Albarn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damon_Albarn",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Frontman of the virtual band Gorillaz",
+      "Lead singer of the alternative rock band Blur",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Damon Runyon",
+    "givenNames": [
+      "Alfred",
+      "Damon"
+    ],
+    "familyName": "Runyon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damon_Runyon",
+    "occupation": "Journalist, Short Story Writer",
+    "achievements": [
+      "Known for stories about New York City underworld figures",
+      "His works inspired the musical 'Guys and Dolls'"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1946
+  }
+]

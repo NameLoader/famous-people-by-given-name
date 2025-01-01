@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Maxwell Perkins",
+    "givenNames": [
+      "William",
+      "Maxwell",
+      "Evarts",
+      "Max"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxwell_Perkins",
+    "occupation": "Literary editor",
+    "achievements": [
+      "Edited the works of F. Scott Fitzgerald, Ernest Hemingway, and other prominent authors",
+      "Considered one of the most influential literary editors of the 20th century"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Maxwell Anderson",
+    "givenNames": [
+      "Maxwell",
+      "James"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxwell_Anderson",
+    "occupation": "Playwright, poet, novelist",
+    "achievements": [
+      "Wrote successful Broadway plays such as 'Winterset' and 'Gods of the Mountain'",
+      "Known for his historical dramas and exploration of social themes"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1959
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Lyndon Baines Johnson",
+    "givenNames": [
+      "Lyndon",
+      "Baines"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+    "occupation": "Politician",
+    "achievements": [
+      "36th President of the United States",
+      "Signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965",
+      "Expanded social welfare programs"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Lyndon LaRouche",
+    "givenNames": [
+      "Lyndon",
+      "Hermyle"
+    ],
+    "familyName": "LaRouche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_LaRouche",
+    "occupation": "Political activist",
+    "achievements": [
+      "Founded the U.S. Labor Party and the National Caucus of Labor Committees",
+      "Known for his controversial views on economics and politics"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2019
+  }
+]

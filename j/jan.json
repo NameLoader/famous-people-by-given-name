@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jan Hammer",
+    "givenNames": [
+      "Jan"
+    ],
+    "familyName": "Hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Hammer",
+    "occupation": "Composer and musician",
+    "achievements": [
+      "Won three Grammy Awards",
+      "Composed the theme music for Miami Vice",
+      "Pioneer in jazz fusion music"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Jan Ullrich",
+    "givenNames": [
+      "Jan"
+    ],
+    "familyName": "Ullrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Ullrich",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Won the Tour de France in 1997",
+      "Olympic gold medalist in road cycling (2000)"
+    ],
+    "yearBorn": 1973
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Lars Ulrich",
+    "givenNames": [
+      "Lars"
+    ],
+    "familyName": "Ulrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lars_Ulrich",
+    "occupation": "Musician",
+    "achievements": [
+      "Drummer and co-founder of the heavy metal band Metallica"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Lars von Trier",
+    "givenNames": [
+      "Lars"
+    ],
+    "familyName": "von Trier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lars_von_Trier",
+    "occupation": "Film director",
+    "achievements": [
+      "Known for his controversial and thought-provoking films like 'Dogville', 'Melancholia', and 'Antichrist'"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Lars Hanson",
+    "givenNames": [
+      "Lars",
+      "Mauritz"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lars_Hanson",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in many silent films and was a prominent figure in Swedish cinema during the early 20th century"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1965
+  }
+]

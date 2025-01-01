@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Salvatore Ferragamo",
+    "givenNames": [
+      "Salvatore"
+    ],
+    "familyName": "Ferragamo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Ferragamo",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Founded the luxury footwear brand Salvatore Ferragamo.",
+      "Known for innovative shoe designs and craftsmanship."
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1960
+  },
+  {
+    "fullName": "Salvatore Quasimodo",
+    "givenNames": [
+      "Salvatore"
+    ],
+    "familyName": "Quasimodo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Quasimodo",
+    "occupation": "Poet, Writer",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1959.",
+      "Known for his poetry reflecting themes of isolation and existentialism."
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Salvatore Scibona",
+    "givenNames": [
+      "Salvatore"
+    ],
+    "familyName": "Scibona",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Scibona",
+    "occupation": "Novelist, Writer",
+    "achievements": [
+      "Author of critically acclaimed novels such as 'The End' and 'A Novel'."
+    ],
+    "yearBorn": 1975
+  }
+]

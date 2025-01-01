@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Rosa Parks",
+    "givenNames": [
+      "Rosa",
+      "Louise",
+      "McCauley"
+    ],
+    "familyName": "Parks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Parks",
+    "occupation": "Activist",
+    "achievements": [
+      "Key figure in the Civil Rights Movement",
+      "Known for her refusal to give up her seat on a segregated bus in Montgomery, Alabama"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Rosa Luxemburg",
+    "givenNames": [
+      "Rosa"
+    ],
+    "familyName": "Luxemburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Luxemburg",
+    "occupation": "Marxist theorist, philosopher, economist, and revolutionary socialist",
+    "achievements": [
+      "Co-founded the Spartacist League",
+      "Prominent figure in the German Revolution of 1918-1919"
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Rosa Bonheur",
+    "givenNames": [
+      "Rosa",
+      "Marie-Rosalie"
+    ],
+    "familyName": "Bonheur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosa_Bonheur",
+    "occupation": "Painter and sculptor",
+    "achievements": [
+      "Known for her realistic depictions of animals",
+      "Achieved international fame during her lifetime"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1899
+  }
+]

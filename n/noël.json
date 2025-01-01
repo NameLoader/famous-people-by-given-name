@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Noël Coward",
+    "givenNames": [
+      "Noël",
+      "Peirce"
+    ],
+    "familyName": "Coward",
+    "wikipedia": "https://en.wikipedia.org/wiki/No%C3%ABl_Coward",
+    "occupation": "Playwright, composer, actor, director",
+    "achievements": [
+      "Prolific playwright of comedies and dramas",
+      "Composer of popular songs like 'Mad About the Boy'",
+      "Acclaimed actor and director in theatre and film"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Noël Redding",
+    "givenNames": [
+      "Noel",
+      "David"
+    ],
+    "familyName": "Redding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Redding",
+    "occupation": "Musician",
+    "achievements": [
+      "Bassist for the rock band The Yardbirds",
+      "Known for his blues-influenced style"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2003
+  }
+]

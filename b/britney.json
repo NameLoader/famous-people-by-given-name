@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Britney Jean Spears",
+    "givenNames": [
+      "Britney",
+      "Jean"
+    ],
+    "familyName": "Spears",
+    "wikipedia": "https://en.wikipedia.org/wiki/Britney_Spears",
+    "occupation": "Singer, songwriter, dancer, actress",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Won a Grammy Award",
+      "Starred in films like 'Crossroads'"
+    ],
+    "yearBorn": 1981
+  }
+]

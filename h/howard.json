@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Howard Hughes",
+    "givenNames": [
+      "Howard",
+      "Robard"
+    ],
+    "familyName": "Hughes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Hughes",
+    "occupation": "Aviator, Business magnate, Film director, Philanthropist",
+    "achievements": [
+      "Founded Hughes Aircraft Company",
+      "Set multiple aviation records",
+      "Produced and directed films such as Hell's Angels and Scarface",
+      "Known for his eccentric personality and reclusiveness"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Howard Stern",
+    "givenNames": [
+      "Howard",
+      "Allan"
+    ],
+    "familyName": "Stern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Stern",
+    "occupation": "Radio personality, Television host, Author",
+    "achievements": [
+      "Pioneered the shock jock radio format",
+      "Won numerous Peabody Awards and Emmy Awards",
+      "Hosted The Howard Stern Show for over 30 years"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Howard Zinn",
+    "givenNames": [
+      "Howard"
+    ],
+    "familyName": "Zinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Zinn",
+    "occupation": "Historian, Playwright, Social activist",
+    "achievements": [
+      "Authored A People's History of the United States, a best-selling and influential history book",
+      "Actively participated in civil rights and anti-war movements"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2010
+  }
+]

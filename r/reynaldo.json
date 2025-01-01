@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Reynaldo Gianecchini",
+    "givenNames": [
+      "Reynaldo",
+      "Fernandes",
+      "Cisotto"
+    ],
+    "familyName": "Gianecchini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reynaldo_Gianecchini",
+    "occupation": "Actor, Model",
+    "achievements": [
+      "Known for roles in Brazilian telenovelas like 'Kubanacan' and 'O Clone'",
+      "Successful modeling career"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Reynaldo Hahn",
+    "givenNames": [
+      "Reynaldo"
+    ],
+    "familyName": "Hahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reynaldo_Hahn",
+    "occupation": "Composer, Conductor",
+    "achievements": [
+      "Prolific composer of songs, chamber music and orchestral works",
+      "Notable for his collaborations with Marcel Proust"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1947
+  }
+]

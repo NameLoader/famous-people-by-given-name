@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Iain Banks",
+    "givenNames": [
+      "Iain"
+    ],
+    "familyName": "Banks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iain_Banks",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote science fiction novels under the name Iain M. Banks.",
+      "Published critically acclaimed mainstream novels under the name Iain Banks."
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2013
+  }
+]

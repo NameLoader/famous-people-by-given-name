@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Manuela Sáenz",
+    "givenNames": [
+      "Manuela"
+    ],
+    "familyName": "Sáenz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuela_S%C3%A1enz",
+    "occupation": "Revolutionary, independence activist",
+    "achievements": [
+      "Lover and collaborator of Simón Bolívar",
+      "Played a key role in Ecuador's independence movement"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1856
+  },
+  {
+    "fullName": "Manuela Carmena Castrillo",
+    "givenNames": [
+      "Manuela"
+    ],
+    "familyName": "Carmena Castrillo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuela_Carmena",
+    "occupation": "Lawyer, politician",
+    "achievements": [
+      "Mayor of Madrid (2015-2019)",
+      "Known for her progressive policies and focus on social justice"
+    ],
+    "yearBorn": 1943
+  }
+]

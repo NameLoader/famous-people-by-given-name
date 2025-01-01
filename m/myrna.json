@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Myrna Loy",
+    "givenNames": [
+      "Myrna"
+    ],
+    "familyName": "Loy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myrna_Loy",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films such as 'The Thin Man' series and 'Libeled Lady'",
+      "Won a Golden Globe Award for Best Actress – Motion Picture Musical or Comedy",
+      "Honored with a star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1993
+  }
+]

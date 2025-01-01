@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Shelby Rogers",
+    "givenNames": [
+      "Shelby",
+      "Nicole"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shelby_Rogers",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Reached the quarterfinals of the US Open in 2020",
+      "Won two WTA Tour singles titles"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Shelby Foote",
+    "givenNames": [
+      "Shelby",
+      "Dade"
+    ],
+    "familyName": "Foote",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shelby_Foote",
+    "occupation": "Historian and Author",
+    "achievements": [
+      "Pulitzer Prize winner for his Civil War history 'The Civil War: A Narrative'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2005
+  }
+]

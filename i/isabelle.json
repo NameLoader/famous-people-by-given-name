@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Isabelle Huppert",
+    "givenNames": [
+      "Isabelle",
+      "Anne",
+      "Madeleine"
+    ],
+    "familyName": "Huppert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabelle_Huppert",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award winner for Best Actress",
+      "Academy Award nominee for Best Actress",
+      "Internationally renowned film actress known for her roles in films like 'The Piano Teacher' and 'Elle'"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Isabelle Allende",
+    "givenNames": [
+      "Isabel",
+      "Angelica"
+    ],
+    "familyName": "Allende",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Allende",
+    "occupation": "Writer",
+    "achievements": [
+      "Bestselling author known for her magical realism novels such as 'The House of the Spirits'",
+      "Recipient of numerous literary awards including the Chilean National Literature Prize"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Isabelle Adjani",
+    "givenNames": [
+      "Isabelle",
+      "Yasmine"
+    ],
+    "familyName": "Adjani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabelle_Adjani",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award winner for Best Actress",
+      "Known for her roles in films like 'The Story of Adele H.' and 'Camille Claudel'"
+    ],
+    "yearBorn": 1955
+  }
+]

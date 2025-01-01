@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Lorne Greene",
+    "givenNames": [
+      "Lorne",
+      "Hyman"
+    ],
+    "familyName": "Greene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorne_Greene",
+    "occupation": "Actor",
+    "achievements": [
+      "Best known for his role as Ben Cartwright in the long-running television series Bonanza",
+      "Successful career in radio and film before transitioning to television"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Lorne Michaels",
+    "givenNames": [
+      "Lorne"
+    ],
+    "familyName": "Michaels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorne_Michaels",
+    "occupation": "Television producer, writer, comedian",
+    "achievements": [
+      "Creator and executive producer of Saturday Night Live",
+      "Winner of numerous Emmy Awards for his work on SNL",
+      "Influential figure in the development of sketch comedy"
+    ],
+    "yearBorn": 1944
+  }
+]

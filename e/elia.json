@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Elia Kazan",
+    "givenNames": [
+      "Elia"
+    ],
+    "familyName": "Kazan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elia_Kazan",
+    "occupation": "Film Director",
+    "achievements": [
+      "Won three Academy Awards for Best Director",
+      "Directed iconic films like 'A Streetcar Named Desire' and 'On the Waterfront'"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Elia Suleiman",
+    "givenNames": [
+      "Elia"
+    ],
+    "familyName": "Suleiman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elia_Suleiman",
+    "occupation": "Film Director, Actor",
+    "achievements": [
+      "Known for his minimalist and humorous films exploring Palestinian identity",
+      "Directed films like 'Chronicle of a Disappearance' and 'Divine Intervention'"
+    ],
+    "yearBorn": 1960
+  }
+]

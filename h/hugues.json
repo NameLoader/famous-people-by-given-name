@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Hugues Capet",
+    "givenNames": [
+      "Hugues"
+    ],
+    "familyName": "Capet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Capet",
+    "occupation": "King of the Franks",
+    "achievements": [
+      "Founded the Capetian dynasty which ruled France for over 800 years.",
+      "Established a stable monarchy in France after centuries of instability."
+    ],
+    "yearBorn": 939,
+    "yearDied": 996
+  },
+  {
+    "fullName": "Hugues de Payens",
+    "givenNames": [
+      "Hugues"
+    ],
+    "familyName": "de Payens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugues_de_Payens",
+    "occupation": "Knight Templar",
+    "achievements": [
+      "Founded the Knights Templar, a powerful military order that protected Christian pilgrims in the Holy Land."
+    ],
+    "yearBorn": 1070,
+    "yearDied": 1136
+  }
+]

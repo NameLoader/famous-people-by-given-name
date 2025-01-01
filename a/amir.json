@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Amir Khan",
+    "givenNames": [
+      "Amir",
+      "Iqbal"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amir_Khan_(boxer)",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Former unified light-welterweight world champion",
+      "Olympic silver medalist"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Amir Peretz",
+    "givenNames": [
+      "Amir"
+    ],
+    "familyName": "Peretz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amir_Peretz",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Defense Minister of Israel",
+      "Leader of the Labor Party"
+    ],
+    "yearBorn": 1952
+  }
+]

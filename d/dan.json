@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Dan Brown",
+    "givenNames": [
+      "Daniel",
+      "Gerhard"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Brown",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of thriller novels such as 'The Da Vinci Code' and 'Angels & Demons'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Dan Rather",
+    "givenNames": [
+      "Daniel",
+      "Irvin"
+    ],
+    "familyName": "Rather",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Rather",
+    "occupation": "Journalist",
+    "achievements": [
+      "Longtime anchor of the CBS Evening News",
+      "Known for his reporting on major events like the Vietnam War and the Watergate scandal"
+    ],
+    "yearBorn": 1931
+  }
+]

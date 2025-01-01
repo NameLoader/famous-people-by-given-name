@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Kyrie Irving",
+    "givenNames": [
+      "Kyrie",
+      "Andrew"
+    ],
+    "familyName": "Irving",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyrie_Irving",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "NBA Champion (2016)",
+      "8× NBA All-Star",
+      "NBA Rookie of the Year (2012)"
+    ],
+    "yearBorn": 1992
+  }
+]

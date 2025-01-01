@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tommaso Campanella",
+    "givenNames": [
+      "Tommaso"
+    ],
+    "familyName": "Campanella",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommaso_Campanella",
+    "occupation": "Philosopher, theologian, Dominican friar, astrologer",
+    "achievements": [
+      "Wrote the utopian novel 'The City of the Sun'",
+      "Developed influential philosophical and theological ideas"
+    ],
+    "yearBorn": 1568,
+    "yearDied": 1639
+  },
+  {
+    "fullName": "Tommaso Padoa-Schioppa",
+    "givenNames": [
+      "Tommaso"
+    ],
+    "familyName": "Padoa-Schioppa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommaso_Padoa-Schioppa",
+    "occupation": "Economist, European official",
+    "achievements": [
+      "Served as Director-General for Economic and Financial Affairs in the European Commission",
+      "Known for his contributions to economic theory and policy"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2010
+  }
+]

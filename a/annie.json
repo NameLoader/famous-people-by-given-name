@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Annie Oakley",
+    "givenNames": [
+      "Annie"
+    ],
+    "familyName": "Oakley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annie_Oakley",
+    "occupation": "Sharpshooter, performer",
+    "achievements": [
+      "World-renowned sharpshooter and exhibition performer",
+      "Starred in Buffalo Bill's Wild West show"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Annie Lennox",
+    "givenNames": [
+      "Ann",
+      "Annie"
+    ],
+    "familyName": "Lennox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annie_Lennox",
+    "occupation": "Singer, songwriter, activist",
+    "achievements": [
+      "Lead vocalist of the Eurythmics",
+      "Successful solo career with multiple Grammy Awards",
+      "Advocate for HIV/AIDS awareness and human rights"
+    ],
+    "yearBorn": 1954
+  }
+]

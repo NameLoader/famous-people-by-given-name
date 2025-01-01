@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ferdinando Magellan",
+    "givenNames": [
+      "Ferdinand"
+    ],
+    "familyName": "Magellan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+    "occupation": "Portuguese explorer",
+    "achievements": [
+      "Led the first expedition to circumnavigate the globe",
+      "Opened up new trade routes to the East Indies"
+    ],
+    "yearBorn": 1480,
+    "yearDied": 1521
+  }
+]

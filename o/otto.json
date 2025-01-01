@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Otto Hahn",
+    "givenNames": [
+      "Otto"
+    ],
+    "familyName": "Hahn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Hahn",
+    "occupation": "Chemist, Physicist",
+    "achievements": [
+      "Discovered nuclear fission in 1938",
+      "Won the Nobel Prize in Chemistry in 1944"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Otto Dix",
+    "givenNames": [
+      "Otto"
+    ],
+    "familyName": "Dix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Dix",
+    "occupation": "Painter, Printmaker",
+    "achievements": [
+      "Known for his Expressionist and New Objectivity style paintings",
+      "Depicted the harsh realities of war and German society in his works"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Otto Neurath",
+    "givenNames": [
+      "Otto",
+      "Karl",
+      "Wilhelm"
+    ],
+    "familyName": "Neurath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Neurath",
+    "occupation": "Philosopher, Sociologist",
+    "achievements": [
+      "Developed the Vienna Circle's logical positivism philosophy",
+      "Pioneer in visual communication and information design through Isotype charts"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1945
+  }
+]

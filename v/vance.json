@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Vance Packard",
+    "givenNames": [
+      "Vance",
+      "Oakley"
+    ],
+    "familyName": "Packard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vance_Packard",
+    "occupation": "Author, Social Critic",
+    "achievements": [
+      "Bestselling author of 'The Hidden Persuaders'",
+      "Critiqued consumerism and advertising techniques"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1997
+  }
+]

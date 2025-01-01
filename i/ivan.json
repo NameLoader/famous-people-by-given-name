@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Ivan Pavlov",
+    "givenNames": [
+      "Ivan",
+      "Petrovich"
+    ],
+    "familyName": "Pavlov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Pavlov",
+    "occupation": "Physiologist",
+    "achievements": [
+      "Developed the theory of classical conditioning",
+      "Won the Nobel Prize in Physiology or Medicine in 1904"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Ivan Turgenev",
+    "givenNames": [
+      "Ivan",
+      "Sergeyevich"
+    ],
+    "familyName": "Turgenev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Turgenev",
+    "occupation": "Novelist, short story writer, poet",
+    "achievements": [
+      "Known for his realistic depictions of Russian society",
+      "Author of famous works like 'Fathers and Sons' and 'A Sportsman's Sketches'"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1883
+  },
+  {
+    "fullName": "Ivan Bunin",
+    "givenNames": [
+      "Ivan",
+      "Alekseyevich"
+    ],
+    "familyName": "Bunin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Bunin",
+    "occupation": "Writer, poet",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1933 for his 'strict artistry' and 'clear-sightedness'"
+    ],
+    "yearBorn": 1870,
+    "yearDied": 1953
+  }
+]

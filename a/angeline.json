@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Angeline Jolie",
+    "givenNames": [
+      "Angelina"
+    ],
+    "familyName": "Jolie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelina_Jolie",
+    "occupation": "Actress, filmmaker",
+    "achievements": [
+      "Academy Award winner",
+      "Humanitarian work with the UN Refugee Agency"
+    ],
+    "yearBorn": 1975
+  }
+]

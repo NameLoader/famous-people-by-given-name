@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Shinzo Abe",
+    "givenNames": [
+      "Shinzo"
+    ],
+    "familyName": "Abe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinzo_Abe",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Japan (2006-2007 and 2012-2020)",
+      "Longest-serving Prime Minister in Japanese history",
+      "Introduced 'Abenomics', a series of economic policies aimed at revitalizing the Japanese economy"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2022
+  }
+]

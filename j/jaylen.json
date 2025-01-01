@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jaylen Brown",
+    "givenNames": [
+      "Jaylen",
+      "Marselles"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaylen_Brown",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA All-Star",
+      "NBA Champion (2023)"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Jaylen Hands",
+    "givenNames": [
+      "Jaylen",
+      "Joseph"
+    ],
+    "familyName": "Hands",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaylen_Hands",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NCAA All-Pac-12 First Team"
+    ],
+    "yearBorn": 1999
+  }
+]

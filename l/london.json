@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "London Breed",
+    "givenNames": [
+      "London",
+      "Nicole"
+    ],
+    "familyName": "Breed",
+    "wikipedia": "https://en.wikipedia.org/wiki/London_Breed",
+    "occupation": "Politician",
+    "achievements": [
+      "Mayor of San Francisco",
+      "First African-American woman mayor of San Francisco"
+    ],
+    "yearBorn": 1974
+  }
+]

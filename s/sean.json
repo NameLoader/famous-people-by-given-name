@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Sean Connery",
+    "givenNames": [
+      "Sean",
+      "Thomas"
+    ],
+    "familyName": "Connery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Connery",
+    "occupation": "Actor",
+    "achievements": [
+      "First actor to portray James Bond in film",
+      "Academy Award for Best Supporting Actor (The Untouchables)"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Sean Penn",
+    "givenNames": [
+      "Sean",
+      "Justin"
+    ],
+    "familyName": "Penn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Penn",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Two Academy Awards for Best Actor (Mystic River, Milk)",
+      "Known for his activism and humanitarian work"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Sean Combs",
+    "givenNames": [
+      "Sean",
+      "John"
+    ],
+    "familyName": "Combs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Combs",
+    "occupation": "Rapper, Record Producer, Entrepreneur",
+    "achievements": [
+      "Successful music career under the names Puff Daddy, P. Diddy, and Diddy",
+      "Founded Bad Boy Records"
+    ],
+    "yearBorn": 1969
+  }
+]

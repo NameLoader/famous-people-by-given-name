@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Hayden Christensen",
+    "givenNames": [
+      "Hayden"
+    ],
+    "familyName": "Christensen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayden_Christensen",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Anakin Skywalker in the Star Wars prequel trilogy",
+      "Starred in films such as 'Life as a House' and 'Shattered Glass'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Hayden Panettiere",
+    "givenNames": [
+      "Hayden",
+      "Lesley"
+    ],
+    "familyName": "Panettiere",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayden_Panettiere",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her role as Claire Bennet in the TV series 'Heroes'",
+      "Voiced Kirby in several video games and animated series"
+    ],
+    "yearBorn": 1989
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Jean-Luc Picard",
+    "givenNames": [
+      "Jean-Luc"
+    ],
+    "familyName": "Picard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Luc_Picard",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Captain of the USS Enterprise-D and USS Enterprise-E",
+      "Known for his diplomacy, intellect, and adherence to Starfleet principles"
+    ]
+  },
+  {
+    "fullName": "Jean-Luc Godard",
+    "givenNames": [
+      "Jean-Luc"
+    ],
+    "familyName": "Godard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Luc_Godard",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Pioneer of the French New Wave movement",
+      "Known for his experimental and politically charged films like 'Breathless' and 'Pierrot le Fou'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Didier Deschamps",
+    "givenNames": [
+      "Didier",
+      "Claude"
+    ],
+    "familyName": "Deschamps",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Deschamps",
+    "occupation": "Football manager and former player",
+    "achievements": [
+      "Won the FIFA World Cup as a player (1998) and manager (2018)",
+      "UEFA European Championship winner as a player (2000)"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Didier Drogba",
+    "givenNames": [
+      "Didier",
+      "Yves"
+    ],
+    "familyName": "Drogba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Drogba",
+    "occupation": "Retired footballer",
+    "achievements": [
+      "Two-time African Footballer of the Year (2006, 2009)",
+      "Premier League champion with Chelsea FC (2005, 2006, 2010, 2015)"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Didier Ratsiraka",
+    "givenNames": [
+      "Didier",
+      "Ignace"
+    ],
+    "familyName": "Ratsiraka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Didier_Ratsiraka",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Madagascar (1975-1982 and 1997-2002)"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2021
+  }
+]

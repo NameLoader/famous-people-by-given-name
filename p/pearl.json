@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Pearl S. Buck",
+    "givenNames": [
+      "Pearl",
+      "Comfort",
+      "Sydenstricker"
+    ],
+    "familyName": "Buck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pearl_S._Buck",
+    "occupation": "Writer, Novelist",
+    "achievements": [
+      "Nobel Prize in Literature (1938)",
+      "Pulitzer Prize for Fiction (1938)",
+      "Known for her novels depicting Chinese life and culture"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Pearl Bailey",
+    "givenNames": [
+      "Pearl",
+      "Mae"
+    ],
+    "familyName": "Bailey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pearl_Bailey",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Tony Award for Best Featured Actress in a Musical (1968)",
+      "Grammy Award nominations",
+      "Known for her warm stage presence and soulful voice"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1990
+  }
+]

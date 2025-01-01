@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Janet Jackson",
+    "givenNames": [
+      "Janet",
+      "Damita",
+      "Jo"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Jackson",
+    "occupation": "Singer, songwriter, actress, dancer",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Multiple Grammy Awards, MTV Video Music Awards, and Billboard Music Awards"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Janet Yellen",
+    "givenNames": [
+      "Janet",
+      "Louise"
+    ],
+    "familyName": "Yellen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Yellen",
+    "occupation": "Economist, academic, and public servant",
+    "achievements": [
+      "First female Chair of the Federal Reserve",
+      "Former Secretary of the Treasury"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Janet Reno",
+    "givenNames": [
+      "Janet",
+      "Wood"
+    ],
+    "familyName": "Reno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janet_Reno",
+    "occupation": "Attorney, politician",
+    "achievements": [
+      "First female Attorney General of the United States"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2016
+  }
+]

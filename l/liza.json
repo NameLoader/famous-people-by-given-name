@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Liza Minnelli",
+    "givenNames": [
+      "Liza",
+      "May"
+    ],
+    "familyName": "Minnelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liza_Minnelli",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Tony Awards",
+      "Grammy Award"
+    ],
+    "yearBorn": 1946
+  }
+]

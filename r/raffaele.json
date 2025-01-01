@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Raffaele Esposito",
+    "givenNames": [
+      "Raffaele"
+    ],
+    "familyName": "Esposito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raffaele_Esposito",
+    "occupation": "Pizzaiolo",
+    "achievements": [
+      "Created the Margherita pizza in Naples",
+      "Honored by Queen Margherita of Savoy"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1912
+  }
+]

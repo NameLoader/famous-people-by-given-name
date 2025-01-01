@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Udo Kier",
+    "givenNames": [
+      "Udo"
+    ],
+    "familyName": "Kier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Udo_Kier",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in independent and arthouse films.",
+      "Appeared in films by directors like Lars von Trier and Gus Van Sant."
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Udo Jürgens",
+    "givenNames": [
+      "Udo"
+    ],
+    "familyName": "Jürgens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Udo_J%C3%BCrgens",
+    "occupation": "Singer-Songwriter, Actor",
+    "achievements": [
+      "Represented Austria in the Eurovision Song Contest in 1965.",
+      "Became a popular Schlager singer with numerous hits.",
+      "Had a successful acting career in German films and television."
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2014
+  }
+]

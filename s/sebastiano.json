@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Sebastiano del Piombo",
+    "givenNames": [
+      "Sebastiano"
+    ],
+    "familyName": "del Piombo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastiano_del_Piombo",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his High Renaissance style paintings.",
+      "Notable works include the 'Virgin and Child with Saints' and the 'Raising of Lazarus'."
+    ],
+    "yearBorn": 1485,
+    "yearDied": 1547
+  }
+]

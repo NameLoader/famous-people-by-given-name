@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Alice Paul",
+    "givenNames": [
+      "Alice",
+      "Stokes"
+    ],
+    "familyName": "Paul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Paul",
+    "occupation": "Suffragist, activist",
+    "achievements": [
+      "Led the National Woman's Party",
+      "Instrumental in passage of the 19th Amendment"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Alice Walker",
+    "givenNames": [
+      "Alice",
+      "Malsenior",
+      "Tallulah-Kate"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Walker",
+    "occupation": "Author, poet, activist",
+    "achievements": [
+      "Pulitzer Prize for Fiction (The Color Purple)",
+      "Prominent voice in feminist and African-American literature"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Alice Roosevelt Longworth",
+    "givenNames": [
+      "Alice",
+      "Lee"
+    ],
+    "familyName": "Longworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth",
+    "occupation": "Socialite, writer",
+    "achievements": [
+      "Daughter of President Theodore Roosevelt",
+      "Known for her sharp wit and social influence"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Alice Munro",
+    "givenNames": [
+      "Alice",
+      "Ann"
+    ],
+    "familyName": "Munro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Munro",
+    "occupation": "Short story writer",
+    "achievements": [
+      "Nobel Prize in Literature (2013)",
+      "Known for her evocative and realistic portrayals of small-town life"
+    ],
+    "yearBorn": 1931
+  }
+]

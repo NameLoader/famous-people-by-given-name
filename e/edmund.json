@@ -1,0 +1,76 @@
+[
+  {
+    "fullName": "Edmund Hillary",
+    "givenNames": [
+      "Edmund",
+      "Percival"
+    ],
+    "familyName": "Hillary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Hillary",
+    "occupation": "Mountaineer, explorer",
+    "achievements": [
+      "First to summit Mount Everest with Tenzing Norgay in 1953"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Edmund Spenser",
+    "givenNames": [
+      "Edmund"
+    ],
+    "familyName": "Spenser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Spenser",
+    "occupation": "Poet",
+    "achievements": [
+      "Author of the epic poem The Faerie Queene"
+    ],
+    "yearBorn": 1552,
+    "yearDied": 1599
+  },
+  {
+    "fullName": "Edmund Burke",
+    "givenNames": [
+      "Edmund"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Burke",
+    "occupation": "Political theorist, philosopher",
+    "achievements": [
+      "Considered the father of modern conservatism"
+    ],
+    "yearBorn": 1729,
+    "yearDied": 1797
+  },
+  {
+    "fullName": "Edmund Halley",
+    "givenNames": [
+      "Edmond",
+      "Edmund"
+    ],
+    "familyName": "Halley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmond_Halley",
+    "occupation": "Astronomer, geophysicist, mathematician, meteorologist, physicist",
+    "achievements": [
+      "Calculated the orbit of Halley's Comet, predicted its return",
+      "Published the first meteorological chart"
+    ],
+    "yearBorn": 1656,
+    "yearDied": 1742
+  },
+  {
+    "fullName": "Edmund Wilson",
+    "givenNames": [
+      "Edmund",
+      "Jr."
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Wilson",
+    "occupation": "Literary critic, essayist",
+    "achievements": [
+      "Won the Pulitzer Prize for Biography in 1941"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1972
+  }
+]

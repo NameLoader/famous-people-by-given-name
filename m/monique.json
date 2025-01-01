@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Monique Coleman",
+    "givenNames": [
+      "Adrienne",
+      "Monique"
+    ],
+    "familyName": "Coleman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monique_Coleman",
+    "occupation": "Actress, dancer, singer",
+    "achievements": [
+      "Known for her role as Taylor McKessie in the High School Musical film series",
+      "Appeared on Broadway in 'The Color Purple'"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Monique Lhuillier",
+    "givenNames": [
+      "Monique"
+    ],
+    "familyName": "Lhuillier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monique_Lhuillier",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for her bridal gowns and red carpet designs",
+      "Dresses celebrities like Reese Witherspoon, Gwyneth Paltrow, and Carrie Underwood"
+    ]
+  },
+  {
+    "fullName": "Monique Wittig",
+    "givenNames": [
+      "Monique"
+    ],
+    "familyName": "Wittig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monique_Wittig",
+    "occupation": "French feminist writer and philosopher",
+    "achievements": [
+      "Author of the influential novel 'The Lesbian's Notebooks'",
+      "Developed the concept of 'the straight mind'"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2003
+  }
+]

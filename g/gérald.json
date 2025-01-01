@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gérald Ford",
+    "givenNames": [
+      "Gerald",
+      "Rudolph"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Ford",
+    "occupation": "Politician",
+    "achievements": [
+      "38th President of the United States",
+      "Served as Vice President under Richard Nixon"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Gérald Debreu",
+    "givenNames": [
+      "Gérard"
+    ],
+    "familyName": "Debreu",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Debreu",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (1983)",
+      "Known for his work on general equilibrium theory"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2004
+  }
+]

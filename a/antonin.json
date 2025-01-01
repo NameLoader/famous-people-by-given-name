@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Antonín Scalia",
+    "givenNames": [
+      "Antonin",
+      "Gregory"
+    ],
+    "familyName": "Scalia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonin_Scalia",
+    "occupation": "Supreme Court Justice",
+    "achievements": [
+      "Served as Associate Justice of the Supreme Court of the United States from 1986 to 2016",
+      "Known for his conservative jurisprudence and influential legal writings"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2016
+  }
+]

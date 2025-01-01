@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Lodovico Ariosto",
+    "givenNames": [
+      "Lodovico"
+    ],
+    "familyName": "Ariosto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto",
+    "occupation": "Poet, Dramatist",
+    "achievements": [
+      "Author of the epic poem Orlando Furioso",
+      "Considered one of the greatest Italian poets of the Renaissance"
+    ],
+    "yearBorn": 1474,
+    "yearDied": 1533
+  },
+  {
+    "fullName": "Lodovico il Moro",
+    "givenNames": [
+      "Ludovico",
+      "Maria"
+    ],
+    "familyName": "Sforza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Sforza",
+    "occupation": "Duke of Milan",
+    "achievements": [
+      "Patron of the arts and sciences during the Italian Renaissance",
+      "Commissioned works by Leonardo da Vinci"
+    ],
+    "yearBorn": 1452,
+    "yearDied": 1508
+  }
+]

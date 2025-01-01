@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Nikolaus Copernicus",
+    "givenNames": [
+      "Nicolaus"
+    ],
+    "familyName": "Copernicus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "occupation": "Astronomer, Mathematician",
+    "achievements": [
+      "Developed the heliocentric model of the solar system",
+      "Revolutionized understanding of Earth's place in the universe"
+    ],
+    "yearBorn": 1473,
+    "yearDied": 1543
+  },
+  {
+    "fullName": "Nikolaus Otto",
+    "givenNames": [
+      "Nicolaus",
+      "August"
+    ],
+    "familyName": "Otto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Otto",
+    "occupation": "Engineer, Inventor",
+    "achievements": [
+      "Invented the first successful four-stroke internal combustion engine",
+      "Laid the foundation for modern automobile engines"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Nikolaus Harnoncourt",
+    "givenNames": [
+      "Nikolaus"
+    ],
+    "familyName": "Harnoncourt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolaus_Harnoncourt",
+    "occupation": "Conductor, Cellist",
+    "achievements": [
+      "Renowned for his historically informed performances of Baroque and Classical music",
+      "Influential figure in the early music movement"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2016
+  }
+]

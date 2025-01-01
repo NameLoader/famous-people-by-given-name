@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Stella McCartney",
+    "givenNames": [
+      "Stella",
+      "Nina"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_McCartney",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Designer for her own fashion label",
+      "Creative Director for Adidas"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Stella Stevens",
+    "givenNames": [
+      "Stella"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_Stevens",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'The Nutty Professor' and 'Girls! Girls! Girls!'",
+      "Nominated for a Golden Globe Award"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Stella Young",
+    "givenNames": [
+      "Stella",
+      "Jane"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_Young",
+    "occupation": "Comedian, Writer, and Disability Activist",
+    "achievements": [
+      "Known for her sharp wit and advocacy for disability rights",
+      "Hosted the ABC show 'No Limits'"
+    ],
+    "yearBorn": 1982,
+    "yearDied": 2014
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Romeo Beckham",
+    "givenNames": [
+      "Romeo",
+      "James"
+    ],
+    "familyName": "Beckham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romeo_Beckham",
+    "occupation": "Footballer, model",
+    "achievements": [
+      "Played for Arsenal FC youth team",
+      "Modelled for Burberry"
+    ],
+    "yearBorn": 2002
+  },
+  {
+    "fullName": "Romeo Santos",
+    "givenNames": [
+      "Romeo",
+      "Anthony"
+    ],
+    "familyName": "Santos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romeo_Santos",
+    "occupation": "Singer, songwriter, actor",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for bachata music",
+      "Founded the group Aventura"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Hal Ashby",
+    "givenNames": [
+      "Hal",
+      "William"
+    ],
+    "familyName": "Ashby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hal_Ashby",
+    "occupation": "Film director, editor",
+    "achievements": [
+      "Academy Award for Best Editing (Harold and Maude)",
+      "Directed acclaimed films such as Coming Home, Shampoo, Being There"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Hal David",
+    "givenNames": [
+      "Hal",
+      "Harold"
+    ],
+    "familyName": "David",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hal_David",
+    "occupation": "Songwriter",
+    "achievements": [
+      "Won numerous Grammy Awards and Academy Awards for his songwriting",
+      "Wrote hit songs like 'Raindrops Keep Fallin' on My Head'",
+      "Collaborated extensively with Burt Bacharach"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Hal Linden",
+    "givenNames": [
+      "Hal"
+    ],
+    "familyName": "Linden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hal_Linden",
+    "occupation": "Actor, singer",
+    "achievements": [
+      "Best known for his role as Barney Miller in the sitcom 'Barney Miller'",
+      "Won a Tony Award for his performance in the musical 'The Rothschilds'"
+    ],
+    "yearBorn": 1931
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Tomie dePaola",
+    "givenNames": [
+      "Thomas",
+      "Anthony",
+      "Tomie"
+    ],
+    "familyName": "dePaola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tomie_dePaola",
+    "occupation": "Children's book author and illustrator",
+    "achievements": [
+      "Authored and illustrated over 250 books for children.",
+      "Won numerous awards including the Caldecott Medal and the Newbery Honor.",
+      "His works are known for their simple style, heartwarming stories, and celebration of diversity."
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2020
+  }
+]

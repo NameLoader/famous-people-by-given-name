@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Wolfram von Eschenbach",
+    "givenNames": [
+      "Wolfram"
+    ],
+    "familyName": "von Eschenbach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfram_von_Eschenbach",
+    "occupation": "Medieval German poet and philosopher",
+    "achievements": [
+      "Author of the epic poem 'Parzival'"
+    ],
+    "yearBorn": 1170,
+    "yearDied": 1227
+  }
+]

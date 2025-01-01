@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dale Earnhardt",
+    "givenNames": [
+      "Dale"
+    ],
+    "familyName": "Earnhardt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dale_Earnhardt",
+    "occupation": "NASCAR driver",
+    "achievements": [
+      "7-time NASCAR Cup Series champion",
+      "Considered one of the greatest NASCAR drivers of all time"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Dale Carnegie",
+    "givenNames": [
+      "Dale"
+    ],
+    "familyName": "Carnegie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+    "occupation": "Writer and lecturer",
+    "achievements": [
+      "Author of the best-selling self-help book 'How to Win Friends & Influence People'",
+      "Pioneer in the field of public speaking and interpersonal skills training"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1955
+  }
+]

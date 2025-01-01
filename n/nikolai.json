@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Nikolai Gogol",
+    "givenNames": [
+      "Nikolai",
+      "Vasilyevich"
+    ],
+    "familyName": "Gogol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Gogol",
+    "occupation": "Writer, playwright",
+    "achievements": [
+      "Considered one of the greatest Russian writers of all time.",
+      "Known for his satirical and absurdist works such as 'Dead Souls' and 'The Nose'."
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1852
+  },
+  {
+    "fullName": "Nikolai Bukharin",
+    "givenNames": [
+      "Nikolai",
+      "Ivanovich"
+    ],
+    "familyName": "Bukharin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Bukharin",
+    "occupation": "Politician, economist",
+    "achievements": [
+      "Prominent Bolshevik leader during the Russian Revolution.",
+      "Key figure in the development of Soviet economic policy."
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1938
+  },
+  {
+    "fullName": "Nikolai Rimsky-Korsakov",
+    "givenNames": [
+      "Nikolai",
+      "Andreyevich"
+    ],
+    "familyName": "Rimsky-Korsakov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
+    "occupation": "Composer, teacher",
+    "achievements": [
+      "One of the most influential Russian composers of the late 19th century.",
+      "Known for his orchestral works and operas, including 'Scheherazade' and 'The Golden Cockerel'."
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1908
+  }
+]

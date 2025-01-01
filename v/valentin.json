@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Valentin Kataev",
+    "givenNames": [
+      "Valentin",
+      "Petrovich"
+    ],
+    "familyName": "Kataev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Kataev",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of numerous novels, short stories and plays.",
+      "Known for his works like 'Time Forward!' and 'The White Flood'."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Valentin Pikul",
+    "givenNames": [
+      "Valentin",
+      "Savvich"
+    ],
+    "familyName": "Pikul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Pikul",
+    "occupation": "Writer",
+    "achievements": [
+      "Soviet and Russian novelist.",
+      "Wrote historical novels and adventure stories."
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Valentin Serov",
+    "givenNames": [
+      "Valentin",
+      "Alexandrovich"
+    ],
+    "familyName": "Serov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Serov",
+    "occupation": "Painter",
+    "achievements": [
+      "Russian painter known for his portraits and genre scenes.",
+      "Notable works include 'Girl with Peaches' and 'The Mischief'."
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1911
+  }
+]

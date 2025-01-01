@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Hillary Rodham Clinton",
+    "givenNames": [
+      "Hillary",
+      "Diane",
+      "Rodham"
+    ],
+    "familyName": "Clinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hillary_Clinton",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "First Lady of the United States (1993-2001)",
+      "U.S. Senator from New York (2001-2009)",
+      "67th United States Secretary of State (2009-2013)",
+      "Democratic nominee for President of the United States in 2016"
+    ],
+    "yearBorn": 1947
+  }
+]

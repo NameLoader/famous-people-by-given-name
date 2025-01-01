@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Hakeem Olajuwon",
+    "givenNames": [
+      "Hakeem",
+      "Abdul"
+    ],
+    "familyName": "Olajuwon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "2× NBA champion",
+      "NBA Most Valuable Player (1994)",
+      "12× NBA All-Star",
+      "NBA Defensive Player of the Year (1993, 1994)"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Hakeem Jeffries",
+    "givenNames": [
+      "Hakeem",
+      "Sekou"
+    ],
+    "familyName": "Jeffries",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for New York's 8th congressional district since 2013",
+      "Minority Leader of the U.S. House of Representatives (2023-present)"
+    ],
+    "yearBorn": 1970
+  }
+]

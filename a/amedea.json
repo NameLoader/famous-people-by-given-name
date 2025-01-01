@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Amedea Modigliani",
+    "givenNames": [
+      "Amedeo",
+      "Clemente"
+    ],
+    "familyName": "Modigliani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his distinctive portraits and nudes.",
+      "His style is characterized by elongated figures and faces."
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1920
+  }
+]

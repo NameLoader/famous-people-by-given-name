@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lorenz Hart",
+    "givenNames": [
+      "Lorenz",
+      "Milton"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenz_Hart",
+    "occupation": "Lyricist",
+    "achievements": [
+      "Wrote lyrics for numerous Broadway musicals, including 'Pal Joey' and 'Babes in Arms'",
+      "Collaborated with composer Richard Rodgers on many successful shows"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1943
+  }
+]

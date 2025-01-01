@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Lino Ventura",
+    "givenNames": [
+      "Angiolino",
+      "Giuseppe",
+      "Pasquale",
+      "Lino"
+    ],
+    "familyName": "Ventura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lino_Ventura",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in over 100 films",
+      "Known for his roles in Italian and French cinema",
+      "Won several awards, including the César Award for Best Actor"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Lino Tagliapietra",
+    "givenNames": [
+      "Lino"
+    ],
+    "familyName": "Tagliapietra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lino_Tagliapietra",
+    "occupation": "Glassblower",
+    "achievements": [
+      "Considered one of the greatest glassblowers of all time",
+      "Known for his innovative techniques and intricate designs",
+      "His work is displayed in major museums worldwide"
+    ],
+    "yearBorn": 1934
+  }
+]

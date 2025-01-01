@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Carlton Fisk",
+    "givenNames": [
+      "Carlton",
+      "Ernest"
+    ],
+    "familyName": "Fisk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlton_Fisk",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "11-time All-Star",
+      "World Series champion (1975)",
+      "American League MVP (1972)"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Carlton Davis",
+    "givenNames": [
+      "Carlton"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlton_Davis",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Super Bowl LV Champion"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Carlton Palmer",
+    "givenNames": [
+      "Carlton",
+      "Lloyd"
+    ],
+    "familyName": "Palmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlton_Palmer",
+    "occupation": "Footballer (soccer)",
+    "achievements": [
+      "Played professionally for Sheffield Wednesday, Southampton and Leeds United"
+    ],
+    "yearBorn": 1965
+  }
+]

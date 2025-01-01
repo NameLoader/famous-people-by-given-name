@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Takuma Sato",
+    "givenNames": [
+      "Takuma",
+      "Taku"
+    ],
+    "familyName": "Sato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takuma_Sato",
+    "occupation": "Race car driver",
+    "achievements": [
+      "Won the Indianapolis 500 in 2017",
+      "Former Formula One driver for BAR Honda and Super Aguri"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Takuma Asano",
+    "givenNames": [
+      "Takuma"
+    ],
+    "familyName": "Asano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takuma_Asano",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays for Vissel Kobe in the J1 League",
+      "Represented Japan at various youth levels"
+    ],
+    "yearBorn": 1994
+  }
+]

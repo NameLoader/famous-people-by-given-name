@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Hugo Grotius",
+    "givenNames": [
+      "Hugo"
+    ],
+    "familyName": "Grotius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Grotius",
+    "occupation": "Jurist, Philosopher, Historian",
+    "achievements": [
+      "Considered the father of international law.",
+      "Wrote De Jure Belli ac Pacis (On the Law of War and Peace)."
+    ],
+    "yearBorn": 1583,
+    "yearDied": 1645
+  },
+  {
+    "fullName": "Hugo Weaving",
+    "givenNames": [
+      "Hugo",
+      "Wallace"
+    ],
+    "familyName": "Weaving",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Weaving",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in The Matrix trilogy, Lord of the Rings trilogy, and V for Vendetta."
+    ],
+    "yearBorn": 1960
+  }
+]

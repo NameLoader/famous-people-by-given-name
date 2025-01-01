@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hanyu Yuzuru",
+    "givenNames": [
+      "Yuzuru"
+    ],
+    "familyName": "Hanyu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuzuru_Hanyu",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Two-time Olympic champion",
+      "Two-time World champion",
+      "Four-time Grand Prix Final champion",
+      "First figure skater to land a quadruple loop jump in competition"
+    ],
+    "yearBorn": 1994
+  }
+]

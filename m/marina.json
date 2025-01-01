@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Marina Abramović",
+    "givenNames": [
+      "Marina"
+    ],
+    "familyName": "Abramović",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+    "occupation": "Performance artist",
+    "achievements": [
+      "Pioneer of performance art",
+      "Known for her radical and durational works"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Marina Ovsyannikova",
+    "givenNames": [
+      "Marina",
+      "Vladimirovna"
+    ],
+    "familyName": "Ovsyannikova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Ovsyannikova",
+    "occupation": "Television editor, activist",
+    "achievements": [
+      "Protested the 2022 Russian invasion of Ukraine on live television"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Marina Squerciati",
+    "givenNames": [
+      "Marina"
+    ],
+    "familyName": "Squerciati",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Squerciati",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Officer Kim Burgess on the television series Chicago P.D."
+    ],
+    "yearBorn": 1980
+  }
+]

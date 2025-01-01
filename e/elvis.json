@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Elvis Aaron Presley",
+    "givenNames": [
+      "Elvis",
+      "Aaron"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
+    "occupation": "Singer, actor",
+    "achievements": [
+      "Considered one of the most significant cultural icons of the 20th century",
+      "Known as the 'King of Rock and Roll'",
+      "Sold over one billion records worldwide"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 1977
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Dionne Warwick",
+    "givenNames": [
+      "Dionne",
+      "Marie"
+    ],
+    "familyName": "Warwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dionne_Warwick",
+    "occupation": "Singer, actress, television host",
+    "achievements": [
+      "Six-time Grammy Award winner",
+      "Known for hits like 'Walk On By', 'Do You Know the Way to San Jose', and 'That's What Friends Are For'"
+    ],
+    "yearBorn": 1940
+  }
+]

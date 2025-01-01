@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Arjun Kapoor",
+    "givenNames": [
+      "Arjun"
+    ],
+    "familyName": "Kapoor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arjun_Kapoor",
+    "occupation": "Actor",
+    "achievements": [
+      "Filmfare Award for Best Male Debut",
+      "Known for roles in films like 'Ishaqzaade', '2 States', and 'Gunday'"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Arjun Rampal",
+    "givenNames": [
+      "Arjun"
+    ],
+    "familyName": "Rampal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arjun_Rampal",
+    "occupation": "Actor, Model, Producer",
+    "achievements": [
+      "National Film Award for Best Supporting Actor",
+      "Known for roles in films like 'Rock On!!', 'Om Shanti Om', and 'Ra.One'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Arjun Tendulkar",
+    "givenNames": [
+      "Arjun",
+      "Sachin"
+    ],
+    "familyName": "Tendulkar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arjun_Tendulkar",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Son of legendary cricketer Sachin Tendulkar",
+      "Represents Mumbai in domestic cricket"
+    ],
+    "yearBorn": 2000
+  }
+]

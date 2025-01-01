@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Trevon Diggs",
+    "givenNames": [
+      "Trevon",
+      "De'Sean"
+    ],
+    "familyName": "Diggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevon_Diggs",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Pro Bowl selection (2021)",
+      "First-team All-Pro (2021)"
+    ],
+    "yearBorn": 1998
+  },
+  {
+    "fullName": "Trevon Bluiett",
+    "givenNames": [
+      "Trevon",
+      "Nykee"
+    ],
+    "familyName": "Bluiett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevon_Bluiett",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "Horizon League Player of the Year (2017)",
+      "NCAA Men's Division I Basketball Tournament appearance (2015)"
+    ],
+    "yearBorn": 1994
+  }
+]

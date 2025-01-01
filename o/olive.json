@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Olive Borden",
+    "givenNames": [
+      "Olive",
+      "Mary"
+    ],
+    "familyName": "Borden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olive_Borden",
+    "occupation": "Actress",
+    "achievements": [
+      "Silent film star",
+      "Known for roles in films like 'The Great Gatsby' (1926)"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Olive Schreiner",
+    "givenNames": [
+      "Olive"
+    ],
+    "familyName": "Schreiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olive_Schreiner",
+    "occupation": "Author, feminist, and activist",
+    "achievements": [
+      "Authored the novel 'The Story of an African Farm'",
+      "Promoted women's rights and social justice"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1920
+  }
+]

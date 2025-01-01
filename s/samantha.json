@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Samantha Power",
+    "givenNames": [
+      "Samantha",
+      "Jane"
+    ],
+    "familyName": "Power",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Power",
+    "occupation": "Diplomat, academic, author",
+    "achievements": [
+      "United States Ambassador to the United Nations (2013-2017)",
+      "Pulitzer Prize winner for her book 'A Problem from Hell: America and the Age of Genocide'"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Samantha Bee",
+    "givenNames": [
+      "Samantha",
+      "Anne"
+    ],
+    "familyName": "Bee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Bee",
+    "occupation": "Comedian, writer, producer, television host",
+    "achievements": [
+      "Host of the late-night comedy series 'Full Frontal with Samantha Bee'",
+      "Emmy Award winner for Outstanding Writing for a Variety Series"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Samantha Cristoforetti",
+    "givenNames": [
+      "Samantha"
+    ],
+    "familyName": "Cristoforetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Cristoforetti",
+    "occupation": "Astronaut, engineer",
+    "achievements": [
+      "First Italian woman in space",
+      "Holds the record for longest uninterrupted spaceflight by a European astronaut"
+    ],
+    "yearBorn": 1977
+  }
+]

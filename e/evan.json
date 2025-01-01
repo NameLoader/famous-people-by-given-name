@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Evan Peters",
+    "givenNames": [
+      "Evan",
+      "Thomas"
+    ],
+    "familyName": "Peters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evan_Peters",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in American Horror Story and X-Men film series"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Evan Rachel Wood",
+    "givenNames": [
+      "Evan",
+      "Rachel"
+    ],
+    "familyName": "Wood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evan_Rachel_Wood",
+    "occupation": "Actress and Musician",
+    "achievements": [
+      "Nominated for a Golden Globe Award for her role in Thirteen",
+      "Known for roles in Westworld and Across the Universe"
+    ],
+    "yearBorn": 1987
+  }
+]

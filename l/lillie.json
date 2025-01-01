@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Lillie Langtry",
+    "givenNames": [
+      "Lillie",
+      "Lily",
+      "Emilie",
+      "Charlotte"
+    ],
+    "familyName": "Langtry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillie_Langtry",
+    "occupation": "Actress, socialite",
+    "achievements": [
+      "Known as 'The Jersey Lily'",
+      "Popular stage actress in Victorian England"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1929
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Harris Faulkner",
+    "givenNames": [
+      "Harris",
+      "Kimberley"
+    ],
+    "familyName": "Faulkner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harris_Faulkner",
+    "occupation": "Journalist, News Anchor",
+    "achievements": [
+      "Anchor of Fox News Channel's 'Outnumbered'",
+      "Recipient of multiple Emmy Awards"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Harris Yulin",
+    "givenNames": [
+      "Harris"
+    ],
+    "familyName": "Yulin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harris_Yulin",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Scarface' and 'Ghostbusters II'",
+      "Extensive stage career including Broadway performances"
+    ],
+    "yearBorn": 1937
+  }
+]

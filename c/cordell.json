@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Cordell Hull",
+    "givenNames": [
+      "Cordell"
+    ],
+    "familyName": "Hull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cordell_Hull",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "Served as United States Secretary of State from 1933 to 1944.",
+      "Recipient of the Nobel Peace Prize in 1945 for his role in establishing the United Nations."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1955
+  }
+]

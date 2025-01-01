@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Aimé Césaire",
+    "givenNames": [
+      "Aimé",
+      "Fernand",
+      "David"
+    ],
+    "familyName": "Césaire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire",
+    "occupation": "Poet, playwright, politician",
+    "achievements": [
+      "Founder of the négritude literary movement",
+      "Mayor of Fort-de-France, Martinique",
+      "Member of the French National Assembly"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Aimé Jacquet",
+    "givenNames": [
+      "Aimé",
+      "Étienne"
+    ],
+    "familyName": "Jacquet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aim%C3%A9_Jacquet",
+    "occupation": "Football manager",
+    "achievements": [
+      "Led France to victory in the 1998 FIFA World Cup"
+    ],
+    "yearBorn": 1941
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "fullName": "Giacomo Puccini",
+    "givenNames": [
+      "Giacomo",
+      "Antonio",
+      "Domenico",
+      "Michele",
+      "Secondo",
+      "Maria"
+    ],
+    "familyName": "Puccini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Puccini",
+    "occupation": "Composer",
+    "achievements": [
+      "Operas like La Bohème, Tosca, Madama Butterfly"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "Giacomo Leopardi",
+    "givenNames": [
+      "Giacomo",
+      "Taldegardo",
+      "Francesco",
+      "di Sales",
+      "Saverio",
+      "Pietro"
+    ],
+    "familyName": "Leopardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Leopardi",
+    "occupation": "Poet, Philosopher, Philologist",
+    "achievements": [
+      "Key figure in Italian Romanticism"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1837
+  },
+  {
+    "fullName": "Giacomo Casanova",
+    "givenNames": [
+      "Giacomo",
+      "Girolamo"
+    ],
+    "familyName": "Casanova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Casanova",
+    "occupation": "Writer, Adventurer",
+    "achievements": [
+      "Memoirs detailing his elaborate love affairs"
+    ],
+    "yearBorn": 1725,
+    "yearDied": 1798
+  }
+]

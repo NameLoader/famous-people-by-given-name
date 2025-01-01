@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Takashi Murakami",
+    "givenNames": [
+      "Takashi"
+    ],
+    "familyName": "Murakami",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takashi_Murakami",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his Superflat style art.",
+      "Collaborated with brands like Louis Vuitton and Vans.",
+      "Has exhibited work worldwide."
+    ],
+    "yearBorn": 1962
+  }
+]

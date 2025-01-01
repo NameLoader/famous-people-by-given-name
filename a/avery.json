@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Avery Brooks",
+    "givenNames": [
+      "Avery",
+      "Franklin"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avery_Brooks",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Starred as Captain Benjamin Sisko in Star Trek: Deep Space Nine",
+      "Appeared in numerous television shows and films"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Avery Johnson",
+    "givenNames": [
+      "Avery",
+      "DeWitt"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avery_Johnson",
+    "occupation": "Basketball Coach, Former Player",
+    "achievements": [
+      "NBA Champion as a player with the San Antonio Spurs",
+      "Head Coach of the Dallas Mavericks and New Orleans Hornets"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Avery Dulles",
+    "givenNames": [
+      "Avery",
+      "Robert"
+    ],
+    "familyName": "Dulles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avery_Dulles",
+    "occupation": "Jesuit Priest, Theologian",
+    "achievements": [
+      "First American to be appointed a Cardinal in the Catholic Church",
+      "Prominent theologian and author"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2008
+  }
+]

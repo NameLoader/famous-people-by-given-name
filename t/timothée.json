@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Timothée Chalamet",
+    "givenNames": [
+      "Timothée",
+      "Hal"
+    ],
+    "familyName": "Chalamet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Actor for his role in Call Me by Your Name (2017)",
+      "BAFTA Award for Best Supporting Actor for his role in Dune (2021)"
+    ],
+    "yearBorn": 1995
+  }
+]

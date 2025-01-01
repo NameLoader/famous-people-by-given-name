@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Ilan Ramon",
+    "givenNames": [
+      "Ilan"
+    ],
+    "familyName": "Ramon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilan_Ramon",
+    "occupation": "Astronaut, Pilot",
+    "achievements": [
+      "First Israeli astronaut in space",
+      "Pilot and combat veteran of the Israel Defense Forces"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Ilan Pappé",
+    "givenNames": [
+      "Ilan"
+    ],
+    "familyName": "Pappé",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilan_Papp%C3%A9",
+    "occupation": "Academic, Historian",
+    "achievements": [
+      "Known for his critical perspectives on Israeli history and the Israeli-Palestinian conflict",
+      "Authored several influential books on the subject"
+    ],
+    "yearBorn": 1954
+  }
+]

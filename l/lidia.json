@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lidia Bastianich",
+    "givenNames": [
+      "Lidia",
+      "Giuliana"
+    ],
+    "familyName": "Bastianich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lidia_Bastianich",
+    "occupation": "Chef, restaurateur, television personality, author",
+    "achievements": [
+      "Emmy Award-winning television host",
+      "Successful restaurateur with multiple establishments",
+      "Renowned cookbook author"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Lidia Gueiler Tejada",
+    "givenNames": [
+      "Lidia"
+    ],
+    "familyName": "Gueiler Tejada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lidia_Gueiler",
+    "occupation": "Politician",
+    "achievements": [
+      "First female president of Bolivia (1979-1980)"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2011
+  }
+]

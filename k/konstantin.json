@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Konstantin Sergeyevich Stanislavski",
+    "givenNames": [
+      "Konstantin",
+      "Sergeyevich"
+    ],
+    "familyName": "Stanislavski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Stanislavski",
+    "occupation": "Actor, director, and theatre practitioner",
+    "achievements": [
+      "Developed the Stanislavski system of acting.",
+      "Considered one of the most influential figures in theatre history."
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1938
+  },
+  {
+    "fullName": "Konstantin Päts",
+    "givenNames": [
+      "Konstantin"
+    ],
+    "familyName": "Päts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_P%C3%A4ts",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Estonia three times.",
+      "President of Estonia from 1938 to 1940."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1956
+  }
+]

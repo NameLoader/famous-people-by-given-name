@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Yann Arthus-Bertrand",
+    "givenNames": [
+      "Yann"
+    ],
+    "familyName": "Arthus-Bertrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yann_Arthus-Bertrand",
+    "occupation": "Photographer, filmmaker",
+    "achievements": [
+      "Known for aerial photography of Earth's landscapes and environmental issues.",
+      "Created the photo exhibition and book 'Earth from Above'."
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Yann Martel",
+    "givenNames": [
+      "Yann"
+    ],
+    "familyName": "Martel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yann_Martel",
+    "occupation": "Writer",
+    "achievements": [
+      "Author of the Booker Prize-winning novel 'Life of Pi'."
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Yann Tiersen",
+    "givenNames": [
+      "Yann",
+      "Pierre"
+    ],
+    "familyName": "Tiersen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yann_Tiersen",
+    "occupation": "Composer, musician",
+    "achievements": [
+      "Known for his film scores, including 'Amélie'."
+    ],
+    "yearBorn": 1970
+  }
+]

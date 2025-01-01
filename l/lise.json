@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lise Meitner",
+    "givenNames": [
+      "Lise",
+      "Elise"
+    ],
+    "familyName": "Meitner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lise_Meitner",
+    "occupation": "Physicist",
+    "achievements": [
+      "Key figure in the discovery of nuclear fission",
+      "First woman to hold a full professorship at the University of Berlin"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1968
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Morris Chestnut",
+    "givenNames": [
+      "Morris",
+      "Lamont"
+    ],
+    "familyName": "Chestnut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morris_Chestnut",
+    "occupation": "Actor",
+    "achievements": [
+      "Roles in films like 'Boyz n the Hood'",
+      "Starred in the TV series 'Rosewood'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Morris K. Udall",
+    "givenNames": [
+      "Morris",
+      "King"
+    ],
+    "familyName": "Udall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mo_Udall",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative from Arizona",
+      "Candidate for the Democratic presidential nomination in 1976"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1998
+  }
+]

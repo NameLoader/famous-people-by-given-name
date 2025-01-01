@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Etta James",
+    "givenNames": [
+      "Etta"
+    ],
+    "familyName": "James",
+    "wikipedia": "https://en.wikipedia.org/wiki/Etta_James",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Rock and Roll Hall of Fame inductee",
+      "Known for hits like \"At Last\" and \"Tell Mama\""
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Etta Baker",
+    "givenNames": [
+      "Etta"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Etta_Baker",
+    "occupation": "Blues musician",
+    "achievements": [
+      "National Heritage Fellowship recipient",
+      "Pioneer of Piedmont blues guitar style"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2002
+  }
+]

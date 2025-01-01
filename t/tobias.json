@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tobias Wolff",
+    "givenNames": [
+      "Tobias",
+      "Jonathan",
+      "Ansell"
+    ],
+    "familyName": "Wolff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tobias_Wolff",
+    "occupation": "Writer, essayist",
+    "achievements": [
+      "National Book Award for Fiction (for 'This Boy's Life')",
+      "PEN/Faulkner Award for Fiction (for 'The Barracks Thief')"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Tobias Menzies",
+    "givenNames": [
+      "Tobias",
+      "Simpson"
+    ],
+    "familyName": "Menzies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tobias_Menzies",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Game of Thrones', 'Outlander'"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Abigail Adams",
+    "givenNames": [
+      "Abigail"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Adams",
+    "occupation": "First Lady of the United States, Writer",
+    "achievements": [
+      "Advocate for women's rights",
+      "Key advisor to her husband, John Adams, during the American Revolution"
+    ],
+    "yearBorn": 1744,
+    "yearDied": 1818
+  },
+  {
+    "fullName": "Abigail Fillmore",
+    "givenNames": [
+      "Abigail"
+    ],
+    "familyName": "Fillmore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Fillmore",
+    "occupation": "First Lady of the United States, Educator",
+    "achievements": [
+      "Established the first White House library"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1853
+  },
+  {
+    "fullName": "Abigail Breslin",
+    "givenNames": [
+      "Abigail"
+    ],
+    "familyName": "Breslin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Breslin",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in 'Little Miss Sunshine'",
+      "Known for roles in films like 'Zombieland' and 'My Sister's Keeper'"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Abigail Spencer",
+    "givenNames": [
+      "Abigail",
+      "Leigh"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Spencer",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in television series like 'Mad Men', 'Suits', and 'Timeless'"
+    ],
+    "yearBorn": 1981
+  }
+]

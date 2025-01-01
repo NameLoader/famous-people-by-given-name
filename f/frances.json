@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Frances Arnold",
+    "givenNames": [
+      "Frances",
+      "Hamilton"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Arnold",
+    "occupation": "Chemical Engineer",
+    "achievements": [
+      "Nobel Prize in Chemistry (2018)",
+      "Pioneer in directed evolution"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Frances McDormand",
+    "givenNames": [
+      "Frances",
+      "Louise"
+    ],
+    "familyName": "McDormand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_McDormand",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (3 times)",
+      "Tony Award for Best Actress in a Play"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Frances Bean Cobain",
+    "givenNames": [
+      "Frances",
+      "Bean"
+    ],
+    "familyName": "Cobain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Bean_Cobain",
+    "occupation": "Visual Artist, Musician",
+    "achievements": [
+      "Daughter of Kurt Cobain and Courtney Love",
+      "Exhibited artwork internationally"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Frances Perkins",
+    "givenNames": [
+      "Frances"
+    ],
+    "familyName": "Perkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Perkins",
+    "occupation": "Politician, Social Worker",
+    "achievements": [
+      "First female Cabinet member in the United States",
+      "Key figure in the development of Social Security"
+    ],
+    "yearBorn": 1880,
+    "yearDied": 1965
+  }
+]

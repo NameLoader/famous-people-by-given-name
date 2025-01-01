@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Heinz Pagels",
+    "givenNames": [
+      "Heinz",
+      "Rudolf"
+    ],
+    "familyName": "Pagels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz_Pagels",
+    "occupation": "American theoretical physicist and author",
+    "achievements": [
+      "Known for his work on gauge theories and quantum chromodynamics",
+      "Authored the popular science book 'The Cosmic Code'"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Heinz Guderian",
+    "givenNames": [
+      "Heinz",
+      "Wilhelm"
+    ],
+    "familyName": "Guderian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz_Guderian",
+    "occupation": "German general during World War II",
+    "achievements": [
+      "Known as the 'father of Blitzkrieg'",
+      "Led armored divisions in Poland, France, and Russia"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1954
+  }
+]

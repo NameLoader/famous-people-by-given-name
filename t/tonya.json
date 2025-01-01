@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tonya Harding",
+    "givenNames": [
+      "Tonya",
+      "Maxene"
+    ],
+    "familyName": "Harding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonya_Harding",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Two-time United States Figure Skating Champion (1991, 1994)",
+      "Olympic Silver Medalist (1992)",
+      "World Championship Bronze Medalist (1991)"
+    ],
+    "yearBorn": 1970
+  }
+]

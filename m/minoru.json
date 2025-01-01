@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Minoru Yamasaki",
+    "givenNames": [
+      "Minoru"
+    ],
+    "familyName": "Yamasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minoru_Yamasaki",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed the World Trade Center towers in New York City.",
+      "Known for his modernist and expressive architectural style."
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Minoru Suzuki",
+    "givenNames": [
+      "Minoru"
+    ],
+    "familyName": "Suzuki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Minoru_Suzuki",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Known for his hard-hitting and technical wrestling style.",
+      "Former IWGP Heavyweight Champion and All Japan Pro Wrestling Triple Crown Heavyweight Champion."
+    ],
+    "yearBorn": 1968
+  }
+]

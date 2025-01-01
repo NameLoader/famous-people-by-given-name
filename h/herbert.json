@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Herbert Hoover",
+    "givenNames": [
+      "Herbert",
+      "Clark"
+    ],
+    "familyName": "Hoover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+    "occupation": "Politician, Engineer",
+    "achievements": [
+      "31st President of the United States",
+      "Secretary of Commerce under Presidents Harding and Coolidge"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Herbert George Wells",
+    "givenNames": [
+      "Herbert",
+      "George"
+    ],
+    "familyName": "Wells",
+    "wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
+    "occupation": "Author, Philosopher",
+    "achievements": [
+      "Known for science fiction novels like 'The Time Machine', 'War of the Worlds', and 'The Invisible Man'",
+      "Socialist thinker and political activist"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1946
+  },
+  {
+    "fullName": "Herbert Spencer",
+    "givenNames": [
+      "Herbert"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Spencer",
+    "occupation": "Philosopher, Sociologist",
+    "achievements": [
+      "Developed a comprehensive theory of evolution and social Darwinism",
+      "Influential thinker in Victorian England"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1903
+  }
+]

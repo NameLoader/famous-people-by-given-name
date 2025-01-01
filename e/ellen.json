@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Ellen DeGeneres",
+    "givenNames": [
+      "Ellen",
+      "Lee"
+    ],
+    "familyName": "DeGeneres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_DeGeneres",
+    "occupation": "Comedian, television host, actress, writer, producer",
+    "achievements": [
+      "Won numerous Emmy Awards and Peabody Awards for her talk show 'The Ellen DeGeneres Show'",
+      "First openly gay host of a major daytime talk show",
+      "Advocate for LGBTQ+ rights"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Ellen Pompeo",
+    "givenNames": [
+      "Ellen",
+      "Kathleen"
+    ],
+    "familyName": "Pompeo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Pompeo",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Meredith Grey on the medical drama 'Grey's Anatomy'",
+      "One of the highest-paid actresses in television"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Ellen Barkin",
+    "givenNames": [
+      "Ellen",
+      "Rona"
+    ],
+    "familyName": "Barkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Barkin",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Nominated for a Tony Award for her Broadway performance in 'The Normal Heart'",
+      "Starred in films such as ' Diner', 'Switch' and 'Sea of Love'"
+    ],
+    "yearBorn": 1954
+  }
+]

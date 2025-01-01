@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hedda Hopper",
+    "givenNames": [
+      "Hedda"
+    ],
+    "familyName": "Hopper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hedda_Hopper",
+    "occupation": "Actress, gossip columnist",
+    "achievements": [
+      "Known for her acerbic wit and Hollywood gossip column.",
+      "Starred in numerous films during the silent era and early talkies."
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1966
+  }
+]

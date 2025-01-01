@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lucie Arnaz",
+    "givenNames": [
+      "Lucie",
+      "Désirée"
+    ],
+    "familyName": "Arnaz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucie_Arnaz",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for her role as  Lucy Ricardo in the stage musical 'I Love Lucy'",
+      "Daughter of Lucille Ball and Desi Arnaz"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Lucie Rie",
+    "givenNames": [
+      "Lucie"
+    ],
+    "familyName": "Rie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucie_Rie",
+    "occupation": "Ceramic artist",
+    "achievements": [
+      "Renowned for her minimalist and elegant pottery",
+      "Her work is held in major museum collections worldwide"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1995
+  }
+]

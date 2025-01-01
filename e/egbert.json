@@ -1,0 +1,22 @@
+[
+  {
+    "fullName": "Egbert of Wessex",
+    "givenNames": [
+      "Egbert",
+      "Ecgberht",
+      "Ecgbert",
+      "Ecgbriht",
+      "Ecgbeorht",
+      "Ecbert"
+    ],
+    "familyName": "of Wessex",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecgberht,_King_of_Wessex",
+    "occupation": "King",
+    "achievements": [
+      "First King of England to unite Anglo-Saxon kingdoms under one rule.",
+      "Defeated Vikings and solidified Wessex's power."
+    ],
+    "yearBorn": 770,
+    "yearDied": 839
+  }
+]

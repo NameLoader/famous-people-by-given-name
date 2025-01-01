@@ -1,0 +1,78 @@
+[
+  {
+    "fullName": "Eric Clapton",
+    "givenNames": [
+      "Eric",
+      "Patrick"
+    ],
+    "familyName": "Clapton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Clapton",
+    "occupation": "Musician",
+    "achievements": [
+      "Guitar virtuoso",
+      "Grammy Award winner (18 times)",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Eric Idle",
+    "givenNames": [
+      "Eric"
+    ],
+    "familyName": "Idle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Idle",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Member of Monty Python",
+      "Writer and performer in 'Spamalot'"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Eric Cantona",
+    "givenNames": [
+      "Eric",
+      "Daniel",
+      "Pierre"
+    ],
+    "familyName": "Cantona",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Cantona",
+    "occupation": "Footballer",
+    "achievements": [
+      "Manchester United legend",
+      "Premier League winner (4 times)",
+      "FA Cup winner (2 times)"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Eric Bana",
+    "givenNames": [
+      "Eric",
+      "Martin",
+      "Andrew"
+    ],
+    "familyName": "Bana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Bana",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Hulk', 'Troy', and 'Munich'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Eric Holder Jr.",
+    "givenNames": [
+      "Eric",
+      "Himpton"
+    ],
+    "familyName": "Holder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eric_Holder",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "First African-American Attorney General of the United States"
+    ],
+    "yearBorn": 1951
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Leah Remini",
+    "givenNames": [
+      "Leah",
+      "Marie"
+    ],
+    "familyName": "Remini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leah_Remini",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Carrie Heffernan on the sitcom 'The King of Queens'",
+      "Host of the Emmy Award-winning docuseries 'Leah Remini: Scientology and the Aftermath'"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Leah Pipes",
+    "givenNames": [
+      "Leah",
+      "Marie"
+    ],
+    "familyName": "Pipes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leah_Pipes",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Camille O'Connell in the television series 'The Originals'"
+    ],
+    "yearBorn": 1988
+  }
+]

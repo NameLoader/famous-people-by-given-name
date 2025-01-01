@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Shigeru Miyamoto",
+    "givenNames": [
+      "Shigeru"
+    ],
+    "familyName": "Miyamoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeru_Miyamoto",
+    "occupation": "Video game designer, producer",
+    "achievements": [
+      "Created iconic video game franchises such as Mario, The Legend of Zelda, and Donkey Kong.",
+      "Widely considered one of the most influential figures in the history of video games."
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Shigeru Yoshida",
+    "givenNames": [
+      "Shigeru"
+    ],
+    "familyName": "Yoshida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeru_Yoshida",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Japan four times.",
+      "Played a key role in Japan's post-World War II recovery."
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1967
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Curt Gowdy",
+    "givenNames": [
+      "Curtis",
+      "Edward"
+    ],
+    "familyName": "Gowdy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curt_Gowdy",
+    "occupation": "Sportscaster",
+    "achievements": [
+      "Legendary sportscaster for NBC and ABC",
+      "Known for his long career covering major sporting events"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Curt Schilling",
+    "givenNames": [
+      "Curtis",
+      "Montague"
+    ],
+    "familyName": "Schilling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curt_Schilling",
+    "occupation": "Former professional baseball player, video game developer",
+    "achievements": [
+      "Won the World Series with the Arizona Diamondbacks and Boston Red Sox",
+      "Six-time MLB All-Star",
+      "Co-founded the video game company 38 Studios"
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Mary, Queen of Scots",
+    "givenNames": [
+      "Mary"
+    ],
+    "familyName": "Stuart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+    "occupation": "Monarch",
+    "achievements": [
+      "Queen of Scotland from infancy",
+      "Claimant to the English throne"
+    ],
+    "yearBorn": 1542,
+    "yearDied": 1587
+  },
+  {
+    "fullName": "Mary Shelley",
+    "givenNames": [
+      "Mary",
+      "Wollstonecraft"
+    ],
+    "familyName": "Shelley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Shelley",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of Frankenstein; or, The Modern Prometheus"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1851
+  },
+  {
+    "fullName": "Mary J. Blige",
+    "givenNames": [
+      "Mary",
+      "Jane"
+    ],
+    "familyName": "Blige",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_J._Blige",
+    "occupation": "Singer-songwriter and Actress",
+    "achievements": [
+      "Known as the 'Queen of Hip-Hop Soul'",
+      "Multiple Grammy Award winner"
+    ],
+    "yearBorn": 1971
+  }
+]

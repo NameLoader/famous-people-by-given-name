@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Blanche DuBois",
+    "givenNames": [
+      "Blanche"
+    ],
+    "familyName": "DuBois",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanche_DuBois",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Tennessee Williams' play 'A Streetcar Named Desire'"
+    ]
+  },
+  {
+    "fullName": "Blanche Bates",
+    "givenNames": [
+      "Blanche"
+    ],
+    "familyName": "Bates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanche_Bates",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous Broadway productions",
+      "Known for her roles in melodramas and Shakespearean plays"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1941
+  }
+]

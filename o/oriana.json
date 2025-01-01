@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Oriana Fallaci",
+    "givenNames": [
+      "Oriana"
+    ],
+    "familyName": "Fallaci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oriana_Fallaci",
+    "occupation": "Journalist, Writer",
+    "achievements": [
+      "Interviewed numerous world leaders and figures",
+      "Authored influential books on war and politics",
+      "Known for her strong opinions and controversial views"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2006
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Valéry Giscard d'Estaing",
+    "givenNames": [
+      "Valéry",
+      "René",
+      "Marie",
+      "Georges"
+    ],
+    "familyName": "Giscard d'Estaing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France from 1974 to 1981",
+      "Led France through a period of economic and social change",
+      "Advocate for European integration"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2020
+  }
+]

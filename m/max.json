@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Max Planck",
+    "givenNames": [
+      "Max",
+      "Karl",
+      "Ernst",
+      "Ludwig"
+    ],
+    "familyName": "Planck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Planck",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Originator of quantum theory",
+      "Nobel Prize in Physics (1918)"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Max Weber",
+    "givenNames": [
+      "Maximilian",
+      "Carl",
+      "Emil"
+    ],
+    "familyName": "Weber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber",
+    "occupation": "Sociologist, philosopher, jurist",
+    "achievements": [
+      "Key figure in the development of sociology as a discipline",
+      "Known for his works on bureaucracy, rationalization, and the Protestant ethic"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1920
+  },
+  {
+    "fullName": "Max Verstappen",
+    "givenNames": [
+      "Max",
+      "Emilian"
+    ],
+    "familyName": "Verstappen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Verstappen",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Two-time Formula One World Champion (2021, 2022)",
+      "Youngest driver to win a Formula One race"
+    ],
+    "yearBorn": 1997
+  }
+]

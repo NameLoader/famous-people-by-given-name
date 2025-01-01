@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Abbey Lee Kershaw",
+    "givenNames": [
+      "Abbey",
+      "Lee"
+    ],
+    "familyName": "Kershaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbey_Lee",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "Appeared in campaigns for major brands like Gucci and Versace.",
+      "Starred in films such as 'Mad Max: Fury Road' and 'The Neon Demon'."
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Abbey Lincoln",
+    "givenNames": [
+      "Abbey"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbey_Lincoln",
+    "occupation": "Jazz vocalist, Actress, Composer",
+    "achievements": [
+      "Known for her powerful and soulful voice.",
+      "Collaborated with renowned jazz musicians like Max Roach.",
+      "Activist for civil rights and social justice."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2010
+  }
+]

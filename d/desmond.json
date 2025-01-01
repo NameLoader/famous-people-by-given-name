@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Desmond Tutu",
+    "givenNames": [
+      "Desmond",
+      "Mpilo"
+    ],
+    "familyName": "Tutu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desmond_Tutu",
+    "occupation": "Archbishop, anti-apartheid and human rights activist",
+    "achievements": [
+      "Nobel Peace Prize laureate",
+      "Chairperson of the Truth and Reconciliation Commission in South Africa"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Desmond Dekker",
+    "givenNames": [
+      "Desmond"
+    ],
+    "familyName": "Dekker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desmond_Dekker",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Pioneer of ska and rocksteady music",
+      "Known for hits like 'Israelites' and '007 (Shanty Town')"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2006
+  }
+]

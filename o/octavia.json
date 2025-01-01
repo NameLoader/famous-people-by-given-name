@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Octavia Spencer",
+    "givenNames": [
+      "Octavia",
+      "Lenora"
+    ],
+    "familyName": "Spencer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Octavia_Spencer",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress (The Help)",
+      "Golden Globe Award for Best Supporting Actress – Motion Picture (The Help)"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Octavia Butler",
+    "givenNames": [
+      "Octavia",
+      "Estelle"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Octavia_E._Butler",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "MacArthur Fellowship",
+      "Hugo Award",
+      "Nebula Award"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2006
+  }
+]

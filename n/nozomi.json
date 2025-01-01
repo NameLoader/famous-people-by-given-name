@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Nozomi Okuhara",
+    "givenNames": [
+      "Nozomi"
+    ],
+    "familyName": "Okuhara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nozomi_Okuhara",
+    "occupation": "Badminton player",
+    "achievements": [
+      "2017 World Champion",
+      "Olympic bronze medalist (2016)",
+      "Multiple All England Open Badminton Championships titles"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Nozomi Sasaki",
+    "givenNames": [
+      "Nozomi"
+    ],
+    "familyName": "Sasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nozomi_Sasaki_(model)",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Appeared in numerous Japanese films and television dramas",
+      "Known for her beauty and versatility as an actress"
+    ],
+    "yearBorn": 1988
+  }
+]

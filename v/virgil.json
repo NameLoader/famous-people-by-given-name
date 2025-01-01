@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Virgil Abloh",
+    "givenNames": [
+      "Virgil"
+    ],
+    "familyName": "Abloh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgil_Abloh",
+    "occupation": "Fashion Designer, DJ, Artist",
+    "achievements": [
+      "Artistic Director of Louis Vuitton menswear",
+      "Founder of Off-White",
+      "Grammy-nominated producer"
+    ],
+    "yearBorn": 1980,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Virgil Thomson",
+    "givenNames": [
+      "Virgil"
+    ],
+    "familyName": "Thomson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgil_Thomson",
+    "occupation": "Composer, Conductor, Music Critic",
+    "achievements": [
+      "Pulitzer Prize for Music (1948)",
+      "Known for innovative use of American folk melodies and rhythms"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1989
+  }
+]

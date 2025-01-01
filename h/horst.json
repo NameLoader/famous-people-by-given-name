@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Horst Eckel",
+    "givenNames": [
+      "Horst"
+    ],
+    "familyName": "Eckel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horst_Eckel",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with West Germany in 1954"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Horst P. Horst",
+    "givenNames": [
+      "P.",
+      "Horst"
+    ],
+    "familyName": "Horst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horst_P._Horst",
+    "occupation": "Photographer",
+    "achievements": [
+      "Pioneer of fashion photography",
+      "Known for his elegant and timeless images"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Horst Köhler",
+    "givenNames": [
+      "Horst"
+    ],
+    "familyName": "Köhler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horst_K%C3%B6hler",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Germany from 2004 to 2010"
+    ],
+    "yearBorn": 1943
+  }
+]

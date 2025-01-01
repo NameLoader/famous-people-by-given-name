@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ulysse Nardin",
+    "givenNames": [
+      "Ulysse"
+    ],
+    "familyName": "Nardin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulysse_Nardin",
+    "occupation": "Watchmaker, founder of Ulysse Nardin watch company",
+    "achievements": [
+      "Pioneer in marine chronometry",
+      "Developed highly accurate watches for navigation"
+    ],
+    "yearBorn": 1823,
+    "yearDied": 1876
+  }
+]

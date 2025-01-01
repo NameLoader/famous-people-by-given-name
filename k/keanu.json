@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Keanu Reeves",
+    "givenNames": [
+      "Keanu",
+      "Charles"
+    ],
+    "familyName": "Reeves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keanu_Reeves",
+    "occupation": "Actor, Musician",
+    "achievements": [
+      "Known for roles in films like The Matrix, John Wick, and Bill & Ted's Excellent Adventure.",
+      "Received critical acclaim and numerous awards for his performances."
+    ],
+    "yearBorn": 1964
+  }
+]

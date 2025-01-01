@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Alphonse Mucha",
+    "givenNames": [
+      "Alphonse",
+      "Alfons",
+      "Maria"
+    ],
+    "familyName": "Mucha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+    "occupation": "Artist, Illustrator",
+    "achievements": [
+      "Art Nouveau style",
+      "Posters, illustrations, paintings"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1939
+  },
+  {
+    "fullName": "Alphonse Daudet",
+    "givenNames": [
+      "Alphonse"
+    ],
+    "familyName": "Daudet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Daudet",
+    "occupation": "Writer",
+    "achievements": [
+      "Novels like 'Letters from My Windmill'",
+      "Naturalist and Realist literature"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1897
+  },
+  {
+    "fullName": "Alphonse Bertillon",
+    "givenNames": [
+      "Alphonse"
+    ],
+    "familyName": "Bertillon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Bertillon",
+    "occupation": "Police Officer, Criminologist",
+    "achievements": [
+      "Developed anthropometry for criminal identification"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1914
+  }
+]

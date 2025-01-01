@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Tiffany Haddish",
+    "givenNames": [
+      "Tiffany",
+      "Cornilia"
+    ],
+    "familyName": "Haddish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiffany_Haddish",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Grammy Award for Best Comedy Album (2021)",
+      "Primetime Emmy Award nomination for Outstanding Guest Actress in a Comedy Series (2018)"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Tiffany Trump",
+    "givenNames": [
+      "Tiffany",
+      "Ariana"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiffany_Trump",
+    "occupation": "Law school graduate, socialite",
+    "achievements": [
+      "Graduated from Georgetown Law (2020)"
+    ],
+    "yearBorn": 1993
+  }
+]

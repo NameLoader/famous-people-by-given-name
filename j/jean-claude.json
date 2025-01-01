@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Jean-Claude Van Damme",
+    "givenNames": [
+      "Jean-Claude"
+    ],
+    "familyName": "Van Damme",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Claude_Van_Damme",
+    "occupation": "Actor, Martial Artist, Filmmaker",
+    "achievements": [
+      "Known for action films like 'Bloodsport', 'Kickboxer', and 'Universal Soldier'",
+      "Highly skilled martial artist with a black belt in karate"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Jean-Claude Trichet",
+    "givenNames": [
+      "Jean-Claude"
+    ],
+    "familyName": "Trichet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Claude_Trichet",
+    "occupation": "Economist, Former President of the European Central Bank",
+    "achievements": [
+      "Led the ECB during the global financial crisis of 2008-2009",
+      "Known for his strong stance on inflation control and stability"
+    ],
+    "yearBorn": 1942
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Tammy Wynette",
+    "givenNames": [
+      "Tammy"
+    ],
+    "familyName": "Wynette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tammy_Wynette",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Known as the 'First Lady of Country Music'",
+      "Had numerous hit songs including 'Stand By Your Man'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1998
+  }
+]

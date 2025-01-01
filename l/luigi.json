@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Luigi Pirandello",
+    "givenNames": [
+      "Luigi"
+    ],
+    "familyName": "Pirandello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Pirandello",
+    "occupation": "Playwright, Novelist, Poet, Short Story Writer",
+    "achievements": [
+      "Nobel Prize in Literature (1934)",
+      "Known for his plays exploring themes of identity and illusion"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Luigi Russolo",
+    "givenNames": [
+      "Luigi",
+      "Carlo",
+      "Filippo"
+    ],
+    "familyName": "Russolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Russolo",
+    "occupation": "Futurist Composer, Painter, and Inventor",
+    "achievements": [
+      "Pioneered the use of noise in music",
+      "Created 'intonarumori,' mechanical noise-making instruments"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1947
+  }
+]

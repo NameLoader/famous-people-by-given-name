@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Keith Richards",
+    "givenNames": [
+      "Keith"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Richards",
+    "occupation": "Musician, songwriter",
+    "achievements": [
+      "Guitarist for The Rolling Stones",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Keith Urban",
+    "givenNames": [
+      "Keith",
+      "Lionel"
+    ],
+    "familyName": "Urban",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Urban",
+    "occupation": "Musician, singer, songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Country music star"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Keith Haring",
+    "givenNames": [
+      "Keith",
+      "Allen"
+    ],
+    "familyName": "Haring",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Haring",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for bold, graphic art style",
+      "Activist for HIV/AIDS awareness"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 1990
+  }
+]

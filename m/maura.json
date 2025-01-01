@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Maura Tierney",
+    "givenNames": [
+      "Maura",
+      "Therese"
+    ],
+    "familyName": "Tierney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maura_Tierney",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award nomination for Outstanding Lead Actress in a Drama Series for her role as Abby Lockhart in the television series 'ER'",
+      "Known for roles in films such as 'Primary Colors' and 'The Thin Red Line'"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Maura Higgins",
+    "givenNames": [
+      "Maura"
+    ],
+    "familyName": "Higgins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maura_Higgins",
+    "occupation": "Television personality, model",
+    "achievements": [
+      "Finished fourth in the fifth series of the British reality show 'Love Island'",
+      "Known for her outspoken personality and appearances on other television shows"
+    ],
+    "yearBorn": 1990
+  }
+]

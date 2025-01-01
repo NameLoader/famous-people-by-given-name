@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kaley Cuoco",
+    "givenNames": [
+      "Kaley",
+      "Christine"
+    ],
+    "familyName": "Cuoco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaley_Cuoco",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in the television series '8 Simple Rules' and 'The Big Bang Theory'",
+      "Nominated for multiple Primetime Emmy Awards"
+    ],
+    "yearBorn": 1985
+  }
+]

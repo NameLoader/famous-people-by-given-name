@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Darryl Strawberry",
+    "givenNames": [
+      "Darryl",
+      "Eugene"
+    ],
+    "familyName": "Strawberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darryl_Strawberry",
+    "occupation": "Baseball player",
+    "achievements": [
+      "8-time MLB All-Star",
+      "4-time World Series champion",
+      "National League Rookie of the Year (1983)"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Darryl McDaniels",
+    "givenNames": [
+      "Darryl",
+      "Matthews"
+    ],
+    "familyName": "McDaniels",
+    "wikipedia": "https://en.wikipedia.org/wiki/DMC_(rapper)",
+    "occupation": "Rapper, actor",
+    "achievements": [
+      "Member of Run-D.M.C.",
+      "Rock and Roll Hall of Fame inductee (2002)"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Darryl Hannah",
+    "givenNames": [
+      "Daryl"
+    ],
+    "familyName": "Hannah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daryl_Hannah",
+    "occupation": "Actress, environmental activist",
+    "achievements": [
+      "Roles in films like 'Blade Runner', 'Splash', and 'Kill Bill'"
+    ],
+    "yearBorn": 1960
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Judith Butler",
+    "givenNames": [
+      "Judith",
+      "Pamela"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Butler",
+    "occupation": "Philosopher and gender theorist",
+    "achievements": [
+      "Developed the theory of gender performativity",
+      "Influential figure in queer theory and feminist thought"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Judith Jamison",
+    "givenNames": [
+      "Judith",
+      "Ann"
+    ],
+    "familyName": "Jamison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Jamison",
+    "occupation": "Dancer and choreographer",
+    "achievements": [
+      "Former principal dancer with the Alvin Ailey American Dance Theater",
+      "Artistic Director of the Alvin Ailey American Dance Theater from 1989 to 2011"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Judith Resnik",
+    "givenNames": [
+      "Judith",
+      "Arlene"
+    ],
+    "familyName": "Resnik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Resnik",
+    "occupation": "Astronaut and engineer",
+    "achievements": [
+      "One of the first women astronauts in NASA's Space Shuttle program",
+      "Tragically died in the Challenger space shuttle disaster"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 1986
+  }
+]

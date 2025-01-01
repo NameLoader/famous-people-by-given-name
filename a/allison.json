@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Allison Janney",
+    "givenNames": [
+      "Allison",
+      "Brooks"
+    ],
+    "familyName": "Janney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allison_Janney",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Seven Primetime Emmy Awards",
+      "Golden Globe Award"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Allison Williams",
+    "givenNames": [
+      "Allison",
+      "Howell"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allison_Williams",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her role as Marnie Michaels in the HBO series Girls"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Allison Krauss",
+    "givenNames": [
+      "Alison",
+      "Maria"
+    ],
+    "familyName": "Krauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Krauss",
+    "occupation": "Bluegrass musician, Singer-songwriter",
+    "achievements": [
+      "27 Grammy Awards"
+    ],
+    "yearBorn": 1971
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dieter Dengler",
+    "givenNames": [
+      "Dieter"
+    ],
+    "familyName": "Dengler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dieter_Dengler",
+    "occupation": "US Navy pilot, prisoner of war",
+    "achievements": [
+      "Survived capture and torture by Viet Cong forces during the Vietnam War",
+      "Authored the book 'Trapped' about his experiences"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Dieter Bohlen",
+    "givenNames": [
+      "Dieter",
+      "Günter"
+    ],
+    "familyName": "Bohlen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dieter_Bohlen",
+    "occupation": "Music producer, singer, songwriter, television personality",
+    "achievements": [
+      "Co-founded the pop duo Modern Talking",
+      "Produced numerous hit songs for other artists",
+      "Longtime judge on the German singing competition 'Deutschland sucht den Superstar'"
+    ],
+    "yearBorn": 1954
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kiera Knightley",
+    "givenNames": [
+      "Keira",
+      "Christina"
+    ],
+    "familyName": "Knightley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keira_Knightley",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress",
+      "BAFTA Award for Best Actress in a Supporting Role"
+    ],
+    "yearBorn": 1985
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nikola Tesla",
+    "givenNames": [
+      "Nikola"
+    ],
+    "familyName": "Tesla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+    "occupation": "Inventor, Electrical Engineer, Physicist",
+    "achievements": [
+      "Developed the alternating current (AC) electrical system",
+      "Contributed to the design of the modern AC motor and generator",
+      "Made significant advancements in wireless communication and radio technology"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Nikola Jokic",
+    "givenNames": [
+      "Nikola"
+    ],
+    "familyName": "Jokic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "Two-time NBA Most Valuable Player (MVP)",
+      "NBA All-Star",
+      "Led the Denver Nuggets to their first NBA Championship in 2023"
+    ],
+    "yearBorn": 1995
+  }
+]

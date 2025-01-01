@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Edward I",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Plantagenet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+    "occupation": "King of England",
+    "achievements": [
+      "Conquered Wales",
+      "Established Parliament as a regular institution"
+    ],
+    "yearBorn": 1239,
+    "yearDied": 1307
+  },
+  {
+    "fullName": "Edward VIII",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Windsor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VIII",
+    "occupation": "King of the United Kingdom (abdicated)",
+    "achievements": [
+      "Known for his abdication to marry Wallis Simpson"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "Edward Snowden",
+    "givenNames": [
+      "Edward",
+      "Joseph"
+    ],
+    "familyName": "Snowden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Snowden",
+    "occupation": "Computer intelligence consultant and former CIA employee",
+    "achievements": [
+      "Leaked classified information from the NSA, sparking debates about privacy and surveillance"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Edward Norton",
+    "givenNames": [
+      "Edward",
+      "Harrison"
+    ],
+    "familyName": "Norton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Norton",
+    "occupation": "Actor, filmmaker",
+    "achievements": [
+      "Nominated for three Academy Awards",
+      "Known for roles in films like 'Fight Club,' 'American History X,' and 'Birdman'"
+    ],
+    "yearBorn": 1969
+  }
+]

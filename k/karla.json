@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Karla Homolka",
+    "givenNames": [
+      "Karla",
+      "Leanne"
+    ],
+    "familyName": "Homolka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karla_Homolka",
+    "occupation": "Convicted criminal",
+    "achievements": [
+      "Infamous for her involvement in the murders of three young women"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Karla Souza",
+    "givenNames": [
+      "Karla",
+      "Susana",
+      "Olivares"
+    ],
+    "familyName": "Souza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karla_Souza",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role in the TV series 'How to Get Away with Murder'"
+    ],
+    "yearBorn": 1985
+  }
+]

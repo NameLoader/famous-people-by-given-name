@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Wolf Blitzer",
+    "givenNames": [
+      "Wolf",
+      "Isaac"
+    ],
+    "familyName": "Blitzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolf_Blitzer",
+    "occupation": "Journalist, News anchor",
+    "achievements": [
+      "Anchor of CNN's 'The Situation Room'",
+      "Known for his in-depth coverage of political and international events"
+    ],
+    "yearBorn": 1948
+  }
+]

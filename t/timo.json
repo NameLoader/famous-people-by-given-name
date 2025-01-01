@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Timo Werner",
+    "givenNames": [
+      "Timo"
+    ],
+    "familyName": "Werner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timo_Werner",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Champions League winner",
+      "Bundesliga top scorer"
+    ],
+    "yearBorn": 1996
+  }
+]

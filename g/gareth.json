@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gareth Bale",
+    "givenNames": [
+      "Gareth",
+      "Frank"
+    ],
+    "familyName": "Bale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gareth_Bale",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "UEFA Champions League winner",
+      "Premier League winner",
+      "La Liga winner"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Gareth Edwards",
+    "givenNames": [
+      "Gareth",
+      "James"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gareth_Edwards_(filmmaker)",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Directed films such as 'Rogue One: A Star Wars Story' and 'Godzilla'"
+    ],
+    "yearBorn": 1975
+  }
+]

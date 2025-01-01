@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Sandrine Bonnaire",
+    "givenNames": [
+      "Sandrine"
+    ],
+    "familyName": "Bonnaire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandrine_Bonnaire",
+    "occupation": "Actress",
+    "achievements": [
+      "Cannes Film Festival Award for Best Actress",
+      "César Award for Best Supporting Actress"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Sandrine Kiberlain",
+    "givenNames": [
+      "Sandrine"
+    ],
+    "familyName": "Kiberlain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandrine_Kiberlain",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "César Award for Best Actress",
+      "Lumières Award for Best Actress"
+    ],
+    "yearBorn": 1968
+  }
+]

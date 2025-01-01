@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Errol Flynn",
+    "givenNames": [
+      "Errol",
+      "Leslie",
+      "Thomson"
+    ],
+    "familyName": "Flynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
+    "occupation": "Actor",
+    "achievements": [
+      "Hollywood Golden Age star",
+      "Known for swashbuckler roles in films like 'Captain Blood' and 'The Adventures of Robin Hood'"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Errol Louis Garner",
+    "givenNames": [
+      "Erroll",
+      "Louis"
+    ],
+    "familyName": "Garner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erroll_Garner",
+    "occupation": "Jazz pianist and composer",
+    "achievements": [
+      "Known for his improvisational style and distinctive sound",
+      "Popularized the piece 'Misty'"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Errol Morris",
+    "givenNames": [
+      "Errol",
+      "Mark"
+    ],
+    "familyName": "Morris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Errol_Morris",
+    "occupation": "Documentary filmmaker",
+    "achievements": [
+      "Known for his innovative filmmaking techniques and thought-provoking documentaries",
+      "Films include 'The Thin Blue Line', 'Gates of Heaven', and 'The Fog of War'"
+    ],
+    "yearBorn": 1948
+  }
+]

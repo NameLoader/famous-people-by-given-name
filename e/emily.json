@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Emily Dickinson",
+    "givenNames": [
+      "Emily",
+      "Elizabeth"
+    ],
+    "familyName": "Dickinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the most important American poets of all time",
+      "Known for her unconventional style and themes of death, immortality, and love"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Emily Blunt",
+    "givenNames": [
+      "Emily",
+      "Olivia",
+      "Laura"
+    ],
+    "familyName": "Blunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Blunt",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for three Golden Globe Awards and a Screen Actors Guild Award",
+      "Known for roles in films like 'The Devil Wears Prada', 'Edge of Tomorrow' and 'A Quiet Place'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Emily Ratajkowski",
+    "givenNames": [
+      "Emily",
+      "O'Hara"
+    ],
+    "familyName": "Ratajkowski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Ratajkowski",
+    "occupation": "Model, actress, author",
+    "achievements": [
+      "Appeared in music videos for Robin Thicke's 'Blurred Lines' and Maroon 5's 'Love Somebody'",
+      "Published the essay collection 'My Body'"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Emily Watson",
+    "givenNames": [
+      "Emily",
+      "Margaret"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Watson",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for two Academy Awards and three BAFTA Awards",
+      "Known for roles in films like 'Hilary and Jackie', 'The Boxer' and 'Breaking the Waves'"
+    ],
+    "yearBorn": 1967
+  }
+]

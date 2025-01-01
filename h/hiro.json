@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Hiro Mashima",
+    "givenNames": [
+      "Hiro"
+    ],
+    "familyName": "Mashima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiro_Mashima",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Creator of the manga series Fairy Tail",
+      "Recipient of the Tezuka Osamu Cultural Prize"
+    ],
+    "yearBorn": 1977
+  }
+]

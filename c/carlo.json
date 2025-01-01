@@ -1,0 +1,58 @@
+[
+  {
+    "fullName": "Carlo Collodi",
+    "givenNames": [
+      "Carlo"
+    ],
+    "familyName": "Collodi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Collodi",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Author of The Adventures of Pinocchio"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1890
+  },
+  {
+    "fullName": "Carlo Ponti",
+    "givenNames": [
+      "Carlo"
+    ],
+    "familyName": "Ponti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Ponti",
+    "occupation": "Film Producer",
+    "achievements": [
+      "Produced numerous films including \"Doctor Zhivago\" and \"The Leopard\""
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Carlo Maria Martini",
+    "givenNames": [
+      "Carlo",
+      "Maria"
+    ],
+    "familyName": "Martini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Maria_Martini",
+    "occupation": "Cardinal, Archbishop of Milan",
+    "achievements": [
+      "Prominent figure in the Catholic Church, known for his progressive views"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Carlo Ancelotti",
+    "givenNames": [
+      "Carlo"
+    ],
+    "familyName": "Ancelotti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Ancelotti",
+    "occupation": "Football Manager, Former Player",
+    "achievements": [
+      "Won multiple Champions League titles as a manager with AC Milan and Real Madrid"
+    ],
+    "yearBorn": 1959
+  }
+]

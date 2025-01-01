@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Bryce Dallas Howard",
+    "givenNames": [
+      "Bryce",
+      "Dallas"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryce_Dallas_Howard",
+    "occupation": "Actress and Director",
+    "achievements": [
+      "Starred in films like 'Jurassic World' and 'The Help'",
+      "Daughter of director Ron Howard"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Bryce Harper",
+    "givenNames": [
+      "Bryce",
+      "Aron",
+      "Max"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryce_Harper",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Two-time National League MVP",
+      "Seven-time MLB All-Star"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Bryce DeWitt",
+    "givenNames": [
+      "Bryce",
+      "Seligman"
+    ],
+    "familyName": "DeWitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryce_DeWitt",
+    "occupation": "Physicist",
+    "achievements": [
+      "Pioneer in the field of quantum gravity",
+      "Recipient of the Niels Bohr Medal"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2004
+  }
+]

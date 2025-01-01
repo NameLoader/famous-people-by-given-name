@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Brendan Fraser",
+    "givenNames": [
+      "Brendan",
+      "James"
+    ],
+    "familyName": "Fraser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Fraser",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Known for roles in films like 'The Mummy', 'George of the Jungle', and 'Crash'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Brendan Eich",
+    "givenNames": [
+      "Brendan"
+    ],
+    "familyName": "Eich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Eich",
+    "occupation": "Software Engineer",
+    "achievements": [
+      "Creator of the JavaScript programming language"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Brendan Behan",
+    "givenNames": [
+      "Brendan",
+      "Francis",
+      "Aidan"
+    ],
+    "familyName": "Behan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Behan",
+    "occupation": "Playwright, Poet, Short Story Writer",
+    "achievements": [
+      "Known for his plays 'The Quare Fellow' and 'Borstal Boy'"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1964
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Giuditta Pasta",
+    "givenNames": [
+      "Giuditta",
+      "Angiola",
+      "Maria",
+      "Costanza"
+    ],
+    "familyName": "Pasta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuditta_Pasta",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Renowned Italian soprano",
+      "Considered one of the greatest singers of her era",
+      "Famous for her performances in operas by Rossini and Bellini"
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1865
+  }
+]

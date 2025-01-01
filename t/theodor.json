@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Theodor Seuss Geisel",
+    "givenNames": [
+      "Theodor",
+      "Seuss"
+    ],
+    "familyName": "Geisel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss",
+    "occupation": "Author, Illustrator, Cartoonist",
+    "achievements": [
+      "Created iconic children's books like 'The Cat in the Hat', 'Green Eggs and Ham'",
+      "Won numerous awards including Pulitzer Prize"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Theodor Mommsen",
+    "givenNames": [
+      "Theodor"
+    ],
+    "familyName": "Mommsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Mommsen",
+    "occupation": "Historian, Jurist, Nobel Prize Laureate",
+    "achievements": [
+      "Pioneer in the study of Roman history",
+      "Authored 'History of Rome'",
+      "Won the Nobel Prize in Literature in 1902"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1903
+  },
+  {
+    "fullName": "Theodor Herzl",
+    "givenNames": [
+      "Theodor"
+    ],
+    "familyName": "Herzl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Herzl",
+    "occupation": "Writer, Journalist, Zionist Leader",
+    "achievements": [
+      "Founder of modern political Zionism",
+      "Authored 'The Jewish State'",
+      "Organized the First Zionist Congress"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1904
+  }
+]

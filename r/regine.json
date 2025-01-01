@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Regine Velasquez",
+    "givenNames": [
+      "Regina",
+      "Encarnacion",
+      "Ansong"
+    ],
+    "familyName": "Velasquez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Regine_Velasquez",
+    "occupation": "Singer, actress, host",
+    "achievements": [
+      "Asia's Songbird",
+      "Multi-platinum selling artist",
+      "Numerous awards including Awit Awards and MTV Video Music Awards Philippines"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Regine Chassagne",
+    "givenNames": [
+      "Régine",
+      "Alexandra"
+    ],
+    "familyName": "Chassagne",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%A9gine_Chassagne",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Member of the band Arcade Fire",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1976
+  }
+]

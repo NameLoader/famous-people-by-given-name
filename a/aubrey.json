@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Aubrey Beardsley",
+    "givenNames": [
+      "Aubrey",
+      "Vincent"
+    ],
+    "familyName": "Beardsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
+    "occupation": "Illustrator, author",
+    "achievements": [
+      "Known for his intricate black-and-white drawings.",
+      "Influential figure in the Aesthetic movement."
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1898
+  },
+  {
+    "fullName": "Aubrey Plaza",
+    "givenNames": [
+      "Aubrey",
+      "Christina"
+    ],
+    "familyName": "Plaza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Plaza",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Known for her roles in 'Parks and Recreation' and 'Legion'.",
+      "Acclaimed for her dry humor and deadpan delivery."
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Aubrey Graham",
+    "givenNames": [
+      "Aubrey",
+      "Drake"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drake_(musician)",
+    "occupation": "Rapper, singer, songwriter, actor",
+    "achievements": [
+      "One of the best-selling music artists of all time.",
+      "Won numerous Grammy Awards and Billboard Music Awards."
+    ],
+    "yearBorn": 1986
+  }
+]

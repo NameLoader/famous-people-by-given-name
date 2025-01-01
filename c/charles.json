@@ -1,0 +1,81 @@
+[
+  {
+    "fullName": "Charles Darwin",
+    "givenNames": [
+      "Charles",
+      "Robert"
+    ],
+    "familyName": "Darwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+    "occupation": "Naturalist, biologist, geologist",
+    "achievements": [
+      "Theory of evolution by natural selection"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1882
+  },
+  {
+    "fullName": "Charles Dickens",
+    "givenNames": [
+      "Charles",
+      "John",
+      "Huffam"
+    ],
+    "familyName": "Dickens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
+    "occupation": "Writer, novelist",
+    "achievements": [
+      "Oliver Twist",
+      "A Tale of Two Cities",
+      "Great Expectations"
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1870
+  },
+  {
+    "fullName": "Charles Chaplin",
+    "givenNames": [
+      "Charles",
+      "Spencer"
+    ],
+    "familyName": "Chaplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+    "occupation": "Actor, filmmaker, composer",
+    "achievements": [
+      "Silent film icon, creator of 'The Tramp'"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Charles de Gaulle",
+    "givenNames": [
+      "Charles",
+      "André",
+      "Joseph",
+      "Marie"
+    ],
+    "familyName": "de Gaulle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+    "occupation": "Military leader, statesman",
+    "achievements": [
+      "Leader of the Free French Forces during WWII, President of France"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Charles Barkley",
+    "givenNames": [
+      "Charles",
+      "Wade"
+    ],
+    "familyName": "Barkley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Barkley",
+    "occupation": "Retired basketball player, analyst",
+    "achievements": [
+      "NBA MVP, 11-time NBA All-Star"
+    ],
+    "yearBorn": 1963
+  }
+]

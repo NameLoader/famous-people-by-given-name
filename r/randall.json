@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Randall Jarrell",
+    "givenNames": [
+      "Randall"
+    ],
+    "familyName": "Jarrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randall_Jarrell",
+    "occupation": "Poet, essayist, and literary critic",
+    "achievements": [
+      "Pulitzer Prize for Poetry (1961)",
+      "National Book Award for Poetry (1961)"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Randall Kenan",
+    "givenNames": [
+      "Randall"
+    ],
+    "familyName": "Kenan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randall_Kenan",
+    "occupation": "Novelist, short story writer, and essayist",
+    "achievements": [
+      "PEN/Faulkner Award for Fiction (2007)",
+      "Notable works include 'A Visitation of Spirits' and 'Let the Dead Bury Their Dead'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Randall Stephenson",
+    "givenNames": [
+      "Randall",
+      "Lynn"
+    ],
+    "familyName": "Stephenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randall_L._Stephenson",
+    "occupation": "Business executive",
+    "achievements": [
+      "Former CEO of AT&T Inc."
+    ],
+    "yearBorn": 1963
+  }
+]

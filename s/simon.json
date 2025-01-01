@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Simon Peter",
+    "givenNames": [
+      "Simon",
+      "Shimon"
+    ],
+    "familyName": "Peter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Peter",
+    "occupation": "Apostle",
+    "achievements": [
+      "One of the twelve apostles of Jesus",
+      "Considered the first Pope by the Catholic Church"
+    ],
+    "yearDied": 65
+  },
+  {
+    "fullName": "Simon Cowell",
+    "givenNames": [
+      "Simon",
+      "Phillip"
+    ],
+    "familyName": "Cowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Cowell",
+    "occupation": "Music executive, television personality",
+    "achievements": [
+      "Judge on reality shows like 'American Idol' and 'The X Factor'",
+      "Founder of Syco Music"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Simon Pegg",
+    "givenNames": [
+      "Simon",
+      "John"
+    ],
+    "familyName": "Pegg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Pegg",
+    "occupation": "Actor, comedian, screenwriter",
+    "achievements": [
+      "Known for roles in 'Shaun of the Dead', 'Hot Fuzz', and 'Star Trek'",
+      "Successful collaborator with Edgar Wright"
+    ],
+    "yearBorn": 1970
+  }
+]

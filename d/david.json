@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "David Attenborough",
+    "givenNames": [
+      "David",
+      "Frederick"
+    ],
+    "familyName": "Attenborough",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Attenborough",
+    "occupation": "Broadcaster and Natural Historian",
+    "achievements": [
+      "Pioneer of natural history documentaries",
+      "Brought the wonders of the natural world into millions of homes",
+      "Advocate for environmental conservation and sustainability"
+    ],
+    "yearBorn": 1926
+  },
+  {
+    "fullName": "David Beckham",
+    "givenNames": [
+      "David",
+      "Robert",
+      "Joseph"
+    ],
+    "familyName": "Beckham",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Beckham",
+    "occupation": "Footballer",
+    "achievements": [
+      "One of the most famous and successful footballers of all time",
+      "Won numerous trophies with Manchester United, Real Madrid, and other clubs",
+      "Global icon and fashion influencer"
+    ],
+    "yearBorn": 1975
+  }
+]

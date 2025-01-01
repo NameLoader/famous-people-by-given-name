@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Samuel Clemens",
+    "givenNames": [
+      "Samuel",
+      "Langhorne"
+    ],
+    "familyName": "Clemens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
+    "occupation": "Writer, Humorist",
+    "achievements": [
+      "Authored classic novels like 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn'",
+      "Known for his wit and satirical commentary on society"
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1910
+  },
+  {
+    "fullName": "Samuel L. Jackson",
+    "givenNames": [
+      "Samuel",
+      "Leroy"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_L._Jackson",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for his distinctive voice and intense performances",
+      "Starred in numerous blockbuster films including 'Pulp Fiction', 'Jurassic Park', and the Marvel Cinematic Universe"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Samuel Adams",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Adams",
+    "occupation": "Political activist, Founding Father",
+    "achievements": [
+      "Key figure in the American Revolution",
+      "Signed the Declaration of Independence",
+      "Helped establish the Sons of Liberty and organized protests against British rule"
+    ],
+    "yearBorn": 1722,
+    "yearDied": 1803
+  },
+  {
+    "fullName": "Samuel Beckett",
+    "givenNames": [
+      "Samuel",
+      "Barclay"
+    ],
+    "familyName": "Beckett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Beckett",
+    "occupation": "Playwright, Novelist, Poet",
+    "achievements": [
+      "Nobel Prize in Literature laureate (1969)",
+      "Known for his absurdist plays and novels such as 'Waiting for Godot' and 'Molloy'"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1989
+  }
+]

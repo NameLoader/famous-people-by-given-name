@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Shaun White",
+    "givenNames": [
+      "Shaun",
+      "Roger"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaun_White",
+    "occupation": "Snowboarder",
+    "achievements": [
+      "Three-time Olympic gold medalist in snowboarding halfpipe",
+      "15 Winter X Games gold medals"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Shaun Ryder",
+    "givenNames": [
+      "Shaun",
+      "William",
+      "George"
+    ],
+    "familyName": "Ryder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaun_Ryder",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead singer of the band Happy Mondays",
+      "Known for his distinctive vocal style and lyrics"
+    ],
+    "yearBorn": 1962
+  }
+]

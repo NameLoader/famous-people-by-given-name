@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jayne Mansfield",
+    "givenNames": [
+      "Jayne"
+    ],
+    "familyName": "Mansfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jayne_Mansfield",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "One of the most popular sex symbols of the 1950s and early 1960s",
+      "Starred in numerous films including 'The Girl Can't Help It' and 'Promises! Promises!'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Jayne Meadows",
+    "givenNames": [
+      "Jayne"
+    ],
+    "familyName": "Meadows",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jayne_Meadows",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in television and film, including 'I've Got a Secret'",
+      "Married to actor Steve Allen"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2015
+  }
+]

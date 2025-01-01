@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Warren Buffett",
+    "givenNames": [
+      "Warren",
+      "Edward"
+    ],
+    "familyName": "Buffett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Buffett",
+    "occupation": "Investor, Business Magnate",
+    "achievements": [
+      "Chairman and CEO of Berkshire Hathaway",
+      "One of the most successful investors in history",
+      "Known for his value investing philosophy"
+    ],
+    "yearBorn": 1930
+  },
+  {
+    "fullName": "Warren Beatty",
+    "givenNames": [
+      "Henry",
+      "Warren"
+    ],
+    "familyName": "Beatty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Beatty",
+    "occupation": "Actor, Film Director, Producer",
+    "achievements": [
+      "Nominated for 18 Academy Awards",
+      "Won an Academy Award for Best Director for 'Reds'",
+      "Known for his roles in films such as 'Bonnie and Clyde' and 'Shampoo'"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Warren G Harding",
+    "givenNames": [
+      "Warren",
+      "Gamaliel"
+    ],
+    "familyName": "Harding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_G._Harding",
+    "occupation": "Politician",
+    "achievements": [
+      "29th President of the United States"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Warren Hastings",
+    "givenNames": [
+      "Warren"
+    ],
+    "familyName": "Hastings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warren_Hastings",
+    "occupation": "British Colonial Administrator",
+    "achievements": [
+      "First Governor-General of British India"
+    ],
+    "yearBorn": 1732,
+    "yearDied": 1818
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Greta Thunberg",
+    "givenNames": [
+      "Greta",
+      "Tintin",
+      "Eleonora",
+      "Ernman"
+    ],
+    "familyName": "Thunberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Greta_Thunberg",
+    "occupation": "Climate activist",
+    "achievements": [
+      "Raising global awareness of climate change",
+      "Inspiring youth activism",
+      "Nominated for the Nobel Peace Prize"
+    ],
+    "yearBorn": 2003
+  }
+]

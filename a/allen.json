@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Allen Iverson",
+    "givenNames": [
+      "Allen",
+      "Ezail"
+    ],
+    "familyName": "Iverson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Iverson",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Hall of Famer",
+      "11-time NBA All-Star",
+      "NBA Most Valuable Player (2001)"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Allen Ginsberg",
+    "givenNames": [
+      "Allen",
+      "Irwin"
+    ],
+    "familyName": "Ginsberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Ginsberg",
+    "occupation": "Poet",
+    "achievements": [
+      "Key figure in the Beat Generation",
+      "Author of 'Howl' and other influential poems"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Allen Funt",
+    "givenNames": [
+      "Allen",
+      "Albert"
+    ],
+    "familyName": "Funt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Funt",
+    "occupation": "Television Producer",
+    "achievements": [
+      "Created the hidden camera television show 'Candid Camera'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1999
+  }
+]

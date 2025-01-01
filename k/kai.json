@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kai Lenny",
+    "givenNames": [
+      "Kai"
+    ],
+    "familyName": "Lenny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Lenny",
+    "occupation": "Professional surfer and stand-up paddleboarder",
+    "achievements": [
+      "World Champion Stand Up Paddle Surfer (2014)",
+      "Numerous wins in big wave surfing competitions"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Kai Greene",
+    "givenNames": [
+      "Kai"
+    ],
+    "familyName": "Greene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Greene",
+    "occupation": "Professional bodybuilder",
+    "achievements": [
+      "2x Arnold Classic Champion (2009, 2010)",
+      "Mr. Olympia runner-up (2012, 2013, 2014)"
+    ],
+    "yearBorn": 1975
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Francisco Goya",
+    "givenNames": [
+      "Francisco",
+      "José"
+    ],
+    "familyName": "Goya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Goya",
+    "occupation": "Painter, Printmaker",
+    "achievements": [
+      "Spanish Romantic painter and printmaker",
+      "Known for his portraits, historical scenes, and etchings"
+    ],
+    "yearBorn": 1746,
+    "yearDied": 1828
+  },
+  {
+    "fullName": "Francisco Franco",
+    "givenNames": [
+      "Francisco"
+    ],
+    "familyName": "Franco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Franco",
+    "occupation": "General, Dictator",
+    "achievements": [
+      "Led the Nationalist faction during the Spanish Civil War",
+      "Dictated Spain from 1939 to 1975"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Francisco Pizarro",
+    "givenNames": [
+      "Francisco"
+    ],
+    "familyName": "Pizarro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+    "occupation": "Conquistador",
+    "achievements": [
+      "Led the Spanish conquest of the Inca Empire in Peru"
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1541
+  },
+  {
+    "fullName": "Francisco Lindor",
+    "givenNames": [
+      "Francisco",
+      "Miguel"
+    ],
+    "familyName": "Lindor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Lindor",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Shortstop for the New York Mets",
+      "Four-time MLB All-Star"
+    ],
+    "yearBorn": 1993
+  }
+]

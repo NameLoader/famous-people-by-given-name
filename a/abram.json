@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Abram Lincoln",
+    "givenNames": [
+      "Abraham"
+    ],
+    "familyName": "Lincoln",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "occupation": "President of the United States",
+    "achievements": [
+      "Led the Union to victory in the American Civil War",
+      "Issued the Emancipation Proclamation, freeing slaves in Confederate territories",
+      "Preserved the Union and is considered one of the greatest US presidents"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1865
+  }
+]

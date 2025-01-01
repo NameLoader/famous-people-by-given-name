@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rodolfo Neri Vela",
+    "givenNames": [
+      "Rodolfo"
+    ],
+    "familyName": "Neri Vela",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodolfo_Neri_Vela",
+    "occupation": "Astronaut",
+    "achievements": [
+      "First Mexican astronaut in space",
+      "Flew aboard the Space Shuttle Atlantis in 1985"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Rodolfo Pizarro",
+    "givenNames": [
+      "Rodolfo",
+      "Gilbert"
+    ],
+    "familyName": "Pizarro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodolfo_Pizarro",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for the Mexican national team",
+      "Won the CONCACAF Gold Cup with Mexico in 2019"
+    ],
+    "yearBorn": 1994
+  }
+]

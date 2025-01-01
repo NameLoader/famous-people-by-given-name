@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lynda Carter",
+    "givenNames": [
+      "Lynda",
+      "Jean"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynda_Carter",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her role as Wonder Woman in the 1970s television series.",
+      "Successful singing career."
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Lynda La Plante",
+    "givenNames": [
+      "Lynda",
+      "Joy"
+    ],
+    "familyName": "La Plante",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynda_La_Plante",
+    "occupation": "Author, Screenwriter",
+    "achievements": [
+      "Creator of the Prime Suspect television series.",
+      "Prolific author of crime fiction novels."
+    ],
+    "yearBorn": 1943
+  }
+]

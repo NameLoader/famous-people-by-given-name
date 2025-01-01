@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Ethel Merman",
+    "givenNames": [
+      "Ethel"
+    ],
+    "familyName": "Merman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Merman",
+    "occupation": "Singer and Actress",
+    "achievements": [
+      "Known for her powerful voice and Broadway performances.",
+      "Starred in musicals like 'Anything Goes' and 'Gypsy'.",
+      "Won a Tony Award and Grammy Award."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Ethel Barrymore",
+    "givenNames": [
+      "Ethel"
+    ],
+    "familyName": "Barrymore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Barrymore",
+    "occupation": "Actress",
+    "achievements": [
+      "Member of the renowned Barrymore acting family.",
+      "Won a Tony Award for Best Actress in a Play.",
+      "Starred in stage productions and films."
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Ethel Waters",
+    "givenNames": [
+      "Ethel"
+    ],
+    "familyName": "Waters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Waters",
+    "occupation": "Singer and Actress",
+    "achievements": [
+      "Pioneering African American performer.",
+      "Known for her blues singing and powerful stage presence.",
+      "Appeared in Broadway shows and films."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1977
+  }
+]

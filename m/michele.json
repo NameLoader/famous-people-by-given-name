@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Michele Placido",
+    "givenNames": [
+      "Michele"
+    ],
+    "familyName": "Placido",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michele_Placido",
+    "occupation": "Actor, director",
+    "achievements": [
+      "Known for his roles in Italian films and television",
+      "Directed acclaimed films such as 'The Great Silence'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Michele Bachmann",
+    "givenNames": [
+      "Michele",
+      "Marie"
+    ],
+    "familyName": "Bachmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michele_Bachmann",
+    "occupation": "Politician",
+    "achievements": [
+      "Former U.S. Representative from Minnesota",
+      "2012 Republican presidential candidate"
+    ],
+    "yearBorn": 1956
+  }
+]

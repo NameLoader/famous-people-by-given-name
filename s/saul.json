@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Saul Goodman",
+    "givenNames": [
+      "Saul"
+    ],
+    "familyName": "Goodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Goodman",
+    "occupation": "Fictional lawyer",
+    "achievements": [
+      "Popular character on the television series Breaking Bad and Better Call Saul"
+    ]
+  },
+  {
+    "fullName": "Saul Bellow",
+    "givenNames": [
+      "Saul"
+    ],
+    "familyName": "Bellow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Bellow",
+    "occupation": "Novelist and essayist",
+    "achievements": [
+      "Winner of the Nobel Prize in Literature (1976)",
+      "Known for novels such as The Adventures of Augie March and Herzog"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Saul Steinberg",
+    "givenNames": [
+      "Saul"
+    ],
+    "familyName": "Steinberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Steinberg",
+    "occupation": "Illustrator and cartoonist",
+    "achievements": [
+      "Known for his distinctive graphic style and witty cartoons",
+      "Contributed to The New Yorker magazine for decades"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1999
+  }
+]

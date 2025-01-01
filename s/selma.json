@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Selma Blair",
+    "givenNames": [
+      "Selma"
+    ],
+    "familyName": "Blair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selma_Blair",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films such as 'Cruel Intentions' and 'Legally Blonde'",
+      "Diagnosed with Multiple Sclerosis in 2018 and advocates for MS awareness"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Selma Lagerlöf",
+    "givenNames": [
+      "Selma",
+      "Ottilia",
+      "Lovisa"
+    ],
+    "familyName": "Lagerlöf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f",
+    "occupation": "Writer, Nobel laureate",
+    "achievements": [
+      "First woman to win the Nobel Prize in Literature (1909)",
+      "Known for her novel 'The Wonderful Adventures of Nils'"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1940
+  }
+]

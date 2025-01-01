@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Olivia Colman",
+    "givenNames": [
+      "Olivia",
+      "Sarah",
+      "Caroline"
+    ],
+    "familyName": "Colman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivia_Colman",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "BAFTA Award for Best Actress in a Leading Role",
+      "Golden Globe Award for Best Actress – Television Series Musical or Comedy"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Olivia Newton-John",
+    "givenNames": [
+      "Olivia"
+    ],
+    "familyName": "Newton-John",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivia_Newton-John",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Four Grammy Awards",
+      "Star on the Hollywood Walk of Fame",
+      "Known for her role as Sandy in the film Grease"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Olivia Wilde",
+    "givenNames": [
+      "Olivia"
+    ],
+    "familyName": "Wilde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivia_Wilde",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Known for her roles in House M.D., Tron: Legacy, and Booksmart (directorial debut)"
+    ],
+    "yearBorn": 1984
+  }
+]

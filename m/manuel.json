@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Manuel I Komnenos",
+    "givenNames": [
+      "Manuel",
+      "I"
+    ],
+    "familyName": "Komnenos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+    "occupation": "Byzantine Emperor",
+    "achievements": [
+      "Reorganized the Byzantine army and administration",
+      "Repelled several attacks from Muslim forces"
+    ],
+    "yearBorn": 1143,
+    "yearDied": 1180
+  },
+  {
+    "fullName": "Manuel II Palaiologos",
+    "givenNames": [
+      "Manuel",
+      "Matthew"
+    ],
+    "familyName": "Palaiologos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_II_Palaiologos",
+    "occupation": "Byzantine Emperor",
+    "achievements": [
+      "Led the Byzantine Empire during a period of significant decline",
+      "Negotiated with Western powers for aid against the Ottoman Turks"
+    ],
+    "yearBorn": 1350,
+    "yearDied": 1425
+  },
+  {
+    "fullName": "Manuel Noriega",
+    "givenNames": [
+      "Manuel",
+      "Antonio"
+    ],
+    "familyName": "Noriega",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Noriega",
+    "occupation": "Military dictator of Panama",
+    "achievements": [
+      "Rose to power through a coup in 1983"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Manuel Puig",
+    "givenNames": [
+      "Manuel",
+      "Juan"
+    ],
+    "familyName": "Puig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Puig",
+    "occupation": "Argentine novelist and screenwriter",
+    "achievements": [
+      "Known for his novels 'Kiss of the Spider Woman' and 'Heartbreak Tango'",
+      "His works explored themes of sexuality, social class, and political oppression"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1990
+  }
+]

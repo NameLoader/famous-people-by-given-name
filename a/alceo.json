@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alceo di Mitilene",
+    "givenNames": [
+      "Alceo"
+    ],
+    "familyName": "di Mitilene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alcaeus",
+    "occupation": "Poet",
+    "achievements": [
+      "One of the most celebrated lyric poets of ancient Greece.",
+      "Known for his elegies and hymns, often dealing with themes of love, war, and exile."
+    ],
+    "yearBorn": 620,
+    "yearDied": 580
+  }
+]

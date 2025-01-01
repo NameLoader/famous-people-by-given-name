@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kara DioGuardi",
+    "givenNames": [
+      "Kara",
+      "Elizabeth"
+    ],
+    "familyName": "DioGuardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kara_DioGuardi",
+    "occupation": "Songwriter, Record Producer",
+    "achievements": [
+      "Grammy Award-nominated songwriter",
+      "Judge on American Idol"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Kara Walker",
+    "givenNames": [
+      "Kara",
+      "Elizabeth"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kara_Walker",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for her silhouette installations exploring race, gender, and history"
+    ],
+    "yearBorn": 1969
+  }
+]

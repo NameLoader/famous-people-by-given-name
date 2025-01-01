@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Benedetto Croce",
+    "givenNames": [
+      "Benedetto"
+    ],
+    "familyName": "Croce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedetto_Croce",
+    "occupation": "Philosopher, Historian, Literary critic",
+    "achievements": [
+      "Key figure in Italian idealism",
+      "Championed the idea of 'history as philosophy'",
+      "Influential literary critic who shaped modern Italian thought"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1952
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Emanuel Swedenborg",
+    "givenNames": [
+      "Emanuel"
+    ],
+    "familyName": "Swedenborg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "occupation": "Scientist, Philosopher, Mystic",
+    "achievements": [
+      "Developed a unique theological system",
+      "Pioneer in the study of anatomy and physiology"
+    ],
+    "yearBorn": 1688,
+    "yearDied": 1772
+  }
+]

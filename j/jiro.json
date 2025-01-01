@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Jiro Ono",
+    "givenNames": [
+      "Jiro"
+    ],
+    "familyName": "Ono",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jiro_Ono_(chef)",
+    "occupation": "Sushi chef",
+    "achievements": [
+      "Considered one of the greatest sushi chefs in the world.",
+      "His restaurant, Sukiyabashi Jiro, has three Michelin stars."
+    ],
+    "yearBorn": 1925
+  },
+  {
+    "fullName": "Jiro Horikoshi",
+    "givenNames": [
+      "Jiro"
+    ],
+    "familyName": "Horikoshi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jiro_Horikoshi",
+    "occupation": "Aircraft designer",
+    "achievements": [
+      "Designed the Mitsubishi A6M Zero fighter aircraft used by Japan in World War II."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1982
+  }
+]

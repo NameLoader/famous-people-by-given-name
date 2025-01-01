@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Winifred Edgerton Merrill",
+    "givenNames": [
+      "Winifred",
+      "Edgerton"
+    ],
+    "familyName": "Merrill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winifred_Edgerton_Merrill",
+    "occupation": "Mathematician, educator",
+    "achievements": [
+      "First woman to earn a Ph.D. in mathematics from Columbia University",
+      "Contributed to the field of number theory"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Winifred Wagner",
+    "givenNames": [
+      "Winifred",
+      "Marjorie"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winifred_Wagner",
+    "occupation": "Opera director, patron of the arts",
+    "achievements": [
+      "Director and administrator of the Bayreuth Festival, a renowned opera festival in Germany",
+      "Known for her involvement with the Nazi regime during World War II"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1980
+  }
+]

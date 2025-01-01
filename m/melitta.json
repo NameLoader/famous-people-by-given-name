@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Melitta Bentz",
+    "givenNames": [
+      "Melitta"
+    ],
+    "familyName": "Bentz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melitta_Bentz",
+    "occupation": "Inventor, Entrepreneur",
+    "achievements": [
+      "Invented the first electric coffee maker with a paper filter.",
+      "Founded the Melitta company, which still sells coffee makers and filters today."
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1950
+  }
+]

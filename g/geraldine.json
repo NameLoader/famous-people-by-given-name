@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Geraldine Ferraro",
+    "givenNames": [
+      "Geraldine",
+      "Anne"
+    ],
+    "familyName": "Ferraro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geraldine_Ferraro",
+    "occupation": "Politician",
+    "achievements": [
+      "First woman to run for Vice President on a major party ticket (Democratic Party) in 1984"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Geraldine Chaplin",
+    "givenNames": [
+      "Geraldine",
+      "Leigh"
+    ],
+    "familyName": "Chaplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geraldine_Chaplin",
+    "occupation": "Actress",
+    "achievements": [
+      "Daughter of Charlie Chaplin",
+      "Known for roles in films such as 'Doctor Zhivago' and 'Nashville'"
+    ],
+    "yearBorn": 1944
+  }
+]

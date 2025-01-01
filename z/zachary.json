@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Zachary Taylor",
+    "givenNames": [
+      "Zachary"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+    "occupation": "Military officer, Politician",
+    "achievements": [
+      "12th President of the United States",
+      "Hero of the Mexican-American War"
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1850
+  },
+  {
+    "fullName": "Zachary Levi",
+    "givenNames": [
+      "Zachary"
+    ],
+    "familyName": "Levi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Levi",
+    "occupation": "Actor, Singer, Producer",
+    "achievements": [
+      "Known for his roles in Chuck, Shazam!, and Tangled",
+      "Won a Saturn Award for Best Actor on Television"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Zachary Quinto",
+    "givenNames": [
+      "Zachary",
+      "John"
+    ],
+    "familyName": "Quinto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Quinto",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for his roles in Heroes, Star Trek, and American Horror Story"
+    ],
+    "yearBorn": 1977
+  }
+]

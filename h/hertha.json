@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hertha Ayrton",
+    "givenNames": [
+      "Hertha"
+    ],
+    "familyName": "Ayrton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hertha_Ayrton",
+    "occupation": "Physicist and engineer",
+    "achievements": [
+      "Pioneer in the study of electric arcs",
+      "Developed a new method for measuring the intensity of light",
+      "First woman to be elected to the Institution of Electrical Engineers"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1923
+  }
+]

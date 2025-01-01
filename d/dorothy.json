@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Dorothy Dandridge",
+    "givenNames": [
+      "Dorothy",
+      "Jean"
+    ],
+    "familyName": "Dandridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Dandridge",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "First African-American actress to be nominated for an Academy Award for Best Actress",
+      "Starred in films such as Carmen Jones and Porgy and Bess"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Dorothy Parker",
+    "givenNames": [
+      "Dorothy"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
+    "occupation": "Poet, short story writer, critic, and satirist",
+    "achievements": [
+      "Known for her sharp wit and satirical writing style",
+      "Member of the Algonquin Round Table",
+      "Wrote poetry collections such as Enough Rope and Collected Poems"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Dorothy Hodgkin",
+    "givenNames": [
+      "Dorothy",
+      "Mary",
+      "Crowfoot"
+    ],
+    "familyName": "Hodgkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+    "occupation": "Chemist",
+    "achievements": [
+      "Won the Nobel Prize in Chemistry in 1964 for her work on determining the structures of important biochemical substances using X-ray crystallography.",
+      "Determined the structures of penicillin, vitamin B12, and insulin."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Dorothy Day",
+    "givenNames": [
+      "Dorothy"
+    ],
+    "familyName": "Day",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Day",
+    "occupation": "Journalist, social activist, Catholic convert",
+    "achievements": [
+      "Co-founded the Catholic Worker Movement, a movement dedicated to social justice and serving the poor.",
+      "Known for her pacifist beliefs and opposition to war."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1980
+  }
+]

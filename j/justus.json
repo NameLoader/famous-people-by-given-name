@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Justus Lipsius",
+    "givenNames": [
+      "Justus"
+    ],
+    "familyName": "Lipsius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justus_Lipsius",
+    "occupation": "Humanist scholar",
+    "achievements": [
+      "Scholar of classical antiquity",
+      "Philosopher",
+      "Historian",
+      "Author of influential works on stoicism and ethics"
+    ],
+    "yearBorn": 1547,
+    "yearDied": 1606
+  }
+]

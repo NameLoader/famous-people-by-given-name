@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Terence Tao",
+    "givenNames": [
+      "Terence",
+      "Chi-Shen"
+    ],
+    "familyName": "Tao",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_Tao",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Fields Medal winner",
+      "Known for his work in harmonic analysis, partial differential equations, and number theory"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Terence Hill",
+    "givenNames": [
+      "Terence"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_Hill",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous Spaghetti Western films alongside Bud Spencer",
+      "Known for his comedic roles and action sequences"
+    ],
+    "yearBorn": 1939
+  }
+]

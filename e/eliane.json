@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Eliane Karp",
+    "givenNames": [
+      "Eliane",
+      "Chantal"
+    ],
+    "familyName": "Karp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliane_Karp",
+    "occupation": "Anthropologist, Activist",
+    "achievements": [
+      "First Lady of Peru (2001-2006)",
+      "Advocate for indigenous rights and environmental protection"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Eliane Elias",
+    "givenNames": [
+      "Eliane"
+    ],
+    "familyName": "Elias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliane_Elias",
+    "occupation": "Jazz pianist, composer",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for her Brazilian-influenced jazz style"
+    ],
+    "yearBorn": 1960
+  }
+]

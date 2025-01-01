@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Luke Skywalker",
+    "givenNames": [
+      "Luke"
+    ],
+    "familyName": "Skywalker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Skywalker",
+    "occupation": "Fictional Jedi Knight",
+    "achievements": [
+      "Defeated the Galactic Empire",
+      "Brought balance to the Force"
+    ],
+    "yearBorn": 19
+  },
+  {
+    "fullName": "Luke Evans",
+    "givenNames": [
+      "Luke",
+      "George"
+    ],
+    "familyName": "Evans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Evans",
+    "occupation": "Actor and Singer",
+    "achievements": [
+      "Starred in films like 'Fast & Furious 6', 'Beauty and the Beast', and 'The Hobbit' trilogy"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Luke Combs",
+    "givenNames": [
+      "Luke",
+      "Albert"
+    ],
+    "familyName": "Combs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luke_Combs",
+    "occupation": "Country Music Singer",
+    "achievements": [
+      "Multiple Country Music Association Awards",
+      "Chart-topping albums and singles"
+    ],
+    "yearBorn": 1990
+  }
+]

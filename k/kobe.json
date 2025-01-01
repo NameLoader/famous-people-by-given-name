@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Kobe Bryant",
+    "givenNames": [
+      "Kobe",
+      "Bean"
+    ],
+    "familyName": "Bryant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kobe_Bryant",
+    "occupation": "Basketball player",
+    "achievements": [
+      "5x NBA champion",
+      "2x NBA Finals MVP",
+      "18x NBA All-Star",
+      "Olympic gold medalist (2008, 2012)"
+    ],
+    "yearBorn": 1978,
+    "yearDied": 2020
+  }
+]

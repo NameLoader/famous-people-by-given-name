@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Masaki Suda",
+    "givenNames": [
+      "Masaki"
+    ],
+    "familyName": "Suda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaki_Suda",
+    "occupation": "Actor, Singer",
+    "achievements": [
+      "Japan Academy Prize for Outstanding Performance by an Actor in a Leading Role",
+      "Known for roles in films like 'Drowning Love' and 'The러나'",
+      "Successful music career with multiple hit singles"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Masaki Kobayashi",
+    "givenNames": [
+      "Masaki"
+    ],
+    "familyName": "Kobayashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaki_Kobayashi",
+    "occupation": "Film Director",
+    "achievements": [
+      "Acclaimed director of films like 'Harakiri' and 'Samurai Rebellion'",
+      "Known for his humanistic approach and exploration of social issues",
+      "Won numerous international awards for his filmmaking"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1996
+  }
+]

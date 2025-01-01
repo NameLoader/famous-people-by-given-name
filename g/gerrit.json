@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gerrit Rietveld",
+    "givenNames": [
+      "Gerrit"
+    ],
+    "familyName": "Rietveld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerrit_Rietveld",
+    "occupation": "Architect and furniture designer",
+    "achievements": [
+      "Pioneer of the De Stijl movement",
+      "Designed the iconic Rietveld Schröder House"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Gerrit Dou",
+    "givenNames": [
+      "Gerrit"
+    ],
+    "familyName": "Dou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerrit_Dou",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure of the Dutch Golden Age painting",
+      "Known for his meticulous detail and use of light"
+    ],
+    "yearBorn": 1613,
+    "yearDied": 1675
+  }
+]

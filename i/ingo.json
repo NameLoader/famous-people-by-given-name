@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ingo Swann",
+    "givenNames": [
+      "Ingo",
+      "Douglass"
+    ],
+    "familyName": "Swann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingo_Swann",
+    "occupation": "Remote viewer, author",
+    "achievements": [
+      "Pioneer in the field of remote viewing",
+      "Author of several books on psychic phenomena"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Ingo Maurer",
+    "givenNames": [
+      "Ingo"
+    ],
+    "familyName": "Maurer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingo_Maurer",
+    "occupation": "Lighting designer",
+    "achievements": [
+      "Created innovative and iconic lighting designs",
+      "Won numerous awards for his work"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2019
+  }
+]

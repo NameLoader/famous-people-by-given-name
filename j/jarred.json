@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jarred Kelenic",
+    "givenNames": [
+      "Jarred",
+      "Robert"
+    ],
+    "familyName": "Kelenic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jarred_Kelenic",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "MLB debut with the Seattle Mariners in 2021",
+      "Considered a top prospect in Major League Baseball"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Jarred Harris",
+    "givenNames": [
+      "Jared",
+      "Francis"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jared_Harris",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Chernobyl' and 'The Curious Case of Benjamin Button'",
+      "Son of acclaimed actor Richard Harris"
+    ],
+    "yearBorn": 1961
+  }
+]

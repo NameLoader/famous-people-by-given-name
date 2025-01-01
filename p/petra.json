@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Petra Kvitová",
+    "givenNames": [
+      "Petra"
+    ],
+    "familyName": "Kvitová",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petra_Kvitov%C3%A1",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Two-time Wimbledon champion",
+      "Former world No. 2 in singles"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Petra Haden",
+    "givenNames": [
+      "Petra"
+    ],
+    "familyName": "Haden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petra_Haden",
+    "occupation": "Musician, Violinist, Singer",
+    "achievements": [
+      "Known for her work with the band That Dog",
+      "Collaborated with musicians like Beck and Foo Fighters"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Petra Majdič",
+    "givenNames": [
+      "Petra"
+    ],
+    "familyName": "Majdič",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petra_Majdi%C4%8D",
+    "occupation": "Cross-Country Skier",
+    "achievements": [
+      "Olympic medalist (bronze)",
+      "World Championship medalist"
+    ],
+    "yearBorn": 1979
+  }
+]

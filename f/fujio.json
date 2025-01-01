@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Fujio Mitarai",
+    "givenNames": [
+      "Fujio"
+    ],
+    "familyName": "Mitarai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fujio_Mitarai",
+    "occupation": "Businessman",
+    "achievements": [
+      "Chairman and CEO of Canon Inc.",
+      "Led Canon's expansion into digital imaging technology"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Fujio Akatsuka",
+    "givenNames": [
+      "Fujio"
+    ],
+    "familyName": "Akatsuka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fujio_Akatsuka",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Created popular manga series such as 'Osomatsu-kun' and 'Fujio Akatsuka Manga Theater'",
+      "Known for his unique humor and eccentric characters"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2008
+  }
+]

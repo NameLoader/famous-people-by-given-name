@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Nichola Jane Sturgeon",
+    "givenNames": [
+      "Nicola",
+      "Jane"
+    ],
+    "familyName": "Sturgeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Sturgeon",
+    "occupation": "Politician",
+    "achievements": [
+      "First Minister of Scotland (2014-2023)",
+      "Leader of the Scottish National Party"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Nichola Coughlan",
+    "givenNames": [
+      "Nicola",
+      "Mary"
+    ],
+    "familyName": "Coughlan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Coughlan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Penelope Featherington in Bridgerton"
+    ],
+    "yearBorn": 1987
+  }
+]

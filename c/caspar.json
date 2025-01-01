@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Caspar David Friedrich",
+    "givenNames": [
+      "Caspar",
+      "David"
+    ],
+    "familyName": "Friedrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his Romantic landscape paintings",
+      "Influenced the development of German Romanticism"
+    ],
+    "yearBorn": 1774,
+    "yearDied": 1840
+  }
+]

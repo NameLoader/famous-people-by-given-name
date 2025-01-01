@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Monica Lewinsky",
+    "givenNames": [
+      "Monica",
+      "Samille"
+    ],
+    "familyName": "Lewinsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Lewinsky",
+    "occupation": "Activist, writer",
+    "achievements": [
+      "Became internationally known in the late 1990s for her involvement in a political scandal with President Bill Clinton.",
+      "Has since become an advocate against cyberbullying and public shaming."
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Monica Seles",
+    "givenNames": [
+      "Monica"
+    ],
+    "familyName": "Seles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Seles",
+    "occupation": "Former professional tennis player",
+    "achievements": [
+      "Won nine Grand Slam singles titles.",
+      "Ranked world No. 1 for 12 weeks."
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Monica Bellucci",
+    "givenNames": [
+      "Monica",
+      "Anna",
+      "Maria"
+    ],
+    "familyName": "Bellucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Bellucci",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Appeared in numerous films, including \"Malèna\" and \"The Passion of the Christ.\"",
+      "Considered one of the most beautiful women in the world."
+    ],
+    "yearBorn": 1964
+  }
+]

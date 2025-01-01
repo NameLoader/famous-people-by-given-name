@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dominick Cruz",
+    "givenNames": [
+      "Dominick",
+      "Rogelio"
+    ],
+    "familyName": "Cruz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominick_Cruz",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "Former UFC Bantamweight Champion",
+      "Former WEC Bantamweight Champion"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Dominick Dunne",
+    "givenNames": [
+      "Dominick",
+      "John"
+    ],
+    "familyName": "Dunne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominick_Dunne",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "Known for his coverage of high-profile criminal trials",
+      "Author of several bestselling novels and non-fiction books"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2009
+  }
+]

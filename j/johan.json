@@ -1,0 +1,38 @@
+[
+  {
+    "fullName": "Johan Cruyff",
+    "givenNames": [
+      "Johan",
+      "Hendrik",
+      "Johannes"
+    ],
+    "familyName": "Cruyff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johan_Cruyff",
+    "occupation": "Footballer and coach",
+    "achievements": [
+      "Three-time Ballon d'Or winner",
+      "Led Netherlands to the 1974 World Cup final",
+      "Pioneered 'Total Football'",
+      "Successful coach of Ajax and Barcelona"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Johan Sebastian Bach",
+    "givenNames": [
+      "Johann",
+      "Sebastian"
+    ],
+    "familyName": "Bach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "occupation": "Composer and musician",
+    "achievements": [
+      "Master of Baroque music",
+      "Composed numerous concertos, fugues, and cantatas",
+      "Influential figure in Western classical music"
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1750
+  }
+]

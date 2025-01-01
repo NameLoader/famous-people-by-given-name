@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Aya Nakamura",
+    "givenNames": [
+      "Aya",
+      "Coco"
+    ],
+    "familyName": "Nakamura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aya_Nakamura",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Most-streamed French female artist globally in 2022",
+      "Won numerous awards including NRJ Music Awards and MTV Europe Music Awards"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Aya Ueto",
+    "givenNames": [
+      "Aya"
+    ],
+    "familyName": "Ueto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aya_Ueto",
+    "occupation": "Actress, singer, model",
+    "achievements": [
+      "Known for roles in dramas like 'Musashi' and 'Aishiteru'",
+      "Successful singing career with several hit singles"
+    ],
+    "yearBorn": 1985
+  }
+]

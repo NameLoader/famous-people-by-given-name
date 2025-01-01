@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ivor Novello",
+    "givenNames": [
+      "Ivor"
+    ],
+    "familyName": "Novello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivor_Novello",
+    "occupation": "Composer, actor, singer",
+    "achievements": [
+      "Wrote numerous popular songs and stage musicals",
+      "Nominated for three Academy Awards for Best Original Song"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "Ivor Gurney",
+    "givenNames": [
+      "Ivor",
+      "Bertie"
+    ],
+    "familyName": "Gurney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivor_Gurney",
+    "occupation": "Composer, poet",
+    "achievements": [
+      "Known for his expressive and Romantic-style music",
+      "Wrote poetry inspired by the English countryside"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1937
+  }
+]

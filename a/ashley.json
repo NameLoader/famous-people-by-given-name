@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Ashley Judd",
+    "givenNames": [
+      "Ashley"
+    ],
+    "familyName": "Judd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Judd",
+    "occupation": "Actress",
+    "achievements": [
+      "Golden Globe Award nominee",
+      "Known for roles in films like 'Double Jeopardy' and 'Kiss the Girls'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Ashley Olsen",
+    "givenNames": [
+      "Ashley",
+      "Fuller"
+    ],
+    "familyName": "Olsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Olsen",
+    "occupation": "Fashion designer, actress",
+    "achievements": [
+      "Co-founded the fashion brand The Row",
+      "Former child actress known for 'Full House'"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Ashley Tisdale",
+    "givenNames": [
+      "Ashley",
+      "Michelle"
+    ],
+    "familyName": "Tisdale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Tisdale",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for roles in 'High School Musical' and 'The Suite Life of Zack & Cody'",
+      "Released two studio albums"
+    ],
+    "yearBorn": 1985
+  }
+]

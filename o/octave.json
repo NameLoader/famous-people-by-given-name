@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Octave Mirbeau",
+    "givenNames": [
+      "Octave",
+      "Henri",
+      "Marie"
+    ],
+    "familyName": "Mirbeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Octave_Mirbeau",
+    "occupation": "Writer, journalist, playwright",
+    "achievements": [
+      "Known for his naturalist and symbolist works.",
+      "Famous novels include 'The Diary of a Chambermaid' and 'Caligula'."
+    ],
+    "yearBorn": 1848,
+    "yearDied": 1917
+  }
+]

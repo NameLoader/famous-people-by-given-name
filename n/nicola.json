@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Nicola Sturgeon",
+    "givenNames": [
+      "Nicola",
+      "Ferguson"
+    ],
+    "familyName": "Sturgeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Sturgeon",
+    "occupation": "Politician",
+    "achievements": [
+      "First Minister of Scotland since 2014",
+      "Leader of the Scottish National Party since 2014"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Nicola Roberts",
+    "givenNames": [
+      "Nicola",
+      "Maria"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Roberts",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Member of the girl group Girls Aloud",
+      "Solo music career"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Nicola Coughlan",
+    "givenNames": [
+      "Nicola",
+      "Mary"
+    ],
+    "familyName": "Coughlan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Coughlan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Penelope Featherington in the Netflix series Bridgerton"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Nicola Benedetti",
+    "givenNames": [
+      "Nicola",
+      "Joy",
+      "Nadia"
+    ],
+    "familyName": "Benedetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Benedetti",
+    "occupation": "Violinist",
+    "achievements": [
+      "Award-winning classical violinist",
+      "Known for her passionate performances and championing of new music"
+    ],
+    "yearBorn": 1987
+  }
+]

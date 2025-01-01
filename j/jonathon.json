@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Jonathon Swift",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Swift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+    "occupation": "Writer, Satirist",
+    "achievements": [
+      "Author of Gulliver's Travels",
+      "Known for his satirical wit and social commentary"
+    ],
+    "yearBorn": 1667,
+    "yearDied": 1745
+  },
+  {
+    "fullName": "Jonathon Brandis",
+    "givenNames": [
+      "Jonathan",
+      "Gregory"
+    ],
+    "familyName": "Brandis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Brandis",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'The NeverEnding Story II: The Next Chapter'",
+      "Appeared in numerous television series"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Jonathon Frakes",
+    "givenNames": [
+      "Jonathan",
+      "Scott"
+    ],
+    "familyName": "Frakes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Frakes",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Known for his role as Commander William Riker in 'Star Trek: The Next Generation'",
+      "Directed episodes of various television series including 'Star Trek'"
+    ],
+    "yearBorn": 1952
+  }
+]

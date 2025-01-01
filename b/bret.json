@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bret Easton Ellis",
+    "givenNames": [
+      "Bret",
+      "Easton"
+    ],
+    "familyName": "Ellis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bret_Easton_Ellis",
+    "occupation": "Novelist, Screenwriter",
+    "achievements": [
+      "Known for controversial novels like 'American Psycho' and 'Less Than Zero'",
+      "Explored themes of consumerism, violence, and alienation in contemporary society"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Bret Hart",
+    "givenNames": [
+      "Bret",
+      "Sergeant"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bret_Hart",
+    "occupation": "Professional Wrestler",
+    "achievements": [
+      "Widely regarded as one of the greatest professional wrestlers of all time",
+      "Five-time WWF Champion and two-time WCW World Heavyweight Champion"
+    ],
+    "yearBorn": 1957
+  }
+]

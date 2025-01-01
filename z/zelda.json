@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Zelda Fitzgerald",
+    "givenNames": [
+      "Zelda"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zelda_Fitzgerald",
+    "occupation": "Writer, Socialite",
+    "achievements": [
+      "Influential figure in the Jazz Age",
+      "Known for her beauty and vivacious personality",
+      "Published short stories and a novel"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Zelda Rubinstein",
+    "givenNames": [
+      "Zelda",
+      "May"
+    ],
+    "familyName": "Rubinstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zelda_Rubinstein",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Tangina Barrons in the 'Poltergeist' film series",
+      "Appeared in numerous television shows and films"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2010
+  }
+]

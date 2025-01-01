@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Walther von der Vogelweide",
+    "givenNames": [
+      "Walther"
+    ],
+    "familyName": "von der Vogelweide",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walther_von_der_Vogelweide",
+    "occupation": "Minnesinger (medieval German lyric poet)",
+    "achievements": [
+      "Considered one of the greatest German poets of the Middle Ages.",
+      "His works are characterized by their depth of feeling, lyrical beauty, and social commentary."
+    ],
+    "yearBorn": 1170,
+    "yearDied": 1230
+  },
+  {
+    "fullName": "Walther Rathenau",
+    "givenNames": [
+      "Walther"
+    ],
+    "familyName": "Rathenau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walther_Rathenau",
+    "occupation": "German industrialist, statesman and Foreign Minister of the Weimar Republic",
+    "achievements": [
+      "Played a key role in developing Germany's electric power industry.",
+      "Served as Foreign Minister during a tumultuous period in German history.",
+      "Assassinated by right-wing extremists."
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1922
+  }
+]

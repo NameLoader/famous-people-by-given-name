@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ignatz Moscheles",
+    "givenNames": [
+      "Isaac",
+      "Ignaz"
+    ],
+    "familyName": "Moscheles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ignaz_Moscheles",
+    "occupation": "Composer and pianist",
+    "achievements": [
+      "Prolific composer of piano works, chamber music, and symphonies.",
+      "Renowned virtuoso pianist who toured extensively throughout Europe."
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1870
+  }
+]

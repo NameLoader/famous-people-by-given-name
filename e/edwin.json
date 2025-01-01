@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Edwin Hubble",
+    "givenNames": [
+      "Edwin",
+      "Powell"
+    ],
+    "familyName": "Hubble",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Key role in establishing the expanding universe model",
+      "Developed Hubble's Law, which relates a galaxy's recession velocity to its distance"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Edwin Starr",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Starr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Starr",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Known for his powerful vocals and hit song \"War\"",
+      "Significant figure in the Motown and soul music genres"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Edwin Van der Sar",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Van der Sar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_van_der_Sar",
+    "occupation": "Footballer (Goalkeeper)",
+    "achievements": [
+      "Won the UEFA Champions League with Ajax Amsterdam and Manchester United",
+      "Considered one of the greatest goalkeepers of all time"
+    ],
+    "yearBorn": 1970
+  }
+]

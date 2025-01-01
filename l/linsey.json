@@ -1,0 +1,25 @@
+[
+  {
+    "fullName": "Linsey Lohan",
+    "givenNames": [
+      "Lindsay",
+      "Dee"
+    ],
+    "familyName": "Lohan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindsay_Lohan",
+    "occupation": "Actress, singer, songwriter",
+    "achievements": [],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Linsey Godfrey",
+    "givenNames": [
+      "Linsey"
+    ],
+    "familyName": "Godfrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linsey_Godfrey",
+    "occupation": "Actress",
+    "achievements": [],
+    "yearBorn": 1978
+  }
+]

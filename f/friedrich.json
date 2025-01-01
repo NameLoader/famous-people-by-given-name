@@ -1,0 +1,69 @@
+[
+  {
+    "fullName": "Friedrich Nietzsche",
+    "givenNames": [
+      "Friedrich",
+      "Wilhelm"
+    ],
+    "familyName": "Nietzsche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "occupation": "Philosopher, cultural critic, poet",
+    "achievements": [
+      "Critiqued morality, religion, and Western philosophy",
+      "Developed concepts like the Übermensch and eternal recurrence",
+      "Influential figure in existentialism and postmodernism"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Friedrich Schiller",
+    "givenNames": [
+      "Friedrich",
+      "Johann Christoph Friedrich"
+    ],
+    "familyName": "Schiller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+    "occupation": "Poet, playwright, philosopher",
+    "achievements": [
+      "Wrote influential plays like \"Wilhelm Tell\" and \"The Robbers\"",
+      "Contributed to the Sturm und Drang movement",
+      "Explored themes of freedom, beauty, and human potential"
+    ],
+    "yearBorn": 1759,
+    "yearDied": 1805
+  },
+  {
+    "fullName": "Friedrich Hayek",
+    "givenNames": [
+      "Friedrich",
+      "August"
+    ],
+    "familyName": "Hayek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Hayek",
+    "occupation": "Economist, philosopher",
+    "achievements": [
+      "Championed classical liberalism and free-market capitalism",
+      "Won the Nobel Memorial Prize in Economic Sciences in 1974",
+      "Author of influential works like \"The Road to Serfdom\""
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Friedrich Engels",
+    "givenNames": [
+      "Friedrich"
+    ],
+    "familyName": "Engels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Engels",
+    "occupation": "Philosopher, sociologist, communist revolutionary",
+    "achievements": [
+      "Co-authored \"The Communist Manifesto\" with Karl Marx",
+      "Contributed significantly to Marxist theory and analysis of capitalism",
+      "Advocate for social equality and worker's rights"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1895
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Adil Ray",
+    "givenNames": [
+      "Adil"
+    ],
+    "familyName": "Ray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adil_Ray",
+    "occupation": "Actor, comedian, radio and television presenter",
+    "achievements": [
+      "Known for his role as  'Safraz Khan' in the BBC sitcom Citizen Khan",
+      "Presented various shows on BBC Radio 5 Live and BBC Asian Network"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Adil Hussain",
+    "givenNames": [
+      "Adil"
+    ],
+    "familyName": "Hussain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adil_Hussain",
+    "occupation": "Actor",
+    "achievements": [
+      "Featured in acclaimed films like 'The Reluctant Fundamentalist'",
+      "'Life of Pi' and 'English Vinglish'"
+    ],
+    "yearBorn": 1963
+  }
+]

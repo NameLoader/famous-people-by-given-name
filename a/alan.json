@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Alan Turing",
+    "givenNames": [
+      "Alan",
+      "Mathison"
+    ],
+    "familyName": "Turing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "occupation": "Mathematician, Computer Scientist",
+    "achievements": [
+      "Breaking the Enigma code during World War II",
+      "Foundational work in theoretical computer science and artificial intelligence"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1954
+  },
+  {
+    "fullName": "Alan Alda",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Alda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Alda",
+    "occupation": "Actor, Director, Writer",
+    "achievements": [
+      "Known for his role as Hawkeye Pierce in the television series M*A*S*H",
+      "Received six Emmy Awards and a Golden Globe Award"
+    ],
+    "yearBorn": 1936
+  },
+  {
+    "fullName": "Alan Moore",
+    "givenNames": [
+      "Alan"
+    ],
+    "familyName": "Moore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Moore",
+    "occupation": "Comic Book Writer, Screenwriter",
+    "achievements": [
+      "Credited with revolutionizing the comic book industry with works like Watchmen and V for Vendetta",
+      "Highly acclaimed for his complex narratives and innovative storytelling techniques"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Alan Rickman",
+    "givenNames": [
+      "Alan",
+      "Sidney",
+      "Patrick"
+    ],
+    "familyName": "Rickman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Rickman",
+    "occupation": "Actor, Director",
+    "achievements": [
+      "Known for playing Severus Snape in the Harry Potter film series and Hans Gruber in Die Hard",
+      "Received a BAFTA Award and a Golden Globe Award"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2016
+  }
+]

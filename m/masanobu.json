@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Masanobu Fukuoka",
+    "givenNames": [
+      "Masanobu"
+    ],
+    "familyName": "Fukuoka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masanobu_Fukuoka",
+    "occupation": "Farmer, philosopher, author",
+    "achievements": [
+      "Pioneer of natural farming techniques",
+      "Authored the influential book 'The One-Straw Revolution'",
+      "Advocated for sustainable and ecological agriculture"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2008
+  }
+]

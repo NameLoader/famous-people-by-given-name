@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "DeMarcus Cousins",
+    "givenNames": [
+      "DeMarcus",
+      "Amir"
+    ],
+    "familyName": "Cousins",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeMarcus_Cousins",
+    "occupation": "Basketball player",
+    "achievements": [
+      "4x NBA All-Star",
+      "NBA All-Rookie First Team (2010)"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "DeMarcus Ware",
+    "givenNames": [
+      "DeMarcus",
+      "Omar"
+    ],
+    "familyName": "Ware",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeMarcus_Ware",
+    "occupation": "American football player",
+    "achievements": [
+      "9x Pro Bowl selection",
+      "7x First-team All-Pro",
+      "Super Bowl XLVII champion (Dallas Cowboys)"
+    ],
+    "yearBorn": 1982
+  }
+]

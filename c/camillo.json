@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Camillo Benso di Cavour",
+    "givenNames": [
+      "Camillo",
+      "Paolo",
+      "Filippo",
+      "Giulio"
+    ],
+    "familyName": "Benso di Cavour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Benso,_Count_of_Cavour",
+    "occupation": "Politician, statesman",
+    "achievements": [
+      "Architect of Italian unification",
+      "Prime Minister of the Kingdom of Sardinia"
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1861
+  },
+  {
+    "fullName": "Camillo Golgi",
+    "givenNames": [
+      "Camillo"
+    ],
+    "familyName": "Golgi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Golgi",
+    "occupation": "Physician, scientist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1906)",
+      "Discovery of the Golgi apparatus"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1926
+  }
+]

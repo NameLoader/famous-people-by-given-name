@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Lewis Hamilton",
+    "givenNames": [
+      "Lewis",
+      "Carl",
+      "Davidson"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
+    "occupation": "Formula One Driver",
+    "achievements": [
+      "Seven-time Formula One World Champion",
+      "Holds numerous records in Formula One racing"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Lewis Mumford",
+    "givenNames": [
+      "Lewis"
+    ],
+    "familyName": "Mumford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Mumford",
+    "occupation": "Historian, Philosopher, Critic",
+    "achievements": [
+      "Wrote influential works on urban planning, technology, and culture",
+      "Won the Pulitzer Prize for History in 1962"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Lewis Black",
+    "givenNames": [
+      "Lewis",
+      "Niles"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Black",
+    "occupation": "Comedian, Actor, Writer",
+    "achievements": [
+      "Known for his stand-up comedy featuring political satire and social commentary"
+    ],
+    "yearBorn": 1948
+  }
+]

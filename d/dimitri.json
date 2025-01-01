@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Dimitri Mendeleev",
+    "givenNames": [
+      "Dimitri",
+      "Ivanovich"
+    ],
+    "familyName": "Mendeleev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+    "occupation": "Chemist",
+    "achievements": [
+      "Developed the periodic table of elements"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1907
+  },
+  {
+    "fullName": "Dimitri Shostakovich",
+    "givenNames": [
+      "Dmitri",
+      "Dmitriyevich"
+    ],
+    "familyName": "Shostakovich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+    "occupation": "Composer",
+    "achievements": [
+      "Wrote fifteen symphonies and numerous other works"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Dimitri Payet",
+    "givenNames": [
+      "Dimitri"
+    ],
+    "familyName": "Payet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dimitri_Payet",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for the French national team",
+      "Won the UEFA European Championship in 2016"
+    ],
+    "yearBorn": 1987
+  }
+]

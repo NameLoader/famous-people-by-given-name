@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gabriele D'Annunzio",
+    "givenNames": [
+      "Gabriele"
+    ],
+    "familyName": "D'Annunzio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_D%27Annunzio",
+    "occupation": "Poet, novelist, playwright, journalist, and soldier",
+    "achievements": [
+      "Leading figure in Italian literature",
+      "Nobel Prize in Literature nominee",
+      "Known for his flamboyant personality and nationalist views"
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1938
+  },
+  {
+    "fullName": "Gabriele Tarquini",
+    "givenNames": [
+      "Gabriele"
+    ],
+    "familyName": "Tarquini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_Tarquini",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Won the 2009 FIA World Touring Car Championship",
+      "Multiple race wins in touring car racing"
+    ],
+    "yearBorn": 1972
+  }
+]

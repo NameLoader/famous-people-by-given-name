@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Constance Baker Motley",
+    "givenNames": [
+      "Constance",
+      "Baker"
+    ],
+    "familyName": "Motley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Constance_Baker_Motley",
+    "occupation": "Lawyer, judge, and politician",
+    "achievements": [
+      "First African-American woman to be appointed to the federal judiciary",
+      "Advocate for civil rights and social justice"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Constance Wu",
+    "givenNames": [
+      "Constance"
+    ],
+    "familyName": "Wu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Constance_Wu",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in 'Crazy Rich Asians' and 'Fresh Off the Boat'",
+      "Advocate for Asian American representation in Hollywood"
+    ],
+    "yearBorn": 1982
+  }
+]

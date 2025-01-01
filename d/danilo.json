@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Danilo Gallinari",
+    "givenNames": [
+      "Danilo"
+    ],
+    "familyName": "Gallinari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danilo_Gallinari",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA All-Star (2016)",
+      "Italian League MVP (2008)"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Danilo Kiš",
+    "givenNames": [
+      "Danilo"
+    ],
+    "familyName": "Kiš",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danilo_Ki%C5%A1",
+    "occupation": "Writer",
+    "achievements": [
+      "Won numerous literary awards in Yugoslavia"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Danilo D'Ambrosio",
+    "givenNames": [
+      "Danilo"
+    ],
+    "familyName": "D'Ambrosio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danilo_D%27Ambrosio",
+    "occupation": "Footballer (Defender)",
+    "achievements": [
+      "Won the Serie A title with Inter Milan in 2021"
+    ],
+    "yearBorn": 1988
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Darren Aronofsky",
+    "givenNames": [
+      "Darren"
+    ],
+    "familyName": "Aronofsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Aronofsky",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed acclaimed films like Requiem for a Dream, Black Swan, and The Wrestler"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Darren Fletcher",
+    "givenNames": [
+      "Darren",
+      "Barr"
+    ],
+    "familyName": "Fletcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Fletcher",
+    "occupation": "Footballer (Soccer Player)",
+    "achievements": [
+      "Played for Manchester United and the Scotland national team",
+      "Won numerous Premier League titles and Champions League trophies"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Darren Criss",
+    "givenNames": [
+      "Darren",
+      "Everett"
+    ],
+    "familyName": "Criss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Criss",
+    "occupation": "Actor, Singer, Songwriter",
+    "achievements": [
+      "Known for his role as Blaine Anderson in the television series Glee",
+      "Won an Emmy Award and a Golden Globe Award for his performance in The Assassination of Gianni Versace: American Crime Story"
+    ],
+    "yearBorn": 1987
+  }
+]

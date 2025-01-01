@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Dawn Fraser",
+    "givenNames": [
+      "Dawn"
+    ],
+    "familyName": "Fraser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dawn_Fraser",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Four-time Olympic gold medalist",
+      "First swimmer to win the same event in three consecutive Olympic Games"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Dawn Upshaw",
+    "givenNames": [
+      "Dawn"
+    ],
+    "familyName": "Upshaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dawn_Upshaw",
+    "occupation": "Soprano",
+    "achievements": [
+      "Grammy Award winner",
+      "Renowned interpreter of contemporary music"
+    ],
+    "yearBorn": 1960
+  }
+]

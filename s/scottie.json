@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Scottie Pippen",
+    "givenNames": [
+      "Scottie",
+      "Scotty",
+      "Maurice"
+    ],
+    "familyName": "Pippen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scottie_Pippen",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "Six-time NBA champion with the Chicago Bulls",
+      "Ten-time NBA All-Star",
+      "Seven-time All-NBA Team selection"
+    ],
+    "yearBorn": 1965
+  }
+]

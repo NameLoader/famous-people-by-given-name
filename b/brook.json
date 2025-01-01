@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Brook Lopez",
+    "givenNames": [
+      "Brook",
+      "Robert"
+    ],
+    "familyName": "Lopez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brook_Lopez",
+    "occupation": "Basketball player",
+    "achievements": [
+      "2x NBA All-Star",
+      "NBA All-Defensive Team"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Brook Benton",
+    "givenNames": [
+      "Brook"
+    ],
+    "familyName": "Benton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brook_Benton",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for hits like 'Rainy Night in Georgia'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 1988
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Albrecht Dürer",
+    "givenNames": [
+      "Albrecht"
+    ],
+    "familyName": "Dürer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+    "occupation": "Painter, printmaker, theorist",
+    "achievements": [
+      "German Renaissance master",
+      "Known for engravings, woodcuts, and paintings"
+    ],
+    "yearBorn": 1471,
+    "yearDied": 1528
+  },
+  {
+    "fullName": "Albrecht Schweitzer",
+    "givenNames": [
+      "Albert",
+      "Albrecht"
+    ],
+    "familyName": "Schweitzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Schweitzer",
+    "occupation": "Theologian, organist, philosopher, physician",
+    "achievements": [
+      "Nobel Peace Prize laureate (1952)",
+      "Founded a hospital in Lambaréné, Gabon"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1965
+  }
+]

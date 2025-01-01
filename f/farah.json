@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Farah Fawcett",
+    "givenNames": [
+      "Farrah",
+      "Leni"
+    ],
+    "familyName": "Fawcett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farrah_Fawcett",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Became a global icon in the 1970s for her role as Jill Munroe in the television series Charlie's Angels.",
+      "Known for her iconic feathered hairstyle."
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Farah Khan",
+    "givenNames": [
+      "Farah"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farah_Khan",
+    "occupation": "Choreographer, Film Director",
+    "achievements": [
+      "One of the most successful choreographers in Bollywood.",
+      "Known for her innovative and energetic dance sequences.",
+      "Has also directed several successful films."
+    ],
+    "yearBorn": 1965
+  }
+]

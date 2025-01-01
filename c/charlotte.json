@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Charlotte Brontë",
+    "givenNames": [
+      "Charlotte"
+    ],
+    "familyName": "Brontë",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB",
+    "occupation": "Novelist",
+    "achievements": [
+      "Authored Jane Eyre",
+      "Pioneer of Gothic literature"
+    ],
+    "yearBorn": 1816,
+    "yearDied": 1855
+  },
+  {
+    "fullName": "Charlotte Casiraghi",
+    "givenNames": [
+      "Charlotte",
+      "Marie",
+      "Pomeline"
+    ],
+    "familyName": "Casiraghi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Casiraghi",
+    "occupation": "Socialite, Equestrian",
+    "achievements": [
+      "Granddaughter of Grace Kelly"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Charlotte Perkins Gilman",
+    "givenNames": [
+      "Charlotte",
+      "Anna"
+    ],
+    "familyName": "Gilman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+    "occupation": "Writer, Feminist",
+    "achievements": [
+      "Authored The Yellow Wallpaper",
+      "Early feminist writer and social reformer"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1935
+  },
+  {
+    "fullName": "Charlotte Rampling",
+    "givenNames": [
+      "Charlotte",
+      "Tessa"
+    ],
+    "familyName": "Rampling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Rampling",
+    "occupation": "Actress",
+    "achievements": [
+      "Acclaimed for roles in films like The Night Porter and 45 Years"
+    ],
+    "yearBorn": 1946
+  }
+]

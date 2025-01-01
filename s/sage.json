@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sage Stallone",
+    "givenNames": [
+      "Sage",
+      "Moonblood"
+    ],
+    "familyName": "Stallone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sage_Stallone",
+    "occupation": "Actor",
+    "achievements": [
+      "Appeared in films such as 'Rocky V' and 'Daylight'",
+      "Son of actor Sylvester Stallone"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Sage Francis",
+    "givenNames": [
+      "Sage",
+      "Paul William"
+    ],
+    "familyName": "Francis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sage_Francis",
+    "occupation": "Spoken word poet, rapper",
+    "achievements": [
+      "Known for his complex rhyme schemes and thought-provoking lyrics",
+      "Released albums such as 'Personal Journals' and 'Sick of It'"
+    ],
+    "yearBorn": 1976
+  }
+]

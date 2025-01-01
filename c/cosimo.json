@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Cosimo de' Medici",
+    "givenNames": [
+      "Cosimo"
+    ],
+    "familyName": "Medici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici",
+    "occupation": "Italian banker, politician",
+    "achievements": [
+      "Founder of the Medici Bank",
+      "Patron of the arts and humanities in Florence",
+      "Considered the father of the Renaissance"
+    ],
+    "yearBorn": 1389,
+    "yearDied": 1464
+  },
+  {
+    "fullName": "Cosimo I de' Medici, Grand Duke of Tuscany",
+    "givenNames": [
+      "Cosimo"
+    ],
+    "familyName": "Medici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici",
+    "occupation": "Grand Duke of Tuscany",
+    "achievements": [
+      "Expanded the territory of Tuscany",
+      "Commissioned major building projects in Florence, including the Uffizi Gallery and Palazzo Pitti",
+      "Patron of artists and scientists"
+    ],
+    "yearBorn": 1519,
+    "yearDied": 1574
+  }
+]

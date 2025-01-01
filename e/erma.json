@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Erma Bombeck",
+    "givenNames": [
+      "Erma",
+      "Louise"
+    ],
+    "familyName": "Bombeck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erma_Bombeck",
+    "occupation": "Humorist, columnist",
+    "achievements": [
+      "Known for her witty and insightful observations on everyday life as a housewife.",
+      "Authored numerous bestselling books and columns syndicated in over 900 newspapers."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1996
+  }
+]

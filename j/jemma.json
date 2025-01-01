@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jemma Redgrave",
+    "givenNames": [
+      "Jemima",
+      "Rebecca",
+      "Jemma"
+    ],
+    "familyName": "Redgrave",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jemma_Redgrave",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in British television series such as 'Doctor Who' and 'Cold Feet'",
+      "Member of the prominent Redgrave acting dynasty"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Jemma Lucy",
+    "givenNames": [
+      "Jemma"
+    ],
+    "familyName": "Lucy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jemma_Lucy",
+    "occupation": "Reality television personality, model",
+    "achievements": [
+      "Appeared on reality shows such as 'Ex on the Beach' and 'Celebrity Big Brother'",
+      "Known for her outspoken personality and social media presence"
+    ],
+    "yearBorn": 1988
+  }
+]

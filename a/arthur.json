@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Arthur Miller",
+    "givenNames": [
+      "Arthur",
+      "Asher"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Miller",
+    "occupation": "Playwright",
+    "achievements": [
+      "Pulitzer Prize winner for 'Death of a Salesman'"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Arthur Ashe",
+    "givenNames": [
+      "Arthur",
+      "Robert"
+    ],
+    "familyName": "Ashe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Ashe",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "First Black player to win Wimbledon"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Arthur Schopenhauer",
+    "givenNames": [
+      "Arthur"
+    ],
+    "familyName": "Schopenhauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Known for his pessimistic philosophy"
+    ],
+    "yearBorn": 1788,
+    "yearDied": 1860
+  }
+]

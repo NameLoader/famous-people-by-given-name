@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Paxton Whitehead",
+    "givenNames": [
+      "Francis",
+      "Edward",
+      "Paxton"
+    ],
+    "familyName": "Whitehead",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paxton_Whitehead",
+    "occupation": "Actor",
+    "achievements": [
+      "Tony Award nominee for Best Featured Actor in a Play",
+      "Known for roles on Broadway and television, including 'Murphy Brown' and 'The West Wing'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2023
+  },
+  {
+    "fullName": "Paxton Lynch",
+    "givenNames": [
+      "Paxton",
+      "James"
+    ],
+    "familyName": "Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paxton_Lynch",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "Drafted by the Denver Broncos in the first round of the 2016 NFL Draft",
+      "Played for the Denver Broncos and the Seattle Seahawks"
+    ],
+    "yearBorn": 1993
+  }
+]

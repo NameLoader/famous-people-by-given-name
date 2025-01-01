@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Nancy Pelosi",
+    "givenNames": [
+      "Nancy",
+      "Patricia"
+    ],
+    "familyName": "Pelosi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Pelosi",
+    "occupation": "Politician",
+    "achievements": [
+      "First female Speaker of the United States House of Representatives",
+      "Longest-serving Speaker in US history"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Nancy Reagan",
+    "givenNames": [
+      "Nancy"
+    ],
+    "familyName": "Reagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Reagan",
+    "occupation": "Actress, First Lady of the United States",
+    "achievements": [
+      "Advocate for drug awareness and prevention during her husband's presidency",
+      "Known for her influence on Ronald Reagan's political decisions"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Nancy Drew",
+    "givenNames": [
+      "Nancy"
+    ],
+    "familyName": "Drew",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Drew",
+    "occupation": "Fictional character",
+    "achievements": [
+      "One of the most popular fictional detectives in history",
+      "Inspired generations of young readers, particularly girls"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Phyllis Schlafly",
+    "givenNames": [
+      "Phyllis"
+    ],
+    "familyName": "Schlafly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phyllis_Schlafly",
+    "occupation": "Political activist",
+    "achievements": [
+      "Opposed the Equal Rights Amendment",
+      "Founded the Eagle Forum"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Phyllis Diller",
+    "givenNames": [
+      "Phyllis",
+      "Ada"
+    ],
+    "familyName": "Diller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phyllis_Diller",
+    "occupation": "Comedian, actress",
+    "achievements": [
+      "Pioneer female stand-up comedian",
+      "Known for her self-deprecating humor and wild stage persona"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Phyllis Wheatley",
+    "givenNames": [
+      "Phillis",
+      "Phyllis"
+    ],
+    "familyName": "Wheatley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phillis_Wheatley",
+    "occupation": "Poet",
+    "achievements": [
+      "First African-American woman to publish a book of poetry",
+      "Known for her classical style and insightful themes"
+    ],
+    "yearBorn": 1753,
+    "yearDied": 1784
+  }
+]

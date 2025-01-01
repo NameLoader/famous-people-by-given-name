@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Murray Gell-Mann",
+    "givenNames": [
+      "Murray"
+    ],
+    "familyName": "Gell-Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Gell-Mann",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1969)",
+      "Developed the Quark Model"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Murray Rothbard",
+    "givenNames": [
+      "Murray",
+      "Newton"
+    ],
+    "familyName": "Rothbard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Rothbard",
+    "occupation": "Economist, political philosopher",
+    "achievements": [
+      "Key figure in the Austrian School of Economics",
+      "Advocate for libertarianism and anarcho-capitalism"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Murray Walker",
+    "givenNames": [
+      "Graeme",
+      "Murray"
+    ],
+    "familyName": "Walker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Walker",
+    "occupation": "Motorsports commentator",
+    "achievements": [
+      "Legendary voice of Formula One racing commentary"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Murray Perahia",
+    "givenNames": [
+      "Murray",
+      "David"
+    ],
+    "familyName": "Perahia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Perahia",
+    "occupation": "Pianist",
+    "achievements": [
+      "Acclaimed classical pianist known for his interpretations of Bach and Mozart"
+    ],
+    "yearBorn": 1947
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Hiram Bingham III",
+    "givenNames": [
+      "Hiram"
+    ],
+    "familyName": "Bingham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Bingham_III",
+    "occupation": "Politician, Explorer",
+    "achievements": [
+      "Discovered the lost Inca city of Machu Picchu",
+      "Served as Governor of Connecticut and Senator from Connecticut"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Hiram Rhodes Revels",
+    "givenNames": [
+      "Hiram",
+      "Rhodes"
+    ],
+    "familyName": "Revels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiram_R._Revels",
+    "occupation": "Minister, Politician",
+    "achievements": [
+      "First African American to serve in the U.S. Senate"
+    ],
+    "yearBorn": 1827,
+    "yearDied": 1910
+  },
+  {
+    "fullName": "Hiram Johnson",
+    "givenNames": [
+      "Hiram",
+      "Warren"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Johnson",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Governor of California and Senator from California"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1945
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Shane MacGowan",
+    "givenNames": [
+      "Shane",
+      "Patrick",
+      "Lysaght"
+    ],
+    "familyName": "MacGowan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shane_MacGowan",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Lead singer of The Pogues",
+      "Influential figure in Celtic punk"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Shane Warne",
+    "givenNames": [
+      "Shane",
+      "Keith"
+    ],
+    "familyName": "Warne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shane_Warne",
+    "occupation": "Cricketer",
+    "achievements": [
+      "One of the greatest leg spinners in cricket history",
+      "Took over 1,000 international wickets"
+    ],
+    "yearBorn": 1969,
+    "yearDied": 2022
+  }
+]

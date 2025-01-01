@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kay Granger",
+    "givenNames": [
+      "Kay",
+      "Norvell"
+    ],
+    "familyName": "Granger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kay_Granger",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Texas's 12th congressional district since 1999.",
+      "Member of the Republican Party."
+    ],
+    "yearBorn": 1943
+  }
+]

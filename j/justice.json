@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Justice Smith",
+    "givenNames": [
+      "Justice",
+      "Elio"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justice_Smith",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'Jurassic World: Fallen Kingdom' and 'Detective Pikachu'",
+      "Appeared in the HBO series 'The Get Down'"
+    ],
+    "yearBorn": 1995
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Javier Bardem",
+    "givenNames": [
+      "Javier",
+      "Ángel",
+      "Encinas"
+    ],
+    "familyName": "Bardem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javier_Bardem",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Two Goya Awards for Best Actor"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Javier Solana",
+    "givenNames": [
+      "Francisco",
+      "Javier"
+    ],
+    "familyName": "Solana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javier_Solana",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "NATO Secretary General (1995-1999)",
+      "European Union High Representative for the Common Foreign and Security Policy (1999-2009)"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Javier Pérez de Cuéllar",
+    "givenNames": [
+      "Javier",
+      "Felipe",
+      "Ricardo"
+    ],
+    "familyName": "Pérez de Cuéllar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Javier_P%C3%A9rez_de_Cu%C3%A9llar",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "Fifth Secretary-General of the United Nations (1982–1991)"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2020
+  }
+]

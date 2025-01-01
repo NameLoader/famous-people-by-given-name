@@ -1,0 +1,27 @@
+[
+  {
+    "fullName": "Saori Kimura",
+    "givenNames": [
+      "Saori"
+    ],
+    "familyName": "Kimura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saori_Kimura",
+    "occupation": "Volleyball player",
+    "achievements": [
+      "Won the gold medal at the 2008 Beijing Olympics"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Saori Hayami",
+    "givenNames": [
+      "Saori"
+    ],
+    "familyName": "Hayami",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saori_Hayami",
+    "occupation": "Voice actress",
+    "achievements": [
+      "Known for her roles in anime and video games like Sword Art Online, Demon Slayer"
+    ]
+  }
+]

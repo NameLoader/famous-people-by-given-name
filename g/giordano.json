@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Giordano Bruno",
+    "givenNames": [
+      "Giordano"
+    ],
+    "familyName": "Bruno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno",
+    "occupation": "Philosopher, Dominican friar, mathematician, astronomer",
+    "achievements": [
+      "Developed a cosmological system that challenged the geocentric model of the universe",
+      "Advocated for the existence of infinite worlds and the possibility of extraterrestrial life",
+      "Burned at the stake for heresy by the Roman Inquisition"
+    ],
+    "yearBorn": 1548,
+    "yearDied": 1600
+  }
+]

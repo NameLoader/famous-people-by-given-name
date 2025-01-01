@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Orazio Gentileschi",
+    "givenNames": [
+      "Orazio"
+    ],
+    "familyName": "Gentileschi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orazio_Gentileschi",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his Baroque paintings, particularly religious and mythological scenes.",
+      "Collaborated with Caravaggio and Peter Paul Rubens."
+    ],
+    "yearBorn": 1563,
+    "yearDied": 1639
+  }
+]

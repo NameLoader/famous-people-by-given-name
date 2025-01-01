@@ -1,0 +1,67 @@
+[
+  {
+    "fullName": "Horace Walpole",
+    "givenNames": [
+      "Horace"
+    ],
+    "familyName": "Walpole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Walpole",
+    "occupation": "Writer, Politician",
+    "achievements": [
+      "Authored the first Gothic novel, 'The Castle of Otranto'",
+      "Known for his influential letters and contributions to art history"
+    ],
+    "yearBorn": 1717,
+    "yearDied": 1797
+  },
+  {
+    "fullName": "Horace Greeley",
+    "givenNames": [
+      "Horace"
+    ],
+    "familyName": "Greeley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Greeley",
+    "occupation": "Journalist, Editor, Politician",
+    "achievements": [
+      "Founded the New-York Tribune",
+      "Prominent abolitionist and advocate for social reform",
+      "Ran for President in 1872"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1872
+  },
+  {
+    "fullName": "Horace Mann",
+    "givenNames": [
+      "Horace"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Mann",
+    "occupation": "Educator, Reformer",
+    "achievements": [
+      "Father of American public education",
+      "Advocate for free, universal, and non-sectarian education",
+      "Established teacher training schools (normal schools)"
+    ],
+    "yearBorn": 1796,
+    "yearDied": 1859
+  },
+  {
+    "fullName": "Horace Silver",
+    "givenNames": [
+      "Horace",
+      "Ward",
+      "Martin",
+      "Tavares"
+    ],
+    "familyName": "Silver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace_Silver",
+    "occupation": "Jazz Pianist, Composer",
+    "achievements": [
+      "Key figure in the hard bop movement",
+      "Known for his distinctive piano style and catchy compositions"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2014
+  }
+]

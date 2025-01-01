@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Aldo Moro",
+    "givenNames": [
+      "Aldo"
+    ],
+    "familyName": "Moro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_Moro",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Italy (1963-1968)",
+      "Leader of the Christian Democratic Party",
+      "Assassinated by the Red Brigades"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1978
+  },
+  {
+    "fullName": "Aldo Leopold",
+    "givenNames": [
+      "Aldo"
+    ],
+    "familyName": "Leopold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_Leopold",
+    "occupation": "Ecologist, Forester, Author",
+    "achievements": [
+      "Known for his book 'A Sand County Almanac'",
+      "Pioneer of the land ethic concept",
+      "Influential figure in the conservation movement"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Aldo Gucci",
+    "givenNames": [
+      "Aldo"
+    ],
+    "familyName": "Gucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_Gucci",
+    "occupation": "Fashion Designer, Businessman",
+    "achievements": [
+      "Son of Guccio Gucci, founder of the Gucci brand",
+      "Expanded and popularized the Gucci brand internationally"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1990
+  }
+]

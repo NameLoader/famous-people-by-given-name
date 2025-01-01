@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jacob Bernoulli",
+    "givenNames": [
+      "Jacob"
+    ],
+    "familyName": "Bernoulli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Developed calculus of variations.",
+      "Contributed to probability theory and the law of large numbers."
+    ],
+    "yearBorn": 1654,
+    "yearDied": 1705
+  },
+  {
+    "fullName": "Jacob Zuma",
+    "givenNames": [
+      "Jacob",
+      "Gedleyihlekisa"
+    ],
+    "familyName": "Zuma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Zuma",
+    "occupation": "Politician",
+    "achievements": [
+      "President of South Africa (2009-2018).",
+      "Key figure in the anti-apartheid struggle."
+    ],
+    "yearBorn": 1942
+  }
+]

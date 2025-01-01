@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sanford Dole",
+    "givenNames": [
+      "Sanford",
+      "Ballard"
+    ],
+    "familyName": "Dole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanford_B._Dole",
+    "occupation": "Politician, Businessman",
+    "achievements": [
+      "President of the Republic of Hawaii",
+      "Governor of Hawaii Territory"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Sanford Bishop",
+    "givenNames": [
+      "Sanford",
+      "Dixon"
+    ],
+    "familyName": "Bishop",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanford_Bishop",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Georgia's 2nd congressional district since 1993"
+    ],
+    "yearBorn": 1947
+  }
+]

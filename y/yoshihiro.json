@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Yoshihiro Togashi",
+    "givenNames": [
+      "Yoshihiro"
+    ],
+    "familyName": "Togashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshihiro_Togashi",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Creator of the popular manga series YuYu Hakusho and Hunter × Hunter"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Yoshihiro Akiyama",
+    "givenNames": [
+      "Yoshihiro"
+    ],
+    "familyName": "Akiyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshihiro_Akiyama",
+    "occupation": "Mixed martial artist, judoka",
+    "achievements": [
+      "Former Shooto Welterweight Champion",
+      "Competed in the UFC"
+    ],
+    "yearBorn": 1975
+  }
+]

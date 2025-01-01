@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Anthony Hopkins",
+    "givenNames": [
+      "Philip",
+      "Anthony"
+    ],
+    "familyName": "Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Hopkins",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "BAFTA Award for Best Actor in a Leading Role"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Anthony Fauci",
+    "givenNames": [
+      "Anthony",
+      "Stephen"
+    ],
+    "familyName": "Fauci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Fauci",
+    "occupation": "Immunologist, Physician",
+    "achievements": [
+      "Director of the National Institute of Allergy and Infectious Diseases",
+      "Key figure in the response to HIV/AIDS and COVID-19 pandemics"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Anthony Bourdain",
+    "givenNames": [
+      "Anthony",
+      "Michael"
+    ],
+    "familyName": "Bourdain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Bourdain",
+    "occupation": "Chef, Author, Television Personality",
+    "achievements": [
+      "Host of the travel and food shows 'A Cook's Tour' and 'Parts Unknown'",
+      "Acclaimed author of culinary and travel memoirs"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Anthony Davis",
+    "givenNames": [
+      "Anthony",
+      "Marshon"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Davis",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA Champion (2020)",
+      "8× NBA All-Star"
+    ],
+    "yearBorn": 1993
+  }
+]

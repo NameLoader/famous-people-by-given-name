@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Conor McGregor",
+    "givenNames": [
+      "Conor",
+      "Anthony"
+    ],
+    "familyName": "McGregor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conor_McGregor",
+    "occupation": "Mixed martial artist, boxer",
+    "achievements": [
+      "Former UFC Featherweight and Lightweight Champion",
+      "First fighter in UFC history to hold titles in two weight classes simultaneously"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Conor Oberst",
+    "givenNames": [
+      "Conor",
+      "Mullen"
+    ],
+    "familyName": "Oberst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conor_Oberst",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Frontman of Bright Eyes",
+      "Acclaimed singer-songwriter known for introspective lyrics and indie folk sound"
+    ],
+    "yearBorn": 1980
+  }
+]

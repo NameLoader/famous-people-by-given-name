@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Till Lindemann",
+    "givenNames": [
+      "Till"
+    ],
+    "familyName": "Lindemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Till_Lindemann",
+    "occupation": "Musician, poet",
+    "achievements": [
+      "Lead vocalist of the band Rammstein",
+      "Published several poetry collections"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Till Brönner",
+    "givenNames": [
+      "Till"
+    ],
+    "familyName": "Brönner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Till_Br%C3%B6nner",
+    "occupation": "Trumpeter, composer, singer",
+    "achievements": [
+      "Internationally acclaimed jazz musician",
+      "Released numerous albums and collaborated with renowned artists"
+    ],
+    "yearBorn": 1971
+  }
+]

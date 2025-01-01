@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Mackenzie Foy",
+    "givenNames": [
+      "Mackenzie"
+    ],
+    "familyName": "Foy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mackenzie_Foy",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'Interstellar', 'The Nutcracker and the Four Realms'",
+      "Nominated for several awards including Young Artist Awards"
+    ],
+    "yearBorn": 2000
+  },
+  {
+    "fullName": "Mackenzie Scott",
+    "givenNames": [
+      "MacKenzie"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/MacKenzie_Scott",
+    "occupation": "Philanthropist, Novelist",
+    "achievements": [
+      "Former wife of Jeff Bezos",
+      "Signed the Giving Pledge and donates billions to various causes",
+      "Authored two novels under the pen name 'Mackenzie Scott'"
+    ],
+    "yearBorn": 1970
+  }
+]

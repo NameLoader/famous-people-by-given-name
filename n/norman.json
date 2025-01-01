@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Norman Mailer",
+    "givenNames": [
+      "Norman",
+      "Kingsley"
+    ],
+    "familyName": "Mailer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Mailer",
+    "occupation": "Novelist, Essayist, Journalist",
+    "achievements": [
+      "Pulitzer Prize winner",
+      "National Book Award winner"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Norman Borlaug",
+    "givenNames": [
+      "Norman",
+      "Ernest"
+    ],
+    "familyName": "Borlaug",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Borlaug",
+    "occupation": "Agronomist, Nobel Peace Prize laureate",
+    "achievements": [
+      "Father of the Green Revolution"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Norman Rockwell",
+    "givenNames": [
+      "Norman",
+      "Percevel"
+    ],
+    "familyName": "Rockwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Rockwell",
+    "occupation": "Illustrator, Painter",
+    "achievements": [
+      "Known for iconic depictions of American life"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1978
+  }
+]

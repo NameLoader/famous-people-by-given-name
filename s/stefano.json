@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Stefano Pioli",
+    "givenNames": [
+      "Stefano"
+    ],
+    "familyName": "Pioli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Pioli",
+    "occupation": "Football manager",
+    "achievements": [
+      "Won the Serie A title with AC Milan in 2022",
+      "Managed Fiorentina and Lazio among other clubs"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Stefano Domenicali",
+    "givenNames": [
+      "Stefano"
+    ],
+    "familyName": "Domenicali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Domenicali",
+    "occupation": "Business executive",
+    "achievements": [
+      "Current President and CEO of Formula One Group",
+      "Previously held leadership positions at Audi and Lamborghini"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Stefano Manfredi",
+    "givenNames": [
+      "Stefano",
+      "Steve"
+    ],
+    "familyName": "Manfredi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Manfredi",
+    "occupation": "Chef",
+    "achievements": [
+      "Michelin-starred chef known for his Italian cuisine",
+      "Author of several cookbooks"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Stefano Sollima",
+    "givenNames": [
+      "Stefano"
+    ],
+    "familyName": "Sollima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Sollima",
+    "occupation": "Film and television director",
+    "achievements": [
+      "Directed films such as 'ACAB' and 'Sicilian Ghost Story'",
+      "Directed episodes of the HBO series 'Gomorrah'"
+    ],
+    "yearBorn": 1965
+  }
+]

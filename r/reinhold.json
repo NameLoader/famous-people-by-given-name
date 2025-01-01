@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Reinhold Messner",
+    "givenNames": [
+      "Reinhold",
+      "Andreas"
+    ],
+    "familyName": "Messner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Messner",
+    "occupation": "Mountaineer",
+    "achievements": [
+      "First person to climb all fourteen eight-thousanders (peaks over 8,000 meters)",
+      "First person to summit Mount Everest without supplemental oxygen"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Reinhold Niebuhr",
+    "givenNames": [
+      "Reinhold"
+    ],
+    "familyName": "Niebuhr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Niebuhr",
+    "occupation": "Theologian, ethicist, social critic",
+    "achievements": [
+      "Prominent figure in the development of Christian realism",
+      "Influential thinker on ethics and politics during the mid-20th century"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Reinhold Glière",
+    "givenNames": [
+      "Reinhold",
+      "Moritzevich"
+    ],
+    "familyName": "Glière",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Gli%C3%A8re",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his symphonic and chamber music",
+      "Wrote the ballet 'The Red Poppy'"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1956
+  }
+]

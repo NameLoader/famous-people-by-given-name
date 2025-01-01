@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Boris Yeltsin",
+    "givenNames": [
+      "Boris",
+      "Nikolayevich"
+    ],
+    "familyName": "Yeltsin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
+    "occupation": "Politician",
+    "achievements": [
+      "First President of the Russian Federation",
+      "Key figure in the dissolution of the Soviet Union"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Boris Becker",
+    "givenNames": [
+      "Boris",
+      "Franz"
+    ],
+    "familyName": "Becker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Becker",
+    "occupation": "Tennis Player, Coach",
+    "achievements": [
+      "Six Grand Slam singles titles",
+      "Former world No. 1 tennis player"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Boris Spassky",
+    "givenNames": [
+      "Boris",
+      "Vasilievich"
+    ],
+    "familyName": "Spassky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Spassky",
+    "occupation": "Chess Grandmaster",
+    "achievements": [
+      "World Chess Champion from 1969 to 1972",
+      "Known for his aggressive and tactical playing style"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Boris Johnson",
+    "givenNames": [
+      "Boris"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Johnson",
+    "occupation": "Politician, Journalist",
+    "achievements": [
+      "Prime Minister of the United Kingdom from 2019 to 2022",
+      "Mayor of London from 2008 to 2016"
+    ],
+    "yearBorn": 1964
+  }
+]

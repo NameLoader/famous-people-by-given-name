@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Wendell Berry",
+    "givenNames": [
+      "Wendell",
+      "Erdman"
+    ],
+    "familyName": "Berry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendell_Berry",
+    "occupation": "Writer, Poet, Farmer",
+    "achievements": [
+      "National Book Award Winner",
+      "Jefferson Lecturer",
+      "Prominent voice in environmentalism and agrarianism"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Wendell Scott",
+    "givenNames": [
+      "Wendell",
+      "Oliver"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendell_Scott",
+    "occupation": "NASCAR Driver",
+    "achievements": [
+      "First African-American driver to win a NASCAR Grand National race"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Wendell Willkie",
+    "givenNames": [
+      "Wendell",
+      "Lewis"
+    ],
+    "familyName": "Willkie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendell_Willkie",
+    "occupation": "Lawyer, Politician",
+    "achievements": [
+      "Republican nominee for President in 1940"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1944
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Emmitt Smith",
+    "givenNames": [
+      "Emmitt",
+      "James"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmitt_Smith",
+    "occupation": "Former NFL Running Back",
+    "achievements": [
+      "NFL's all-time leading rusher",
+      "3-time Super Bowl champion with the Dallas Cowboys",
+      "8-time Pro Bowler",
+      "NFL MVP (1993)"
+    ],
+    "yearBorn": 1969
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Henri Matisse",
+    "givenNames": [
+      "Henri",
+      "Émile",
+      "Benoît"
+    ],
+    "familyName": "Matisse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Matisse",
+    "occupation": "Painter, sculptor",
+    "achievements": [
+      "Leading figure in Fauvism",
+      "Known for his vibrant use of color and expressive brushstrokes"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1954
+  },
+  {
+    "fullName": "Henri Poincaré",
+    "givenNames": [
+      "Jules",
+      "Henri"
+    ],
+    "familyName": "Poincaré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9",
+    "occupation": "Mathematician, physicist, philosopher",
+    "achievements": [
+      "Made significant contributions to topology, celestial mechanics, and number theory",
+      "Considered one of the founders of modern mathematical physics"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1912
+  },
+  {
+    "fullName": "Henri Becquerel",
+    "givenNames": [
+      "Henri"
+    ],
+    "familyName": "Becquerel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovered radioactivity",
+      "Nobel Prize in Physics (1903)"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1908
+  }
+]

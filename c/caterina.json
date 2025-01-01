@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Caterina Sforza",
+    "givenNames": [
+      "Caterina"
+    ],
+    "familyName": "Sforza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caterina_Sforza",
+    "occupation": "Italian noblewoman, Countess of Forlì",
+    "achievements": [
+      "Known for her political acumen and military prowess.",
+      "Defended the city of Forlì against siege for months."
+    ],
+    "yearBorn": 1463,
+    "yearDied": 1509
+  },
+  {
+    "fullName": "Caterina Valente",
+    "givenNames": [
+      "Caterina"
+    ],
+    "familyName": "Valente",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caterina_Valente",
+    "occupation": "Italian singer and actress",
+    "achievements": [
+      "International singing star in the 1950s and 1960s.",
+      "Known for her versatility and powerful voice."
+    ],
+    "yearBorn": 1931
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Elaine Chao",
+    "givenNames": [
+      "Elaine",
+      "Lan"
+    ],
+    "familyName": "Chao",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elaine_Chao",
+    "occupation": "Politician, Businesswoman",
+    "achievements": [
+      "First Asian American woman to serve in a U.S. President's Cabinet",
+      "Secretary of Transportation under President Donald Trump",
+      "Secretary of Labor under President George W. Bush"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Elaine May",
+    "givenNames": [
+      "Elaine",
+      "Iva"
+    ],
+    "familyName": "May",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elaine_May",
+    "occupation": "Actress, screenwriter, director",
+    "achievements": [
+      "Academy Award nominations for Best Original Screenplay (Heaven Can Wait and Primary Colors)",
+      "Tony Award nomination for Best Actress in a Play (The Way of the World)"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Elaine Stritch",
+    "givenNames": [
+      "Elaine"
+    ],
+    "familyName": "Stritch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elaine_Stritch",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Tony Awards for Best Featured Actress in a Play (Bus Stop) and Best Performance by a Leading Actress in a Musical (Elaine Stritch at Liberty)",
+      "Emmy Award nomination for Outstanding Supporting Actress in a Miniseries or Movie (An Early Frost)"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2014
+  }
+]

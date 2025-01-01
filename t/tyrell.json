@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Tyrell Owens",
+    "givenNames": [
+      "Terrell",
+      "Eldorado"
+    ],
+    "familyName": "Owens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrell_Owens",
+    "occupation": "Former American Football Player",
+    "achievements": [
+      "6x Pro Bowl selection",
+      "5x First-team All-Pro selection",
+      "NFL receiving yards leader (2001)",
+      "NFL touchdowns leader (2001)"
+    ],
+    "yearBorn": 1973
+  }
+]

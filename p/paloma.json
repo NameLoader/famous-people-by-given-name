@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Paloma Picasso",
+    "givenNames": [
+      "Paloma"
+    ],
+    "familyName": "Picasso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paloma_Picasso",
+    "occupation": "Fashion Designer, Artist",
+    "achievements": [
+      "Daughter of Pablo Picasso",
+      "Successful jewelry and perfume designer"
+    ],
+    "yearBorn": 1949
+  }
+]

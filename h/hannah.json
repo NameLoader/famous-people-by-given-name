@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Hannah Arendt",
+    "givenNames": [
+      "Hannah"
+    ],
+    "familyName": "Arendt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Arendt",
+    "occupation": "Political theorist, philosopher",
+    "achievements": [
+      "Developed the concept of 'the banality of evil'",
+      "Wrote influential works on totalitarianism and revolution"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Hannah Montana",
+    "givenNames": [
+      "Hannah"
+    ],
+    "familyName": "Montana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Montana",
+    "occupation": "Fictional character, singer, actress",
+    "achievements": [
+      "Popular Disney Channel television series and musical franchise"
+    ]
+  },
+  {
+    "fullName": "Hannah Simone",
+    "givenNames": [
+      "Hannah"
+    ],
+    "familyName": "Simone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Simone",
+    "occupation": "Actress, television host",
+    "achievements": [
+      "Known for her role as Cece Parekh in the sitcom 'New Girl'"
+    ],
+    "yearBorn": 1980
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Susanna Wesley",
+    "givenNames": [
+      "Susanna"
+    ],
+    "familyName": "Wesley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susanna_Wesley",
+    "occupation": "Mother of John and Charles Wesley, founders of Methodism",
+    "achievements": [
+      "Raised 19 children, including prominent religious figures",
+      "Known for her piety and strong faith"
+    ],
+    "yearBorn": 1669,
+    "yearDied": 1742
+  },
+  {
+    "fullName": "Susanna Clarke",
+    "givenNames": [
+      "Susanna",
+      "Mary"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susanna_Clarke",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of the acclaimed novel 'Jonathan Strange & Mr Norrell'"
+    ],
+    "yearBorn": 1959
+  }
+]

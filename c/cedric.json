@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Cedric Gibbons",
+    "givenNames": [
+      "Cedric"
+    ],
+    "familyName": "Gibbons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cedric_Gibbons",
+    "occupation": "Art Director",
+    "achievements": [
+      "Won 11 Academy Awards for Best Art Direction"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1960
+  },
+  {
+    "fullName": "Cedric McMillan",
+    "givenNames": [
+      "Cedric",
+      "Kennan"
+    ],
+    "familyName": "McMillan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cedric_McMillan",
+    "occupation": "Bodybuilder",
+    "achievements": [
+      "Won the Arnold Classic"
+    ],
+    "yearBorn": 1977
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Jules Verne",
+    "givenNames": [
+      "Jules",
+      "Gabriel"
+    ],
+    "familyName": "Verne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jules_Verne",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Father of Science Fiction",
+      "Wrote influential novels like Journey to the Center of the Earth and Twenty Thousand Leagues Under the Sea"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1905
+  },
+  {
+    "fullName": "Jules Massenet",
+    "givenNames": [
+      "Jules",
+      "Émile",
+      "Frédéric"
+    ],
+    "familyName": "Massenet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jules_Massenet",
+    "occupation": "Composer",
+    "achievements": [
+      "Wrote operas such as Manon and Werther",
+      "Influential figure in French opera"
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1912
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Shaquille O'Neal",
+    "givenNames": [
+      "Shaquille",
+      "Rashaun"
+    ],
+    "familyName": "O'Neal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaquille_O%27Neal",
+    "occupation": "Basketball Player, Rapper, Actor",
+    "achievements": [
+      "4× NBA champion",
+      "3× NBA Finals MVP",
+      "15× NBA All-Star",
+      "NBA MVP (2000)"
+    ],
+    "yearBorn": 1972
+  }
+]

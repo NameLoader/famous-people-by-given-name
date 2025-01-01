@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Battista Vico",
+    "givenNames": [
+      "Giambattista",
+      "Giovan Battista"
+    ],
+    "familyName": "Vico",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giambattista_Vico",
+    "occupation": "Philosopher, Historian",
+    "achievements": [
+      "Known for his work on the cyclical nature of history and the idea of 'verum factum'."
+    ],
+    "yearBorn": 1668,
+    "yearDied": 1744
+  }
+]

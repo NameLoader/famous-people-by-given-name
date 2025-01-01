@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Wolfgang Amadeus Mozart",
+    "givenNames": [
+      "Wolfgang",
+      "Amadeus"
+    ],
+    "familyName": "Mozart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific and influential composer of the Classical era.",
+      "Known for operas like 'The Marriage of Figaro', 'Don Giovanni', and 'The Magic Flute'."
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1791
+  },
+  {
+    "fullName": "Wolfgang Pauli",
+    "givenNames": [
+      "Wolfgang",
+      "Ernst"
+    ],
+    "familyName": "Pauli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Pauli",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1945 for his discovery of the exclusion principle.",
+      "Made significant contributions to quantum mechanics and particle physics."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1958
+  },
+  {
+    "fullName": "Wolfgang Tillmans",
+    "givenNames": [
+      "Wolfgang"
+    ],
+    "familyName": "Tillmans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Tillmans",
+    "occupation": "Photographer, Artist",
+    "achievements": [
+      "Won the Turner Prize in 2000.",
+      "Known for his experimental and diverse photographic style."
+    ],
+    "yearBorn": 1968
+  }
+]

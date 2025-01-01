@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Laurence Olivier",
+    "givenNames": [
+      "Laurence",
+      "Kerr"
+    ],
+    "familyName": "Olivier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+    "occupation": "Actor",
+    "achievements": [
+      "Considered one of the greatest actors of the 20th century",
+      "Won an Academy Award for Best Actor and four Tony Awards"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Laurence Fishburne",
+    "givenNames": [
+      "Laurence",
+      "John"
+    ],
+    "familyName": "Fishburne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Fishburne",
+    "occupation": "Actor, Producer, Screenwriter",
+    "achievements": [
+      "Known for roles in films such as 'The Matrix', 'Boyz n the Hood'",
+      "Won a Tony Award for his performance in 'Two Trains Running'"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Laurence Sterne",
+    "givenNames": [
+      "Laurence"
+    ],
+    "familyName": "Sterne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Sterne",
+    "occupation": "Novelist, Cleric",
+    "achievements": [
+      "Known for his innovative and humorous novel 'Tristram Shandy'"
+    ],
+    "yearBorn": 1713,
+    "yearDied": 1768
+  }
+]

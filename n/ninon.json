@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ninon de l'Enclos",
+    "givenNames": [
+      "Ninon",
+      "Anne"
+    ],
+    "familyName": "de l'Enclos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ninon_de_l%27Enclos",
+    "occupation": "Salonnière, Writer",
+    "achievements": [
+      "Known for her intellectual salon and influential relationships with prominent figures.",
+      "Author of memoirs and letters that provide insight into 17th-century French society."
+    ],
+    "yearBorn": 1620,
+    "yearDied": 1705
+  }
+]

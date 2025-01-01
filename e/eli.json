@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Eli Whitney",
+    "givenNames": [
+      "Eli",
+      "Jr."
+    ],
+    "familyName": "Whitney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Whitney",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the cotton gin",
+      "Pioneered interchangeable parts in manufacturing"
+    ],
+    "yearBorn": 1765,
+    "yearDied": 1825
+  },
+  {
+    "fullName": "Eli Manning",
+    "givenNames": [
+      "Elisha",
+      "Nelson"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Manning",
+    "occupation": "Former NFL quarterback",
+    "achievements": [
+      "Won two Super Bowl championships with the New York Giants",
+      "Four-time Pro Bowl selection"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Eli Roth",
+    "givenNames": [
+      "Eli",
+      "Raphael"
+    ],
+    "familyName": "Roth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eli_Roth",
+    "occupation": "Film director, producer, actor",
+    "achievements": [
+      "Known for directing horror films such as 'Cabin Fever' and 'Hostel'",
+      "Appeared in Quentin Tarantino films"
+    ],
+    "yearBorn": 1972
+  }
+]

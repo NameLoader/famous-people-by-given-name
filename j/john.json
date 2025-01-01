@@ -1,0 +1,82 @@
+[
+  {
+    "fullName": "John Lennon",
+    "givenNames": [
+      "John",
+      "Winston",
+      "Ono"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Founding member of The Beatles",
+      "Peace activist",
+      "Prolific songwriter"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "John F. Kennedy",
+    "givenNames": [
+      "John",
+      "Fitzgerald"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+    "occupation": "Politician",
+    "achievements": [
+      "35th President of the United States",
+      "Led the US during the Cuban Missile Crisis",
+      "Championed the space race"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "John Travolta",
+    "givenNames": [
+      "John",
+      "Joseph"
+    ],
+    "familyName": "Travolta",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Travolta",
+    "occupation": "Actor, Singer, Dancer",
+    "achievements": [
+      "Starred in iconic films like 'Grease', 'Saturday Night Fever' and 'Pulp Fiction'",
+      "Academy Award nominee"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "John Grisham",
+    "givenNames": [
+      "John",
+      "Ray"
+    ],
+    "familyName": "Grisham",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Grisham",
+    "occupation": "Author, Lawyer",
+    "achievements": [
+      "Bestselling author of legal thrillers",
+      "Books adapted into successful films"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "John Mayer",
+    "givenNames": [
+      "John",
+      "Clayton"
+    ],
+    "familyName": "Mayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Mayer",
+    "occupation": "Singer-Songwriter, Guitarist",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for his blues-influenced guitar style and soulful vocals"
+    ],
+    "yearBorn": 1977
+  }
+]

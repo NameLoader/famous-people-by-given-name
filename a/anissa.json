@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Anissa Jones",
+    "givenNames": [
+      "Mary",
+      "Anissa"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anissa_Jones",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Buffy on the TV series 'Family Affair'"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1976
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Colton Underwood",
+    "givenNames": [
+      "Colton",
+      "Scott"
+    ],
+    "familyName": "Underwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colton_Underwood",
+    "occupation": "Former professional football player, reality television personality",
+    "achievements": [
+      "Appeared on seasons 14 and 23 of The Bachelorette",
+      "Starred in season 23 of The Bachelor"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Colton Haynes",
+    "givenNames": [
+      "Colton",
+      "Lee"
+    ],
+    "familyName": "Haynes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colton_Haynes",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Jackson Montgomery on Teen Wolf",
+      "Appeared in Arrow and The Grinder"
+    ],
+    "yearBorn": 1988
+  }
+]

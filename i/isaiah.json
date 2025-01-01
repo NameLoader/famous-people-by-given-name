@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Isaiah Berlin",
+    "givenNames": [
+      "Isaiah"
+    ],
+    "familyName": "Berlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Berlin",
+    "occupation": "Philosopher, Historian of Ideas",
+    "achievements": [
+      "Influential thinker on liberalism and its relationship to other political ideologies.",
+      "Known for his work on value pluralism and the conflict between liberty and equality."
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Isaiah Mustafa",
+    "givenNames": [
+      "Isaiah",
+      "Amir"
+    ],
+    "familyName": "Mustafa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Mustafa",
+    "occupation": "Actor, Model, NFL Player",
+    "achievements": [
+      "Best known for his role as the 'Old Spice Man' in a series of popular commercials.",
+      "Appeared in films and television shows such as 'Shadowhunters' and 'It: Chapter Two'."
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Isaiah Thomas",
+    "givenNames": [
+      "Isaiah",
+      "Jamar"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Thomas_(basketball)",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "Two-time NBA All-Star.",
+      "Known for his scoring ability and playmaking skills."
+    ],
+    "yearBorn": 1989
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ignaz Semmelweis",
+    "givenNames": [
+      "Ignaz",
+      "Philipp"
+    ],
+    "familyName": "Semmelweis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+    "occupation": "Physician",
+    "achievements": [
+      "Pioneered antiseptic procedures in hospitals.",
+      "Reduced mortality rates from puerperal fever."
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1865
+  }
+]

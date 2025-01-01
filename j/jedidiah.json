@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Jedidiah Morse",
+    "givenNames": [
+      "Jedidiah"
+    ],
+    "familyName": "Morse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jedidiah_Morse",
+    "occupation": "Geographer, minister",
+    "achievements": [
+      "Published the first geography textbook in the United States",
+      "Founded the American Antiquarian Society"
+    ],
+    "yearBorn": 1761,
+    "yearDied": 1826
+  }
+]

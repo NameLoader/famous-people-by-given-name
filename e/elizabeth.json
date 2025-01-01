@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Elizabeth I",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "occupation": "Queen of England and Ireland",
+    "achievements": [
+      "Reigning during a period of great cultural and economic flourishing known as the Elizabethan era",
+      "Defeating the Spanish Armada",
+      "Establishing the Church of England"
+    ],
+    "yearBorn": 1533,
+    "yearDied": 1603
+  },
+  {
+    "fullName": "Elizabeth II",
+    "givenNames": [
+      "Elizabeth",
+      "Alexandra",
+      "Mary"
+    ],
+    "familyName": "Windsor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_II",
+    "occupation": "Queen of the United Kingdom and other Commonwealth realms",
+    "achievements": [
+      "Longest-reigning monarch in British history",
+      "Navigating significant social and political changes during her reign",
+      "Promoting international cooperation and diplomacy"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Elizabeth Taylor",
+    "givenNames": [
+      "Elizabeth",
+      "Rosemond"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Taylor",
+    "occupation": "Actress",
+    "achievements": [
+      "Two-time Academy Award winner for Best Actress",
+      "Iconic Hollywood star known for her beauty and talent",
+      "Advocate for HIV/AIDS awareness and research"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Elizabeth Warren",
+    "givenNames": [
+      "Elizabeth",
+      "Ann"
+    ],
+    "familyName": "Warren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Warren",
+    "occupation": "Senator from Massachusetts, Former Professor",
+    "achievements": [
+      "Advocate for consumer protection and financial regulation",
+      "Author of influential books on bankruptcy and economic policy"
+    ],
+    "yearBorn": 1949
+  }
+]

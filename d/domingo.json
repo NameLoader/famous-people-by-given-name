@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Domingo Faustino Sarmiento",
+    "givenNames": [
+      "Domingo",
+      "Faustino"
+    ],
+    "familyName": "Sarmiento",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento",
+    "occupation": "President of Argentina, writer",
+    "achievements": [
+      "Key figure in the modernization of Argentina",
+      "Promoted education and infrastructure development"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1888
+  }
+]

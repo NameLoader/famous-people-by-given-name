@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Melvin Gordon",
+    "givenNames": [
+      "Melvin"
+    ],
+    "familyName": "Gordon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melvin_Gordon",
+    "occupation": "American football player",
+    "achievements": [
+      "NFL Pro Bowler",
+      "College Football Playoff National Champion"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Melvin Van Peebles",
+    "givenNames": [
+      "Melvin"
+    ],
+    "familyName": "Van Peebles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melvin_Van_Peebles",
+    "occupation": "Filmmaker, actor, playwright, novelist",
+    "achievements": [
+      "Pioneer of Black cinema",
+      "Created the groundbreaking film 'Sweet Sweetback's Baadasssss Song'"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Melvin Calvin",
+    "givenNames": [
+      "Melvin",
+      "Ellis"
+    ],
+    "familyName": "Calvin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melvin_Calvin",
+    "occupation": "Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1961)",
+      "Discovered the Calvin cycle, a key process in photosynthesis"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1997
+  }
+]

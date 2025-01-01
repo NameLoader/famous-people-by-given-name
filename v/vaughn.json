@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Vaughn Taylor",
+    "givenNames": [
+      "Vaughn",
+      "Joseph"
+    ],
+    "familyName": "Taylor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaughn_Taylor",
+    "occupation": "Golfer",
+    "achievements": [
+      "Won four PGA Tour events",
+      "Represented the United States in the Presidents Cup"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Vaughn Monroe",
+    "givenNames": [
+      "Vaughn",
+      "Wilton"
+    ],
+    "familyName": "Monroe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vaughn_Monroe",
+    "occupation": "Singer, bandleader",
+    "achievements": [
+      "Had numerous hit songs in the 1940s and 1950s",
+      "Known for his smooth baritone voice"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1973
+  }
+]

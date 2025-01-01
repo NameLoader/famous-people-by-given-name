@@ -1,0 +1,81 @@
+[
+  {
+    "fullName": "Franz Kafka",
+    "givenNames": [
+      "Franz"
+    ],
+    "familyName": "Kafka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka",
+    "occupation": "Writer",
+    "achievements": [
+      "Authored influential novels and short stories such as 'The Metamorphosis' and 'The Trial'",
+      "Known for exploring themes of existentialism, alienation, and bureaucracy"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "Franz Schubert",
+    "givenNames": [
+      "Franz",
+      "Peter"
+    ],
+    "familyName": "Schubert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific composer of the Romantic era",
+      "Known for Lieder (art songs), symphonies, chamber music, and piano pieces such as 'Ave Maria'",
+      "Influenced generations of composers"
+    ],
+    "yearBorn": 1797,
+    "yearDied": 1828
+  },
+  {
+    "fullName": "Franz Liszt",
+    "givenNames": [
+      "Franz"
+    ],
+    "familyName": "Liszt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Liszt",
+    "occupation": "Composer, Pianist, Conductor",
+    "achievements": [
+      "Virtuoso pianist and composer of the Romantic era",
+      "Known for his Transcendental Études and Hungarian Rhapsodies",
+      "Innovator in piano technique and musical form"
+    ],
+    "yearBorn": 1811,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Franz Joseph Haydn",
+    "givenNames": [
+      "Franz",
+      "Joseph"
+    ],
+    "familyName": "Haydn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+    "occupation": "Composer",
+    "achievements": [
+      "Known as the 'Father of the Symphony' and 'Father of the String Quartet'",
+      "Prolific composer of symphonies, string quartets, concertos, and operas"
+    ],
+    "yearBorn": 1732,
+    "yearDied": 1809
+  },
+  {
+    "fullName": "Franz Beckenbauer",
+    "givenNames": [
+      "Franz",
+      "Anton"
+    ],
+    "familyName": "Beckenbauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Considered one of the greatest footballers of all time",
+      "Won the World Cup as both a player (1974) and manager (1990)"
+    ],
+    "yearBorn": 1945
+  }
+]

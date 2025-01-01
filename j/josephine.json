@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Josephine Baker",
+    "givenNames": [
+      "Josephine"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Baker",
+    "occupation": "Singer, dancer, actress, and civil rights activist",
+    "achievements": [
+      "Internationally renowned entertainer",
+      "Active in the Civil Rights Movement",
+      "Recipient of the French Legion of Honor"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Josephine Tey",
+    "givenNames": [
+      "Josephine"
+    ],
+    "familyName": "Tey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Tey",
+    "occupation": "Novelist and short story writer",
+    "achievements": [
+      "Known for her mystery novels, particularly 'The Daughter of Time'",
+      "Critically acclaimed for her character development and intricate plots"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Josephine Butler",
+    "givenNames": [
+      "Josephine",
+      "Elizabeth"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Butler",
+    "occupation": "Social reformer and feminist",
+    "achievements": [
+      "Campaigned against the Contagious Diseases Acts",
+      "Advocated for women's rights and social justice",
+      "Founded the National Vigilance Association"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1906
+  }
+]

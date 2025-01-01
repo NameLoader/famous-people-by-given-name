@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Valery Leontiev",
+    "givenNames": [
+      "Valery",
+      "Yakovlevich"
+    ],
+    "familyName": "Leontiev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valery_Leontiev",
+    "occupation": "Singer, composer",
+    "achievements": [
+      "Popular Soviet and Russian pop singer",
+      "Known for his romantic ballads and energetic performances"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Valery Gergiev",
+    "givenNames": [
+      "Valery",
+      "Abisalovich"
+    ],
+    "familyName": "Gergiev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valery_Gergiev",
+    "occupation": "Conductor",
+    "achievements": [
+      "Music Director of the Mariinsky Theatre",
+      "Acclaimed for his interpretations of Russian classical music"
+    ],
+    "yearBorn": 1953
+  }
+]

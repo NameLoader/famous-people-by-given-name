@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Dara Ó Briain",
+    "givenNames": [
+      "Dara"
+    ],
+    "familyName": "Ó Briain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dara_%C3%93_Briain",
+    "occupation": "Comedian, television presenter",
+    "achievements": [
+      "Host of Mock the Week",
+      "Presenter of science documentaries for the BBC"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Dara Rolins",
+    "givenNames": [
+      "Dara"
+    ],
+    "familyName": "Rolins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dara_Rolins",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Popular Slovak singer",
+      "Successful acting career in Slovakia and Czech Republic"
+    ],
+    "yearBorn": 1972
+  }
+]

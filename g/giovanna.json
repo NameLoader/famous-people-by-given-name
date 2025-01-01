@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Giovanna Antonelli",
+    "givenNames": [
+      "Giovanna"
+    ],
+    "familyName": "Antonelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanna_Antonelli",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Brazilian telenovelas like 'O Clone' and 'Chocolate com Pimenta'"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Giovanna Ewbank",
+    "givenNames": [
+      "Giovanna"
+    ],
+    "familyName": "Ewbank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanna_Ewbank",
+    "occupation": "Actress, Presenter",
+    "achievements": [
+      "Hosted several Brazilian television programs",
+      "Known for her activism and philanthropy"
+    ],
+    "yearBorn": 1986
+  }
+]

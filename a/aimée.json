@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Aimée Mann",
+    "givenNames": [
+      "Aimee",
+      "Elizabeth"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aimee_Mann",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nominations for Best Alternative Music Album and Best Female Pop Vocal Performance",
+      "Known for her introspective lyrics and distinctive voice"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Aimée Teegarden",
+    "givenNames": [
+      "Aimée",
+      "Richelle"
+    ],
+    "familyName": "Teegarden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aime%C3%A9_Teegarden",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in TV series like 'Friday Night Lights' and 'Star-Crossed'",
+      "Appeared in films such as 'Scream 4' and 'Love Bites'"
+    ],
+    "yearBorn": 1989
+  }
+]

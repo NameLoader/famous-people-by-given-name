@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Tatsumi Kimishima",
+    "givenNames": [
+      "Tatsumi"
+    ],
+    "familyName": "Kimishima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatsumi_Kimishima",
+    "occupation": "Business executive",
+    "achievements": [
+      "President of Nintendo",
+      "Led Nintendo through a period of transition and growth"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Tatsumi Hijikata",
+    "givenNames": [
+      "Tatsumi"
+    ],
+    "familyName": "Hijikata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatsumi_Hijikata",
+    "occupation": "Dancer, choreographer",
+    "achievements": [
+      "Pioneer of Butoh dance",
+      "Known for his intense and unconventional performances"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1989
+  }
+]

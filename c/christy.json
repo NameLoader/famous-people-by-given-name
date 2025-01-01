@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Christy Turlington",
+    "givenNames": [
+      "Christy",
+      "Nicole"
+    ],
+    "familyName": "Turlington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christy_Turlington",
+    "occupation": "Model, Activist",
+    "achievements": [
+      "Supermodel in the 1980s and 1990s",
+      "Advocate for maternal health"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Christy Carlson Romano",
+    "givenNames": [
+      "Christy",
+      "Carlson"
+    ],
+    "familyName": "Romano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christy_Carlson_Romano",
+    "occupation": "Actress, Voice Actress",
+    "achievements": [
+      "Known for roles in Disney Channel shows 'Even Stevens' and 'Kim Possible'",
+      "Successful voice acting career"
+    ],
+    "yearBorn": 1984
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Claudine Auger",
+    "givenNames": [
+      "Claudine"
+    ],
+    "familyName": "Auger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudine_Auger",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the James Bond film 'Thunderball'",
+      "Appeared in numerous French and Italian films"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Claudine Longet",
+    "givenNames": [
+      "Claudine",
+      "Georgette"
+    ],
+    "familyName": "Longet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudine_Longet",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Charting singles in the 1960s and 70s",
+      "Appeared on television shows like 'The Dean Martin Show'"
+    ],
+    "yearBorn": 1942
+  }
+]

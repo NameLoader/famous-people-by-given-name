@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Cesare Borgia",
+    "givenNames": [
+      "Cesare"
+    ],
+    "familyName": "Borgia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesare_Borgia",
+    "occupation": "Condottiero, Cardinal",
+    "achievements": [
+      "Known for his ruthless ambition and political maneuvering.",
+      "Subject of numerous works of art and literature."
+    ],
+    "yearBorn": 1475,
+    "yearDied": 1507
+  },
+  {
+    "fullName": "Cesare Beccaria",
+    "givenNames": [
+      "Cesare",
+      "Bonesana"
+    ],
+    "familyName": "Beccaria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesare_Beccaria",
+    "occupation": "Philosopher, Criminologist",
+    "achievements": [
+      "Author of 'On Crimes and Punishments', a seminal work on criminal justice reform.",
+      "Advocate for the abolition of torture and the death penalty."
+    ],
+    "yearBorn": 1738,
+    "yearDied": 1794
+  },
+  {
+    "fullName": "Cesare Lombroso",
+    "givenNames": [
+      "Cesare"
+    ],
+    "familyName": "Lombroso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesare_Lombroso",
+    "occupation": "Physician, Criminologist",
+    "achievements": [
+      "Pioneer in the field of criminal anthropology.",
+      "Developed theories linking physical characteristics to criminality (now largely discredited)."
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1909
+  },
+  {
+    "fullName": "Cesare Prandelli",
+    "givenNames": [
+      "Cesare"
+    ],
+    "familyName": "Prandelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cesare_Prandelli",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Managed several Italian football clubs, including Fiorentina and Juventus.",
+      "Led the Italian national team to the final of UEFA Euro 2012."
+    ],
+    "yearBorn": 1957
+  }
+]

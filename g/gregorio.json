@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Gregorio Mendel",
+    "givenNames": [
+      "Gregorio",
+      "Gregor",
+      "Johann"
+    ],
+    "familyName": "Mendel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+    "occupation": "Scientist, Friar",
+    "achievements": [
+      "Father of modern genetics",
+      "Discovered the basic principles of heredity through experiments with pea plants"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1884
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Katherine Hepburn",
+    "givenNames": [
+      "Katharine",
+      "Houghton"
+    ],
+    "familyName": "Hepburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a record four Academy Awards for Best Actress",
+      "Known for her independent spirit and unconventional roles"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Katherine Johnson",
+    "givenNames": [
+      "Katherine",
+      "Creola"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Calculated trajectories for NASA missions, including the Apollo 11 moon landing",
+      "Awarded the Presidential Medal of Freedom in 2015"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Katherine Anne Porter",
+    "givenNames": [
+      "Katherine",
+      "Anne"
+    ],
+    "familyName": "Porter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Anne_Porter",
+    "occupation": "Novelist, short story writer, essayist",
+    "achievements": [
+      "Won the Pulitzer Prize for Fiction for her novel 'Ship of Fools'",
+      "Known for her lyrical prose and exploration of complex themes"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1980
+  }
+]

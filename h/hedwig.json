@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Hedwig Eva Maria Kiesler",
+    "givenNames": [
+      "Hedwig",
+      "Eva",
+      "Maria"
+    ],
+    "familyName": "Kiesler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+    "occupation": "Actress, inventor",
+    "achievements": [
+      "Starred in films like 'Algiers' and 'Samson and Delilah'",
+      "Co-invented a frequency-hopping spread spectrum communication system during World War II"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2000
+  }
+]

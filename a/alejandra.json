@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alejandra Pizarnik",
+    "givenNames": [
+      "Alejandra",
+      "Flora"
+    ],
+    "familyName": "Pizarnik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alejandra_Pizarnik",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the most important Argentine poets of the 20th century",
+      "Known for her dark and introspective poetry exploring themes of love, death, and alienation"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1972
+  }
+]

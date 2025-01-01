@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Cynthia Nixon",
+    "givenNames": [
+      "Cynthia",
+      "Ellen"
+    ],
+    "familyName": "Nixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Nixon",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Emmy Award winner",
+      "Tony Award winner",
+      "Known for her role as Miranda Hobbes in 'Sex and the City'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Cynthia Erivo",
+    "givenNames": [
+      "Cynthia"
+    ],
+    "familyName": "Erivo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Erivo",
+    "occupation": "Actress, Singer, Songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Tony Award winner",
+      "Academy Award nominee",
+      "Known for her roles in 'Harriet' and 'The Outsider'"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Cynthia Ozick",
+    "givenNames": [
+      "Cynthia"
+    ],
+    "familyName": "Ozick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Ozick",
+    "occupation": "Author",
+    "achievements": [
+      "National Book Award winner",
+      "Known for her short stories and novels exploring Jewish identity and American culture"
+    ],
+    "yearBorn": 1928
+  }
+]

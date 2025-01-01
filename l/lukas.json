@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lukas Podolski",
+    "givenNames": [
+      "Lukas",
+      "Josef"
+    ],
+    "familyName": "Podolski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lukas_Podolski",
+    "occupation": "Former professional footballer",
+    "achievements": [
+      "FIFA World Cup winner with Germany in 2014",
+      "Bundesliga champion with Bayern Munich and Köln",
+      "Prolific goalscorer for club and country"
+    ],
+    "yearBorn": 1985
+  }
+]

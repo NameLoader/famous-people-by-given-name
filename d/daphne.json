@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Daphne du Maurier",
+    "givenNames": [
+      "Daphne"
+    ],
+    "familyName": "du Maurier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daphne_du_Maurier",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote novels such as Rebecca, Jamaica Inn, and My Cousin Rachel",
+      "Her works have been adapted into numerous films and television series"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Daphne Guinness",
+    "givenNames": [
+      "Daphne",
+      "Diana",
+      "Joan",
+      "Susanna"
+    ],
+    "familyName": "Guinness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daphne_Guinness",
+    "occupation": "Model, Designer, Singer-Songwriter",
+    "achievements": [
+      "Known for her eccentric style and fashion collaborations",
+      "Released a self-titled debut album in 2010"
+    ],
+    "yearBorn": 1967
+  }
+]

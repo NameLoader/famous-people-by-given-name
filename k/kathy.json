@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Kathy Bates",
+    "givenNames": [
+      "Kathleen",
+      "Doyle"
+    ],
+    "familyName": "Bates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Bates",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (Misery)",
+      "Two Emmy Awards",
+      "Tony Award"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Kathy Griffin",
+    "givenNames": [
+      "Kathy",
+      "Kathleen",
+      "Mary"
+    ],
+    "familyName": "Griffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Griffin",
+    "occupation": "Comedian, actress, television host",
+    "achievements": [
+      "Two Primetime Emmy Awards",
+      "Grammy Award nomination"
+    ],
+    "yearBorn": 1960
+  }
+]

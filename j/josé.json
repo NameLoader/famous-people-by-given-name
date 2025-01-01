@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "José Rizal",
+    "givenNames": [
+      "José",
+      "Protasio"
+    ],
+    "familyName": "Rizal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal",
+    "occupation": "Writer, poet, physician, activist",
+    "achievements": [
+      "National hero of the Philippines",
+      "Key figure in the Philippine Revolution against Spanish rule",
+      "Author of novels like 'Noli Me Tangere' and 'El Filibusterismo'"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "José Mourinho",
+    "givenNames": [
+      "José",
+      "Mário",
+      "dos Santos"
+    ],
+    "familyName": "Mourinho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mourinho",
+    "occupation": "Football manager",
+    "achievements": [
+      "Won numerous league titles and Champions League trophies with clubs like Porto, Chelsea, Inter Milan, and Real Madrid",
+      "Known for his tactical prowess and charismatic personality"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "José Saramago",
+    "givenNames": [
+      "José",
+      "de Sousa"
+    ],
+    "familyName": "Saramago",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Saramago",
+    "occupation": "Novelist, poet, playwright",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1998",
+      "Known for his experimental and philosophical novels like 'Blindness' and 'The Gospel According to Jesus Christ'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "José Carreras",
+    "givenNames": [
+      "Josep",
+      "Maria"
+    ],
+    "familyName": "Carreras",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Carreras",
+    "occupation": "Opera singer (tenor)",
+    "achievements": [
+      "One of the Three Tenors alongside Plácido Domingo and Luciano Pavarotti",
+      "Performed internationally and recorded numerous operatic roles"
+    ],
+    "yearBorn": 1946
+  }
+]

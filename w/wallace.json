@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Wallace Stevens",
+    "givenNames": [
+      "Wallace"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Stevens",
+    "occupation": "Poet",
+    "achievements": [
+      "Pulitzer Prize for Poetry",
+      "Considered one of the most important American poets of the 20th century"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Wallace Shawn",
+    "givenNames": [
+      "Wallace",
+      "Michael"
+    ],
+    "familyName": "Shawn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Shawn",
+    "occupation": "Actor, playwright, essayist",
+    "achievements": [
+      "Known for roles in films like 'The Princess Bride' and 'My Dinner with Andre'",
+      "Prolific playwright known for works like 'Aunt Dan and Lemon'"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Wallace Reid",
+    "givenNames": [
+      "Wallace",
+      "William"
+    ],
+    "familyName": "Reid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wallace_Reid",
+    "occupation": "Actor",
+    "achievements": [
+      "Silent film star known for roles in films like 'The Great Love' and 'The Man Who Found Himself'",
+      "Tragic early death due to drug addiction"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1923
+  }
+]

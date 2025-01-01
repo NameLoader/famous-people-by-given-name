@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Eduardo Saverin",
+    "givenNames": [
+      "Eduardo",
+      "Luiz"
+    ],
+    "familyName": "Saverin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Saverin",
+    "occupation": "Entrepreneur, Investor",
+    "achievements": [
+      "Co-founder of Facebook",
+      "Venture Capitalist"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Eduardo Galeano",
+    "givenNames": [
+      "Eduardo",
+      "Hughes"
+    ],
+    "familyName": "Galeano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Galeano",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Author of 'Open Veins of Latin America'",
+      "Prominent voice in Latin American literature and social justice"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Eduardo Chillida",
+    "givenNames": [
+      "Eduardo"
+    ],
+    "familyName": "Chillida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Chillida",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Known for abstract sculptures made of steel and concrete",
+      "Prominent figure in Basque art and sculpture"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2002
+  }
+]

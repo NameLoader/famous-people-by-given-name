@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Francesca Woodman",
+    "givenNames": [
+      "Francesca",
+      "Stern"
+    ],
+    "familyName": "Woodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesca_Woodman",
+    "occupation": "Photographer, Artist",
+    "achievements": [
+      "Known for her experimental and haunting self-portraits.",
+      "Her work explores themes of identity, isolation, and the female body."
+    ],
+    "yearBorn": 1958,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Francesca Schiavone",
+    "givenNames": [
+      "Francesca"
+    ],
+    "familyName": "Schiavone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesca_Schiavone",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Won the French Open in 2010.",
+      "Reached a career-high ranking of world No. 4."
+    ],
+    "yearBorn": 1980
+  }
+]

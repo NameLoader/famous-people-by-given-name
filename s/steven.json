@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Steven Spielberg",
+    "givenNames": [
+      "Steven",
+      "Allan"
+    ],
+    "familyName": "Spielberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Won three Academy Awards for Best Director",
+      "Directed iconic films such as Jaws, E.T. the Extra-Terrestrial, and Schindler's List"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Steven Hawking",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Hawking",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "occupation": "Theoretical physicist, cosmologist",
+    "achievements": [
+      "Made groundbreaking contributions to our understanding of black holes and the universe",
+      "Authored the bestselling book 'A Brief History of Time'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Steven Tyler",
+    "givenNames": [
+      "Steven"
+    ],
+    "familyName": "Tyler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Tyler",
+    "occupation": "Musician, singer, songwriter",
+    "achievements": [
+      "Lead vocalist of the rock band Aerosmith",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Steven Seagal",
+    "givenNames": [
+      "Steven",
+      "Frederic"
+    ],
+    "familyName": "Seagal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Seagal",
+    "occupation": "Actor, martial artist",
+    "achievements": [
+      "Known for action films such as Above the Law and Under Siege"
+    ],
+    "yearBorn": 1952
+  }
+]

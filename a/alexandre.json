@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Alexandre Dumas",
+    "givenNames": [
+      "Alexandre"
+    ],
+    "familyName": "Dumas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandre_Dumas",
+    "occupation": "Novelist, Playwright",
+    "achievements": [
+      "Authored renowned novels such as The Three Musketeers and The Count of Monte Cristo."
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1870
+  },
+  {
+    "fullName": "Alexandre Gustave Eiffel",
+    "givenNames": [
+      "Alexandre",
+      "Gustave"
+    ],
+    "familyName": "Eiffel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Eiffel",
+    "occupation": "Civil Engineer, Architect",
+    "achievements": [
+      "Designed the Eiffel Tower in Paris."
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1923
+  }
+]

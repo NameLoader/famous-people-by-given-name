@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Vanessa Redgrave",
+    "givenNames": [
+      "Vanessa"
+    ],
+    "familyName": "Redgrave",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanessa_Redgrave",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Tony Award for Best Actress in a Play",
+      "BAFTA Award for Best Actress in a Leading Role"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Vanessa Williams",
+    "givenNames": [
+      "Vanessa",
+      "Lynn"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanessa_Williams",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Miss America 1984",
+      "Grammy Award nominations",
+      "Tony Award nomination"
+    ],
+    "yearBorn": 1963
+  }
+]

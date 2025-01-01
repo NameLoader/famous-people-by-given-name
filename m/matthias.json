@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Matthias Grünewald",
+    "givenNames": [
+      "Matthias"
+    ],
+    "familyName": "Grünewald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Gr%C3%BCnewald",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his expressive and emotionally powerful paintings.",
+      "His masterpiece, the Isenheim Altarpiece, is considered a landmark of Northern Renaissance art."
+    ],
+    "yearBorn": 1470,
+    "yearDied": 1528
+  },
+  {
+    "fullName": "Matthias Corvinus",
+    "givenNames": [
+      "Matthias"
+    ],
+    "familyName": "Corvinus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Corvinus",
+    "occupation": "King of Hungary and Croatia",
+    "achievements": [
+      "Known as 'Matthias the Just' for his fair rule.",
+      "Patron of the arts and sciences, establishing the Corvinian Library."
+    ],
+    "yearBorn": 1443,
+    "yearDied": 1490
+  },
+  {
+    "fullName": "Matthias Sindelar",
+    "givenNames": [
+      "Matthias"
+    ],
+    "familyName": "Sindelar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Sindelar",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of the greatest Austrian footballers of all time.",
+      "Led Austria to victory in the 1932 Central European International Cup."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1939
+  },
+  {
+    "fullName": "Matthias Schleiden",
+    "givenNames": [
+      "Matthias",
+      "Jakob"
+    ],
+    "familyName": "Schleiden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Jakob_Schleiden",
+    "occupation": "Botanist",
+    "achievements": [
+      "Co-founder of cell theory, stating that all plants are composed of cells.",
+      "Contributed significantly to the understanding of plant physiology."
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1881
+  }
+]

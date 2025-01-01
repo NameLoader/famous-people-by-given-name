@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Percival Lowell",
+    "givenNames": [
+      "Percival"
+    ],
+    "familyName": "Lowell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Percival_Lowell",
+    "occupation": "Astronomer, mathematician, author",
+    "achievements": [
+      "Observed and theorized about canals on Mars",
+      "Founded the Lowell Observatory"
+    ],
+    "yearBorn": 1855,
+    "yearDied": 1916
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Melissa McCarthy",
+    "givenNames": [
+      "Melissa",
+      "Ann"
+    ],
+    "familyName": "McCarthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melissa_McCarthy",
+    "occupation": "Actress, comedian, writer, producer",
+    "achievements": [
+      "Academy Award nominee for Best Actress (Bridesmaids)",
+      "Two Primetime Emmy Awards",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Melissa Joan Hart",
+    "givenNames": [
+      "Melissa",
+      "Joan"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melissa_Joan_Hart",
+    "occupation": "Actress, director, producer",
+    "achievements": [
+      "Known for her roles in Clarissa Explains It All and Sabrina the Teenage Witch"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Melissa Etheridge",
+    "givenNames": [
+      "Melissa",
+      "Lou"
+    ],
+    "familyName": "Etheridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melissa_Etheridge",
+    "occupation": "Singer-songwriter, guitarist, activist",
+    "achievements": [
+      "Grammy Award winner",
+      "Academy Award winner for Best Original Song (I Need to Wake Up)"
+    ],
+    "yearBorn": 1961
+  }
+]

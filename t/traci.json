@@ -1,0 +1,25 @@
+[
+  {
+    "fullName": "Traci Lords",
+    "givenNames": [
+      "Traci",
+      "Elizabeth"
+    ],
+    "familyName": "Lords",
+    "wikipedia": "https://en.wikipedia.org/wiki/Traci_Lords",
+    "occupation": "Actress, singer, director",
+    "achievements": [],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Traci Dinwiddie",
+    "givenNames": [
+      "Traci"
+    ],
+    "familyName": "Dinwiddie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Traci_Dinwiddie",
+    "occupation": "Actress",
+    "achievements": [],
+    "yearBorn": 1968
+  }
+]

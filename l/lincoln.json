@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Lincoln Riley",
+    "givenNames": [
+      "Lincoln",
+      "Michael"
+    ],
+    "familyName": "Riley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lincoln_Riley",
+    "occupation": "Football Coach",
+    "achievements": [
+      "Head coach of the USC Trojans",
+      "Former head coach of the Oklahoma Sooners",
+      "Won multiple Big 12 Championships"
+    ],
+    "yearBorn": 1983
+  }
+]

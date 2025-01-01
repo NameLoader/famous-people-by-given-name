@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Camille Saint-Saëns",
+    "givenNames": [
+      "Charles",
+      "Camille"
+    ],
+    "familyName": "Saint-Saëns",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
+    "occupation": "Composer, pianist, conductor",
+    "achievements": [
+      "Composed numerous orchestral works, concertos, operas, and chamber music",
+      "Known for his Symphony No. 3 'Organ'",
+      "Prolific writer of piano pieces"
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1921
+  },
+  {
+    "fullName": "Camille Claudel",
+    "givenNames": [
+      "Camille",
+      "Rosalie"
+    ],
+    "familyName": "Claudel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Claudel",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Created powerful and expressive sculptures",
+      "Known for her relationship with Auguste Rodin",
+      "Her works explored themes of love, loss, and the female experience"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Camille Paglia",
+    "givenNames": [
+      "Camille",
+      "Anna"
+    ],
+    "familyName": "Paglia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Paglia",
+    "occupation": "Cultural critic, feminist writer",
+    "achievements": [
+      "Author of influential books like 'Sexual Personae'",
+      "Known for her provocative and controversial views on art, culture, and gender"
+    ],
+    "yearBorn": 1947
+  }
+]

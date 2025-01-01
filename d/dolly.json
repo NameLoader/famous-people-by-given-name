@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Dolly Parton",
+    "givenNames": [
+      "Dolly",
+      "Rebecca"
+    ],
+    "familyName": "Parton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolly_Parton",
+    "occupation": "Singer, songwriter, actress, businesswoman",
+    "achievements": [
+      "Won 10 Grammy Awards",
+      "Inducted into the Country Music Hall of Fame",
+      "Known for hit songs like 'Jolene' and 'I Will Always Love You'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Dolly Madison",
+    "givenNames": [
+      "Dolley",
+      "Dolley Todd"
+    ],
+    "familyName": "Madison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolley_Madison",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Saved important artifacts from the White House during the War of 1812",
+      "Known for her social grace and political influence"
+    ],
+    "yearBorn": 1768,
+    "yearDied": 1849
+  }
+]

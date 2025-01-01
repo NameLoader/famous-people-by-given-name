@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Fay Wray",
+    "givenNames": [
+      "Fay",
+      "Vina"
+    ],
+    "familyName": "Wray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fay_Wray",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Ann Darrow in the film 'King Kong' (1933)"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Fay Vincent",
+    "givenNames": [
+      "Francis",
+      "Thomas",
+      "Fay"
+    ],
+    "familyName": "Vincent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fay_Vincent",
+    "occupation": "Lawyer, Sports executive",
+    "achievements": [
+      "Served as Commissioner of Major League Baseball from 1989 to 1992"
+    ],
+    "yearBorn": 1937
+  }
+]

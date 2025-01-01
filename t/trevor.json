@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Trevor Noah",
+    "givenNames": [
+      "Trevor"
+    ],
+    "familyName": "Noah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Noah",
+    "occupation": "Comedian, television host, writer",
+    "achievements": [
+      "Host of The Daily Show",
+      "Grammy Award-winning comedian",
+      "Bestselling author"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Trevor Hoffman",
+    "givenNames": [
+      "Trevor",
+      "William"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Hoffman",
+    "occupation": "Former professional baseball player",
+    "achievements": [
+      "MLB All-Star",
+      "Holds the Major League Baseball record for most career saves by a right-handed pitcher"
+    ],
+    "yearBorn": 1967
+  }
+]

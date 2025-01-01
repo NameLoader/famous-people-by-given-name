@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Miriam Makeba",
+    "givenNames": [
+      "Zenzile",
+      "Miriam"
+    ],
+    "familyName": "Makeba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miriam_Makeba",
+    "occupation": "Singer, songwriter, actress, and activist",
+    "achievements": [
+      "Grammy Award winner",
+      "Known as 'Mama Africa'",
+      "Spokesperson against apartheid"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Miriam Margolyes",
+    "givenNames": [
+      "Miriam"
+    ],
+    "familyName": "Margolyes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miriam_Margolyes",
+    "occupation": "Actress, voice artist",
+    "achievements": [
+      "BAFTA Award winner",
+      "Known for roles in Harry Potter films, 'The Age of Innocence'"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Miriam Defensor Santiago",
+    "givenNames": [
+      "Miriam",
+      "Defensor"
+    ],
+    "familyName": "Santiago",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago",
+    "occupation": "Politician, Judge",
+    "achievements": [
+      "First female Presidential candidate in the Philippines",
+      "Senator of the Philippines"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2016
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tracey Ullman",
+    "givenNames": [
+      "Tracey",
+      "Trace"
+    ],
+    "familyName": "Ullman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracey_Ullman",
+    "occupation": "Actress, comedian, writer, singer",
+    "achievements": [
+      "First British woman to have her own sketch comedy show on American television.",
+      "Nominated for multiple Emmy Awards and Golden Globe Awards."
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Tracey Emin",
+    "givenNames": [
+      "Tracey",
+      "Karima"
+    ],
+    "familyName": "Emin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracey_Emin",
+    "occupation": "Artist, sculptor",
+    "achievements": [
+      "Known for her confessional art and exploration of personal themes.",
+      "Represented Britain at the Venice Biennale in 2007."
+    ],
+    "yearBorn": 1963
+  }
+]

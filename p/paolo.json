@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Paolo Coelho",
+    "givenNames": [
+      "Paolo"
+    ],
+    "familyName": "Coelho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paulo_Coelho",
+    "occupation": "Author, Lyricist",
+    "achievements": [
+      "Bestselling author of 'The Alchemist'",
+      "Lyricist for popular Brazilian musicians"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Paolo Maldini",
+    "givenNames": [
+      "Paolo",
+      "Cesare"
+    ],
+    "familyName": "Maldini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Maldini",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Legendary AC Milan defender",
+      "Won seven Serie A titles and five Champions League trophies"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Paolo Uccello",
+    "givenNames": [
+      "Paolo"
+    ],
+    "familyName": "Uccello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Uccello",
+    "occupation": "Painter, Mathematician",
+    "achievements": [
+      "Early Renaissance painter known for his perspective and geometric accuracy",
+      "Famous works include 'The Battle of San Romano'"
+    ],
+    "yearBorn": 1397,
+    "yearDied": 1475
+  }
+]

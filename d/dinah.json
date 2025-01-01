@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Dinah Shore",
+    "givenNames": [
+      "Dinah"
+    ],
+    "familyName": "Shore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinah_Shore",
+    "occupation": "Singer, actress, television personality",
+    "achievements": [
+      "Grammy Award winner",
+      "Successful career in film and television",
+      "Popularized a style of singing known as 'Dinah-style'"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Dinah Washington",
+    "givenNames": [
+      "Dinah"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinah_Washington",
+    "occupation": "Singer",
+    "achievements": [
+      "Known as the 'Queen of the Blues'",
+      "Highly influential jazz and blues singer",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1963
+  }
+]

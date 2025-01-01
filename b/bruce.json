@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Bruce Lee",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Lee",
+    "occupation": "Martial artist, actor, director",
+    "achievements": [
+      "Pioneer of martial arts films",
+      "Developed Jeet Kune Do, a hybrid martial art style"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Bruce Springsteen",
+    "givenNames": [
+      "Bruce",
+      "Frederick",
+      "Joseph"
+    ],
+    "familyName": "Springsteen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Won 20 Grammy Awards"
+    ],
+    "yearBorn": 1949
+  }
+]

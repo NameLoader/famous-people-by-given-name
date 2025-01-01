@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Gerhard Schröder",
+    "givenNames": [
+      "Gerhard",
+      "Fritz",
+      "Kurt"
+    ],
+    "familyName": "Schröder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Schr%C3%B6der",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of Germany (1998-2005)",
+      "Leader of the Social Democratic Party of Germany (SPD)"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Gerhard Richter",
+    "givenNames": [
+      "Gerhard"
+    ],
+    "familyName": "Richter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Richter",
+    "occupation": "Painter, Sculptor, Photographer",
+    "achievements": [
+      "One of the most important and influential German artists of the 20th century",
+      "Known for his abstract paintings and photorealistic depictions"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Gerhard Ertl",
+    "givenNames": [
+      "Gerhard"
+    ],
+    "familyName": "Ertl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Ertl",
+    "occupation": "Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (2007) for his studies of chemical processes on solid surfaces"
+    ],
+    "yearBorn": 1936
+  }
+]

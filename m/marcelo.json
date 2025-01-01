@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Marcelo Vieira da Silva Júnior",
+    "givenNames": [
+      "Marcelo"
+    ],
+    "familyName": "Vieira da Silva Júnior",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Two-time FIFA World Cup winner (2014, 2022)",
+      "Champions League winner with Real Madrid (2014, 2016, 2017, 2018)",
+      "La Liga champion with Real Madrid (5 times)"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Marcelo Bielsa",
+    "givenNames": [
+      "Marcelo",
+      "Alberto"
+    ],
+    "familyName": "Bielsa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcelo_Bielsa",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Known for his innovative and attacking style of play",
+      "Managed national teams including Argentina and Chile",
+      "Led Athletic Bilbao to Europa League and Copa del Rey finals"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Marcelo Tinelli",
+    "givenNames": [
+      "Marcelo",
+      "Hugo"
+    ],
+    "familyName": "Tinelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcelo_Tinelli",
+    "occupation": "Television Host and Producer",
+    "achievements": [
+      "Hosted popular Argentine television programs like 'Showmatch'",
+      "Known for his charismatic personality and influence on Argentine culture"
+    ],
+    "yearBorn": 1960
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Cécile De France",
+    "givenNames": [
+      "Cécile"
+    ],
+    "familyName": "De France",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9cile_de_France",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award nominee for Best Supporting Actress",
+      "Known for roles in films like 'Haute Tension' and 'The Monuments Men'"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Cécile Kyenge",
+    "givenNames": [
+      "Cécile",
+      "Kashetu"
+    ],
+    "familyName": "Kyenge",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9cile_Kyenge",
+    "occupation": "Politician",
+    "achievements": [
+      "First black Italian minister",
+      "Served as Minister of Integration in Italy"
+    ],
+    "yearBorn": 1965
+  }
+]

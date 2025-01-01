@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Arsenio Hall",
+    "givenNames": [
+      "Arsenio"
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsenio_Hall",
+    "occupation": "Comedian, actor, talk show host",
+    "achievements": [
+      "Hosted The Arsenio Hall Show",
+      "Appeared in films like Coming to America and Harlem Nights"
+    ],
+    "yearBorn": 1956
+  }
+]

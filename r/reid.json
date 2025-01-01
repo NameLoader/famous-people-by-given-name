@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Reid Hoffman",
+    "givenNames": [
+      "Reid",
+      "Garrett"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reid_Hoffman",
+    "occupation": "Internet entrepreneur",
+    "achievements": [
+      "Co-founder of LinkedIn",
+      "Venture capitalist"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Reid Ewing",
+    "givenNames": [
+      "Reid"
+    ],
+    "familyName": "Ewing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reid_Ewing",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as  'Dylan Marshall' on the ABC sitcom Modern Family"
+    ],
+    "yearBorn": 1988
+  }
+]

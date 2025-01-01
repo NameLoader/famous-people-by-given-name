@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Pierre Curie",
+    "givenNames": [
+      "Pierre"
+    ],
+    "familyName": "Curie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Curie",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Pioneering research in radioactivity",
+      "Nobel Prize in Physics (1903)"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1906
+  },
+  {
+    "fullName": "Pierre Trudeau",
+    "givenNames": [
+      "Pierre"
+    ],
+    "familyName": "Trudeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Trudeau",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Canada (1968-1979, 1980)",
+      "Introduced the Charter of Rights and Freedoms"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Pierre Bourdieu",
+    "givenNames": [
+      "Pierre"
+    ],
+    "familyName": "Bourdieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Bourdieu",
+    "occupation": "Sociologist, Anthropologist, Philosopher",
+    "achievements": [
+      "Developed the theory of social reproduction and habitus",
+      "Influential work on class, culture, and power"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2002
+  }
+]

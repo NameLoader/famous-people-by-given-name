@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Wilfredo Gómez",
+    "givenNames": [
+      "Wilfredo"
+    ],
+    "familyName": "Gómez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfredo_G%C3%B3mez",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Three-time world champion in three weight classes",
+      "Inducted into the International Boxing Hall of Fame"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Wilfredo Lam",
+    "givenNames": [
+      "Wifredo"
+    ],
+    "familyName": "Lam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wifredo_Lam",
+    "occupation": "Painter and Printmaker",
+    "achievements": [
+      "Known for his Surrealist and Cubist style paintings",
+      "Major figure in Latin American modern art"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1966
+  }
+]

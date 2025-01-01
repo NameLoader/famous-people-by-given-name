@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Magnus Carlsen",
+    "givenNames": [
+      "Sven",
+      "Magnus",
+      "Øen"
+    ],
+    "familyName": "Carlsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+    "occupation": "Chess Grandmaster",
+    "achievements": [
+      "World Chess Champion since 2013",
+      "Youngest player to achieve a rating of 2800 Elo"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Magnus Maximus",
+    "givenNames": [
+      "Magnus"
+    ],
+    "familyName": "Maximus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Maximus",
+    "occupation": "Roman Emperor",
+    "achievements": [
+      "Western Roman Emperor from 383 to 388",
+      "Led a successful revolt against the emperor Gratian"
+    ],
+    "yearBorn": 335,
+    "yearDied": 388
+  },
+  {
+    "fullName": "Magnus Hirschfeld",
+    "givenNames": [
+      "Magnus"
+    ],
+    "familyName": "Hirschfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Hirschfeld",
+    "occupation": "Physician and Sexologist",
+    "achievements": [
+      "Pioneered the study of homosexuality and transgender identity",
+      "Founded the Institute for Sexual Science in Berlin"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1935
+  }
+]

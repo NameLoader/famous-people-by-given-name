@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Marguerite Yourcenar",
+    "givenNames": [
+      "Marguerite"
+    ],
+    "familyName": "Yourcenar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Yourcenar",
+    "occupation": "Writer",
+    "achievements": [
+      "First woman to be elected to the Académie Française",
+      "Known for her novels including 'Memoirs of Hadrian'"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Marguerite Duras",
+    "givenNames": [
+      "Marguerite"
+    ],
+    "familyName": "Duras",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Duras",
+    "occupation": "Writer, Filmmaker",
+    "achievements": [
+      "Won the Prix Goncourt for her novel 'The Lover'",
+      "Directed acclaimed films such as 'India Song'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Marguerite Piazza",
+    "givenNames": [
+      "Marguerite"
+    ],
+    "familyName": "Piazza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Piazza",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Performed at the Metropolitan Opera and La Scala",
+      "Known for her powerful soprano voice"
+    ],
+    "yearBorn": 1926
+  }
+]

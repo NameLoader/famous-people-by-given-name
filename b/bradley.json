@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Bradley Cooper",
+    "givenNames": [
+      "Bradley",
+      "Charles"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Cooper",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Academy Award nominations for acting and producing",
+      "Multiple Golden Globe Awards",
+      "Known for roles in films like 'The Hangover', 'Silver Linings Playbook', and 'A Star Is Born'"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Bradley Wiggins",
+    "givenNames": [
+      "Bradley",
+      "Marc"
+    ],
+    "familyName": "Wiggins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Wiggins",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Tour de France winner (2012)",
+      "Olympic gold medalist (track and road cycling)"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Bradley Walsh",
+    "givenNames": [
+      "Bradley"
+    ],
+    "familyName": "Walsh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Walsh",
+    "occupation": "Actor, Presenter",
+    "achievements": [
+      "Known for roles in 'Coronation Street' and 'Doctor Who'",
+      "Host of game shows like 'The Chase'"
+    ],
+    "yearBorn": 1960
+  }
+]

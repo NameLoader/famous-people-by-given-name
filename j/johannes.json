@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Johannes Kepler",
+    "givenNames": [
+      "Johannes"
+    ],
+    "familyName": "Kepler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "occupation": "Astronomer, Mathematician, Astrologer",
+    "achievements": [
+      "Laws of Planetary Motion",
+      "Key figure in the Scientific Revolution"
+    ],
+    "yearBorn": 1571,
+    "yearDied": 1630
+  },
+  {
+    "fullName": "Johannes Brahms",
+    "givenNames": [
+      "Johannes"
+    ],
+    "familyName": "Brahms",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+    "occupation": "Composer, Pianist, Conductor",
+    "achievements": [
+      "Master of symphonic and chamber music",
+      "Influential figure in the Romantic era"
+    ],
+    "yearBorn": 1833,
+    "yearDied": 1897
+  },
+  {
+    "fullName": "Johannes Gutenberg",
+    "givenNames": [
+      "Johannes"
+    ],
+    "familyName": "Gutenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+    "occupation": "Inventor, Printer",
+    "achievements": [
+      "Invention of the printing press with movable type",
+      "Revolutionized book production and dissemination of knowledge"
+    ],
+    "yearBorn": 1398,
+    "yearDied": 1468
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Geoffrey Chaucer",
+    "givenNames": [
+      "Geoffrey"
+    ],
+    "familyName": "Chaucer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer",
+    "occupation": "Poet, author",
+    "achievements": [
+      "Considered the father of English literature",
+      "Author of The Canterbury Tales"
+    ],
+    "yearBorn": 1340,
+    "yearDied": 1400
+  },
+  {
+    "fullName": "Geoffrey Boycott",
+    "givenNames": [
+      "Geoffrey"
+    ],
+    "familyName": "Boycott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Boycott",
+    "occupation": "Cricketer, commentator",
+    "achievements": [
+      "One of England's greatest Test batsmen",
+      "Scored over 8,000 runs in Test cricket"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Geoffrey Rush",
+    "givenNames": [
+      "Geoffrey",
+      "Roy"
+    ],
+    "familyName": "Rush",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Rush",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award winner for Best Actor (Shine)",
+      "Known for roles in films like Pirates of the Caribbean and Shakespeare in Love"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Geoffrey Hinton",
+    "givenNames": [
+      "Geoffrey",
+      "Everest"
+    ],
+    "familyName": "Hinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Hinton",
+    "occupation": "Computer scientist",
+    "achievements": [
+      "Pioneer in the field of artificial neural networks",
+      "Considered one of the 'godfathers' of deep learning"
+    ],
+    "yearBorn": 1947
+  }
+]

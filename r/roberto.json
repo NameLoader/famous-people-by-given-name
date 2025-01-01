@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Roberto Clemente",
+    "givenNames": [
+      "Roberto",
+      "Enrique"
+    ],
+    "familyName": "Clemente",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Clemente",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "Hall of Fame Baseball player",
+      "15-time All-Star",
+      "4-time World Series Champion"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "Roberto Benigni",
+    "givenNames": [
+      "Roberto",
+      "Remigio"
+    ],
+    "familyName": "Benigni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Benigni",
+    "occupation": "Actor, Director, Screenwriter",
+    "achievements": [
+      "Academy Award for Best Foreign Language Film (Life is Beautiful)",
+      "Known for comedic roles and humanistic films"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Roberto Cavalli",
+    "givenNames": [
+      "Roberto"
+    ],
+    "familyName": "Cavalli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Cavalli",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Known for flamboyant and animal-print designs",
+      "Established the Roberto Cavalli brand"
+    ],
+    "yearBorn": 1940
+  }
+]

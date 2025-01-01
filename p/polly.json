@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Polly Higgins",
+    "givenNames": [
+      "Pauline",
+      "Hélène",
+      "Polly"
+    ],
+    "familyName": "Higgins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Polly_Higgins",
+    "occupation": "Lawyer and advocate for ecocide law",
+    "achievements": [
+      "Pioneered the concept of ecocide as an international crime.",
+      "Founded the Stop Ecocide campaign."
+    ],
+    "yearBorn": 1968,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Polly Jean Harvey",
+    "givenNames": [
+      "Polly",
+      "Jean"
+    ],
+    "familyName": "Harvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/PJ_Harvey",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Won the Mercury Prize twice.",
+      "Known for her experimental and genre-bending music."
+    ],
+    "yearBorn": 1969
+  }
+]

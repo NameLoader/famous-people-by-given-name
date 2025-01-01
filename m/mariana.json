@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Mariana Pajón",
+    "givenNames": [
+      "Mariana",
+      "Londoño"
+    ],
+    "familyName": "Pajón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariana_Paj%C3%B3n",
+    "occupation": "BMX cyclist",
+    "achievements": [
+      "Olympic gold medalist",
+      "World BMX champion"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Mariana Mazzucato",
+    "givenNames": [
+      "Mariana",
+      "Francesca"
+    ],
+    "familyName": "Mazzucato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariana_Mazzucato",
+    "occupation": "Economist",
+    "achievements": [
+      "Professor in the Economics of Innovation and Public Value at University College London",
+      "Author of 'The Entrepreneurial State'",
+      "Advisor to governments and international organizations on innovation policy"
+    ]
+  }
+]

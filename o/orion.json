@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Orion Welles",
+    "givenNames": [
+      "Orson",
+      "George"
+    ],
+    "familyName": "Welles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orson_Welles",
+    "occupation": "Actor, director, writer, producer",
+    "achievements": [
+      "Considered one of the greatest filmmakers of all time.",
+      "Directed and starred in the groundbreaking film 'Citizen Kane'.",
+      "Pioneered innovative techniques in filmmaking."
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1985
+  }
+]

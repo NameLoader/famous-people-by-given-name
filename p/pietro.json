@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Pietro Mascagni",
+    "givenNames": [
+      "Pietro"
+    ],
+    "familyName": "Mascagni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Mascagni",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his operas, particularly 'Cavalleria Rusticana'",
+      "Won the Sonzogno competition with 'Cavalleria Rusticana'"
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Pietro Perugino",
+    "givenNames": [
+      "Pietro"
+    ],
+    "familyName": "Perugino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Perugino",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure in the Umbrian school of painting",
+      "Known for frescoes in the Sistine Chapel and the Church of San Francesco al Monte, Perugia"
+    ],
+    "yearBorn": 1445,
+    "yearDied": 1523
+  },
+  {
+    "fullName": "Pietro Aretino",
+    "givenNames": [
+      "Pietro"
+    ],
+    "familyName": "Aretino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Aretino",
+    "occupation": "Writer, Satirist",
+    "achievements": [
+      "Known for his scandalous and satirical writings",
+      "Influential figure in the Italian Renaissance"
+    ],
+    "yearBorn": 1492,
+    "yearDied": 1556
+  }
+]

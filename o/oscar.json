@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Oscar Wilde",
+    "givenNames": [
+      "Oscar",
+      "Fingal",
+      "O'Fflahertie",
+      "Wills"
+    ],
+    "familyName": "Wilde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "occupation": "Poet, playwright, novelist",
+    "achievements": [
+      "Key figure in the Aesthetic movement",
+      "Author of 'The Picture of Dorian Gray', 'The Importance of Being Earnest'"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1900
+  }
+]

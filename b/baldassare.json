@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Baldassare Castiglione",
+    "givenNames": [
+      "Baldassare"
+    ],
+    "familyName": "Castiglione",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baldassare_Castiglione",
+    "occupation": "Author, diplomat",
+    "achievements": [
+      "Authored 'The Book of the Courtier', a highly influential Renaissance treatise on etiquette and courtly behavior.",
+      "Served as a diplomat for the Dukes of Urbino."
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1529
+  },
+  {
+    "fullName": "Baldassare Peruzzi",
+    "givenNames": [
+      "Baldassare",
+      "Tommaso"
+    ],
+    "familyName": "Peruzzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baldassare_Peruzzi",
+    "occupation": "Architect, painter",
+    "achievements": [
+      "Designed the Palazzo Massimo alle Colonne in Rome.",
+      "Collaborated on the design of the Villa Farnesina.",
+      "Known for his Mannerist architectural style."
+    ],
+    "yearBorn": 1481,
+    "yearDied": 1536
+  }
+]

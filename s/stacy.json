@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Stacy Abrams",
+    "givenNames": [
+      "Stacey",
+      "Yvonne"
+    ],
+    "familyName": "Abrams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacey_Abrams",
+    "occupation": "Politician, lawyer, voting rights activist",
+    "achievements": [
+      "First African-American woman to be a major party nominee for Governor of Georgia",
+      "Founder of Fair Fight Action, a voting rights organization"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Stacy Keibler",
+    "givenNames": [
+      "Stacy",
+      "Ann-Marie"
+    ],
+    "familyName": "Keibler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacy_Keibler",
+    "occupation": "Actress, model, professional wrestler",
+    "achievements": [
+      "WWE Diva Search contestant (2006)",
+      "Appeared in films and television shows such as 'Dancing with the Stars'"
+    ],
+    "yearBorn": 1979
+  }
+]

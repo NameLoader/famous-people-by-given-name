@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Karlheinz Stockhausen",
+    "givenNames": [
+      "Karlheinz"
+    ],
+    "familyName": "Stockhausen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen",
+    "occupation": "Composer",
+    "achievements": [
+      "Pioneer of electronic music",
+      "Influential composer of avant-garde classical music",
+      "Winner of numerous awards, including the Grammy Award"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2007
+  }
+]

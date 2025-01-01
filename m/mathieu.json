@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Mathieu Kassovitz",
+    "givenNames": [
+      "Mathieu"
+    ],
+    "familyName": "Kassovitz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathieu_Kassovitz",
+    "occupation": "Actor, director, screenwriter",
+    "achievements": [
+      "Directed the critically acclaimed film La Haine",
+      "Acted in films such as Amélie and Munich"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Mathieu Flamini",
+    "givenNames": [
+      "Mathieu",
+      "Pierre"
+    ],
+    "familyName": "Flamini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathieu_Flamini",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Arsenal FC and AC Milan",
+      "Won the Premier League and FA Cup with Arsenal"
+    ],
+    "yearBorn": 1984
+  }
+]

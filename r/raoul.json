@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Raoul Wallenberg",
+    "givenNames": [
+      "Raoul",
+      "Gustaf"
+    ],
+    "familyName": "Wallenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raoul_Wallenberg",
+    "occupation": "Diplomat, Humanitarian",
+    "achievements": [
+      "Saved tens of thousands of Hungarian Jews from the Holocaust during World War II.",
+      "Declared Righteous Among the Nations by Yad Vashem."
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Raoul Dufy",
+    "givenNames": [
+      "Raoul"
+    ],
+    "familyName": "Dufy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raoul_Dufy",
+    "occupation": "Painter, Printmaker",
+    "achievements": [
+      "Known for his Fauvist style and depictions of coastal scenes.",
+      "His works are held in major museums worldwide."
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1953
+  }
+]

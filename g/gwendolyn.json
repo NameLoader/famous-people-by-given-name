@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gwendolyn Brooks",
+    "givenNames": [
+      "Gwendolyn",
+      "Elizabeth"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gwendolyn_Brooks",
+    "occupation": "Poet",
+    "achievements": [
+      "First Black author to win the Pulitzer Prize for Poetry (1950)",
+      "Poet Laureate of Illinois (1968-2000)"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Gwendolyn Christie",
+    "givenNames": [
+      "Gwendoline"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gwendoline_Christie",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Game of Thrones' and 'Star Wars: The Force Awakens'",
+      "Nominated for Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series"
+    ],
+    "yearBorn": 1978
+  }
+]

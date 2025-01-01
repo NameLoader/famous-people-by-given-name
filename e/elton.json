@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Elton John",
+    "givenNames": [
+      "Elton",
+      "Hercules"
+    ],
+    "familyName": "John",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elton_John",
+    "occupation": "Singer, songwriter, composer",
+    "achievements": [
+      "Sold over 300 million records worldwide",
+      "Won five Grammy Awards",
+      "Knighted by Queen Elizabeth II in 1998"
+    ],
+    "yearBorn": 1947
+  }
+]

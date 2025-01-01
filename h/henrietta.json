@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Henrietta Lacks",
+    "givenNames": [
+      "Henrietta"
+    ],
+    "familyName": "Lacks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrietta_Lacks",
+    "occupation": "Tobacco farmer",
+    "achievements": [
+      "Her cancer cells, taken without her knowledge or consent, became the first immortal human cell line (HeLa) used in countless scientific breakthroughs."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "Henrietta Swan Leavitt",
+    "givenNames": [
+      "Henrietta",
+      "Swan"
+    ],
+    "familyName": "Leavitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered the period-luminosity relationship for Cepheid variable stars, a crucial tool in measuring cosmic distances."
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1921
+  }
+]

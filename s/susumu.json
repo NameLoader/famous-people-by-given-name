@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Susumu Tonegawa",
+    "givenNames": [
+      "Susumu"
+    ],
+    "familyName": "Tonegawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susumu_Tonegawa",
+    "occupation": "Biologist, Immunologist",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 1987 for his discovery of the genetic principle for generation of antibody diversity."
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Susumu Hirasawa",
+    "givenNames": [
+      "Susumu"
+    ],
+    "familyName": "Hirasawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susumu_Hirasawa",
+    "occupation": "Musician, Composer, Artist",
+    "achievements": [
+      "Known for his experimental and eclectic musical style.",
+      "Created soundtracks for anime series like \"Berserk\" and \"Neon Genesis Evangelion.\""
+    ]
+  }
+]

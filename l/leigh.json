@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Leigh Bardugo",
+    "givenNames": [
+      "Leigh"
+    ],
+    "familyName": "Bardugo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leigh_Bardugo",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of the Grishaverse fantasy novels",
+      "Winner of multiple literary awards"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Leigh Anne Tuohy",
+    "givenNames": [
+      "Leigh",
+      "Anne"
+    ],
+    "familyName": "Tuohy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leigh_Anne_Tuohy",
+    "occupation": "Interior designer, philanthropist",
+    "achievements": [
+      "Subject of the film 'The Blind Side'",
+      "Known for her charitable work and adoption advocacy"
+    ],
+    "yearBorn": 1960
+  }
+]

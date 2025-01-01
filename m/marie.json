@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Marie Kondo",
+    "givenNames": [
+      "Marie"
+    ],
+    "familyName": "Kondo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Kondo",
+    "occupation": "Organizing consultant and author",
+    "achievements": [
+      "Developed the KonMari method of tidying",
+      "Bestselling author of 'The Life-Changing Magic of Tidying Up'"
+    ],
+    "yearBorn": 1984
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Asa Butterfield",
+    "givenNames": [
+      "Asa",
+      "Bopp",
+      "Farr"
+    ],
+    "familyName": "Butterfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asa_Butterfield",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Hugo,' 'Ender's Game,' and 'Sex Education'"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Asa Griggs Candler",
+    "givenNames": [
+      "Asa",
+      "Griggs"
+    ],
+    "familyName": "Candler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asa_Griggs_Candler",
+    "occupation": "Businessman",
+    "achievements": [
+      "Bought the Coca-Cola formula and built The Coca-Cola Company into a global brand"
+    ],
+    "yearBorn": 1851,
+    "yearDied": 1929
+  }
+]

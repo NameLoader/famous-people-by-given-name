@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Lorna Sage",
+    "givenNames": [
+      "Lorna"
+    ],
+    "familyName": "Sage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorna_Sage",
+    "occupation": "Academic, literary critic",
+    "achievements": [
+      "Leading scholar of feminist literary criticism",
+      "Author of influential works on women writers"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Lorna Luft",
+    "givenNames": [
+      "Lorna"
+    ],
+    "familyName": "Luft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorna_Luft",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Daughter of Judy Garland and Sid Luft",
+      "Performed on Broadway and in television"
+    ],
+    "yearBorn": 1952
+  }
+]

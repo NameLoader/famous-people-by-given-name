@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Alistair Darling",
+    "givenNames": [
+      "Alistair",
+      "Maclean"
+    ],
+    "familyName": "Darling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_Darling",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of the Exchequer (2007-2010)",
+      "Secretary of State for Transport (1997-1999)"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Alistair MacLean",
+    "givenNames": [
+      "Alistair",
+      "Stuart"
+    ],
+    "familyName": "MacLean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alistair_MacLean",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of bestselling adventure novels like 'The Guns of Navarone' and 'Where Eagles Dare'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Alistair Crowley",
+    "givenNames": [
+      "Aleister"
+    ],
+    "familyName": "Crowley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+    "occupation": "Occultist, Writer, Poet",
+    "achievements": [
+      "Founder of Thelema, a new religious movement"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1947
+  }
+]

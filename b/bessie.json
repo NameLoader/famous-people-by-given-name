@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Bessie Coleman",
+    "givenNames": [
+      "Bessie",
+      "Elizabeth"
+    ],
+    "familyName": "Coleman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+    "occupation": "Aviator",
+    "achievements": [
+      "First African American woman and first Native American woman to earn a pilot's license.",
+      "Performed daring aerial stunts across the United States."
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Bessie Smith",
+    "givenNames": [
+      "Bessie"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Smith",
+    "occupation": "Singer",
+    "achievements": [
+      "Known as the 'Empress of the Blues'.",
+      "One of the most popular blues singers of the 1920s and 1930s.",
+      "Her influential vocal style helped shape the development of jazz and blues music."
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1937
+  }
+]

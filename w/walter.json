@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Walter Cronkite",
+    "givenNames": [
+      "Walter",
+      "Leland"
+    ],
+    "familyName": "Cronkite",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Cronkite",
+    "occupation": "Journalist",
+    "achievements": [
+      "Known as 'the most trusted man in America'",
+      "Anchored the CBS Evening News for 19 years"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Walter White",
+    "givenNames": [
+      "Walter",
+      "Hartwell"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_White_(Breaking_Bad)",
+    "occupation": "Fictional Chemist / Drug Lord",
+    "achievements": [
+      "Protagonist of the critically acclaimed television series Breaking Bad"
+    ]
+  },
+  {
+    "fullName": "Walter Disney",
+    "givenNames": [
+      "Walter",
+      "Elias"
+    ],
+    "familyName": "Disney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney",
+    "occupation": "Animator, Filmmaker, Entrepreneur",
+    "achievements": [
+      "Co-founded The Walt Disney Company",
+      "Created iconic animated characters like Mickey Mouse"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Walter Scott",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
+    "occupation": "Novelist, Poet, Playwright",
+    "achievements": [
+      "Author of historical novels such as Ivanhoe and Rob Roy",
+      "Considered a pioneer of the historical novel genre"
+    ],
+    "yearBorn": 1771,
+    "yearDied": 1832
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Fran Lebowitz",
+    "givenNames": [
+      "Fran",
+      "Frances",
+      "Ann"
+    ],
+    "familyName": "Lebowitz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran_Lebowitz",
+    "occupation": "Writer, social critic",
+    "achievements": [
+      "Published several essay collections and novels",
+      "Known for her sharp wit and observations on New York City life"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Fran Drescher",
+    "givenNames": [
+      "Francine",
+      "Joy"
+    ],
+    "familyName": "Drescher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran_Drescher",
+    "occupation": "Actress, comedian, activist",
+    "achievements": [
+      "Starred in the sitcom 'The Nanny'",
+      "Activist for various causes, including healthcare and women's rights"
+    ],
+    "yearBorn": 1957
+  }
+]

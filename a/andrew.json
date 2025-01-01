@@ -1,0 +1,74 @@
+[
+  {
+    "fullName": "Andrew Carnegie",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Carnegie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+    "occupation": "Industrialist, philanthropist",
+    "achievements": [
+      "Built a steel empire",
+      "Known for his philanthropy and establishment of libraries"
+    ],
+    "yearBorn": 1835,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Andrew Jackson",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+    "occupation": "Military leader, President of the United States",
+    "achievements": [
+      "Seventh President of the United States",
+      "Hero of the Battle of New Orleans"
+    ],
+    "yearBorn": 1767,
+    "yearDied": 1845
+  },
+  {
+    "fullName": "Andrew Lloyd Webber",
+    "givenNames": [
+      "Andrew"
+    ],
+    "familyName": "Lloyd Webber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Lloyd_Webber",
+    "occupation": "Composer, musical theatre producer",
+    "achievements": [
+      "Created renowned musicals like Phantom of the Opera and Cats",
+      "Won numerous awards including Tony Awards and Grammys"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Andrew Cuomo",
+    "givenNames": [
+      "Andrew",
+      "Mark"
+    ],
+    "familyName": "Cuomo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Cuomo",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 56th Governor of New York"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Andrew Garfield",
+    "givenNames": [
+      "Andrew",
+      "Russell"
+    ],
+    "familyName": "Garfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Garfield",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films like The Social Network and Spider-Man"
+    ],
+    "yearBorn": 1983
+  }
+]

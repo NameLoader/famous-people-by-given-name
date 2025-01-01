@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Myron Bolitar",
+    "givenNames": [
+      "Myron"
+    ],
+    "familyName": "Bolitar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myron_Bolitar_series#Myron_Bolitar",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Myron Bolitar series by Harlan Coben"
+    ]
+  },
+  {
+    "fullName": "Myron Cope",
+    "givenNames": [
+      "Myron"
+    ],
+    "familyName": "Cope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myron_Cope",
+    "occupation": "Sportscaster",
+    "achievements": [
+      "Legendary Pittsburgh Steelers broadcaster",
+      "Known for his catchphrase 'Double-Yoi!'"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2002
+  }
+]

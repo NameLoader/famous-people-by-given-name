@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Anselm Kiefer",
+    "givenNames": [
+      "Anselm"
+    ],
+    "familyName": "Kiefer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anselm_Kiefer",
+    "occupation": "Artist, Painter, Sculptor",
+    "achievements": [
+      "Known for his large-scale paintings and sculptures that explore themes of German history, mythology, and identity.",
+      "Represented Germany at the Venice Biennale in 1980."
+    ],
+    "yearBorn": 1945
+  }
+]

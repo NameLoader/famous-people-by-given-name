@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Franziska van Almsick",
+    "givenNames": [
+      "Franziska"
+    ],
+    "familyName": "van Almsick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franziska_van_Almsick",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Olympic medalist",
+      "World champion swimmer"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Franziska Giffey",
+    "givenNames": [
+      "Franziska"
+    ],
+    "familyName": "Giffey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franziska_Giffey",
+    "occupation": "Politician",
+    "achievements": [
+      "Mayor of Berlin",
+      "Federal Minister for Family Affairs, Senior Citizens, Women and Youth"
+    ],
+    "yearBorn": 1978
+  }
+]

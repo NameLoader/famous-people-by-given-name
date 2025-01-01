@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ellis Marsalis Jr.",
+    "givenNames": [
+      "Ellis",
+      "Louis",
+      "Jr."
+    ],
+    "familyName": "Marsalis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.",
+    "occupation": "Jazz pianist and educator",
+    "achievements": [
+      "Performed with numerous jazz greats",
+      "Taught at the New Orleans Center for Creative Arts",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Ellis Island",
+    "givenNames": [
+      "Ellis"
+    ],
+    "familyName": "Island",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellis_Island",
+    "occupation": "Historical Immigration Station",
+    "achievements": [
+      "Processed over 12 million immigrants between 1892 and 1954",
+      "Symbol of hope and opportunity for millions",
+      "Now a National Monument and museum"
+    ]
+  }
+]

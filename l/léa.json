@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Léa Seydoux",
+    "givenNames": [
+      "Léa",
+      "Hélène"
+    ],
+    "familyName": "Seydoux",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9a_Seydoux",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award for Best Actress",
+      "Palm d'Or nominee at the Cannes Film Festival"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Léa Salamé",
+    "givenNames": [
+      "Léa",
+      "Hala"
+    ],
+    "familyName": "Salamé",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9a_Salam%C3%A9",
+    "occupation": "Journalist, television presenter",
+    "achievements": [
+      "Known for her interviews on France Inter and France 2"
+    ],
+    "yearBorn": 1979
+  }
+]

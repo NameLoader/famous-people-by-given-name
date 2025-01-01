@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kent Jones",
+    "givenNames": [
+      "Kent"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kent_Jones_(critic)",
+    "occupation": "Film Critic",
+    "achievements": [
+      "Contributing editor at Film Comment",
+      "Author of the book 'Hitchcock's Thrillers'"
+    ]
+  },
+  {
+    "fullName": "Kent Nagano",
+    "givenNames": [
+      "Kent",
+      "George"
+    ],
+    "familyName": "Nagano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kent_Nagano",
+    "occupation": "Conductor",
+    "achievements": [
+      "Music Director of the Orchestre symphonique de Montréal (2006-2014)",
+      "Chief Conductor of the Hamburg Philharmonic State Orchestra"
+    ],
+    "yearBorn": 1951
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Joyce Carol Oates",
+    "givenNames": [
+      "Joyce",
+      "Carol"
+    ],
+    "familyName": "Oates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joyce_Carol_Oates",
+    "occupation": "Novelist, short story writer, essayist",
+    "achievements": [
+      "National Book Award winner",
+      "Pulitzer Prize nominee",
+      "Prolific writer with over 70 novels and hundreds of short stories"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Joyce Meyer",
+    "givenNames": [
+      "Joyce",
+      "Pauline Joyce"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joyce_Meyer",
+    "occupation": "Charismatic Christian preacher, author",
+    "achievements": [
+      "Founded Joyce Meyer Ministries",
+      "Best-selling author of numerous Christian self-help books"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Joyce DiDonato",
+    "givenNames": [
+      "Joyce"
+    ],
+    "familyName": "DiDonato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joyce_DiDonato",
+    "occupation": "Opera singer (mezzo-soprano)",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her performances in operas by Handel, Mozart and Rossini"
+    ],
+    "yearBorn": 1969
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Monika Lewinsky",
+    "givenNames": [
+      "Monica",
+      "Samille"
+    ],
+    "familyName": "Lewinsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Lewinsky",
+    "occupation": "Activist, Writer",
+    "achievements": [
+      "Became a prominent figure in the Clinton-Lewinsky scandal",
+      "Advocate for anti-bullying and cyberbullying prevention"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Monika Kruse",
+    "givenNames": [
+      "Monika"
+    ],
+    "familyName": "Kruse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monika_Kruse",
+    "occupation": "DJ, Music Producer",
+    "achievements": [
+      "Pioneer of the minimal techno genre",
+      "Internationally acclaimed DJ and producer"
+    ]
+  }
+]

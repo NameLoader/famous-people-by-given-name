@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Anke Huber",
+    "givenNames": [
+      "Anke"
+    ],
+    "familyName": "Huber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anke_Huber",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached a career-high singles ranking of No. 4 in the world.",
+      "Won 7 WTA singles titles and 6 WTA doubles titles."
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Anke Engelke",
+    "givenNames": [
+      "Anke",
+      "Christina"
+    ],
+    "familyName": "Engelke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anke_Engelke",
+    "occupation": "Comedian, actress, and television presenter",
+    "achievements": [
+      "Known for her satirical comedy and impersonations.",
+      "Won numerous awards for her work in German television."
+    ],
+    "yearBorn": 1965
+  }
+]

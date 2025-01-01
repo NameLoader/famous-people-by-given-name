@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rolf Harris",
+    "givenNames": [
+      "Rolf"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rolf_Harris",
+    "occupation": "Entertainer, Artist",
+    "achievements": [
+      "Known for his television shows and music career.",
+      "Created popular songs like 'Tie Me Kangaroo Down, Sport'",
+      "Accomplished painter and sculptor."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2023
+  }
+]

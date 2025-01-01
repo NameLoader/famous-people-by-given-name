@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Dietmar Hopp",
+    "givenNames": [
+      "Dietmar"
+    ],
+    "familyName": "Hopp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietmar_Hopp",
+    "occupation": "Software entrepreneur",
+    "achievements": [
+      "Co-founder of SAP SE",
+      "One of the wealthiest people in Germany"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Dietmar Bartsch",
+    "givenNames": [
+      "Dietmar",
+      "Gerhard"
+    ],
+    "familyName": "Bartsch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dietmar_Bartsch",
+    "occupation": "Politician",
+    "achievements": [
+      "Member of the Bundestag (German Parliament)",
+      "Leader of The Left party"
+    ],
+    "yearBorn": 1954
+  }
+]

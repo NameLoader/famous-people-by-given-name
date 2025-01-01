@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Luca Pacioli",
+    "givenNames": [
+      "Luca",
+      "Bartolomeo"
+    ],
+    "familyName": "Pacioli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Pacioli",
+    "occupation": "Mathematician, Franciscan friar",
+    "achievements": [
+      "Considered the 'Father of Accounting'",
+      "Published 'Summa de Arithmetica, Geometria, Proportioni et Proportionalita' (1494), a groundbreaking work on mathematics and accounting",
+      "Introduced double-entry bookkeeping"
+    ],
+    "yearBorn": 1445,
+    "yearDied": 1517
+  },
+  {
+    "fullName": "Luca Giordano",
+    "givenNames": [
+      "Luca"
+    ],
+    "familyName": "Giordano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Giordano",
+    "occupation": "Painter",
+    "achievements": [
+      "Prolific Baroque painter known for his dynamic compositions and masterful use of color",
+      "Produced a vast body of work including frescoes, altarpieces, and easel paintings",
+      "Worked in Naples, Rome, Spain, and other European cities"
+    ],
+    "yearBorn": 1634,
+    "yearDied": 1705
+  },
+  {
+    "fullName": "Luca Toni",
+    "givenNames": [
+      "Luca"
+    ],
+    "familyName": "Toni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Toni",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Golden Boot in the Serie A in 2006",
+      "Scored over 300 goals in his professional career",
+      "Played for several Italian clubs including Fiorentina, Juventus, and Palermo"
+    ],
+    "yearBorn": 1977
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Rebecca Romijn",
+    "givenNames": [
+      "Rebecca",
+      "Alie"
+    ],
+    "familyName": "Romijn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Romijn",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Modelled for Sports Illustrated Swimsuit Issue",
+      "Starred in X-Men film series as Mystique"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Rebecca Ferguson",
+    "givenNames": [
+      "Rebecca",
+      "Louisa"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Ferguson",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in Mission: Impossible film series",
+      "Nominated for a Golden Globe Award for Best Actress"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Rebecca Lobo",
+    "givenNames": [
+      "Rebecca",
+      "Rose"
+    ],
+    "familyName": "Lobo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Lobo",
+    "occupation": "Basketball player, analyst",
+    "achievements": [
+      "Naismith Memorial Basketball Hall of Fame inductee",
+      "WNBA champion with the New York Liberty"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Rebecca Makkai",
+    "givenNames": [
+      "Rebecca"
+    ],
+    "familyName": "Makkai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Makkai",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "National Book Award finalist for her novel 'The Great Believers'",
+      "Her works have been published in The New Yorker and other prestigious publications"
+    ]
+  }
+]

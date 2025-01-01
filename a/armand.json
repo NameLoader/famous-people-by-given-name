@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Armand Hammer",
+    "givenNames": [
+      "Armand"
+    ],
+    "familyName": "Hammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armand_Hammer",
+    "occupation": "Businessman, philanthropist",
+    "achievements": [
+      "Built Occidental Petroleum into a major oil company",
+      "Prominent art collector and philanthropist"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1990
+  }
+]

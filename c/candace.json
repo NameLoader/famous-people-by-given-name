@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Candace Cameron Bure",
+    "givenNames": [
+      "Candace",
+      "Helaine",
+      "Cameron"
+    ],
+    "familyName": "Bure",
+    "wikipedia": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Known for her role as D.J. Tanner on the sitcom Full House and its sequel Fuller House.",
+      "Appeared in numerous other television shows and films."
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Candace Owens",
+    "givenNames": [
+      "Candace",
+      "Amber"
+    ],
+    "familyName": "Owens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Candace_Owens",
+    "occupation": "Conservative commentator, author",
+    "achievements": [
+      "Founder of the Blexit movement, encouraging Black Americans to leave the Democratic Party.",
+      "Author of the book 'Blackout: How Barack Obama and the Liberal Establishment Betrayed Black America.'",
+      "Known for her controversial views on race, politics, and social issues."
+    ],
+    "yearBorn": 1989
+  }
+]

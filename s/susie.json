@@ -1,0 +1,25 @@
+[
+  {
+    "fullName": "Susie Essman",
+    "givenNames": [
+      "Susan",
+      "Susie"
+    ],
+    "familyName": "Essman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susie_Essman",
+    "occupation": "Comedian, actress",
+    "achievements": [],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Susie Orbach",
+    "givenNames": [
+      "Susie"
+    ],
+    "familyName": "Orbach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susie_Orbach",
+    "occupation": "Psychotherapist, writer",
+    "achievements": [],
+    "yearBorn": 1946
+  }
+]

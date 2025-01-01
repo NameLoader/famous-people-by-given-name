@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Catrin Finch",
+    "givenNames": [
+      "Catrin",
+      "Ana"
+    ],
+    "familyName": "Finch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catrin_Finch",
+    "occupation": "Harpist",
+    "achievements": [
+      "Winner of the BBC Young Musician of the Year competition in 1985",
+      "Performed with orchestras worldwide",
+      "Released multiple solo albums and collaborated with other musicians"
+    ],
+    "yearBorn": 1970
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Paris Hilton",
+    "givenNames": [
+      "Paris",
+      "Whitney"
+    ],
+    "familyName": "Hilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_Hilton",
+    "occupation": "Media personality, socialite, model, actress, singer, DJ",
+    "achievements": [
+      "Heiress to the Hilton Hotels fortune",
+      "Reality television star on 'The Simple Life'",
+      "Successful businesswoman with her own fragrance and clothing lines"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Paris Jackson",
+    "givenNames": [
+      "Paris-Michael",
+      "Katherine"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_Jackson",
+    "occupation": "Model, actress, musician",
+    "achievements": [
+      "Daughter of pop icon Michael Jackson",
+      "Modeling work for brands like Calvin Klein and Chanel",
+      "Music career as a singer-songwriter"
+    ],
+    "yearBorn": 1998
+  }
+]

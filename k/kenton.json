@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Kenton Duty",
+    "givenNames": [
+      "Kenton"
+    ],
+    "familyName": "Duty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenton_Duty",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Gunther in the Disney Channel series 'Shake It Up'"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Kenton Cool",
+    "givenNames": [
+      "Kenton",
+      "Edward"
+    ],
+    "familyName": "Cool",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenton_Cool",
+    "occupation": "Mountaineer",
+    "achievements": [
+      "First British climber to summit Everest 15 times"
+    ]
+  }
+]

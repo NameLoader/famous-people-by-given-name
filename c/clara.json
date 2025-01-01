@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Clara Schumann",
+    "givenNames": [
+      "Clara",
+      "Josephine"
+    ],
+    "familyName": "Schumann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Schumann",
+    "occupation": "Pianist and composer",
+    "achievements": [
+      "Renowned pianist of the Romantic era",
+      "Prolific composer",
+      "Advocate for women in music"
+    ],
+    "yearBorn": 1819,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "Clara Barton",
+    "givenNames": [
+      "Clarissa",
+      "Harlowe"
+    ],
+    "familyName": "Barton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
+    "occupation": "Nurse, humanitarian",
+    "achievements": [
+      "Founder of the American Red Cross",
+      "Civil War battlefield nurse",
+      "Advocate for humanitarian aid"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1912
+  },
+  {
+    "fullName": "Clara Bow",
+    "givenNames": [
+      "Clara",
+      "Gordon"
+    ],
+    "familyName": "Bow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Bow",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the biggest movie stars of the 1920s",
+      "Known as the 'It Girl'"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1965
+  }
+]

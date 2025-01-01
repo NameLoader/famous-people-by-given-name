@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Juliet Stevenson",
+    "givenNames": [
+      "Juliet",
+      "Anne",
+      "Virginia"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliet_Stevenson",
+    "occupation": "Actress",
+    "achievements": [
+      "Acclaimed British actress known for her stage and screen work.",
+      "Nominated for three Olivier Awards and two BAFTA Awards.",
+      "Notable roles in films such as 'Truly Madly Deeply', 'Bend It Like Beckham', and 'Mona Lisa Smile'."
+    ],
+    "yearBorn": 1956
+  }
+]

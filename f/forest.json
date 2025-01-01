@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Forest Whitaker",
+    "givenNames": [
+      "Forest",
+      "Steven"
+    ],
+    "familyName": "Whitaker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forest_Whitaker",
+    "occupation": "Actor, Producer, Director",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "BAFTA Award for Best Actor in a Leading Role",
+      "Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role"
+    ],
+    "yearBorn": 1961
+  }
+]

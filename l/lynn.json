@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Lynn Margulis",
+    "givenNames": [
+      "Lynn"
+    ],
+    "familyName": "Margulis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynn_Margulis",
+    "occupation": "Biologist",
+    "achievements": [
+      "Developed the theory of symbiogenesis",
+      "Proposed that eukaryotic cells evolved from symbiotic relationships between prokaryotes"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Lynn Redgrave",
+    "givenNames": [
+      "Lynn",
+      "Rachel"
+    ],
+    "familyName": "Redgrave",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynn_Redgrave",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in *Georgy Girl*",
+      "Starred in numerous films and television shows"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2010
+  }
+]

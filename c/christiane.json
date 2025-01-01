@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Christiane Amanpour",
+    "givenNames": [
+      "Christiane",
+      "Maria",
+      "Heideh"
+    ],
+    "familyName": "Amanpour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_Amanpour",
+    "occupation": "Journalist",
+    "achievements": [
+      "Chief International Anchor for CNN",
+      "Host of Amanpour on PBS and CNN International"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Christiane Nüsslein-Volhard",
+    "givenNames": [
+      "Christiane",
+      "Janni"
+    ],
+    "familyName": "Nüsslein-Volhard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard",
+    "occupation": "Developmental biologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1995)",
+      "Pioneer in research on embryonic development in fruit flies"
+    ],
+    "yearBorn": 1942
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Katia Ricciarelli",
+    "givenNames": [
+      "Katia"
+    ],
+    "familyName": "Ricciarelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katia_Ricciarelli",
+    "occupation": "Soprano",
+    "achievements": [
+      "Performed at La Scala and other major opera houses",
+      "Recorded numerous albums of operatic arias"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Katia Alexandrovna Gordeeva",
+    "givenNames": [
+      "Ekaterina",
+      "Katia",
+      "Alexandrovna"
+    ],
+    "familyName": "Gordeeva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ekaterina_Gordeeva",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Olympic gold medalist (1988, 1994)",
+      "World Champion (1986-1990)"
+    ],
+    "yearBorn": 1971
+  }
+]

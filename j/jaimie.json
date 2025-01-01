@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jaimie Alexander",
+    "givenNames": [
+      "Jaimie",
+      "Lauren"
+    ],
+    "familyName": "Alexander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaimie_Alexander",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in 'Thor', 'Blindspot'",
+      "Nominated for Saturn Award for Best Supporting Actress on Television"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Jaimie Branch",
+    "givenNames": [
+      "Jaimie"
+    ],
+    "familyName": "Branch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaimie_Branch",
+    "occupation": "Jazz trumpeter and composer",
+    "achievements": [
+      "Known for her avant-garde jazz style",
+      "Released critically acclaimed albums like 'Fly Fly Away'"
+    ],
+    "yearBorn": 1983,
+    "yearDied": 2022
+  }
+]

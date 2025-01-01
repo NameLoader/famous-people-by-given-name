@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Clarence Thomas",
+    "givenNames": [
+      "Clarence"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Thomas",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "First African American Supreme Court Justice appointed since Thurgood Marshall",
+      "Known for his conservative views"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Clarence Clemons",
+    "givenNames": [
+      "Clarence",
+      "Anicholas"
+    ],
+    "familyName": "Clemons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Clemons",
+    "occupation": "Musician (Saxophonist)",
+    "achievements": [
+      "Longtime saxophonist for Bruce Springsteen's E Street Band",
+      "Renowned for his powerful and soulful saxophone solos"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Clarence Darrow",
+    "givenNames": [
+      "Clarence",
+      "Seward"
+    ],
+    "familyName": "Darrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Darrow",
+    "occupation": "Lawyer",
+    "achievements": [
+      "Famous defense attorney known for his courtroom oratory",
+      "Defended John T. Scopes in the Scopes Monkey Trial",
+      "Advocate for social justice and civil liberties"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1938
+  }
+]

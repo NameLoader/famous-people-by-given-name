@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Joni Mitchell",
+    "givenNames": [
+      "Joni",
+      "Roberta",
+      "Joan"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joni_Mitchell",
+    "occupation": "Singer-songwriter, painter",
+    "achievements": [
+      "Influential figure in folk, pop, and jazz music",
+      "Won nine Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Joni Ernst",
+    "givenNames": [
+      "Joni",
+      "Kay"
+    ],
+    "familyName": "Ernst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joni_Ernst",
+    "occupation": "Politician",
+    "achievements": [
+      "Junior United States Senator from Iowa since 2015",
+      "First female combat veteran elected to the US Senate"
+    ],
+    "yearBorn": 1970
+  }
+]

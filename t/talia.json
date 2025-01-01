@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Talia Shire",
+    "givenNames": [
+      "Talia",
+      "Rose"
+    ],
+    "familyName": "Shire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talia_Shire",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress for her role as Connie Corleone in The Godfather (1972)",
+      "Known for roles in Rocky and its sequels"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Talia Hibbert",
+    "givenNames": [
+      "Talia"
+    ],
+    "familyName": "Hibbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talia_Hibbert",
+    "occupation": "Author",
+    "achievements": [
+      "Writes romance novels featuring diverse characters and body positivity",
+      "Multiple award-winning author, including the Romantic Novel Awards and Goodreads Choice Awards"
+    ]
+  }
+]

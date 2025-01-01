@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Valarie Allman",
+    "givenNames": [
+      "Valarie",
+      "Carolyn"
+    ],
+    "familyName": "Allman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valarie_Allman",
+    "occupation": "Discus thrower",
+    "achievements": [
+      "Olympic gold medalist (2020)",
+      "World Champion (2019)"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Valarie Bertinelli",
+    "givenNames": [
+      "Valerie",
+      "Anne"
+    ],
+    "familyName": "Bertinelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Bertinelli",
+    "occupation": "Actress, author",
+    "achievements": [
+      "Emmy Award winner (Acting)",
+      "Golden Globe nominee (Acting)"
+    ],
+    "yearBorn": 1960
+  }
+]

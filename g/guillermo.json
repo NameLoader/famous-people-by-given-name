@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Guillermo del Toro Gómez",
+    "givenNames": [
+      "Guillermo"
+    ],
+    "familyName": "del Toro Gómez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillermo_del_Toro",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Academy Award for Best Director (The Shape of Water)",
+      "Known for films like Pan's Labyrinth, The Devil's Backbone, Pacific Rim"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Guillermo Rigondeaux Ortiz",
+    "givenNames": [
+      "Guillermo"
+    ],
+    "familyName": "Rigondeaux Ortiz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Rigondeaux",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Two-time world champion in two weight classes (bantamweight and super bantamweight)",
+      "Olympic gold medalist (2000)"
+    ],
+    "yearBorn": 1980
+  }
+]

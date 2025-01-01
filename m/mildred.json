@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Mildred Dresselhaus",
+    "givenNames": [
+      "Mildred"
+    ],
+    "familyName": "Dresselhaus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mildred_Dresselhaus",
+    "occupation": "Physicist and engineer",
+    "achievements": [
+      "Nobel Prize in Physics laureate",
+      "Pioneer in the field of nanoscience and carbon nanotubes"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Mildred Pierce",
+    "givenNames": [
+      "Mildred"
+    ],
+    "familyName": "Pierce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mildred_Pierce",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the novel 'Mildred Pierce' by James M. Cain",
+      "Subject of the acclaimed film adaptations by Michael Curtiz (1945) and Todd Haynes (2011)"
+    ]
+  }
+]

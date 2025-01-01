@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Luther Vandross",
+    "givenNames": [
+      "Luther",
+      "Ronzoni"
+    ],
+    "familyName": "Vandross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luther_Vandross",
+    "occupation": "Singer, songwriter, record producer",
+    "achievements": [
+      "Won eight Grammy Awards",
+      "Known for soulful ballads and smooth vocals",
+      "Had numerous hit songs like 'Never Too Much' and 'Here and Now'"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2005
+  }
+]

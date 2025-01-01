@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Trey Parker",
+    "givenNames": [
+      "Randolph",
+      "Trey"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trey_Parker",
+    "occupation": "Filmmaker, Animator, Composer",
+    "achievements": [
+      "Co-creator of South Park",
+      "Director and writer of films like Team America: World Police and Book of Mormon"
+    ],
+    "yearBorn": 1969
+  }
+]

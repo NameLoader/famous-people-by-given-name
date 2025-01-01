@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Mercedes McCambridge",
+    "givenNames": [
+      "Mercedes",
+      "Agnes"
+    ],
+    "familyName": "McCambridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes_McCambridge",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress for All the King's Men (1949)",
+      "Voice of Maleficent in Disney's Sleeping Beauty (1959)"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Mercedes Sosa",
+    "givenNames": [
+      "Mercedes",
+      "Haydée"
+    ],
+    "familyName": "Sosa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes_Sosa",
+    "occupation": "Folk singer",
+    "achievements": [
+      "Known as 'The Voice of Latin America'",
+      "Championed social justice through her music"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Mercedes Ruehl",
+    "givenNames": [
+      "Mercedes",
+      "J"
+    ],
+    "familyName": "Ruehl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes_Ruehl",
+    "occupation": "Actress",
+    "achievements": [
+      "Tony Award for Best Featured Actress in a Play for Lost in Yonkers (1991)",
+      "Academy Award nomination for Best Supporting Actress for The Fisher King (1991)"
+    ],
+    "yearBorn": 1948
+  }
+]

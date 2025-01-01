@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ophelia Lovibond",
+    "givenNames": [
+      "Ophelia",
+      "Lucy"
+    ],
+    "familyName": "Lovibond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ophelia_Lovibond",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Guardians of the Galaxy', 'Nowhere Boy'",
+      "Appeared in TV series such as 'Elementary', 'The Tourist'"
+    ],
+    "yearBorn": 1986
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Roscoe Arbuckle",
+    "givenNames": [
+      "Roscoe",
+      "Conkling"
+    ],
+    "familyName": "Arbuckle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roscoe_Arbuckle",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Pioneer of silent film comedy",
+      "Known for his physical humor and iconic 'Fatty' persona"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1933
+  }
+]

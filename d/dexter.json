@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dexter Gordon",
+    "givenNames": [
+      "Dexter"
+    ],
+    "familyName": "Gordon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dexter_Gordon",
+    "occupation": "Jazz saxophonist",
+    "achievements": [
+      "Highly influential tenor saxophonist in bebop and hard bop styles.",
+      "Known for his improvisational skills and powerful sound."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Dexter Holland",
+    "givenNames": [
+      "Bryan",
+      "Keith",
+      "Dexter"
+    ],
+    "familyName": "Holland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dexter_Holland",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Lead vocalist and guitarist for the punk rock band The Offspring.",
+      "Holds a PhD in molecular biology."
+    ],
+    "yearBorn": 1965
+  }
+]

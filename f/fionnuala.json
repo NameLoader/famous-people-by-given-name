@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Fionnuala Flanagan",
+    "givenNames": [
+      "Fionnghuala",
+      "Manon",
+      "Fionnula"
+    ],
+    "familyName": "Flanagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fionnula_Flanagan",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for a Tony Award",
+      "Known for roles in films such as 'The Others' and 'Breakfast on Pluto'",
+      "Extensive stage career"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Fionnuala Sweeney",
+    "givenNames": [
+      "Fionnuala"
+    ],
+    "familyName": "Sweeney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fionnuala_Sweeney",
+    "occupation": "Journalist",
+    "achievements": [
+      "Former BBC World News presenter",
+      "Known for her coverage of international events"
+    ]
+  }
+]

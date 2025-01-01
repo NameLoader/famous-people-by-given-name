@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Gianna Nannini",
+    "givenNames": [
+      "Gianna"
+    ],
+    "familyName": "Nannini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianna_Nannini",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "One of the most successful Italian singers of all time",
+      "Known for her powerful voice and socially conscious lyrics"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Gianna Angelopoulos-Daskalaki",
+    "givenNames": [
+      "Gianna"
+    ],
+    "familyName": "Angelopoulos-Daskalaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianna_Angelopoulos-Daskalaki",
+    "occupation": "Businesswoman and former politician",
+    "achievements": [
+      "President of the Athens 2004 Olympic Games Organizing Committee",
+      "Member of the Greek Parliament"
+    ],
+    "yearBorn": 1956
+  }
+]

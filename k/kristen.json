@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Kristen Stewart",
+    "givenNames": [
+      "Kristen",
+      "Jaymes"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Stewart",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominee",
+      "BAFTA Award winner",
+      "Known for roles in Twilight Saga, Spencer"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Kristen Wiig",
+    "givenNames": [
+      "Kristen",
+      "Carroll"
+    ],
+    "familyName": "Wiig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Wiig",
+    "occupation": "Actress, Comedian, Writer",
+    "achievements": [
+      "Emmy Award winner",
+      "Known for roles in Saturday Night Live, Bridesmaids"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Kristen Bell",
+    "givenNames": [
+      "Kristen",
+      "Anne"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Bell",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for roles in Veronica Mars, Frozen"
+    ],
+    "yearBorn": 1980
+  }
+]

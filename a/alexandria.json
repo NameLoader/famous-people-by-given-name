@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Alexandria Ocasio-Cortez",
+    "givenNames": [
+      "Alexandria"
+    ],
+    "familyName": "Ocasio-Cortez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "occupation": "Politician",
+    "achievements": [
+      "Youngest woman to serve in the United States Congress",
+      "Advocate for progressive policies such as Medicare for All and the Green New Deal"
+    ],
+    "yearBorn": 1989
+  }
+]

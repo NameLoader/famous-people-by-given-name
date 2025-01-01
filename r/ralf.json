@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Ralf Schumacher",
+    "givenNames": [
+      "Ralf"
+    ],
+    "familyName": "Schumacher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralf_Schumacher",
+    "occupation": "Formula One driver",
+    "achievements": [
+      "Won six Formula One races",
+      "Finished second in the 2001 and 2003 World Championship standings"
+    ],
+    "yearBorn": 1975
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Vito Corleone",
+    "givenNames": [
+      "Vito"
+    ],
+    "familyName": "Corleone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vito_Corleone",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Head of the Corleone crime family in Mario Puzo's novel 'The Godfather' and its film adaptations."
+    ]
+  },
+  {
+    "fullName": "Vito Genovese",
+    "givenNames": [
+      "Vito"
+    ],
+    "familyName": "Genovese",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vito_Genovese",
+    "occupation": "Mobster",
+    "achievements": [
+      "Head of the Genovese crime family."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Vito Rizzuto",
+    "givenNames": [
+      "Vito"
+    ],
+    "familyName": "Rizzuto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vito_Rizzuto",
+    "occupation": "Mobster",
+    "achievements": [
+      "Head of the Montreal Mafia."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2013
+  }
+]

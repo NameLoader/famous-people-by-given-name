@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alfredo Kraus",
+    "givenNames": [
+      "Alfredo"
+    ],
+    "familyName": "Kraus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfredo_Kraus",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Renowned for his beautiful voice and impeccable technique.",
+      "Performed at major opera houses around the world."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1999
+  }
+]

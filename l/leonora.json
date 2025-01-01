@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Leonora Carrington",
+    "givenNames": [
+      "Leonora"
+    ],
+    "familyName": "Carrington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonora_Carrington",
+    "occupation": "Artist, Writer",
+    "achievements": [
+      "Surrealist painter and novelist",
+      "Known for her fantastical and dreamlike imagery"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Leonora Cohen",
+    "givenNames": [
+      "Leonard",
+      "Norman"
+    ],
+    "familyName": "Cohen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+    "occupation": "Singer-Songwriter, Poet, Novelist",
+    "achievements": [
+      "Iconic Canadian musician known for his deep voice and poetic lyrics",
+      "Authored novels and poetry collections"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2016
+  }
+]

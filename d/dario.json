@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Dario Fo",
+    "givenNames": [
+      "Dario",
+      "Luigi",
+      "Angelo"
+    ],
+    "familyName": "Fo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dario_Fo",
+    "occupation": "Playwright, actor, director, and political activist",
+    "achievements": [
+      "Nobel Prize in Literature (1997)",
+      "Known for his satirical and politically charged plays"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Dario Argento",
+    "givenNames": [
+      "Dario"
+    ],
+    "familyName": "Argento",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dario_Argento",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Known for his horror films",
+      "Influential figure in the giallo genre"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Dario Franchitti",
+    "givenNames": [
+      "Dario",
+      "Marino"
+    ],
+    "familyName": "Franchitti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dario_Franchitti",
+    "occupation": "Scottish former racing driver",
+    "achievements": [
+      "Four-time IndyCar Series champion",
+      "Winner of three Indianapolis 500 races"
+    ],
+    "yearBorn": 1973
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nino Rota",
+    "givenNames": [
+      "Giovanni",
+      "Nino"
+    ],
+    "familyName": "Rota",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nino_Rota",
+    "occupation": "Composer",
+    "achievements": [
+      "Won two Academy Awards for Best Original Score for his work on The Godfather and The Godfather Part II.",
+      "Composed music for numerous other films, including Fellini's La Strada, 8½, and Amarcord."
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Nino Cerruti",
+    "givenNames": [
+      "Nino"
+    ],
+    "familyName": "Cerruti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nino_Cerruti",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Founded the fashion house Cerruti 1881.",
+      "Known for his elegant and timeless menswear designs."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2023
+  }
+]

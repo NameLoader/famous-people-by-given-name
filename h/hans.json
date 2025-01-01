@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Hans Christian Andersen",
+    "givenNames": [
+      "Hans",
+      "Christian"
+    ],
+    "familyName": "Andersen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+    "occupation": "Author, Poet, Playwright",
+    "achievements": [
+      "Wrote famous fairy tales like The Little Mermaid and The Ugly Duckling"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1875
+  },
+  {
+    "fullName": "Hans Zimmer",
+    "givenNames": [
+      "Hans",
+      "Florian"
+    ],
+    "familyName": "Zimmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+    "occupation": "Film Score Composer",
+    "achievements": [
+      "Won an Oscar, three Golden Globes, and two Grammys for his film scores",
+      "Composed music for films like The Lion King, Inception, and Gladiator"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Hans Kelsen",
+    "givenNames": [
+      "Hans"
+    ],
+    "familyName": "Kelsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Kelsen",
+    "occupation": "Legal Philosopher, jurist",
+    "achievements": [
+      "Developed the Pure Theory of Law",
+      "Influential figure in legal positivism and constitutional law"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1973
+  }
+]

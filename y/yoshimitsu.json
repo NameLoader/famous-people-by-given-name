@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ashikaga Yoshimitsu",
+    "givenNames": [
+      "Yoshimitsu"
+    ],
+    "familyName": "Ashikaga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimitsu",
+    "occupation": "Shogun",
+    "achievements": [
+      "Established the Ashikaga shogunate as a powerful force in Japan.",
+      "Patronized arts and culture, notably Zen Buddhism."
+    ],
+    "yearBorn": 1358,
+    "yearDied": 1409
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gale Sayers",
+    "givenNames": [
+      "Gale",
+      "Eugene"
+    ],
+    "familyName": "Sayers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gale_Sayers",
+    "occupation": "American football player",
+    "achievements": [
+      "NFL Hall of Famer",
+      "Considered one of the greatest running backs in NFL history"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Gale Storm",
+    "givenNames": [
+      "Gale"
+    ],
+    "familyName": "Storm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gale_Storm",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Starred in the popular TV sitcom 'My Little Margie'",
+      "Had a successful singing career"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2009
+  }
+]

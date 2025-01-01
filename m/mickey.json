@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Mickey Rooney",
+    "givenNames": [
+      "Mickey"
+    ],
+    "familyName": "Rooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mickey_Rooney",
+    "occupation": "Actor",
+    "achievements": [
+      "One of the most popular film stars of Hollywood's Golden Age.",
+      "Nominated for four Academy Awards."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Mickey Mantle",
+    "givenNames": [
+      "Mickey",
+      "Charles"
+    ],
+    "familyName": "Mantle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mickey_Mantle",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "Center fielder for the New York Yankees.",
+      "Seven-time World Series champion.",
+      "Three-time American League Most Valuable Player."
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1995
+  }
+]

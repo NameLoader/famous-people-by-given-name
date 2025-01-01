@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Bryan Cranston",
+    "givenNames": [
+      "Bryan",
+      "Lee"
+    ],
+    "familyName": "Cranston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Cranston",
+    "occupation": "Actor",
+    "achievements": [
+      "Emmy Awards for his role as Walter White in Breaking Bad",
+      "Tony Award for his performance in the Broadway play All the Way"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Bryan Adams",
+    "givenNames": [
+      "Bryan",
+      "Guy"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Adams",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for hit songs like Summer of '69 and (Everything I Do) I Do It For You"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Bryan Ferry",
+    "givenNames": [
+      "Bryan"
+    ],
+    "familyName": "Ferry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Ferry",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Frontman of the art rock band Roxy Music",
+      "Successful solo career"
+    ],
+    "yearBorn": 1945
+  }
+]

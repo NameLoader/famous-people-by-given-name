@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Calvin Coolidge",
+    "givenNames": [
+      "Calvin"
+    ],
+    "familyName": "Coolidge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+    "occupation": "Politician",
+    "achievements": [
+      "30th President of the United States",
+      "Known for his pro-business policies and limited government intervention"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1933
+  },
+  {
+    "fullName": "Calvin Klein",
+    "givenNames": [
+      "Calvin",
+      "Richard"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Klein",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Founded the Calvin Klein fashion house",
+      "Known for minimalist designs and provocative advertising campaigns"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Calvin Trillin",
+    "givenNames": [
+      "Calvin",
+      "Marshall"
+    ],
+    "familyName": "Trillin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Trillin",
+    "occupation": "Writer, humorist",
+    "achievements": [
+      "Staff writer for The New Yorker",
+      "Known for his humorous essays and food writing"
+    ],
+    "yearBorn": 1935
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lesley Manville",
+    "givenNames": [
+      "Lesley",
+      "Ann"
+    ],
+    "familyName": "Manville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesley_Manville",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress",
+      "BAFTA Award winner for Best Actress in a Supporting Role"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Lesley Gore",
+    "givenNames": [
+      "Lesley"
+    ],
+    "familyName": "Gore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesley_Gore",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Hit song \"It's My Party\"",
+      "Grammy Award nominations"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2015
+  }
+]

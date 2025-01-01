@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Julieta Serrano",
+    "givenNames": [
+      "Julieta"
+    ],
+    "familyName": "Serrano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julieta_Serrano",
+    "occupation": "Actress",
+    "achievements": [
+      "Won Goya Award for Best Supporting Actress for her role in 'The Carpenter's Pencil'"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Julieta Venegas",
+    "givenNames": [
+      "Julieta"
+    ],
+    "familyName": "Venegas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julieta_Venegas",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Won multiple Grammy Awards and Latin Grammy Awards",
+      "Known for her indie pop sound and socially conscious lyrics"
+    ],
+    "yearBorn": 1970
+  }
+]

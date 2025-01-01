@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Elenore Roosevelt",
+    "givenNames": [
+      "Eleanor"
+    ],
+    "familyName": "Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+    "occupation": "First Lady, Human Rights Activist",
+    "achievements": [
+      "Served as First Lady of the United States from 1933 to 1945.",
+      "Chaired the United Nations Human Rights Commission and was instrumental in drafting the Universal Declaration of Human Rights."
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1962
+  }
+]

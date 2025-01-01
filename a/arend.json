@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arend Heyting",
+    "givenNames": [
+      "Arend"
+    ],
+    "familyName": "Heyting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arend_Heyting",
+    "occupation": "Mathematician and logician",
+    "achievements": [
+      "Developed intuitionistic logic",
+      "Contributed to the foundations of mathematics"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1980
+  }
+]

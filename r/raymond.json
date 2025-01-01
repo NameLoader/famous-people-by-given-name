@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Raymond Chandler",
+    "givenNames": [
+      "Raymond",
+      "Thornton"
+    ],
+    "familyName": "Chandler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Chandler",
+    "occupation": "Author",
+    "achievements": [
+      "Pioneer of hard-boiled detective fiction",
+      "Created iconic character Philip Marlowe"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Raymond Aron",
+    "givenNames": [
+      "Raymond",
+      "Claude",
+      "Ferdinand"
+    ],
+    "familyName": "Aron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Aron",
+    "occupation": "Sociologist, Philosopher",
+    "achievements": [
+      "Influential figure in French intellectual life",
+      "Contributed to the development of liberal conservatism"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Raymond Barre",
+    "givenNames": [
+      "Raymond",
+      "Octave",
+      "Joseph"
+    ],
+    "familyName": "Barre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Barre",
+    "occupation": "Politician, Economist",
+    "achievements": [
+      "Prime Minister of France from 1976 to 1981",
+      "Known for his economic policies and technocratic approach"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Raymond Carver",
+    "givenNames": [
+      "Raymond",
+      "Clevie"
+    ],
+    "familyName": "Carver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Carver",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Known for his minimalist short stories",
+      "Explored themes of working-class life and alienation"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1988
+  }
+]

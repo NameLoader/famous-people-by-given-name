@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Tarcisio Bertone",
+    "givenNames": [
+      "Tarcisio",
+      "Pietro",
+      "Evasio"
+    ],
+    "familyName": "Bertone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarcisio_Bertone",
+    "occupation": "Cardinal of the Catholic Church",
+    "achievements": [
+      "Served as Prefect of the Congregation for Bishops from 2003 to 2013.",
+      "Was Camerlengo of the Holy Roman Church from 2007 to 2013."
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Tarcisio Burgnich",
+    "givenNames": [
+      "Tarcisio"
+    ],
+    "familyName": "Burgnich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarcisio_Burgnich",
+    "occupation": "Footballer and manager",
+    "achievements": [
+      "Won the UEFA European Championship with Italy in 1968.",
+      "Played for Juventus and Inter Milan during his career."
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2021
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Cherie Currie",
+    "givenNames": [
+      "Cherie",
+      "Ann"
+    ],
+    "familyName": "Currie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cherie_Currie",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Lead singer of the Runaways",
+      "Solo musical career",
+      "Actress in films like 'Foxes'"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Cherie Johnson",
+    "givenNames": [
+      "Cherie"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cherie_Johnson",
+    "occupation": "Actress, television personality",
+    "achievements": [
+      "Role as Maxine Shaw on 'Family Matters'",
+      "Appeared in other TV shows and films"
+    ],
+    "yearBorn": 1975
+  }
+]

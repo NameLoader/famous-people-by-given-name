@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Haruki Murakami",
+    "givenNames": [
+      "Haruki"
+    ],
+    "familyName": "Murakami",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Internationally acclaimed author",
+      "Known for his surreal and magical realist style",
+      "Bestselling novels include 'Norwegian Wood', 'Kafka on the Shore', and '1Q84'"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Haruki Kadokawa",
+    "givenNames": [
+      "Haruki"
+    ],
+    "familyName": "Kadokawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haruki_Kadokawa",
+    "occupation": "Businessman, Film Producer",
+    "achievements": [
+      "President of Kadokawa Corporation, a major Japanese publishing and entertainment conglomerate",
+      "Produced numerous successful anime films and television series"
+    ],
+    "yearBorn": 1943
+  }
+]

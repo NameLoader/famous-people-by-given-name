@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Bertrand Russell",
+    "givenNames": [
+      "Bertrand",
+      "Arthur",
+      "William"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+    "occupation": "Philosopher, logician, mathematician, historian, writer, social critic",
+    "achievements": [
+      "One of the founders of analytic philosophy",
+      "Major contributions to logic, mathematics, and epistemology",
+      "Nobel Prize in Literature (1950)"
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Bertrand Goldberg",
+    "givenNames": [
+      "Bertrand"
+    ],
+    "familyName": "Goldberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Goldberg",
+    "occupation": "Architect",
+    "achievements": [
+      "Known for his Brutalist style",
+      "Designed iconic buildings like the Marina City complex in Chicago"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Bertrand Piccard",
+    "givenNames": [
+      "Bertrand"
+    ],
+    "familyName": "Piccard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertrand_Piccard",
+    "occupation": "Psychiatrist, aviator, explorer",
+    "achievements": [
+      "First to complete a non-stop balloon circumnavigation of the globe (1999)"
+    ],
+    "yearBorn": 1958
+  }
+]

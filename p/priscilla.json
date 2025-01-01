@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Priscilla Presley",
+    "givenNames": [
+      "Priscilla",
+      "Ann"
+    ],
+    "familyName": "Presley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Priscilla_Presley",
+    "occupation": "Actress, businesswoman",
+    "achievements": [
+      "Wife of Elvis Presley",
+      "Appeared in films such as 'Naked Gun' series"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Priscilla Chan",
+    "givenNames": [
+      "Priscilla"
+    ],
+    "familyName": "Chan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Priscilla_Chan",
+    "occupation": "Pediatrician, philanthropist",
+    "achievements": [
+      "Co-founder of the Chan Zuckerberg Initiative",
+      "Advocate for education reform and personalized learning"
+    ],
+    "yearBorn": 1985
+  }
+]

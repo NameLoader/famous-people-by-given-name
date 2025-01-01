@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Dina Lohan",
+    "givenNames": [
+      "Dina"
+    ],
+    "familyName": "Lohan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dina_Lohan",
+    "occupation": "Actress, manager",
+    "achievements": [
+      "Mother of actresses Lindsay Lohan and Aliana Lohan",
+      "Appeared on reality television shows"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Dina Merrill",
+    "givenNames": [
+      "Dina"
+    ],
+    "familyName": "Merrill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dina_Merrill",
+    "occupation": "Actress, socialite",
+    "achievements": [
+      "Starred in films such as 'The King and I' and 'Touch of Evil'",
+      "Known for her philanthropy and charitable work"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2017
+  }
+]

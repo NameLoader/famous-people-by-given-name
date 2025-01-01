@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jamie Oliver",
+    "givenNames": [
+      "Jamie",
+      "Trevor"
+    ],
+    "familyName": "Oliver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Oliver",
+    "occupation": "Chef, restaurateur, and author",
+    "achievements": [
+      "Known for his approachable cooking style and focus on fresh ingredients.",
+      "Has authored numerous bestselling cookbooks and hosted popular television shows."
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Jamie Lee Curtis",
+    "givenNames": [
+      "Jamie",
+      "Lee"
+    ],
+    "familyName": "Curtis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis",
+    "occupation": "Actress and author",
+    "achievements": [
+      "Known for her roles in horror films like 'Halloween' and comedies like 'Trading Places'.",
+      "Has won a BAFTA Award and two Golden Globe Awards."
+    ],
+    "yearBorn": 1958
+  }
+]

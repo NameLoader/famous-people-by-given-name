@@ -1,0 +1,59 @@
+[
+  {
+    "fullName": "Jane Austen",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Austen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+    "occupation": "Novelist",
+    "achievements": [
+      "Authored beloved novels such as Pride and Prejudice, Sense and Sensibility, Emma",
+      "Considered one of the most important writers in English literature"
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1817
+  },
+  {
+    "fullName": "Jane Goodall",
+    "givenNames": [
+      "Jane",
+      "Valerie"
+    ],
+    "familyName": "Goodall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Goodall",
+    "occupation": "Primatologist, Anthropologist",
+    "achievements": [
+      "Revolutionary research on chimpanzees in Tanzania",
+      "Founded the Jane Goodall Institute for wildlife conservation and animal welfare advocacy"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Jane Fonda",
+    "givenNames": [
+      "Jane",
+      "Seymour"
+    ],
+    "familyName": "Fonda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Fonda",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Academy Award-winning actress known for roles in films like Klute and Coming Home",
+      "Prominent political activist, particularly against the Vietnam War"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Jane Eyre",
+    "givenNames": [
+      "Jane"
+    ],
+    "familyName": "Eyre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Eyre",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Charlotte Brontë's classic novel, Jane Eyre"
+    ]
+  }
+]

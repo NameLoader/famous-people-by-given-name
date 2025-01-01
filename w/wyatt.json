@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Wyatt Earp",
+    "givenNames": [
+      "Wyatt",
+      "Berry",
+      "Stapp"
+    ],
+    "familyName": "Earp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wyatt_Earp",
+    "occupation": "Lawman, gambler",
+    "achievements": [
+      "Famous for his role in the Gunfight at the O.K. Corral",
+      "Legendary lawman of the American West"
+    ],
+    "yearBorn": 1848,
+    "yearDied": 1929
+  },
+  {
+    "fullName": "Wyatt Russell",
+    "givenNames": [
+      "Wyatt",
+      "Hawn"
+    ],
+    "familyName": "Russell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wyatt_Russell",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the television series 'Legion'",
+      "Appeared in films such as 'Overlord' and 'The Falcon and the Winter Soldier'"
+    ],
+    "yearBorn": 1986
+  }
+]

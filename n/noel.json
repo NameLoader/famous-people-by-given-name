@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Noel Gallagher",
+    "givenNames": [
+      "Noel",
+      "Thomas",
+      "David"
+    ],
+    "familyName": "Gallagher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Gallagher",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Guitarist and primary songwriter for the rock band Oasis",
+      "Won multiple Brit Awards and Ivor Novello Awards"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Noel Redding",
+    "givenNames": [
+      "Noel",
+      "David"
+    ],
+    "familyName": "Redding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Redding",
+    "occupation": "Musician",
+    "achievements": [
+      "Bassist for the Jimi Hendrix Experience",
+      "Known for his melodic and innovative bass lines"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2003
+  }
+]

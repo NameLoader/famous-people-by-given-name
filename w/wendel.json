@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Wendel Clark",
+    "givenNames": [
+      "Wendel",
+      "L"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendel_Clark",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Played 15 seasons in the NHL",
+      "Won the Calder Memorial Trophy as Rookie of the Year in 1986"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Wendel Willkie",
+    "givenNames": [
+      "Wendell",
+      "Lewis"
+    ],
+    "familyName": "Willkie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendell_Willkie",
+    "occupation": "Lawyer, politician",
+    "achievements": [
+      "Republican presidential nominee in 1940",
+      "Advocate for international cooperation and human rights"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1944
+  }
+]

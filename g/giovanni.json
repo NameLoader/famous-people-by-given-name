@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Giovanni Boccaccio",
+    "givenNames": [
+      "Giovanni"
+    ],
+    "familyName": "Boccaccio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Boccaccio",
+    "occupation": "Writer, Poet, Humanist",
+    "achievements": [
+      "Authored The Decameron",
+      "Considered the father of Italian prose"
+    ],
+    "yearBorn": 1313,
+    "yearDied": 1375
+  },
+  {
+    "fullName": "Giovanni Battista Piranesi",
+    "givenNames": [
+      "Giovanni",
+      "Battista"
+    ],
+    "familyName": "Piranesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+    "occupation": "Artist, Architect, Engraver",
+    "achievements": [
+      "Known for his etchings of Roman ruins and architectural fantasies",
+      "Influenced Neoclassical architecture"
+    ],
+    "yearBorn": 1720,
+    "yearDied": 1778
+  },
+  {
+    "fullName": "Giovanni Ribisi",
+    "givenNames": [
+      "Giovanni",
+      "Antonino"
+    ],
+    "familyName": "Ribisi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Ribisi",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like Saving Private Ryan and Avatar",
+      "Appeared in television series like Friends and My Name Is Earl"
+    ],
+    "yearBorn": 1974
+  }
+]

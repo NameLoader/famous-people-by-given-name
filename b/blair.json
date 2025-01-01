@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Blair Waldorf",
+    "givenNames": [
+      "Blair",
+      "Cornelia"
+    ],
+    "familyName": "Waldorf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blair_Waldorf",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the book and television series Gossip Girl",
+      "Known for her sharp wit, ambition, and complex relationships"
+    ]
+  },
+  {
+    "fullName": "Blair Underwood",
+    "givenNames": [
+      "Blair",
+      "Erwin"
+    ],
+    "familyName": "Underwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blair_Underwood",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous television shows and films",
+      "Known for roles in L.A. Law, Sex and the City, and Deep Impact"
+    ],
+    "yearBorn": 1964
+  }
+]

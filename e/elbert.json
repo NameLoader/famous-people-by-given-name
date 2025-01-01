@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Elbert Hubbard",
+    "givenNames": [
+      "Elbert",
+      "Green"
+    ],
+    "familyName": "Hubbard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+    "occupation": "Writer, Philosopher, Publisher",
+    "achievements": [
+      "Founded the Roycroft Arts and Crafts community.",
+      "Wrote influential books on self-improvement and philosophy."
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1915
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sinéad O'Connor",
+    "givenNames": [
+      "Sinéad",
+      "Marie",
+      "Bernadette"
+    ],
+    "familyName": "O'Connor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her powerful vocals and shaved head"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Sinéad Burke",
+    "givenNames": [
+      "Sinéad"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_Burke",
+    "occupation": "Activist, Writer, and Educator",
+    "achievements": [
+      "Advocate for disability rights and inclusion",
+      "TED speaker"
+    ],
+    "yearBorn": 1990
+  }
+]

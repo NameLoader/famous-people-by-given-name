@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Clément Janequin",
+    "givenNames": [
+      "Clément"
+    ],
+    "familyName": "Janequin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Janequin",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific composer of chansons during the French Renaissance.",
+      "Known for his expressive and polyphonic vocal music."
+    ],
+    "yearBorn": 1485,
+    "yearDied": 1558
+  },
+  {
+    "fullName": "Clément Ader",
+    "givenNames": [
+      "Clément"
+    ],
+    "familyName": "Ader",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Ader",
+    "occupation": "Aviation pioneer",
+    "achievements": [
+      "Built and flew the first self-propelled aircraft, the Éole.",
+      "Credited with early contributions to aeronautical engineering."
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "Clément Beaune",
+    "givenNames": [
+      "Clément"
+    ],
+    "familyName": "Beaune",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Beaune",
+    "occupation": "Politician",
+    "achievements": [
+      "French politician and member of the National Assembly.",
+      "Served as Minister Delegate for European Affairs from 2020 to 2022."
+    ],
+    "yearBorn": 1981
+  }
+]

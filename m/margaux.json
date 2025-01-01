@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Margaux Hemingway",
+    "givenNames": [
+      "Margaux",
+      "Louise"
+    ],
+    "familyName": "Hemingway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaux_Hemingway",
+    "occupation": "Model, actress",
+    "achievements": [
+      "Granddaughter of Ernest Hemingway",
+      "Appeared in films such as 'Lipstick' and 'They All Laughed'"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 1996
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Owain Gwynedd",
+    "givenNames": [
+      "Owain"
+    ],
+    "familyName": "Gwynedd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owain_Gwynedd",
+    "occupation": "King of Gwynedd",
+    "achievements": [
+      "Unified much of Wales under his rule",
+      "Considered one of the greatest Welsh rulers"
+    ],
+    "yearBorn": 1100,
+    "yearDied": 1170
+  }
+]

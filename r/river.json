@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "River Phoenix",
+    "givenNames": [
+      "River",
+      "Jude"
+    ],
+    "familyName": "Phoenix",
+    "wikipedia": "https://en.wikipedia.org/wiki/River_Phoenix",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for Academy Award for Best Supporting Actor at age 18",
+      "Starred in films like Stand By Me, My Own Private Idaho, and Running on Empty"
+    ],
+    "yearBorn": 1970,
+    "yearDied": 1993
+  }
+]

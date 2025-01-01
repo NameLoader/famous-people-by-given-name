@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Leighton Meester",
+    "givenNames": [
+      "Leighton",
+      "Marissa"
+    ],
+    "familyName": "Meester",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leighton_Meester",
+    "occupation": "Actress, singer, and model",
+    "achievements": [
+      "Known for her role as Blair Waldorf in the teen drama series Gossip Girl",
+      "Starred in films such as The Roommate, Country Strong, and Single Mom"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Leighton Vander Esch",
+    "givenNames": [
+      "Leighton"
+    ],
+    "familyName": "Vander Esch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leighton_Vander_Esch",
+    "occupation": "Professional American football player",
+    "achievements": [
+      "Linebacker for the Dallas Cowboys of the National Football League (NFL)",
+      "First-team All-Pro selection in 2018"
+    ],
+    "yearBorn": 1996
+  }
+]

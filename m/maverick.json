@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Maverick McNealy",
+    "givenNames": [
+      "Maverick",
+      "Scott"
+    ],
+    "familyName": "McNealy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maverick_McNealy",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "Won the PGA Tour's Rocket Mortgage Classic in 2023.",
+      "Represented the United States at the Walker Cup."
+    ],
+    "yearBorn": 1995
+  }
+]

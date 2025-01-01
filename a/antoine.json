@@ -1,0 +1,53 @@
+[
+  {
+    "fullName": "Antoine Lavoisier",
+    "givenNames": [
+      "Antoine",
+      "Laurent"
+    ],
+    "familyName": "Lavoisier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+    "occupation": "Chemist",
+    "achievements": [
+      "Considered the 'father of modern chemistry'",
+      "Discovered the role of oxygen in combustion",
+      "Established the law of conservation of mass"
+    ],
+    "yearBorn": 1743,
+    "yearDied": 1794
+  },
+  {
+    "fullName": "Antoine de Saint-Exupéry",
+    "givenNames": [
+      "Antoine",
+      "Marie",
+      "Jean-Baptiste",
+      "Roger"
+    ],
+    "familyName": "de Saint-Exupéry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry",
+    "occupation": "Author, poet, and aviator",
+    "achievements": [
+      "Authored 'The Little Prince', one of the best-selling books of all time",
+      "Pioneer in airmail service",
+      "Recipient of the Legion of Honour and Croix de Guerre"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Antoine Griezmann",
+    "givenNames": [
+      "Antoine"
+    ],
+    "familyName": "Griezmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Griezmann",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Won the FIFA World Cup with France in 2018",
+      "UEFA Europa League winner with Atlético Madrid",
+      "La Liga top scorer"
+    ],
+    "yearBorn": 1991
+  }
+]

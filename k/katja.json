@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Katja Herbers",
+    "givenNames": [
+      "Katja",
+      "Mira"
+    ],
+    "familyName": "Herbers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katja_Herbers",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in the HBO series 'Westworld' and the CBS drama 'Evil'."
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Katja Riemann",
+    "givenNames": [
+      "Katja"
+    ],
+    "familyName": "Riemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katja_Riemann",
+    "occupation": "Actress",
+    "achievements": [
+      "Award-winning German actress known for films like 'The Robbers' and 'Rosenstrasse'."
+    ],
+    "yearBorn": 1963
+  }
+]

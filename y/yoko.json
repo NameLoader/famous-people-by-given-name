@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Yoko Ono",
+    "givenNames": [
+      "Yoko"
+    ],
+    "familyName": "Ono",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Ono",
+    "occupation": "Artist, musician, peace activist",
+    "achievements": [
+      "Avant-garde art",
+      "Music collaborations with John Lennon",
+      "Peace activism"
+    ],
+    "yearBorn": 1933
+  }
+]

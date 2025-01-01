@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Shuji Nakamura",
+    "givenNames": [
+      "Shuji"
+    ],
+    "familyName": "Nakamura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shuji_Nakamura",
+    "occupation": "Inventor, Physicist",
+    "achievements": [
+      "Invented the blue LED",
+      "Won the Nobel Prize in Physics in 2014"
+    ],
+    "yearBorn": 1954
+  }
+]

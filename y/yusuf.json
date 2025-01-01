@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Yusuf Islam",
+    "givenNames": [
+      "Yusuf"
+    ],
+    "familyName": "Islam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cat_Stevens",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "International musical success in the 1960s and 1970s",
+      "Conversion to Islam and subsequent focus on religious music",
+      "Philanthropic work"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Yusuf al-Qaradawi",
+    "givenNames": [
+      "Yusuf"
+    ],
+    "familyName": "al-Qaradawi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yusuf_al-Qaradawi",
+    "occupation": "Islamic scholar, theologian",
+    "achievements": [
+      "Prominent figure in Sunni Islam",
+      "Founded the International Union of Muslim Scholars",
+      "Controversial views on issues like violence and terrorism"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2022
+  }
+]

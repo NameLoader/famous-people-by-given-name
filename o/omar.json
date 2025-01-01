@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Omar Bradley",
+    "givenNames": [
+      "Omar",
+      "Nelson"
+    ],
+    "familyName": "Bradley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_Bradley",
+    "occupation": "General",
+    "achievements": [
+      "Led the US Army's 12th Army Group in World War II",
+      "Key figure in the D-Day landings and the Battle of the Bulge",
+      "Chairman of the Joint Chiefs of Staff"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Omar Sharif",
+    "givenNames": [
+      "Omar"
+    ],
+    "familyName": "Sharif",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_Sharif",
+    "occupation": "Actor",
+    "achievements": [
+      "Won an Oscar for Best Supporting Actor in 'Lawrence of Arabia'",
+      "Starred in numerous films including 'Doctor Zhivago' and 'Funny Girl'",
+      "Became a renowned bridge player"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2015
+  }
+]

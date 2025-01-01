@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Sylvia Plath",
+    "givenNames": [
+      "Sylvia"
+    ],
+    "familyName": "Plath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Plath",
+    "occupation": "Poet, Novelist",
+    "achievements": [
+      "Pulitzer Prize for Poetry (posthumous)",
+      "Considered one of the most influential poets of the 20th century"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Sylvia Earle",
+    "givenNames": [
+      "Sylvia",
+      "Alice"
+    ],
+    "familyName": "Earle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Earle",
+    "occupation": "Marine Biologist, Oceanographer, Explorer",
+    "achievements": [
+      "First woman to become chief scientist of the National Oceanic and Atmospheric Administration (NOAA)",
+      "Named Time Magazine's first Hero for the Planet in 1998"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Sylvia Kristel",
+    "givenNames": [
+      "Sylvia",
+      "Maria"
+    ],
+    "familyName": "Kristel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Kristel",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Known for her role in the erotic film 'Emmanuelle'"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2012
+  }
+]

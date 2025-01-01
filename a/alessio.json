@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Alessio Tacchinardi",
+    "givenNames": [
+      "Alessio"
+    ],
+    "familyName": "Tacchinardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessio_Tacchinardi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the UEFA Intertoto Cup with Juventus in 1999",
+      "Represented Italy at various youth levels"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Alessio Figalli",
+    "givenNames": [
+      "Alessio"
+    ],
+    "familyName": "Figalli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessio_Figalli",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Won the Fields Medal in 2018 for his work on geometric measure theory and partial differential equations"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Alessio Rastrelli",
+    "givenNames": [
+      "Francesco",
+      "Bartolomeo"
+    ],
+    "familyName": "Rastrelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Bartolomeo_Rastrelli",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed numerous palaces and buildings in Russia during the reign of Empress Elizabeth Petrovna",
+      "Known for his Baroque style"
+    ],
+    "yearBorn": 1700,
+    "yearDied": 1771
+  }
+]

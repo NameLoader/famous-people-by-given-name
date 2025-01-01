@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Céline Dion",
+    "givenNames": [
+      "Céline",
+      "Marie",
+      "Claudette"
+    ],
+    "familyName": "Dion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celine_Dion",
+    "occupation": "Singer",
+    "achievements": [
+      "Won five Grammy Awards",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Céline Sciamma",
+    "givenNames": [
+      "Céline"
+    ],
+    "familyName": "Sciamma",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9line_Sciamma",
+    "occupation": "Film director",
+    "achievements": [
+      "Won the César Award for Best Original Screenplay",
+      "Known for films exploring themes of gender and identity"
+    ],
+    "yearBorn": 1980
+  }
+]

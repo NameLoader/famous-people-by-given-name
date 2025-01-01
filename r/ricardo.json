@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Ricardo Montalbán",
+    "givenNames": [
+      "Ricardo",
+      "Gonzalo",
+      "Pedro"
+    ],
+    "familyName": "Montalbán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Montalb%C3%A1n",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the original Star Trek series as Khan Noonien Singh",
+      "Known for his roles in films like 'Sayonara' and 'The Great Escape'",
+      "Voice actor for numerous animated films and television shows"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Ricardo Arjona",
+    "givenNames": [
+      "Ricardo"
+    ],
+    "familyName": "Arjona",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Arjona",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "One of the most successful Latin American singer-songwriters",
+      "Known for his romantic ballads and socially conscious lyrics",
+      "Won numerous awards including Grammy Awards and Billboard Latin Music Awards"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Ricardo Carvalho",
+    "givenNames": [
+      "Ricardo",
+      "Alberto",
+      "Silveira"
+    ],
+    "familyName": "Carvalho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Carvalho",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played as a central defender for clubs like Chelsea, Real Madrid and Portugal national team",
+      "Won numerous trophies including Premier League titles, Champions League and European Championship"
+    ],
+    "yearBorn": 1978
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Martin Scorsese",
+    "givenNames": [
+      "Martin",
+      "Charles"
+    ],
+    "familyName": "Scorsese",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Scorsese",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Directed acclaimed films such as Taxi Driver, Raging Bull, and Goodfellas",
+      "Won an Academy Award for Best Director for The Departed in 2007"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Martin Luther",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Luther",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
+    "occupation": "Theologian, priest, author",
+    "achievements": [
+      "Key figure in the Protestant Reformation",
+      "Translated the Bible into German",
+      "Wrote influential theological works such as Ninety-five Theses and On the Babylonian Captivity of the Church"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1546
+  },
+  {
+    "fullName": "Martin Freeman",
+    "givenNames": [
+      "Martin",
+      "John",
+      "Christopher"
+    ],
+    "familyName": "Freeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Freeman",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in The Office (UK), Sherlock, and The Hobbit trilogy",
+      "Won a BAFTA Award for Best Actor in a Comedy Performance for his role in The Office"
+    ],
+    "yearBorn": 1971
+  }
+]

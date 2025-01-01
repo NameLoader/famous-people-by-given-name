@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "May Sarton",
+    "givenNames": [
+      "May"
+    ],
+    "familyName": "Sarton",
+    "wikipedia": "https://en.wikipedia.org/wiki/May_Sarton",
+    "occupation": "Poet, Novelist, Essayist",
+    "achievements": [
+      "Published over 50 books of poetry, fiction, and non-fiction.",
+      "Known for her introspective and personal writing style."
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1995
+  }
+]

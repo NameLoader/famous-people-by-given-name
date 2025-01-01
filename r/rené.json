@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "René Descartes",
+    "givenNames": [
+      "René"
+    ],
+    "familyName": "Descartes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "occupation": "Philosopher, Mathematician",
+    "achievements": [
+      "Father of modern philosophy",
+      "Developed Cartesian coordinate system",
+      "Made significant contributions to optics and geometry"
+    ],
+    "yearBorn": 1596,
+    "yearDied": 1650
+  },
+  {
+    "fullName": "René Magritte",
+    "givenNames": [
+      "René",
+      "François",
+      "Ghislain"
+    ],
+    "familyName": "Magritte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure in Surrealism",
+      "Known for thought-provoking and enigmatic paintings"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "René Lacoste",
+    "givenNames": [
+      "René",
+      "Jean"
+    ],
+    "familyName": "Lacoste",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Lacoste",
+    "occupation": "Tennis player, Fashion designer",
+    "achievements": [
+      "Won seven Grand Slam singles titles",
+      "Founded the Lacoste clothing brand"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1996
+  }
+]

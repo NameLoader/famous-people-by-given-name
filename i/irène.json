@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Irène Joliot-Curie",
+    "givenNames": [
+      "Irène"
+    ],
+    "familyName": "Joliot-Curie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+    "occupation": "Physicist and Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1935) for the synthesis of new radioactive elements.",
+      "Pioneering work in artificial radioactivity."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1956
+  }
+]

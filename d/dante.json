@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dante Alighieri",
+    "givenNames": [
+      "Dante"
+    ],
+    "familyName": "Alighieri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+    "occupation": "Poet, Writer",
+    "achievements": [
+      "Author of the Divine Comedy",
+      "Considered the father of the Italian language"
+    ],
+    "yearBorn": 1265,
+    "yearDied": 1321
+  },
+  {
+    "fullName": "Dante Gabriel Rossetti",
+    "givenNames": [
+      "Dante",
+      "Gabriel"
+    ],
+    "familyName": "Rossetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
+    "occupation": "Poet, Painter, Illustrator",
+    "achievements": [
+      "Key member of the Pre-Raphaelite Brotherhood",
+      "Known for his paintings and poetry with themes of beauty, love, and death"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1882
+  }
+]

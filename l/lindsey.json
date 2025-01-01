@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Lindsey Buckingham",
+    "givenNames": [
+      "Lindsey",
+      "Adams"
+    ],
+    "familyName": "Buckingham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindsey_Buckingham",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Guitarist and vocalist for Fleetwood Mac",
+      "Multiple Grammy Awards winner"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Lindsey Vonn",
+    "givenNames": [
+      "Lindsey",
+      "Caroline"
+    ],
+    "familyName": "Vonn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindsey_Vonn",
+    "occupation": "Alpine Ski Racer",
+    "achievements": [
+      "Olympic gold medalist",
+      "World Championship gold medalist (multiple)",
+      "Most World Cup wins by a female skier"
+    ],
+    "yearBorn": 1984
+  }
+]

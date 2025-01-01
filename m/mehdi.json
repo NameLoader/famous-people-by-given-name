@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Mehdi Hasan",
+    "givenNames": [
+      "Mehdi",
+      "Raza"
+    ],
+    "familyName": "Hasan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehdi_Hasan",
+    "occupation": "Journalist, political commentator",
+    "achievements": [
+      "Host of 'The Mehdi Hasan Show' on MSNBC",
+      "Former senior columnist at The Intercept"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Mehdi Taremi",
+    "givenNames": [
+      "Mehdi"
+    ],
+    "familyName": "Taremi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehdi_Taremi",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Striker for FC Porto and Iran national team",
+      "Prolific goalscorer known for his technical skills"
+    ],
+    "yearBorn": 1992
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ronda Rousey",
+    "givenNames": [
+      "Ronda",
+      "Jean"
+    ],
+    "familyName": "Rousey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronda_Rousey",
+    "occupation": "Mixed martial artist, judoka, actress",
+    "achievements": [
+      "First UFC Women's Bantamweight Champion",
+      "Olympic bronze medalist in judo"
+    ],
+    "yearBorn": 1987
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lacey Sturm",
+    "givenNames": [
+      "Lacey",
+      "Nicole"
+    ],
+    "familyName": "Sturm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lacey_Sturm",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Former lead vocalist of the rock band Flyleaf",
+      "Solo career as a Christian rock artist"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Lacey Chabert",
+    "givenNames": [
+      "Lacey",
+      "Nicole"
+    ],
+    "familyName": "Chabert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lacey_Chabert",
+    "occupation": "Actress, voice actress",
+    "achievements": [
+      "Known for roles in films like 'Mean Girls' and 'Party of Five'",
+      "Extensive voice acting work in animation and video games"
+    ],
+    "yearBorn": 1982
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Katrina Kaif",
+    "givenNames": [
+      "Katrina"
+    ],
+    "familyName": "Kaif",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katrina_Kaif",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the highest-paid actresses in India",
+      "Known for her roles in Bollywood films like 'Namastey London', 'Dhoom 3', and 'Zero'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Katrina vanden Heuvel",
+    "givenNames": [
+      "Katrina"
+    ],
+    "familyName": "vanden Heuvel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katrina_vanden_Heuvel",
+    "occupation": "Editor, Journalist",
+    "achievements": [
+      "Former Editor-in-Chief of The Nation magazine",
+      "Known for her progressive political commentary and writing"
+    ],
+    "yearBorn": 1958
+  }
+]

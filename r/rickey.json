@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rickey Henderson",
+    "givenNames": [
+      "Rickey",
+      "Nelson",
+      "Henley"
+    ],
+    "familyName": "Henderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rickey_Henderson",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "Holds the Major League Baseball record for career stolen bases (1,406)",
+      "2-time World Series Champion"
+    ],
+    "yearBorn": 1958
+  }
+]

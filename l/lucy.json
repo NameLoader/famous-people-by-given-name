@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Lucy Liu",
+    "givenNames": [
+      "Lucy",
+      "Alexis"
+    ],
+    "familyName": "Liu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Liu",
+    "occupation": "Actress, director, and artist",
+    "achievements": [
+      "Nominated for a Primetime Emmy Award for her role in the television series 'Ally McBeal'",
+      "Starred in films such as 'Charlie's Angels', 'Kill Bill: Vol. 1 & 2', and 'Chicago'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Lucy Lawless",
+    "givenNames": [
+      "Lucille",
+      "Frances"
+    ],
+    "familyName": "Lawless",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Lawless",
+    "occupation": "Actress and singer",
+    "achievements": [
+      "Known for her role as Xena in the television series 'Xena: Warrior Princess'",
+      "Appeared in other shows such as 'Battlestar Galactica' and 'Spartacus'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Lucy Maud Montgomery",
+    "givenNames": [
+      "Lucy",
+      "Maud"
+    ],
+    "familyName": "Montgomery",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for her novel 'Anne of Green Gables'",
+      "Wrote a series of books featuring Anne Shirley and other characters"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1942
+  }
+]

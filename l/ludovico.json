@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Ludovico Ariosto",
+    "givenNames": [
+      "Ludovico"
+    ],
+    "familyName": "Ariosto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto",
+    "occupation": "Poet, Dramatist",
+    "achievements": [
+      "Author of the epic poem 'Orlando Furioso'",
+      "Considered one of the greatest Italian poets of all time"
+    ],
+    "yearBorn": 1474,
+    "yearDied": 1533
+  },
+  {
+    "fullName": "Ludovico Einaudi",
+    "givenNames": [
+      "Ludovico",
+      "Maria",
+      "Enrico"
+    ],
+    "familyName": "Einaudi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Einaudi",
+    "occupation": "Composer, Pianist",
+    "achievements": [
+      "Known for his minimalist and atmospheric compositions",
+      "Scored films such as 'Intouchables' and 'The Father'"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Ludovico Sforza",
+    "givenNames": [
+      "Ludovico",
+      "Maria"
+    ],
+    "familyName": "Sforza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Sforza",
+    "occupation": "Duke of Milan",
+    "achievements": [
+      "Ruled Milan during the Italian Renaissance",
+      "Patron of the arts and humanities"
+    ],
+    "yearBorn": 1452,
+    "yearDied": 1508
+  }
+]

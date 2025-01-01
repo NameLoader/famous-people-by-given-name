@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Adrienne Barbeau",
+    "givenNames": [
+      "Adrienne",
+      "Jo"
+    ],
+    "familyName": "Barbeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Barbeau",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'The Fog', 'Escape from New York' and 'Creepshow'",
+      "Known for her roles in horror and science fiction genres"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Adrienne Rich",
+    "givenNames": [
+      "Adrienne",
+      "Cecile"
+    ],
+    "familyName": "Rich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Rich",
+    "occupation": "Poet, essayist, and feminist",
+    "achievements": [
+      "Won the National Book Award for Poetry",
+      "Known for her powerful poems exploring themes of feminism, sexuality, and social justice"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Adrienne Kennedy",
+    "givenNames": [
+      "Adrienne"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_Kennedy",
+    "occupation": "Playwright",
+    "achievements": [
+      "First African American woman to have a play produced on Broadway",
+      "Known for her experimental and surreal plays exploring themes of race, gender, and identity"
+    ],
+    "yearBorn": 1931
+  }
+]

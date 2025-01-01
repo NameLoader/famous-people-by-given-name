@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Quentin Tarantino",
+    "givenNames": [
+      "Quentin",
+      "Jerome"
+    ],
+    "familyName": "Tarantino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Tarantino",
+    "occupation": "Film director, screenwriter, producer, actor",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (Pulp Fiction)",
+      "Two Palme d'Or awards at the Cannes Film Festival",
+      "Known for his distinctive filmmaking style"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Quentin Crisp",
+    "givenNames": [
+      "Quentin"
+    ],
+    "familyName": "Crisp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Crisp",
+    "occupation": "Writer, actor, dandy",
+    "achievements": [
+      "Author of the autobiographical work 'The Naked Civil Servant'",
+      "Known for his flamboyant personality and wit"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Quentin Bryce",
+    "givenNames": [
+      "Quentin",
+      "Alice",
+      "Louise"
+    ],
+    "familyName": "Bryce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Bryce",
+    "occupation": "Lawyer, judge, Governor-General of Australia",
+    "achievements": [
+      "First female Governor-General of Australia",
+      "Advocate for social justice and women's rights"
+    ],
+    "yearBorn": 1942
+  }
+]

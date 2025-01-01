@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Brooke Shields",
+    "givenNames": [
+      "Brooke",
+      "Christa"
+    ],
+    "familyName": "Shields",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooke_Shields",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Started modeling at 11 months old",
+      "Starred in films like 'The Blue Lagoon' and 'Pretty Baby'",
+      "Successful career as a television actress"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Brooke Burke",
+    "givenNames": [
+      "Brooke",
+      "Lisa"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooke_Burke",
+    "occupation": "Television Personality, Model, Actress",
+    "achievements": [
+      "Host of 'Wild On!' and 'Rock Star'",
+      "Winner of season 7 of 'Dancing with the Stars'",
+      "Co-hosted 'Dancing with the Stars'"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Brooke Adams",
+    "givenNames": [
+      "Brooke"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooke_Adams_(actress)",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Invasion of the Body Snatchers' and 'Days of Heaven'",
+      "Nominated for a Golden Globe Award"
+    ],
+    "yearBorn": 1949
+  }
+]

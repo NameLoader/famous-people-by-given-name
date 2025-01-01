@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Renate Künast",
+    "givenNames": [
+      "Renate",
+      "Elly"
+    ],
+    "familyName": "Künast",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renate_K%C3%BCnast",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Federal Minister of Consumer Protection, Food and Agriculture in Germany",
+      "Member of the German Bundestag"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Renate Dorrestein",
+    "givenNames": [
+      "Renate",
+      "Maria"
+    ],
+    "familyName": "Dorrestein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renate_Dorrestein",
+    "occupation": "Writer",
+    "achievements": [
+      "Dutch writer known for her autobiographical novels",
+      "Winner of the Libris Literature Prize"
+    ],
+    "yearBorn": 1954
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Jayden Smith",
+    "givenNames": [
+      "Jaden",
+      "Christopher",
+      "Syre"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaden_Smith",
+    "occupation": "Actor, rapper, songwriter",
+    "achievements": [
+      "Son of actors Will Smith and Jada Pinkett Smith",
+      "Starred in films such as 'The Karate Kid' (2010) and 'After Earth' (2013)",
+      "Released music albums and singles"
+    ],
+    "yearBorn": 1998
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Rian Johnson",
+    "givenNames": [
+      "Rian",
+      "Craig"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rian_Johnson",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Directed films such as 'Brick', 'Looper', and 'Knives Out'",
+      "Known for his distinctive visual style and complex narratives"
+    ],
+    "yearBorn": 1973
+  }
+]

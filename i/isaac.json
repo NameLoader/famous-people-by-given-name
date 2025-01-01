@@ -1,0 +1,79 @@
+[
+  {
+    "fullName": "Isaac Newton",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
+    "occupation": "Physicist, Mathematician, Astronomer",
+    "achievements": [
+      "Laws of Motion",
+      "Theory of Universal Gravitation",
+      "Calculus"
+    ],
+    "yearBorn": 1643,
+    "yearDied": 1727
+  },
+  {
+    "fullName": "Isaac Asimov",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Asimov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Asimov",
+    "occupation": "Writer, Professor of Biochemistry",
+    "achievements": [
+      "Science Fiction novels (Foundation series)",
+      "Popular science books"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Isaac Hayes",
+    "givenNames": [
+      "Isaac",
+      "Lee"
+    ],
+    "familyName": "Hayes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Hayes",
+    "occupation": "Singer, Songwriter, Musician, Actor",
+    "achievements": [
+      "Theme from Shaft (Academy Award)",
+      "Soul music icon"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Isaac Stern",
+    "givenNames": [
+      "Isaac"
+    ],
+    "familyName": "Stern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Stern",
+    "occupation": "Violinist, Conductor",
+    "achievements": [
+      "Renowned violinist",
+      "Music educator"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Isaac Babel",
+    "givenNames": [
+      "Isaac",
+      "Emmanuilovich"
+    ],
+    "familyName": "Babel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Short stories set in Odessa and during the Russian Civil War"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1940
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Dennis Hopper",
+    "givenNames": [
+      "Dennis",
+      "Lee"
+    ],
+    "familyName": "Hopper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Hopper",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actor for 'Easy Rider'",
+      "Directed and starred in the cult classic film 'Easy Rider'"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Dennis Ritchie",
+    "givenNames": [
+      "Dennis",
+      "MacAlistair"
+    ],
+    "familyName": "Ritchie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Ritchie",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Created the C programming language",
+      "Co-created the Unix operating system"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Dennis Rodman",
+    "givenNames": [
+      "Dennis",
+      "Keith"
+    ],
+    "familyName": "Rodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Rodman",
+    "occupation": "Former Basketball Player",
+    "achievements": [
+      "Two-time NBA Defensive Player of the Year",
+      "Five-time NBA champion with the Detroit Pistons and Chicago Bulls"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Dennis Quaid",
+    "givenNames": [
+      "Dennis",
+      "William"
+    ],
+    "familyName": "Quaid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Quaid",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for a Golden Globe Award for his performance in 'The Right Stuff'",
+      "Starred in numerous films including 'Far from Heaven', 'The Parent Trap' and 'Frequency'"
+    ],
+    "yearBorn": 1954
+  }
+]

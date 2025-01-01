@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Gilbert Arenas",
+    "givenNames": [
+      "Gilbert",
+      "Jay"
+    ],
+    "familyName": "Arenas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Arenas",
+    "occupation": "Basketball player",
+    "achievements": [
+      "3× NBA All-Star",
+      "NBA All-NBA Team (Third Team)",
+      "NBA Sixth Man of the Year Award"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Gilbert Gottfried",
+    "givenNames": [
+      "Gilbert",
+      "Jeremy"
+    ],
+    "familyName": "Gottfried",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Gottfried",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "Known for his distinctive voice and humor"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Gilbert Newton Lewis",
+    "givenNames": [
+      "Gilbert",
+      "Newton"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_N._Lewis",
+    "occupation": "Chemist",
+    "achievements": [
+      "Developed the concept of electron pairs and Lewis dot structures",
+      "Nobel Prize in Chemistry nominee"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1946
+  }
+]

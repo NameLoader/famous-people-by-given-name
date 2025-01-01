@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Ivana Trump",
+    "givenNames": [
+      "Ivana",
+      "Marie"
+    ],
+    "familyName": "Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivana_Trump",
+    "occupation": "Businesswoman, model, socialite",
+    "achievements": [
+      "Ex-wife of Donald Trump",
+      "Developed and managed various real estate projects",
+      "Author of several books"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Zara Larsson",
+    "givenNames": [
+      "Zara",
+      "Maria"
+    ],
+    "familyName": "Larsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zara_Larsson",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Multiple platinum-selling albums and singles",
+      "Nominated for several Grammy Awards"
+    ],
+    "yearBorn": 1997
+  }
+]

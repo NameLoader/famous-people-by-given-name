@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Cade Cunningham",
+    "givenNames": [
+      "Cade",
+      "Parker"
+    ],
+    "familyName": "Cunningham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cade_Cunningham",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA Rookie of the Year (2022)",
+      "NBA All-Rookie First Team (2022)"
+    ],
+    "yearBorn": 2001
+  }
+]

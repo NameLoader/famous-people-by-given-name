@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hudson Yang",
+    "givenNames": [
+      "Hudson",
+      "David"
+    ],
+    "familyName": "Yang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hudson_Yang",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the ABC sitcom 'Fresh Off the Boat'",
+      "Nominated for a Young Artist Award"
+    ],
+    "yearBorn": 2003
+  },
+  {
+    "fullName": "Hudson Leick",
+    "givenNames": [
+      "Hudson",
+      "Heidi"
+    ],
+    "familyName": "Leick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hudson_Leick",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Callisto in 'Hercules: The Legendary Journeys'",
+      "Appeared in numerous television shows and films"
+    ],
+    "yearBorn": 1969
+  }
+]

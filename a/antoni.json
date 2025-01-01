@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Antoni Gaudí",
+    "givenNames": [
+      "Antoni"
+    ],
+    "familyName": "Gaudí",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of Catalan Modernism",
+      "Designed iconic buildings like Sagrada Família and Park Güell"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1926
+  }
+]

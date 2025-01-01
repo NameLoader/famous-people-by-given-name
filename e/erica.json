@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Erica Jong",
+    "givenNames": [
+      "Erica"
+    ],
+    "familyName": "Jong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erica_Jong",
+    "occupation": "Novelist, poet, essayist",
+    "achievements": [
+      "Known for her feminist novels, including 'Fear of Flying'",
+      "Won the National Book Award in 1973"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Erica Campbell",
+    "givenNames": [
+      "Erica",
+      "Monique"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erica_Campbell",
+    "occupation": "Singer, songwriter, television personality",
+    "achievements": [
+      "Member of the gospel duo Mary Mary",
+      "Won multiple Grammy Awards and Stellar Awards"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Erica Durance",
+    "givenNames": [
+      "Erica"
+    ],
+    "familyName": "Durance",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erica_Durance",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Lois Lane in the television series 'Smallville'"
+    ],
+    "yearBorn": 1978
+  }
+]

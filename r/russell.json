@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Russell Wilson",
+    "givenNames": [
+      "Russell",
+      "Carrington"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Wilson",
+    "occupation": "American Football Quarterback",
+    "achievements": [
+      "Super Bowl XLVIII champion with the Seattle Seahawks",
+      "9-time Pro Bowler",
+      "Known for his athleticism and leadership on the field"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Russell T. Davies",
+    "givenNames": [
+      "Russell",
+      "Stephen"
+    ],
+    "familyName": "Davies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_T_Davies",
+    "occupation": "Television Writer, Producer",
+    "achievements": [
+      "Creator of popular television series such as Doctor Who, Queer as Folk, and Years and Years",
+      "Acclaimed for his exploration of LGBTQ+ themes in his work"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Russell Simmons",
+    "givenNames": [
+      "Russell",
+      "Wendell"
+    ],
+    "familyName": "Simmons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Simmons",
+    "occupation": "Entrepreneur, Music Executive, Record Producer",
+    "achievements": [
+      "Co-founder of Def Jam Recordings",
+      "Key figure in the development and popularization of hip hop music",
+      "Film and television producer"
+    ],
+    "yearBorn": 1957
+  }
+]

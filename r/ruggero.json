@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Ruggero Leoncavallo",
+    "givenNames": [
+      "Ruggero"
+    ],
+    "familyName": "Leoncavallo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruggero_Leoncavallo",
+    "occupation": "Composer",
+    "achievements": [
+      "Best known for his verismo opera Pagliacci"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Ruggero Raimondi",
+    "givenNames": [
+      "Ruggero"
+    ],
+    "familyName": "Raimondi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruggero_Raimondi",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Renowned Italian bass-baritone",
+      "Performed at major opera houses worldwide"
+    ],
+    "yearBorn": 1941
+  }
+]

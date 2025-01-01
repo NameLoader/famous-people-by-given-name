@@ -1,0 +1,27 @@
+[
+  {
+    "fullName": "Mamoru Chiba",
+    "givenNames": [
+      "Mamoru"
+    ],
+    "familyName": "Chiba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tuxedo_Mask",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Sailor Moon's love interest and protector, known as Tuxedo Mask."
+    ]
+  },
+  {
+    "fullName": "Mamoru Hosoda",
+    "givenNames": [
+      "Mamoru"
+    ],
+    "familyName": "Hosoda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamoru_Hosoda",
+    "occupation": "Film Director, Animator",
+    "achievements": [
+      "Directed acclaimed animated films like 'Wolf Children', 'Summer Wars', and 'The Girl Who Leapt Through Time'."
+    ],
+    "yearBorn": 1967
+  }
+]

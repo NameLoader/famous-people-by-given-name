@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Ottmar Hitzfeld",
+    "givenNames": [
+      "Ottmar"
+    ],
+    "familyName": "Hitzfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ottmar_Hitzfeld",
+    "occupation": "Football manager and former player",
+    "achievements": [
+      "Won the UEFA Champions League with Borussia Dortmund in 1997",
+      "Won the FIFA Club World Cup with Bayern Munich in 2001"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Ottmar Mergenthaler",
+    "givenNames": [
+      "Ottmar"
+    ],
+    "familyName": "Mergenthaler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the Linotype typesetting machine, which revolutionized printing"
+    ],
+    "yearBorn": 1854,
+    "yearDied": 1899
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Wanda Sykes",
+    "givenNames": [
+      "Wanda",
+      "Yvette"
+    ],
+    "familyName": "Sykes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wanda_Sykes",
+    "occupation": "Comedian, actress, writer",
+    "achievements": [
+      "Emmy Award winner",
+      "Known for her stand-up comedy and roles in films like 'Evan Almighty' and 'Bad Moms'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Wanda Maximoff",
+    "givenNames": [
+      "Wanda"
+    ],
+    "familyName": "Maximoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Witch",
+    "occupation": "Fictional Superhero",
+    "achievements": [
+      "Powerful Avenger in Marvel Comics",
+      "Portrayed by Elizabeth Olsen in the Marvel Cinematic Universe"
+    ]
+  }
+]

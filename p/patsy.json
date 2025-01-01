@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Patsy Cline",
+    "givenNames": [
+      "Patsy"
+    ],
+    "familyName": "Cline",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patsy_Cline",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Pioneering female country singer",
+      "Influential in the Nashville sound",
+      "Numerous hit songs including 'Crazy' and 'Walkin' After Midnight'"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Patsy Mink",
+    "givenNames": [
+      "Patsy",
+      "Matsu"
+    ],
+    "familyName": "Mink",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patsy_Mink",
+    "occupation": "Politician",
+    "achievements": [
+      "First woman of color elected to the U.S. Congress (1965)",
+      "Co-author of Title IX, which prohibits sex discrimination in education"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2002
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Angharad Rees",
+    "givenNames": [
+      "Angharad",
+      "Mary"
+    ],
+    "familyName": "Rees",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angharad_Rees",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in British television shows like 'The Life and Times of David Lloyd George' and 'Doctor Who'."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Angharad Mair",
+    "givenNames": [
+      "Angharad"
+    ],
+    "familyName": "Mair",
+    "wikipedia": "https://cy.wikipedia.org/wiki/Angharad_Mair",
+    "occupation": "Broadcaster and Journalist",
+    "achievements": [
+      "Prominent figure in Welsh broadcasting, known for presenting news and current affairs programs."
+    ]
+  }
+]

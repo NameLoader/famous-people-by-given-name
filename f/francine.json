@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Francine Prose",
+    "givenNames": [
+      "Francine"
+    ],
+    "familyName": "Prose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francine_Prose",
+    "occupation": "Author",
+    "achievements": [
+      "National Book Award winner",
+      "Known for her novels and essays exploring themes of identity, family, and history"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Francine Houben",
+    "givenNames": [
+      "Francine",
+      "Marie",
+      "Jeanne"
+    ],
+    "familyName": "Houben",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francine_Houben",
+    "occupation": "Architect",
+    "achievements": [
+      "Founder and Creative Director of Mecanoo architecten",
+      "Designed numerous notable buildings worldwide, including the Library of Birmingham and the Delft University of Technology Faculty of Architecture"
+    ]
+  }
+]

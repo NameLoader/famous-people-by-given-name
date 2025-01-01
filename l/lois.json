@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Lois McMaster Bujold",
+    "givenNames": [
+      "Lois",
+      "McMaster"
+    ],
+    "familyName": "Bujold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lois_McMaster_Bujold",
+    "occupation": "Science fiction author",
+    "achievements": [
+      "Hugo Awards",
+      "Nebula Awards"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Lois Lowry",
+    "givenNames": [
+      "Lois",
+      "Ann"
+    ],
+    "familyName": "Lowry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lois_Lowry",
+    "occupation": "Children's author",
+    "achievements": [
+      "Newbery Medal",
+      "National Book Award"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Lois Lane",
+    "givenNames": [
+      "Lois"
+    ],
+    "familyName": "Lane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lois_Lane",
+    "occupation": "Fictional Reporter",
+    "achievements": [
+      "Iconic Comic Book Character",
+      "Superman's Love Interest"
+    ]
+  }
+]

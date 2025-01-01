@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Dirk Nowitzki",
+    "givenNames": [
+      "Dirk",
+      "Werner"
+    ],
+    "familyName": "Nowitzki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dirk_Nowitzki",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "NBA Champion (2011)",
+      "NBA MVP (2007)",
+      "14-time NBA All-Star"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Dirk Gently",
+    "givenNames": [
+      "Dirk"
+    ],
+    "familyName": "Gently",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of Douglas Adams' novel series 'Dirk Gently's Holistic Detective Agency'"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Ramsey Campbell",
+    "givenNames": [
+      "Ramsey"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramsey_Campbell",
+    "occupation": "Horror author",
+    "achievements": [
+      "Prolific writer of horror fiction",
+      "Won the World Fantasy Award and the Bram Stoker Award"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Ramsey Orta",
+    "givenNames": [
+      "Ramsey"
+    ],
+    "familyName": "Orta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramsey_Orta",
+    "occupation": "Witness in the Eric Garner case",
+    "achievements": [
+      "Filmed the death of Eric Garner during an arrest by NYPD officers",
+      "His video evidence played a key role in bringing attention to police brutality and racial injustice"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Ramsey Clark",
+    "givenNames": [
+      "Ramsey"
+    ],
+    "familyName": "Clark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramsey_Clark",
+    "occupation": "Attorney, politician",
+    "achievements": [
+      "Served as United States Attorney General under President Lyndon B. Johnson",
+      "Advocate for human rights and peace activist"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2021
+  }
+]

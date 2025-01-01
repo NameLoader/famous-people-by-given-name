@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Brett Favre",
+    "givenNames": [
+      "Brett",
+      "Lorenzo"
+    ],
+    "familyName": "Favre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brett_Favre",
+    "occupation": "Retired NFL Quarterback",
+    "achievements": [
+      "Super Bowl XXXI Champion",
+      "3-time NFL MVP",
+      "NFL All-Time Passing Yards Leader"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Brett Ratner",
+    "givenNames": [
+      "Brett"
+    ],
+    "familyName": "Ratner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brett_Ratner",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed films such as Rush Hour trilogy and X-Men: The Last Stand"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Brett Eldredge",
+    "givenNames": [
+      "Brett",
+      "Ryan"
+    ],
+    "familyName": "Eldredge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brett_Eldredge",
+    "occupation": "Country Music Singer",
+    "achievements": [
+      "Multi-platinum selling artist",
+      "CMA Award Winner"
+    ],
+    "yearBorn": 1986
+  }
+]

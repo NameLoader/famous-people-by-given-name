@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marlo Thomas",
+    "givenNames": [
+      "Marlo",
+      "Margaret",
+      "Julia"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlo_Thomas",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Emmy Award winner",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1937
+  }
+]

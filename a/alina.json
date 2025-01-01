@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alina Kabaeva",
+    "givenNames": [
+      "Alina",
+      "Maratovna"
+    ],
+    "familyName": "Kabaeva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alina_Kabaeva",
+    "occupation": "Former rhythmic gymnast and politician",
+    "achievements": [
+      "Olympic medalist in rhythmic gymnastics",
+      "Member of the Russian State Duma"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Alina Zagitova",
+    "givenNames": [
+      "Alina",
+      "Ilnazovna"
+    ],
+    "familyName": "Zagitova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alina_Zagitova",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Olympic gold medalist in figure skating",
+      "World champion"
+    ],
+    "yearBorn": 2002
+  }
+]

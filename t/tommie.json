@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Tommie Smith",
+    "givenNames": [
+      "Tommie",
+      "C."
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommie_Smith",
+    "occupation": "Athlete (sprinter)",
+    "achievements": [
+      "Won gold in the 200 meters at the 1968 Summer Olympics",
+      "Known for his iconic raised-fist salute during the medal ceremony, a protest against racial injustice"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Tommie Agee",
+    "givenNames": [
+      "Tommie",
+      "Lee"
+    ],
+    "familyName": "Agee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommie_Agee",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Played for the New York Mets and other teams",
+      "Known for his exceptional fielding skills and speed"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2001
+  }
+]

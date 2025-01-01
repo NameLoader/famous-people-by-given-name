@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Dustin Hoffman",
+    "givenNames": [
+      "Dustin",
+      "Lee"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Hoffman",
+    "occupation": "Actor",
+    "achievements": [
+      "Two-time Academy Award winner",
+      "Known for roles in 'The Graduate', 'Midnight Cowboy', and 'Rain Man'"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Dustin Pedroia",
+    "givenNames": [
+      "Dustin",
+      "Luis"
+    ],
+    "familyName": "Pedroia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Pedroia",
+    "occupation": "Former professional baseball player",
+    "achievements": [
+      "Four-time MLB All-Star",
+      "2007 American League MVP",
+      "Two-time World Series champion with the Boston Red Sox"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Dustin Lynch",
+    "givenNames": [
+      "Dustin",
+      "Charles"
+    ],
+    "familyName": "Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Lynch",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Multiple number-one hits on the Billboard Country Airplay chart",
+      "Known for songs like 'Cowboys and Angels' and 'Small Town Boy'"
+    ],
+    "yearBorn": 1985
+  }
+]

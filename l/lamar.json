@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Lamar Hunt",
+    "givenNames": [
+      "Lamar"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamar_Hunt",
+    "occupation": "Sports executive, businessman",
+    "achievements": [
+      "Founded the American Football League (AFL)",
+      "Helped merge the AFL with the NFL",
+      "Owner of the Kansas City Chiefs"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Lamar Odom",
+    "givenNames": [
+      "Lamar",
+      "Joseph"
+    ],
+    "familyName": "Odom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamar_Odom",
+    "occupation": "Basketball player, reality TV personality",
+    "achievements": [
+      "NBA Champion with the Los Angeles Lakers (2009, 2010)",
+      "NBA Sixth Man of the Year (2011)",
+      "Appeared on reality TV shows like 'Keeping Up with the Kardashians'"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Lamar Alexander",
+    "givenNames": [
+      "Lamar"
+    ],
+    "familyName": "Alexander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamar_Alexander",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as U.S. Senator from Tennessee (2003-2021)",
+      "Previously served as Governor of Tennessee (1979-1987) and U.S. Secretary of Education (1985-1988)"
+    ],
+    "yearBorn": 1940
+  }
+]

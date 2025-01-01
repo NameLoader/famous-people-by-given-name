@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ambroise Paré",
+    "givenNames": [
+      "Ambroise"
+    ],
+    "familyName": "Paré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambroise_Par%C3%A9",
+    "occupation": "Surgeon",
+    "achievements": [
+      "Revolutionized surgical techniques and practices",
+      "Developed innovative methods for treating gunshot wounds",
+      "Introduced ligatures and artificial limbs"
+    ],
+    "yearBorn": 1510,
+    "yearDied": 1590
+  }
+]

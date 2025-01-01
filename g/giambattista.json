@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Giambattista Vico",
+    "givenNames": [
+      "Giambattista"
+    ],
+    "familyName": "Vico",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giambattista_Vico",
+    "occupation": "Philosopher, jurist, historian",
+    "achievements": [
+      "Developed a unique philosophical system that emphasized the cyclical nature of history and the role of myth in shaping human understanding.",
+      "His most famous work, 'The New Science,' explored the principles underlying the development of civilizations."
+    ],
+    "yearBorn": 1668,
+    "yearDied": 1744
+  },
+  {
+    "fullName": "Giambattista Piranesi",
+    "givenNames": [
+      "Giambattista",
+      "Giovanni Battista"
+    ],
+    "familyName": "Piranesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+    "occupation": "Architect, artist, engraver",
+    "achievements": [
+      "Known for his intricate and imaginative etchings of Roman ruins and architectural fantasies.",
+      "His works influenced the Neoclassical movement and continue to be admired for their technical skill and evocative atmosphere."
+    ],
+    "yearBorn": 1720,
+    "yearDied": 1778
+  },
+  {
+    "fullName": "Giambattista Tiepolo",
+    "givenNames": [
+      "Giovanni",
+      "Battista"
+    ],
+    "familyName": "Tiepolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo",
+    "occupation": "Painter, fresco painter",
+    "achievements": [
+      "One of the most renowned painters of the Venetian Baroque period.",
+      "Known for his grand and theatrical frescoes that adorned palaces and churches throughout Europe.",
+      "His works are characterized by their vibrant colors, dynamic compositions, and expressive figures."
+    ],
+    "yearBorn": 1696,
+    "yearDied": 1770
+  }
+]

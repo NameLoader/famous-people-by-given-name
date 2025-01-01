@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Léonard Euler",
+    "givenNames": [
+      "Leonhard"
+    ],
+    "familyName": "Euler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "occupation": "Mathematician and physicist",
+    "achievements": [
+      "Made important discoveries in calculus, graph theory, number theory, and mechanics",
+      "Introduced much of the modern mathematical terminology and notation"
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1783
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Georges Bizet",
+    "givenNames": [
+      "Georges"
+    ],
+    "familyName": "Bizet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Bizet",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed Carmen"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1875
+  },
+  {
+    "fullName": "Georges Seurat",
+    "givenNames": [
+      "Georges",
+      "Pierre"
+    ],
+    "familyName": "Seurat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "occupation": "Painter, Post-Impressionist artist",
+    "achievements": [
+      "Developed pointillism painting technique"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Georges Pompidou",
+    "givenNames": [
+      "Georges",
+      "Jean",
+      "Raymond"
+    ],
+    "familyName": "Pompidou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Pompidou",
+    "occupation": "Politician, President of France",
+    "achievements": [
+      "Led modernization efforts in France"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Georges Feydeau",
+    "givenNames": [
+      "Georges",
+      "Léon",
+      "Jules",
+      "Marie"
+    ],
+    "familyName": "Feydeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Feydeau",
+    "occupation": "Playwright",
+    "achievements": [
+      "Wrote popular farces"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1921
+  }
+]

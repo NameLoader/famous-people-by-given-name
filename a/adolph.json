@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Adolph Hitler",
+    "givenNames": [
+      "Adolf"
+    ],
+    "familyName": "Hitler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+    "occupation": "Politician, Dictator",
+    "achievements": [
+      "Leader of the Nazi Party",
+      "Chancellor of Germany (1933-1945)",
+      "Orchestrator of the Holocaust"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Adolph Rupp",
+    "givenNames": [
+      "Adolph",
+      "Frederick"
+    ],
+    "familyName": "Rupp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolph_Rupp",
+    "occupation": "Basketball Coach",
+    "achievements": [
+      "Head coach of the University of Kentucky men's basketball team (1930-1972)",
+      "Won four NCAA championships",
+      "Inducted into the Naismith Memorial Basketball Hall of Fame"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Adolph Sutro",
+    "givenNames": [
+      "Adolph",
+      "Heinrich",
+      "Joseph"
+    ],
+    "familyName": "Sutro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolph_Sutro",
+    "occupation": "Entrepreneur, Politician",
+    "achievements": [
+      "Developed the Sutro Baths in San Francisco",
+      "Served as mayor of San Francisco (1895-1897)"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1898
+  }
+]

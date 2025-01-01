@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Thelma Ritter",
+    "givenNames": [
+      "Thelma"
+    ],
+    "familyName": "Ritter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thelma_Ritter",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for six Academy Awards for Best Supporting Actress",
+      "Starred in films like 'Rear Window', 'All About Eve', and 'Titanic'"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Thelma Houston",
+    "givenNames": [
+      "Thelma"
+    ],
+    "familyName": "Houston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thelma_Houston",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award winner for Best Female R&B Vocal Performance for the song 'Don't Leave Me This Way'"
+    ],
+    "yearBorn": 1946
+  }
+]

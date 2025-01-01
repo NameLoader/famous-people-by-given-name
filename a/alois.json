@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Alois Alzheimer",
+    "givenNames": [
+      "Alois"
+    ],
+    "familyName": "Alzheimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alois_Alzheimer",
+    "occupation": "Psychiatrist",
+    "achievements": [
+      "Discovered Alzheimer's disease"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1915
+  },
+  {
+    "fullName": "Alois Hitler",
+    "givenNames": [
+      "Alois"
+    ],
+    "familyName": "Hitler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alois_Hitler",
+    "occupation": "Customs official",
+    "achievements": [
+      "Father of Adolf Hitler"
+    ],
+    "yearBorn": 1837,
+    "yearDied": 1903
+  }
+]

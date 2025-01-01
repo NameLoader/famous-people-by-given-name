@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Shinji Mikami",
+    "givenNames": [
+      "Shinji"
+    ],
+    "familyName": "Mikami",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinji_Mikami",
+    "occupation": "Video game designer",
+    "achievements": [
+      "Created Resident Evil franchise",
+      "Directed games like Devil May Cry and God Hand",
+      "Known for innovative gameplay mechanics and horror elements"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Shinji Ikari",
+    "givenNames": [
+      "Shinji"
+    ],
+    "familyName": "Ikari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinji_Ikari",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the anime series Neon Genesis Evangelion",
+      "Represents themes of adolescence, depression and existentialism"
+    ]
+  }
+]

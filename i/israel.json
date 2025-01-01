@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Israel Kamakawiwoʻole",
+    "givenNames": [
+      "Israel",
+      "Kaʻanoʻi"
+    ],
+    "familyName": "Kamakawiwoʻole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Israel_Kamakawiwo%CA%BBole",
+    "occupation": "Musician",
+    "achievements": [
+      "Hawaiian musician known for his ukulele playing and renditions of classic songs",
+      "Released the popular album \"Facing Future\""
+    ],
+    "yearBorn": 1959,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Israel Keyes",
+    "givenNames": [
+      "Israel"
+    ],
+    "familyName": "Keyes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Israel_Keyes",
+    "occupation": "Serial killer",
+    "achievements": [
+      "Confessed to murdering at least 11 people across the United States"
+    ],
+    "yearBorn": 1978,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Israel Houghton",
+    "givenNames": [
+      "Israel"
+    ],
+    "familyName": "Houghton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Israel_Houghton",
+    "occupation": "Gospel musician, songwriter, producer",
+    "achievements": [
+      "Grammy Award winner for Best Contemporary Gospel Album",
+      "Known for his worship songs and leadership in the Christian music industry"
+    ],
+    "yearBorn": 1971
+  }
+]

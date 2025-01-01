@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Inez Milholland",
+    "givenNames": [
+      "Inez"
+    ],
+    "familyName": "Milholland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inez_Milholland",
+    "occupation": "Suffragist and lawyer",
+    "achievements": [
+      "Led suffrage parades and spoke at rallies across the United States.",
+      "Arrested for her activism and went on a hunger strike in prison."
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1916
+  }
+]

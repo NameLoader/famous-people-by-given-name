@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Eugene O'Neill",
+    "givenNames": [
+      "Eugene",
+      "Gladstone"
+    ],
+    "familyName": "O'Neill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_O%27Neill",
+    "occupation": "Playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1936)",
+      "Four Pulitzer Prizes for Drama"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Eugene McCarthy",
+    "givenNames": [
+      "Eugene",
+      "Joseph"
+    ],
+    "familyName": "McCarthy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_McCarthy",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Minnesota (1959-1971)",
+      "Challenged Lyndon B. Johnson for the Democratic presidential nomination in 1968"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Eugene Levy",
+    "givenNames": [
+      "Eugene"
+    ],
+    "familyName": "Levy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Levy",
+    "occupation": "Actor, Writer, Producer",
+    "achievements": [
+      "Primetime Emmy Award for Outstanding Writing in a Comedy Series (1983)",
+      "Known for roles in films like 'American Pie' and the television series 'Schitt's Creek'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Eugene Kaspersky",
+    "givenNames": [
+      "Yevgeny",
+      "Valentinovich"
+    ],
+    "familyName": "Kaspersky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Kaspersky",
+    "occupation": "Computer Security Entrepreneur",
+    "achievements": [
+      "Founder and CEO of Kaspersky Lab"
+    ],
+    "yearBorn": 1965
+  }
+]

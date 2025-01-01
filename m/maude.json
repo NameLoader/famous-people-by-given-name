@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Maude Adams",
+    "givenNames": [
+      "Maude"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maude_Adams",
+    "occupation": "Actress",
+    "achievements": [
+      "Renowned stage actress of the late 19th and early 20th centuries.",
+      "Famous for her roles in plays like 'A Doll's House' and 'Peter Pan'."
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1953
+  }
+]

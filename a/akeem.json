@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Akeem Olajuwon",
+    "givenNames": [
+      "Hakeem",
+      "Abdul"
+    ],
+    "familyName": "Olajuwon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "2x NBA Champion",
+      "NBA MVP (1994)",
+      "12x NBA All-Star",
+      "Naismith Memorial Basketball Hall of Fame Inductee"
+    ],
+    "yearBorn": 1963
+  }
+]

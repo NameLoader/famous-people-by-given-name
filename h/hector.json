@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Hector Bellerín",
+    "givenNames": [
+      "Héctor"
+    ],
+    "familyName": "Bellerín",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Beller%C3%ADn",
+    "occupation": "Footballer",
+    "achievements": [
+      "FA Cup winner with Arsenal (2020)",
+      "Community Shield winner with Arsenal (2020)"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Hector Elizondo",
+    "givenNames": [
+      "Héctor"
+    ],
+    "familyName": "Elizondo",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Elizondo",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actor for his role in 'Popi' (1969)",
+      "Starred in numerous television series and films, including 'Chicago Hope' and 'The Princess Diaries'"
+    ],
+    "yearBorn": 1936
+  },
+  {
+    "fullName": "Hector Babenco",
+    "givenNames": [
+      "Héctor",
+      "Eduardo"
+    ],
+    "familyName": "Babenco",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Babenco",
+    "occupation": "Film director and screenwriter",
+    "achievements": [
+      "Directed acclaimed films such as 'Kiss of the Spider Woman' (1985) and 'Ironweed' (1987)"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2016
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Renato Russo",
+    "givenNames": [
+      "Renato"
+    ],
+    "familyName": "Russo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renato_Russo",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Founded the influential Brazilian rock band Legião Urbana",
+      "Known for poetic and socially conscious lyrics"
+    ],
+    "yearBorn": 1960,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Renato Aragão",
+    "givenNames": [
+      "Renato"
+    ],
+    "familyName": "Aragão",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renato_Arag%C3%A3o",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Iconic figure in Brazilian comedy",
+      "Starred in numerous films and television shows"
+    ],
+    "yearBorn": 1935
+  }
+]

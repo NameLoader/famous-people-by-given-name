@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Desiderius Erasmus of Rotterdam",
+    "givenNames": [
+      "Desiderius"
+    ],
+    "familyName": "Erasmus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus",
+    "occupation": "Renaissance humanist, philosopher, and theologian",
+    "achievements": [
+      "Wrote influential works on theology, education, and morality.",
+      "Played a key role in the Northern Renaissance.",
+      "Considered one of the greatest scholars of his time."
+    ],
+    "yearBorn": 1466,
+    "yearDied": 1536
+  }
+]

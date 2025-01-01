@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Cody Simpson",
+    "givenNames": [
+      "Cody",
+      "Robert"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cody_Simpson",
+    "occupation": "Singer, songwriter, actor",
+    "achievements": [
+      "Released multiple successful albums",
+      "Won ARIA Music Awards",
+      "Appeared in films and television shows"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Cody Ross",
+    "givenNames": [
+      "Cody",
+      "Joseph"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cody_Ross",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "World Series Champion (2010)",
+      "All-Star selection (2010)"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Cody Johnson",
+    "givenNames": [
+      "Cody",
+      "Daniel"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cody_Johnson",
+    "occupation": "Country music singer, songwriter",
+    "achievements": [
+      "Multiple number-one hits on the Billboard Country Airplay chart",
+      "Grammy Award nominee"
+    ]
+  }
+]

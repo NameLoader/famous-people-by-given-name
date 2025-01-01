@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Gayle Forman",
+    "givenNames": [
+      "Gayle"
+    ],
+    "familyName": "Forman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gayle_Forman",
+    "occupation": "Author",
+    "achievements": [
+      "New York Times bestselling author",
+      "Writes young adult fiction and contemporary novels"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Gayle King",
+    "givenNames": [
+      "Gayle"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gayle_King",
+    "occupation": "Journalist, Television personality",
+    "achievements": [
+      "Co-host of CBS This Morning",
+      "Editor-at-large for Oprah Daily"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Gayle Hunnicutt",
+    "givenNames": [
+      "Gayle"
+    ],
+    "familyName": "Hunnicutt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gayle_Hunnicutt",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'The Magnificent Seven Ride!' and 'Marlowe'",
+      "Appeared in numerous television series"
+    ],
+    "yearBorn": 1942
+  }
+]

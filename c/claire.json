@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Claire Danes",
+    "givenNames": [
+      "Claire",
+      "Catherine"
+    ],
+    "familyName": "Danes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claire_Danes",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award winner for Outstanding Lead Actress in a Drama Series for her role as Carrie Mathison in Homeland",
+      "Golden Globe Award winner for Best Actress – Television Series Drama for her role as Carrie Mathison in Homeland"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Claire Foy",
+    "givenNames": [
+      "Claire",
+      "Elizabeth"
+    ],
+    "familyName": "Foy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claire_Foy",
+    "occupation": "Actress",
+    "achievements": [
+      "Primetime Emmy Award for Outstanding Lead Actress in a Drama Series for her portrayal of Queen Elizabeth II in The Crown",
+      "Golden Globe Award for Best Actress – Television Series Drama for her role as Queen Elizabeth II in The Crown"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Claire Messud",
+    "givenNames": [
+      "Claire"
+    ],
+    "familyName": "Messud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claire_Messud",
+    "occupation": "Novelist, Essayist",
+    "achievements": [
+      "Her novel The Emperor's Children was a finalist for the Pulitzer Prize"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Claire Boucher",
+    "givenNames": [
+      "Claire",
+      "Elise"
+    ],
+    "familyName": "Boucher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grimes",
+    "occupation": "Singer-songwriter, Record Producer",
+    "achievements": [
+      "Known professionally as Grimes",
+      "Her experimental pop music has garnered critical acclaim"
+    ],
+    "yearBorn": 1988
+  }
+]

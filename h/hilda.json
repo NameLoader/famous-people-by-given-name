@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Hilda Doolittle",
+    "givenNames": [
+      "Hilda"
+    ],
+    "familyName": "Doolittle",
+    "wikipedia": "https://en.wikipedia.org/wiki/H.D.",
+    "occupation": "Poet, novelist",
+    "achievements": [
+      "Important modernist poet",
+      "Known for Imagist poetry"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Hilda Ogden",
+    "givenNames": [
+      "Hilda"
+    ],
+    "familyName": "Ogden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilda_Ogden",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Iconic character on the British soap opera Coronation Street"
+    ]
+  }
+]

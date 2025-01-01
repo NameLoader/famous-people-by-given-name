@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kylie Minogue",
+    "givenNames": [
+      "Kylie",
+      "Ann"
+    ],
+    "familyName": "Minogue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Minogue",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Best-selling female Australian artist of all time",
+      "Grammy Award winner",
+      "Multiple ARIA Music Awards"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Kylie Jenner",
+    "givenNames": [
+      "Kylie",
+      "Kristen"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kylie_Jenner",
+    "occupation": "Media personality, businesswoman",
+    "achievements": [
+      "Founder of Kylie Cosmetics",
+      "One of the most followed people on Instagram"
+    ],
+    "yearBorn": 1997
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Filippo Brunelleschi",
+    "givenNames": [
+      "Filippo"
+    ],
+    "familyName": "Brunelleschi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Brunelleschi",
+    "occupation": "Architect, Engineer",
+    "achievements": [
+      "Pioneer of Renaissance architecture",
+      "Designer of the dome of the Florence Cathedral"
+    ],
+    "yearBorn": 1377,
+    "yearDied": 1446
+  },
+  {
+    "fullName": "Filippo Lippi",
+    "givenNames": [
+      "Filippo"
+    ],
+    "familyName": "Lippi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Lippi",
+    "occupation": "Painter, Monk",
+    "achievements": [
+      "Early Renaissance painter",
+      "Known for his religious works and portraits"
+    ],
+    "yearBorn": 1406,
+    "yearDied": 1469
+  },
+  {
+    "fullName": "Filippo Inzaghi",
+    "givenNames": [
+      "Filippo"
+    ],
+    "familyName": "Inzaghi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Inzaghi",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "World Cup winner with Italy (2006)",
+      "Successful striker for Juventus and AC Milan"
+    ],
+    "yearBorn": 1973
+  }
+]

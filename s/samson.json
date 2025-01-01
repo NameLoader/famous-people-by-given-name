@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Samson Raphael Hirsch",
+    "givenNames": [
+      "Samson",
+      "Raphael"
+    ],
+    "familyName": "Hirsch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samson_Raphael_Hirsch",
+    "occupation": "Rabbi, theologian",
+    "achievements": [
+      "Founded the Frankfurt Orthodox Jewish community.",
+      "Advocate for modern Orthodox Judaism."
+    ],
+    "yearBorn": 1808,
+    "yearDied": 1888
+  },
+  {
+    "fullName": "Samson Occom",
+    "givenNames": [
+      "Samson"
+    ],
+    "familyName": "Occom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samson_Occom",
+    "occupation": "Minister, writer, activist",
+    "achievements": [
+      "First ordained Native American minister.",
+      "Advocate for Native American rights."
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1792
+  }
+]

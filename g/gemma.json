@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Gemma Chan",
+    "givenNames": [
+      "Gemma"
+    ],
+    "familyName": "Chan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Chan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Crazy Rich Asians', 'Eternals', and the TV series 'Humans'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Gemma Arterton",
+    "givenNames": [
+      "Gemma",
+      "Christina"
+    ],
+    "familyName": "Arterton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Arterton",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Quantum of Solace', 'Clash of the Titans', and stage productions"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Gemma Collins",
+    "givenNames": [
+      "Gemma",
+      "Clare"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Collins",
+    "occupation": "Television personality",
+    "achievements": [
+      "Known for appearances on 'The Only Way Is Essex' and other reality TV shows"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Osamu Tezuka",
+    "givenNames": [
+      "Osamu"
+    ],
+    "familyName": "Tezuka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Tezuka",
+    "occupation": "Manga artist, animator, cartoonist",
+    "achievements": [
+      "Known as the 'God of Manga'",
+      "Created iconic anime and manga series like Astro Boy, Kimba the White Lion, and Phoenix"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Osamu Dazai",
+    "givenNames": [
+      "Osamu"
+    ],
+    "familyName": "Dazai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Dazai",
+    "occupation": "Author, writer",
+    "achievements": [
+      "Considered one of the most important Japanese authors of the 20th century",
+      "Known for his introspective and melancholic novels such as No Longer Human and The Setting Sun"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Osamu Shimomura",
+    "givenNames": [
+      "Osamu"
+    ],
+    "familyName": "Shimomura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Shimomura",
+    "occupation": "Biochemist, Nobel laureate",
+    "achievements": [
+      "Won the Nobel Prize in Chemistry in 2008 for the discovery and development of green fluorescent protein (GFP)",
+      "His work revolutionized biological research by providing a powerful tool for visualizing cellular processes"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2018
+  }
+]

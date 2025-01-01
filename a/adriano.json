@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Adriano Leite Ribeiro",
+    "givenNames": [
+      "Adriano",
+      "Leite"
+    ],
+    "familyName": "Ribeiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriano_(footballer,_born_February_1982)",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Copa América with Brazil in 2004",
+      "Serie A top scorer in 2005",
+      "Known for his powerful shots and goal-scoring ability"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Adriano Celentano",
+    "givenNames": [
+      "Adriano"
+    ],
+    "familyName": "Celentano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriano_Celentano",
+    "occupation": "Singer, actor, filmmaker",
+    "achievements": [
+      "One of the most popular Italian singers and actors",
+      "Known for his distinctive voice and rebellious attitude",
+      "Has sold over 150 million records worldwide"
+    ],
+    "yearBorn": 1938
+  }
+]

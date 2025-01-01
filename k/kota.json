@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kota Ibushi",
+    "givenNames": [
+      "Kota"
+    ],
+    "familyName": "Ibushi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kota_Ibushi",
+    "occupation": "Professional Wrestler",
+    "achievements": [
+      "Former IWGP Heavyweight Champion",
+      "Former NEVER Openweight Champion",
+      "Known for his high-flying and innovative wrestling style"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Kota Ezawa",
+    "givenNames": [
+      "Kota"
+    ],
+    "familyName": "Ezawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kota_Ezawa",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his digital animations that explore themes of history, memory, and technology",
+      "Work exhibited in major museums worldwide including the Museum of Modern Art (MoMA) in New York"
+    ]
+  }
+]

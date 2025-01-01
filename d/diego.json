@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Diego Maradona",
+    "givenNames": [
+      "Diego",
+      "Armando"
+    ],
+    "familyName": "Maradona",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Maradona",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Considered one of the greatest footballers of all time",
+      "Led Argentina to victory in the 1986 FIFA World Cup"
+    ],
+    "yearBorn": 1960,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Diego Velázquez",
+    "givenNames": [
+      "Diego",
+      "Rodríguez de Silva y"
+    ],
+    "familyName": "Velázquez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
+    "occupation": "Painter",
+    "achievements": [
+      "Spanish painter of the Baroque period",
+      "Court painter to King Philip IV of Spain"
+    ],
+    "yearBorn": 1599,
+    "yearDied": 1660
+  },
+  {
+    "fullName": "Diego Rivera",
+    "givenNames": [
+      "Diego"
+    ],
+    "familyName": "Rivera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diego_Rivera",
+    "occupation": "Painter, Muralist",
+    "achievements": [
+      "Prominent Mexican painter known for his large-scale murals",
+      "His works often depicted social and political themes"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1957
+  }
+]

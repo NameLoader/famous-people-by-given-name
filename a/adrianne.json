@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Adrianne Curry",
+    "givenNames": [
+      "Adrianne",
+      "Marie"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrianne_Curry",
+    "occupation": "Model, actress",
+    "achievements": [
+      "Winner of America's Next Top Model Cycle 1",
+      "Appeared in magazines such as Elle and Maxim"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Adrianne Palicki",
+    "givenNames": [
+      "Adrianne",
+      "Lee"
+    ],
+    "familyName": "Palicki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrianne_Palicki",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Friday Night Lights, Agents of S.H.I.E.L.D., and The Orville"
+    ],
+    "yearBorn": 1983
+  }
+]

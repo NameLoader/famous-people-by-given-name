@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "Santa Claus",
+    "givenNames": [
+      "Santa"
+    ],
+    "familyName": "Claus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santa_Claus",
+    "occupation": "Legendary Figure",
+    "achievements": [
+      "Brings gifts to well-behaved children on Christmas Eve"
+    ]
+  }
+]

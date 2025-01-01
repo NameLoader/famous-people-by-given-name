@@ -1,0 +1,69 @@
+[
+  {
+    "fullName": "Paul McCartney",
+    "givenNames": [
+      "Paul",
+      "James"
+    ],
+    "familyName": "McCartney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_McCartney",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Member of the Beatles",
+      "Successful solo career",
+      "Knighted by Queen Elizabeth II"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Paul Newman",
+    "givenNames": [
+      "Paul",
+      "Leonard"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Newman",
+    "occupation": "Actor, Film Director, Producer",
+    "achievements": [
+      "Academy Award Winner",
+      "Known for roles in films like 'Cool Hand Luke' and 'Butch Cassidy and the Sundance Kid'",
+      "Philanthropist"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Paul Dirac",
+    "givenNames": [
+      "Paul",
+      "Adrien",
+      "Maurice"
+    ],
+    "familyName": "Dirac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Dirac",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1933)",
+      "Pioneer in quantum mechanics and quantum electrodynamics"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Paul Robeson",
+    "givenNames": [
+      "Paul",
+      "Leroy"
+    ],
+    "familyName": "Robeson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Robeson",
+    "occupation": "Singer, Actor, Activist",
+    "achievements": [
+      "Renowned for his bass-baritone voice",
+      "Starred in films and on Broadway",
+      "Prominent civil rights activist"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1976
+  }
+]

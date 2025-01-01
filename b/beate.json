@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Beate Uhse",
+    "givenNames": [
+      "Beate"
+    ],
+    "familyName": "Uhse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beate_Uhse-Rotermund",
+    "occupation": "Sexologist, entrepreneur",
+    "achievements": [
+      "Founded Beate Uhse GmbH, a sex toy and erotic literature company.",
+      "Pioneered the open discussion of sexuality in Germany."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Beate Klarsfeld",
+    "givenNames": [
+      "Beate",
+      "Auguste"
+    ],
+    "familyName": "Klarsfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beate_Klarsfeld",
+    "occupation": "Nazi hunter, human rights activist",
+    "achievements": [
+      "Known for publicly shaming former Nazi officials.",
+      "Instrumental in the prosecution of numerous war criminals.",
+      "Co-founded the Klarsfeld Foundation to combat antisemitism and Holocaust denial."
+    ],
+    "yearBorn": 1939
+  }
+]

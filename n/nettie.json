@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Nettie Stevens",
+    "givenNames": [
+      "Nettie",
+      "Maria"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nettie_Stevens",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Pioneering work in understanding sex determination in insects.",
+      "Discovered the X and Y chromosomes' role in determining sex."
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1912
+  }
+]

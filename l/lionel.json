@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Lionel Messi",
+    "givenNames": [
+      "Lionel",
+      "Andrés"
+    ],
+    "familyName": "Messi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Messi",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "7 Ballon d'Or awards",
+      "FIFA World Cup winner (2022)",
+      "4 UEFA Champions League titles"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Lionel Richie",
+    "givenNames": [
+      "Lionel",
+      "Brockman"
+    ],
+    "familyName": "Richie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Richie",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Academy Award for Best Original Song ('Say You, Say Me')",
+      "Diamond-selling albums"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Lionel Trilling",
+    "givenNames": [
+      "Lionel",
+      "Mordecai"
+    ],
+    "familyName": "Trilling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Trilling",
+    "occupation": "Literary critic, essayist",
+    "achievements": [
+      "Pulitzer Prize for Criticism (1939)",
+      "National Book Award winner (1968)"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1975
+  }
+]

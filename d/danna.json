@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Danna Paola Rivera Munguía",
+    "givenNames": [
+      "Danna Paola"
+    ],
+    "familyName": "Rivera Munguía",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danna_Paola",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Mexican singer and actress known for her roles in telenovelas like 'Atrévete a soñar'",
+      "Successful music career with hits like 'Mala Fama' and 'Oye Pablo'"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Danna García",
+    "givenNames": [
+      "Danna",
+      "María"
+    ],
+    "familyName": "García",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danna_Garc%C3%ADa",
+    "occupation": "Actress",
+    "achievements": [
+      "Colombian actress known for roles in telenovelas like 'Pasión de Gavilanes' and 'Corazón indomable'",
+      "International recognition for her work in various Spanish-language television productions"
+    ],
+    "yearBorn": 1978
+  }
+]

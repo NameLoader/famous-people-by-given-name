@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Ramona Quimby",
+    "givenNames": [
+      "Ramona",
+      "Geraldine"
+    ],
+    "familyName": "Quimby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramona_Quimby",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the popular children's book series by Beverly Cleary"
+    ]
+  },
+  {
+    "fullName": "Ramona Singer",
+    "givenNames": [
+      "Ramona"
+    ],
+    "familyName": "Singer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramona_Singer",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Cast member on The Real Housewives of New York City"
+    ],
+    "yearBorn": 1956
+  }
+]

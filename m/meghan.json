@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Meghan Markle",
+    "givenNames": [
+      "Meghan",
+      "Rachel"
+    ],
+    "familyName": "Markle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meghan,_Duchess_of_Sussex",
+    "occupation": "Actress, Philanthropist",
+    "achievements": [
+      "Starred in the television series 'Suits'",
+      "Married Prince Harry, Duke of Sussex",
+      "Advocates for gender equality and mental health awareness"
+    ],
+    "yearBorn": 1981
+  }
+]

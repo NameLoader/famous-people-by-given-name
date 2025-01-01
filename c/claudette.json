@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Claudette Colbert",
+    "givenNames": [
+      "Claudette"
+    ],
+    "familyName": "Colbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudette_Colbert",
+    "occupation": "Actress",
+    "achievements": [
+      "Won Academy Award for Best Actress for It Happened One Night (1934)",
+      "Starred in numerous classic films such as Cleopatra (1934), The Sign of the Cross (1932), and Three Came Home (1950)"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Claudette Nevins",
+    "givenNames": [
+      "Claudette"
+    ],
+    "familyName": "Nevins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudette_Nevins",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films and television series such as The Last Detail (1973), Coma (1978), and Soap (1977-1981)"
+    ],
+    "yearBorn": 1937
+  }
+]

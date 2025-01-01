@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rebeca Méndez",
+    "givenNames": [
+      "Rebeca"
+    ],
+    "familyName": "Méndez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebeca_M%C3%A9ndez",
+    "occupation": "Artist, Designer",
+    "achievements": [
+      "Known for her work in digital art and design.",
+      "Her artwork explores themes of identity, technology, and culture."
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Rebeca Grynspan",
+    "givenNames": [
+      "Rebeca",
+      "Mayufis"
+    ],
+    "familyName": "Grynspan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebeca_Grynspan",
+    "occupation": "Diplomat, Economist",
+    "achievements": [
+      "Served as the Deputy Secretary-General of the United Nations.",
+      "Previously served as the Associate Administrator of the UNDP."
+    ],
+    "yearBorn": 1955
+  }
+]

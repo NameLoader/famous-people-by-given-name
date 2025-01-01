@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rory McIlroy",
+    "givenNames": [
+      "Rory",
+      "Daniel"
+    ],
+    "familyName": "McIlroy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rory_McIlroy",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "Won four major championships",
+      "World No. 1 ranked golfer for over 100 weeks"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Rory Gallagher",
+    "givenNames": [
+      "Rory",
+      "William"
+    ],
+    "familyName": "Gallagher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rory_Gallagher",
+    "occupation": "Blues and rock guitarist, singer-songwriter",
+    "achievements": [
+      "Highly influential guitarist known for his virtuosity and raw energy",
+      "Released numerous critically acclaimed albums"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1995
+  }
+]

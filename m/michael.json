@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Michael Faraday",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Faraday",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "occupation": "Scientist, Chemist",
+    "achievements": [
+      "Discovered electromagnetic induction",
+      "Invented the electric motor and dynamo",
+      "Made significant contributions to electrochemistry"
+    ],
+    "yearBorn": 1791,
+    "yearDied": 1867
+  },
+  {
+    "fullName": "Michael Jordan",
+    "givenNames": [
+      "Michael",
+      "Jeffrey"
+    ],
+    "familyName": "Jordan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jordan",
+    "occupation": "Basketball Player, Businessman",
+    "achievements": [
+      "Six-time NBA champion with the Chicago Bulls",
+      "Five-time NBA Most Valuable Player",
+      "Ten-time NBA scoring champion"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Michael Jackson",
+    "givenNames": [
+      "Michael",
+      "Joseph"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "occupation": "Singer, Songwriter, Dancer",
+    "achievements": [
+      "Known as the \"King of Pop\"",
+      "Best-selling music artist of all time",
+      "Won 13 Grammy Awards"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Michael Phelps",
+    "givenNames": [
+      "Michael",
+      "Fred"
+    ],
+    "familyName": "Phelps",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Phelps",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Most decorated Olympian of all time with 28 medals",
+      "Holds the world record in multiple swimming events"
+    ],
+    "yearBorn": 1985
+  }
+]

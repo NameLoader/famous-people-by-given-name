@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Una Merkel",
+    "givenNames": [
+      "Una"
+    ],
+    "familyName": "Merkel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Una_Merkel",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress",
+      "Known for comedic roles in films and on Broadway"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Una Stubbs",
+    "givenNames": [
+      "Una"
+    ],
+    "familyName": "Stubbs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Una_Stubbs",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in British television series like 'Till Death Us Do Part' and 'Worzel Gummidge'",
+      "Appeared in numerous stage productions"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2021
+  }
+]

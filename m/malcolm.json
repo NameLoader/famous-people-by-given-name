@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Malcolm Gladwell",
+    "givenNames": [
+      "Malcolm",
+      "Timothy"
+    ],
+    "familyName": "Gladwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Gladwell",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Bestselling author known for books like 'The Tipping Point' and 'Outliers'",
+      "Popularized sociological concepts through engaging storytelling"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Malcolm Turnbull",
+    "givenNames": [
+      "Malcolm",
+      "Bligh"
+    ],
+    "familyName": "Turnbull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Turnbull",
+    "occupation": "Politician",
+    "achievements": [
+      "29th Prime Minister of Australia (2015-2018)"
+    ],
+    "yearBorn": 1954
+  }
+]

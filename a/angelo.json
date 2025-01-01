@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Angelo Badalamenti",
+    "givenNames": [
+      "Angelo",
+      "Daniel"
+    ],
+    "familyName": "Badalamenti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Badalamenti",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed the soundtracks for many David Lynch films including Twin Peaks and Blue Velvet.",
+      "Won a Grammy Award for his work on the Twin Peaks soundtrack."
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Angelo Dundee",
+    "givenNames": [
+      "Angelo"
+    ],
+    "familyName": "Dundee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Dundee",
+    "occupation": "Boxing trainer",
+    "achievements": [
+      "Trained world champion boxers such as Muhammad Ali, Sugar Ray Leonard and George Foreman.",
+      "Inducted into the International Boxing Hall of Fame."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Angelo Roncalli",
+    "givenNames": [
+      "Angelo",
+      "Giuseppe"
+    ],
+    "familyName": "Roncalli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
+    "occupation": "Pope",
+    "achievements": [
+      "Known for his progressive views and efforts to modernize the Catholic Church.",
+      "Convened the Second Vatican Council, a pivotal event in Catholic history."
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1963
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tetsuya Komuro",
+    "givenNames": [
+      "Tetsuya"
+    ],
+    "familyName": "Komuro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tetsuya_Komuro",
+    "occupation": "Musician, Composer, Record producer",
+    "achievements": [
+      "Pioneer of Japanese technopop and city pop music",
+      "Produced hits for numerous J-Pop artists including Seiko Matsuda and Namie Amuro",
+      "Founded the successful record label Being Inc."
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Tetsuya Nomura",
+    "givenNames": [
+      "Tetsuya"
+    ],
+    "familyName": "Nomura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tetsuya_Nomura",
+    "occupation": "Video game artist and director",
+    "achievements": [
+      "Character designer for the Final Fantasy series, particularly known for Cloud Strife and Sephiroth",
+      "Directed numerous popular video games including Kingdom Hearts and The World Ends with You",
+      "Known for his distinctive art style and complex narratives"
+    ],
+    "yearBorn": 1970
+  }
+]

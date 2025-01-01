@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Frédéric Chopin",
+    "givenNames": [
+      "Frédéric",
+      "François"
+    ],
+    "familyName": "Chopin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+    "occupation": "Composer and pianist",
+    "achievements": [
+      "Considered one of the greatest composers of the Romantic era.",
+      "Known for his piano nocturnes, mazurkas, polonaises, and études."
+    ],
+    "yearBorn": 1810,
+    "yearDied": 1849
+  },
+  {
+    "fullName": "Frédéric Mistral",
+    "givenNames": [
+      "Frédéric",
+      "Étienne",
+      "Joseph"
+    ],
+    "familyName": "Mistral",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mistral",
+    "occupation": "Poet, writer, and Nobel laureate",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1904.",
+      "Wrote poetry in Occitan, a Romance language spoken in southern France."
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1914
+  },
+  {
+    "fullName": "Frédéric Bazille",
+    "givenNames": [
+      "Frédéric",
+      "Jean Frédéric"
+    ],
+    "familyName": "Bazille",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille",
+    "occupation": "Painter",
+    "achievements": [
+      "Member of the Impressionist movement.",
+      "Known for his paintings depicting everyday life and landscapes."
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1870
+  },
+  {
+    "fullName": "Frédéric Auguste Bartholdi",
+    "givenNames": [
+      "Frédéric",
+      "Auguste"
+    ],
+    "familyName": "Bartholdi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Auguste_Bartholdi",
+    "occupation": "Sculptor",
+    "achievements": [
+      "Designed and sculpted the Statue of Liberty."
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1904
+  }
+]

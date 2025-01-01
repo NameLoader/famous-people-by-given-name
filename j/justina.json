@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Justina Machado",
+    "givenNames": [
+      "Justina",
+      "Milagros"
+    ],
+    "familyName": "Machado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justina_Machado",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Penelope Alvarez in the Netflix sitcom 'One Day at a Time'",
+      "Won an Imagen Award for Best Actress in a Supporting Role for her performance in 'Six Feet Under'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Justina Blakeney",
+    "givenNames": [
+      "Justina"
+    ],
+    "familyName": "Blakeney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Justina_Blakeney",
+    "occupation": "Designer, Author",
+    "achievements": [
+      "Known for her vibrant and eclectic style, blending bohemian and mid-century modern aesthetics",
+      "Founded the blog and design company 'The Jungalow'",
+      "Authored several books on interior design and plant styling"
+    ]
+  }
+]

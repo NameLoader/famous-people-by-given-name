@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Bridget Fonda",
+    "givenNames": [
+      "Bridget",
+      "Jane"
+    ],
+    "familyName": "Fonda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Fonda",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for a Golden Globe Award for her role in the film 'Jackie Brown'",
+      "Starred in films such as 'Single White Female', 'Point of No Return', and 'The Godfather Part III'"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Bridget Riley",
+    "givenNames": [
+      "Bridget",
+      "Louise"
+    ],
+    "familyName": "Riley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Riley",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for her Op art paintings and prints",
+      "Won the International Prize for Painting at the Venice Biennale in 1968",
+      "Her work is held in major museums worldwide"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Bridget Jones",
+    "givenNames": [
+      "Bridget"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Created by author Helen Fielding",
+      "Became a cultural icon, representing the anxieties and aspirations of single women in their 30s"
+    ]
+  }
+]

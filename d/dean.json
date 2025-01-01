@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dean Cain",
+    "givenNames": [
+      "Dean",
+      "George"
+    ],
+    "familyName": "Cain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dean_Cain",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for playing Superman in the television series 'Lois & Clark: The New Adventures of Superman'",
+      "Appeared in numerous films and television shows"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Dean Koontz",
+    "givenNames": [
+      "Dean",
+      "Ray"
+    ],
+    "familyName": "Koontz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dean_Koontz",
+    "occupation": "Author",
+    "achievements": [
+      "Best-selling author of suspense and horror novels",
+      "Known for books like 'Odd Thomas' and 'Watchers'"
+    ],
+    "yearBorn": 1945
+  }
+]

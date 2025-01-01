@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Bernardo Bertolucci",
+    "givenNames": [
+      "Bernardo"
+    ],
+    "familyName": "Bertolucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_Bertolucci",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Academy Award for Best Director (The Last Emperor)",
+      "BAFTA Award for Best Direction (The Last Emperor)"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Bernardo O'Higgins",
+    "givenNames": [
+      "Bernardo"
+    ],
+    "familyName": "O'Higgins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_O%27Higgins",
+    "occupation": "Chilean independence leader",
+    "achievements": [
+      "Supreme Director of Chile (1818-1823)",
+      "Key figure in Chilean independence movement"
+    ],
+    "yearBorn": 1778,
+    "yearDied": 1842
+  },
+  {
+    "fullName": "Bernardo Provenzano",
+    "givenNames": [
+      "Bernardo"
+    ],
+    "familyName": "Provenzano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_Provenzano",
+    "occupation": "Mafia boss",
+    "achievements": [
+      "Leader of the Sicilian Mafia (Cosa Nostra)"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2016
+  }
+]

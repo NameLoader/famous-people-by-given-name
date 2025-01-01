@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ayesha Curry",
+    "givenNames": [
+      "Ayesha",
+      "Disa"
+    ],
+    "familyName": "Curry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayesha_Curry",
+    "occupation": "Chef, cookbook author, television personality",
+    "achievements": [
+      "Hosted the Food Network show 'Ayesha's Home Kitchen'",
+      "Published multiple cookbooks including 'The Seasoned Life'"
+    ],
+    "yearBorn": 1989
+  }
+]

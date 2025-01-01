@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Yvan Cournoyer",
+    "givenNames": [
+      "Yvan",
+      "Serge"
+    ],
+    "familyName": "Cournoyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvan_Cournoyer",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Hockey Hall of Fame inductee",
+      "Won 10 Stanley Cups with the Montreal Canadiens"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Yvan Attal",
+    "givenNames": [
+      "Yvan"
+    ],
+    "familyName": "Attal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvan_Attal",
+    "occupation": "Actor, director",
+    "achievements": [
+      "César Award for Best Actor nomination",
+      "Known for films like 'My Wife is an Actress' and 'The Actors'"
+    ],
+    "yearBorn": 1965
+  }
+]

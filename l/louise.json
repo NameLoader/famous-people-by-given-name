@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Louise May Alcott",
+    "givenNames": [
+      "Louisa",
+      "May"
+    ],
+    "familyName": "Alcott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+    "occupation": "Novelist, poet, short story writer",
+    "achievements": [
+      "Author of Little Women and other popular novels",
+      "Advocate for women's rights"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1888
+  },
+  {
+    "fullName": "Louise Bourgeois",
+    "givenNames": [
+      "Louise",
+      "Joséphine"
+    ],
+    "familyName": "Bourgeois",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louise_Bourgeois",
+    "occupation": "Sculptor, painter",
+    "achievements": [
+      "Known for her large-scale sculptures and installations",
+      "Explored themes of the body, family, and memory in her work"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Louise Glück",
+    "givenNames": [
+      "Louise",
+      "Elisabeth"
+    ],
+    "familyName": "Glück",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louise_Gl%C3%BCck",
+    "occupation": "Poet",
+    "achievements": [
+      "Won the Pulitzer Prize for Poetry in 1993",
+      "Named United States Poet Laureate from 2003 to 2004"
+    ],
+    "yearBorn": 1943
+  }
+]

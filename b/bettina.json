@@ -1,0 +1,21 @@
+[
+  {
+    "fullName": "Bettina von Arnim",
+    "givenNames": [
+      "Bettina",
+      "Elisabeth",
+      "Catharina",
+      "Ludovica",
+      "Magdalena"
+    ],
+    "familyName": "Arnim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bettina_von_Arnim",
+    "occupation": "Writer, Salonnière",
+    "achievements": [
+      "Known for her literary works and her influential salon in Berlin.",
+      "Author of novels, poems, and letters."
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1859
+  }
+]

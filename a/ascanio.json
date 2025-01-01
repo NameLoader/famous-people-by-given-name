@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ascanio Sforza",
+    "givenNames": [
+      "Ascanio",
+      "Maria"
+    ],
+    "familyName": "Sforza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ascanio_Sforza",
+    "occupation": "Condottiero, Cardinal",
+    "achievements": [
+      "Served as papal legate and governor of several Italian cities.",
+      "Known for his military skills and diplomatic abilities."
+    ],
+    "yearBorn": 1455,
+    "yearDied": 1505
+  }
+]

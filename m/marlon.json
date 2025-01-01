@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Marlon Brando",
+    "givenNames": [
+      "Marlon",
+      "Jr."
+    ],
+    "familyName": "Brando",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlon_Brando",
+    "occupation": "Actor",
+    "achievements": [
+      "Considered one of the greatest actors of all time.",
+      "Won two Academy Awards for Best Actor."
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Marlon Wayans",
+    "givenNames": [
+      "Marlon",
+      "Lamont"
+    ],
+    "familyName": "Wayans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marlon_Wayans",
+    "occupation": "Actor, comedian, writer, and producer",
+    "achievements": [
+      "Known for his comedic roles in films like 'Scary Movie' and 'White Chicks'."
+    ],
+    "yearBorn": 1972
+  }
+]

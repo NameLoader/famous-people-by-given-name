@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Leopoldo Marechal",
+    "givenNames": [
+      "Leopoldo"
+    ],
+    "familyName": "Marechal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopoldo_Marechal",
+    "occupation": "Writer",
+    "achievements": [
+      "Argentinian novelist and poet",
+      "Known for his works like 'Adán Buenosayres'"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Leopoldo Galtieri",
+    "givenNames": [
+      "Leopoldo",
+      "Fortunato"
+    ],
+    "familyName": "Galtieri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopoldo_Galtieri",
+    "occupation": "Military officer",
+    "achievements": [
+      "President of Argentina during the Falklands War"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2003
+  }
+]

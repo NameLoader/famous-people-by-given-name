@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Elsa Schiaparelli",
+    "givenNames": [
+      "Elsa"
+    ],
+    "familyName": "Schiaparelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsa_Schiaparelli",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Pioneer of surrealism in fashion",
+      "Created iconic designs like the 'Shocking Pink' color and the 'Lobster Dress'"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Elsa Lanchester",
+    "givenNames": [
+      "Elsa",
+      "Sullivan"
+    ],
+    "familyName": "Lanchester",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsa_Lanchester",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as the Bride of Frankenstein in the classic horror film",
+      "Versatile actress with roles in comedies, dramas, and musicals"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Elsa Peretti",
+    "givenNames": [
+      "Elsa"
+    ],
+    "familyName": "Peretti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsa_Peretti",
+    "occupation": "Jewelry designer",
+    "achievements": [
+      "Created iconic jewelry designs for Tiffany & Co.",
+      "Known for her minimalist and organic style"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2021
+  }
+]

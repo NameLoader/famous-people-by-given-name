@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Franck Ribéry",
+    "givenNames": [
+      "Franck",
+      "Henry",
+      "Pierre"
+    ],
+    "familyName": "Ribéry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franck_Rib%C3%A9ry",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Champions League winner (2013)",
+      "Bundesliga champion (9 times)"
+    ],
+    "yearBorn": 1983
+  }
+]

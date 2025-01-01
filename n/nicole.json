@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Nicole Kidman",
+    "givenNames": [
+      "Nicole",
+      "Mary"
+    ],
+    "familyName": "Kidman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Kidman",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Emmy Award for Outstanding Lead Actress in a Limited Series or Movie",
+      "Golden Globe Awards"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Nicole Scherzinger",
+    "givenNames": [
+      "Nicole"
+    ],
+    "familyName": "Scherzinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Scherzinger",
+    "occupation": "Singer, Songwriter, Dancer, Television Personality",
+    "achievements": [
+      "Lead singer of the Pussycat Dolls",
+      "Won Dancing with the Stars (US)",
+      "Judge on The X Factor and The Masked Singer"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Nicole Richie",
+    "givenNames": [
+      "Nicole",
+      "Camille"
+    ],
+    "familyName": "Richie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Richie",
+    "occupation": "Actress, Fashion Designer, Television Personality",
+    "achievements": [
+      "Starred in the reality show The Simple Life",
+      "Launched her own fashion line, House of Harlow 1960"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Nicole Holofcener",
+    "givenNames": [
+      "Nicole"
+    ],
+    "familyName": "Holofcener",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Holofcener",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Academy Award nominations for Best Original Screenplay (Enough Said, Can You Ever Forgive Me?)"
+    ],
+    "yearBorn": 1960
+  }
+]

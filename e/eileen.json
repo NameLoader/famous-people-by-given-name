@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Eileen Farrell",
+    "givenNames": [
+      "Eileen"
+    ],
+    "familyName": "Farrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Farrell",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Acclaimed soprano known for her powerful voice and wide vocal range.",
+      "Performed at major opera houses worldwide."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Eileen Brennan",
+    "givenNames": [
+      "Eileen"
+    ],
+    "familyName": "Brennan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Brennan",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in \"Private Benjamin\".",
+      "Appeared in numerous films and television shows."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Eileen Atkins",
+    "givenNames": [
+      "Eileen",
+      "June"
+    ],
+    "familyName": "Atkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Atkins",
+    "occupation": "Actress, screenwriter, and director",
+    "achievements": [
+      "Highly respected stage and screen actress with a career spanning over six decades.",
+      "Won numerous awards including Tony Awards, Emmy Awards, and Olivier Awards."
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Eileen Gray",
+    "givenNames": [
+      "Eileen"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Gray",
+    "occupation": "Architect and furniture designer",
+    "achievements": [
+      "Pioneer of the Modern Movement in architecture.",
+      "Created iconic designs such as the E-1027 house and the Bibendum chair."
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1976
+  }
+]

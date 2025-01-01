@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Winnie Harlow",
+    "givenNames": [
+      "Winnie"
+    ],
+    "familyName": "Harlow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winnie_Harlow",
+    "occupation": "Model, activist",
+    "achievements": [
+      "First model with vitiligo to walk in the Victoria's Secret Fashion Show",
+      "Advocate for body positivity and diversity in fashion"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Winnie-the-Pooh",
+    "givenNames": [
+      "Winnie-the-"
+    ],
+    "familyName": "Pooh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Beloved children's book character",
+      "Popularized by A.A. Milne and Disney"
+    ]
+  }
+]

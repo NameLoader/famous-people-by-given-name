@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Katheryn Winnick",
+    "givenNames": [
+      "Katheryn"
+    ],
+    "familyName": "Winnick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katheryn_Winnick",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Lagertha in the History Channel series Vikings",
+      "Appeared in films such as Love & Other Drugs and Killers"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Katheryn Bigelow",
+    "givenNames": [
+      "Kathryn",
+      "Ann"
+    ],
+    "familyName": "Bigelow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Bigelow",
+    "occupation": "Film director, producer",
+    "achievements": [
+      "First woman to win the Academy Award for Best Director (for The Hurt Locker)",
+      "Known for her action and thriller films including Zero Dark Thirty and Point Break"
+    ],
+    "yearBorn": 1951
+  }
+]

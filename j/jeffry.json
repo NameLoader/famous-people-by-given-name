@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Jeffry Archer",
+    "givenNames": [
+      "Jeffrey",
+      "Howard"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
+    "occupation": "Author, Politician",
+    "achievements": [
+      "Bestselling author of numerous novels and short stories",
+      "Member of the House of Lords",
+      "Convicted of perjury in 2001"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Jeffry Epstein",
+    "givenNames": [
+      "Jeffrey",
+      "Edward"
+    ],
+    "familyName": "Epstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+    "occupation": "Financier, Convicted Sex Offender",
+    "achievements": [
+      "Managed hedge funds and amassed a large fortune",
+      "Convicted of sex trafficking in Florida in 2008",
+      "Died in prison while awaiting trial on federal sex trafficking charges"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2019
+  }
+]

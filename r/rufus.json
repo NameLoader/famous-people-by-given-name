@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rufus Wainwright",
+    "givenNames": [
+      "Rufus",
+      "McGarrigle"
+    ],
+    "familyName": "Wainwright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufus_Wainwright",
+    "occupation": "Singer-songwriter, composer",
+    "achievements": [
+      "Grammy Award nominee",
+      "Juno Award winner",
+      "Known for his operatic vocals and sophisticated songwriting"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Rufus Sewell",
+    "givenNames": [
+      "Rufus",
+      "Frederik"
+    ],
+    "familyName": "Sewell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rufus_Sewell",
+    "occupation": "Actor",
+    "achievements": [
+      "BAFTA Award nominee",
+      "Known for roles in films like 'Cold Comfort Farm' and 'The Illusionist'"
+    ],
+    "yearBorn": 1967
+  }
+]

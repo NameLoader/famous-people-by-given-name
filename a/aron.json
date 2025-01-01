@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Aron Ralston",
+    "givenNames": [
+      "Aron",
+      "Lee"
+    ],
+    "familyName": "Ralston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aron_Ralston",
+    "occupation": "Adventurer, engineer",
+    "achievements": [
+      "Survived a five-day ordeal trapped by a boulder in Utah's Canyonlands National Park.",
+      "Amputated his own arm to free himself.",
+      "Author of the bestselling book 'Between a Rock and a Hard Place'."
+    ],
+    "yearBorn": 1975
+  }
+]

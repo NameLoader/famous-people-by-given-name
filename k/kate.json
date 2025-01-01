@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kate Winslet",
+    "givenNames": [
+      "Kate",
+      "Elizabeth"
+    ],
+    "familyName": "Winslet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Winslet",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in The Reader",
+      "Known for roles in films such as Titanic, Eternal Sunshine of the Spotless Mind, and Revolutionary Road"
+    ],
+    "yearBorn": 1975
+  }
+]

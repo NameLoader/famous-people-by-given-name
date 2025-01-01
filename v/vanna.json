@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Vanna White",
+    "givenNames": [
+      "Vanna",
+      "Marie"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanna_White",
+    "occupation": "Television personality, actress",
+    "achievements": [
+      "Best known as the hostess of the game show Wheel of Fortune since 1982.",
+      "Holds the Guinness World Record for most frequent clapper on television."
+    ],
+    "yearBorn": 1957
+  }
+]

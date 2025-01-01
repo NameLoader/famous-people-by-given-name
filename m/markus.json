@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Markus Persson",
+    "givenNames": [
+      "Markus",
+      "Alexej"
+    ],
+    "familyName": "Persson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Markus_Persson",
+    "occupation": "Video game developer",
+    "achievements": [
+      "Created the video game Minecraft"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Markus Lanz",
+    "givenNames": [
+      "Markus"
+    ],
+    "familyName": "Lanz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Markus_Lanz",
+    "occupation": "Television presenter",
+    "achievements": [
+      "Hosted popular talk shows in Germany"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Markus Zusak",
+    "givenNames": [
+      "Markus"
+    ],
+    "familyName": "Zusak",
+    "wikipedia": "https://en.wikipedia.org/wiki/Markus_Zusak",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the internationally bestselling novel 'The Book Thief'"
+    ],
+    "yearBorn": 1975
+  }
+]

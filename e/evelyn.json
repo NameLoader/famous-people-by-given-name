@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Evelyn Glennie",
+    "givenNames": [
+      "Evelyn",
+      "Elizabeth",
+      "Ann"
+    ],
+    "familyName": "Glennie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Glennie",
+    "occupation": "Percussionist",
+    "achievements": [
+      "First solo percussionist to be awarded a solo recital in the history of London's Royal Albert Hall",
+      "Won multiple Grammy Awards"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Evelyn Hooker",
+    "givenNames": [
+      "Evelyn"
+    ],
+    "familyName": "Hooker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Hooker",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Pioneer in LGBTQ+ psychology",
+      "Her research challenged the notion that homosexuality was a mental illness"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1996
+  }
+]

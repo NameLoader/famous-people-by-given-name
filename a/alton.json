@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alton Brown",
+    "givenNames": [
+      "Alton",
+      "Crawford"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alton_Brown",
+    "occupation": "Television personality, author, chef",
+    "achievements": [
+      "Host of Good Eats on Food Network",
+      "Author of several bestselling cookbooks",
+      "Won a Peabody Award for his work on Good Eats"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Alton Sterling",
+    "givenNames": [
+      "Alton"
+    ],
+    "familyName": "Sterling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Killing_of_Alton_Sterling",
+    "occupation": "Music seller",
+    "achievements": [
+      "His death sparked nationwide protests against police brutality"
+    ],
+    "yearBorn": 1979,
+    "yearDied": 2016
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Erich Maria Remarque",
+    "givenNames": [
+      "Erich",
+      "Maria"
+    ],
+    "familyName": "Remarque",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erich_Maria_Remarque",
+    "occupation": "Novelist, author",
+    "achievements": [
+      "Author of the anti-war novel All Quiet on the Western Front",
+      "Nobel Prize in Literature nominee"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1970
+  },
+  {
+    "fullName": "Erich Fromm",
+    "givenNames": [
+      "Erich",
+      "Seligmann"
+    ],
+    "familyName": "Fromm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erich_Fromm",
+    "occupation": "Psychoanalyst, social psychologist, philosopher",
+    "achievements": [
+      "Pioneer in humanistic psychoanalysis",
+      "Author of influential works like Escape from Freedom and The Art of Loving"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Erich Wolfgang Korngold",
+    "givenNames": [
+      "Erich",
+      "Wolfgang"
+    ],
+    "familyName": "Korngold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erich_Wolfgang_Korngold",
+    "occupation": "Composer, conductor",
+    "achievements": [
+      "Won two Academy Awards for his film scores",
+      "Known for operas like Die tote Stadt and orchestral works"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1957
+  }
+]

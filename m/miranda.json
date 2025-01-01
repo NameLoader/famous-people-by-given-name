@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Miranda Kerr",
+    "givenNames": [
+      "Miranda",
+      "May"
+    ],
+    "familyName": "Kerr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Kerr",
+    "occupation": "Model, businesswoman",
+    "achievements": [
+      "Victoria's Secret Angel (2007-2013)",
+      "Founder of organic skincare brand KORA Organics"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Miranda Cosgrove",
+    "givenNames": [
+      "Miranda",
+      "Taylor"
+    ],
+    "familyName": "Cosgrove",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Cosgrove",
+    "occupation": "Actress, singer, songwriter",
+    "achievements": [
+      "Known for her role as Megan Parker in the Nickelodeon sitcom Drake & Josh and Carly Shay in iCarly"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Miranda July",
+    "givenNames": [
+      "Miranda"
+    ],
+    "familyName": "July",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miranda_July",
+    "occupation": "Writer, filmmaker, performance artist",
+    "achievements": [
+      "Known for her quirky and introspective films like Me and You and Everyone We Know",
+      "Published collections of short stories and essays"
+    ],
+    "yearBorn": 1974
+  }
+]

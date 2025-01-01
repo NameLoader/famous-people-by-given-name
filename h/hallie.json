@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hallie Eisenberg",
+    "givenNames": [
+      "Hallie",
+      "Kate"
+    ],
+    "familyName": "Eisenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hallie_Eisenberg",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as the 'Pepsi Girl' in a series of commercials.",
+      "Appeared in films such as 'The Miracle Worker', 'Paulie', and 'Get Real'."
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Hallie Jackson",
+    "givenNames": [
+      "Hallie",
+      "Marie"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hallie_Jackson",
+    "occupation": "Journalist",
+    "achievements": [
+      "Chief White House Correspondent for NBC News.",
+      "Anchor of 'Hallie Jackson NOW' on MSNBC."
+    ],
+    "yearBorn": 1984
+  }
+]

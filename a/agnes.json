@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Agnes Gonxha Bojaxhiu",
+    "givenNames": [
+      "Agnes",
+      "Gonxha"
+    ],
+    "familyName": "Bojaxhiu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mother_Teresa",
+    "occupation": "Missionary, humanitarian",
+    "achievements": [
+      "Founded the Missionaries of Charity in Kolkata (Calcutta), India",
+      "Dedicated her life to helping the poor and sick",
+      "Awarded the Nobel Peace Prize in 1979"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Agnes Martin",
+    "givenNames": [
+      "Agnes",
+      "Bernice"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agnes_Martin",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for her minimalist abstract paintings",
+      "Influential figure in the Abstract Expressionist movement"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Agnes Moorehead",
+    "givenNames": [
+      "Agnes",
+      "Robertson"
+    ],
+    "familyName": "Moorehead",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agnes_Moorehead",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Endora in the television sitcom 'Bewitched'",
+      "Nominated for four Emmy Awards and an Academy Award",
+      "Prolific stage and screen actress"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1974
+  }
+]

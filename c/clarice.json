@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Clarice Lispector",
+    "givenNames": [
+      "Clarice"
+    ],
+    "familyName": "Lispector",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarice_Lispector",
+    "occupation": "Writer",
+    "achievements": [
+      "Considered one of the most important Brazilian writers of the 20th century.",
+      "Known for her experimental and philosophical writing style."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Clarice Starling",
+    "givenNames": [
+      "Clarice",
+      "M"
+    ],
+    "familyName": "Starling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clarice_Starling",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Thomas Harris's novels 'The Silence of the Lambs', 'Hannibal', 'Hannibal Rising', and 'Red Dragon'.",
+      "FBI trainee who consults with Hannibal Lecter to catch serial killers."
+    ]
+  }
+]

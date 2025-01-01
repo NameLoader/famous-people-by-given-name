@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kingsley Amis",
+    "givenNames": [
+      "Kingsley",
+      "William"
+    ],
+    "familyName": "Amis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingsley_Amis",
+    "occupation": "Novelist, poet, essayist",
+    "achievements": [
+      "Won the Booker Prize in 1986 for his novel 'The Old Devils'",
+      "Known for his satirical novels and sharp wit"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Kingsley Coman",
+    "givenNames": [
+      "Kingsley",
+      "Junior"
+    ],
+    "familyName": "Coman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingsley_Coman",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Plays as a winger for Bayern Munich and the France national team",
+      "Won multiple Bundesliga titles and the UEFA Champions League"
+    ],
+    "yearBorn": 1996
+  }
+]

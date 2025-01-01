@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Carmine Infantino",
+    "givenNames": [
+      "Carmine"
+    ],
+    "familyName": "Infantino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmine_Infantino",
+    "occupation": "Comic book artist and writer",
+    "achievements": [
+      "Co-created The Flash (Barry Allen), the modern incarnation of the superhero.",
+      "Editor-in-chief at DC Comics during the Silver Age of comics."
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Carmine Giovinazzo",
+    "givenNames": [
+      "Carmine",
+      "Dominick"
+    ],
+    "familyName": "Giovinazzo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmine_Giovinazzo",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Detective Danny Messer in the CBS crime drama CSI: NY."
+    ],
+    "yearBorn": 1973
+  }
+]

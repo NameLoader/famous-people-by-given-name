@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Fumiko Enchi",
+    "givenNames": [
+      "Fumiko"
+    ],
+    "familyName": "Enchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fumiko_Enchi",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Known for her feminist themes and unconventional narratives.",
+      "Recipient of the Noma Literary Prize."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Fumiko Hayashi",
+    "givenNames": [
+      "Fumiko"
+    ],
+    "familyName": "Hayashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fumiko_Hayashi_(author)",
+    "occupation": "Writer, novelist",
+    "achievements": [
+      "Pioneering figure in Japanese literature.",
+      "Authored influential works exploring themes of social injustice and gender roles."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "Fumiko Orikasa",
+    "givenNames": [
+      "Fumiko"
+    ],
+    "familyName": "Orikasa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fumiko_Orikasa",
+    "occupation": "Voice actress",
+    "achievements": [
+      "Known for her roles in popular anime series such as 'Sailor Moon' and 'Mobile Suit Gundam SEED.'"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "fullName": "Irving Berlin",
+    "givenNames": [
+      "Irving"
+    ],
+    "familyName": "Berlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Berlin",
+    "occupation": "Composer, lyricist",
+    "achievements": [
+      "Wrote hundreds of popular songs including 'God Bless America' and 'White Christmas'",
+      "Considered one of the greatest songwriters in American history"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Irving Fisher",
+    "givenNames": [
+      "Irving"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Fisher",
+    "occupation": "Economist",
+    "achievements": [
+      "Developed the Fisher effect, which explains the relationship between inflation and interest rates",
+      "Made significant contributions to monetary theory and econometrics"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Irving Howe",
+    "givenNames": [
+      "Irving"
+    ],
+    "familyName": "Howe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Howe",
+    "occupation": "Literary critic, essayist, socialist",
+    "achievements": [
+      "Co-founded the influential literary magazine *Partisan Review*",
+      "Authored important works on American literature and Jewish identity"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Irving Kristol",
+    "givenNames": [
+      "Irving",
+      "William"
+    ],
+    "familyName": "Kristol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Kristol",
+    "occupation": "Political theorist, journalist",
+    "achievements": [
+      "Founded the neoconservative magazine *The Public Interest*",
+      "Influential figure in the development of neoconservatism"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Irving Penn",
+    "givenNames": [
+      "Irving"
+    ],
+    "familyName": "Penn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irving_Penn",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for his minimalist and elegant portrait photography",
+      "His work appeared in *Vogue* magazine for decades"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2009
+  }
+]

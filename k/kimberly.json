@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kimberly Guilfoyle",
+    "givenNames": [
+      "Kimberly",
+      "Ann"
+    ],
+    "familyName": "Guilfoyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimberly_Guilfoyle",
+    "occupation": "Television personality, attorney",
+    "achievements": [
+      "Former prosecutor for San Francisco and Los Angeles.",
+      "Co-host of 'The Five' on Fox News."
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Kimberly Peirce",
+    "givenNames": [
+      "Kimberly",
+      "Ane"
+    ],
+    "familyName": "Peirce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimberly_Peirce",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Directed the films 'Boys Don't Cry' and 'Stop-Loss'."
+    ],
+    "yearBorn": 1967
+  }
+]

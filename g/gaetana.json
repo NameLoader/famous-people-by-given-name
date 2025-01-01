@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gaetana Agnesi",
+    "givenNames": [
+      "Maria",
+      "Gaetana"
+    ],
+    "familyName": "Agnesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi",
+    "occupation": "Mathematician, philosopher, theologian",
+    "achievements": [
+      "First woman to write a mathematics textbook",
+      "Contributed significantly to differential and integral calculus"
+    ],
+    "yearBorn": 1718,
+    "yearDied": 1799
+  }
+]

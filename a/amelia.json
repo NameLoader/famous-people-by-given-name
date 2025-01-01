@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Amelia Earhart",
+    "givenNames": [
+      "Amelia",
+      "Mary"
+    ],
+    "familyName": "Earhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+    "occupation": "Aviator",
+    "achievements": [
+      "First female aviator to fly solo across the Atlantic Ocean",
+      "Set many other flight records",
+      "Pioneer for women in aviation"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Amelia Bedelia",
+    "givenNames": [
+      "Amelia"
+    ],
+    "familyName": "Bedelia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Bedelia",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Beloved children's book character known for her humorous literal interpretations of instructions"
+    ]
+  },
+  {
+    "fullName": "Amelia Boynton Robinson",
+    "givenNames": [
+      "Amelia",
+      "Isadora",
+      "Platts",
+      "Boynton"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Boynton_Robinson",
+    "occupation": "Civil rights activist",
+    "achievements": [
+      "Led the Selma to Montgomery marches",
+      "Helped secure voting rights for African Americans"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 2015
+  }
+]

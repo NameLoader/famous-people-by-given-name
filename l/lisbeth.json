@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Lisbeth Salander",
+    "givenNames": [
+      "Lisbeth",
+      "Libby"
+    ],
+    "familyName": "Salander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisbeth_Salander",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Stieg Larsson's Millennium trilogy.",
+      "Hacker, researcher, and vigilante."
+    ]
+  },
+  {
+    "fullName": "Lisbeth Zwerger",
+    "givenNames": [
+      "Lisbeth"
+    ],
+    "familyName": "Zwerger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisbeth_Zwerger",
+    "occupation": "Illustrator",
+    "achievements": [
+      "Won the Hans Christian Andersen Award in 1990.",
+      "Known for her whimsical and expressive illustrations."
+    ],
+    "yearBorn": 1953
+  }
+]

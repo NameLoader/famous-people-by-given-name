@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Corinna Harfouch",
+    "givenNames": [
+      "Corinna"
+    ],
+    "familyName": "Harfouch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corinna_Harfouch",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in German films and television series.",
+      "Won numerous awards for her acting."
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Corinna Schumacher",
+    "givenNames": [
+      "Corinna"
+    ],
+    "familyName": "Schumacher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corinna_Schumacher",
+    "occupation": "Businesswoman, horse rider",
+    "achievements": [
+      "Married to Formula One driver Michael Schumacher."
+    ],
+    "yearBorn": 1969
+  }
+]

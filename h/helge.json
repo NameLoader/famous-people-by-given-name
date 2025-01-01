@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Helge Ingstad",
+    "givenNames": [
+      "Helge",
+      "Marcus"
+    ],
+    "familyName": "Ingstad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helge_Ingstad",
+    "occupation": "Explorer, archaeologist, author",
+    "achievements": [
+      "Led expeditions to Newfoundland and Labrador in search of Viking settlements.",
+      "Discovered the L'Anse aux Meadows site, the first confirmed Viking settlement in North America."
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1962
+  }
+]

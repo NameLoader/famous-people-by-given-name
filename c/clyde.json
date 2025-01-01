@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Clyde Tombaugh",
+    "givenNames": [
+      "Clyde",
+      "William"
+    ],
+    "familyName": "Tombaugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clyde_Tombaugh",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered the dwarf planet Pluto in 1930"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Clyde Drexler",
+    "givenNames": [
+      "Clyde",
+      "Austin"
+    ],
+    "familyName": "Drexler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clyde_Drexler",
+    "occupation": "Basketball player, coach",
+    "achievements": [
+      "NBA Champion (1995)",
+      "10x NBA All-Star",
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1962
+  }
+]

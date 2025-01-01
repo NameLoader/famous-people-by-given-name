@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Kari Lehtonen",
+    "givenNames": [
+      "Kari"
+    ],
+    "familyName": "Lehtonen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kari_Lehtonen",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Played as a goaltender in the National Hockey League (NHL).",
+      "Won the Vezina Trophy as the league's best goaltender in 2011."
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Jean-Marie Messier",
+    "givenNames": [
+      "Jean-Marie"
+    ],
+    "familyName": "Messier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Marie_Messier",
+    "occupation": "Business executive",
+    "achievements": [
+      "Former CEO of Vivendi Universal"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Jean-Marie Le Pen",
+    "givenNames": [
+      "Jean-Marie",
+      "Louis",
+      "Marie"
+    ],
+    "familyName": "Le Pen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Marie_Le_Pen",
+    "occupation": "Politician",
+    "achievements": [
+      "Founder of the National Front (FN) political party in France"
+    ],
+    "yearBorn": 1928
+  },
+  {
+    "fullName": "Jean-Marie Gustave Le Clézio",
+    "givenNames": [
+      "Jean-Marie",
+      "Gustave"
+    ],
+    "familyName": "Le Clézio",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._M._G._Le_Cl%C3%A9zio",
+    "occupation": "Writer",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 2008"
+    ],
+    "yearBorn": 1940
+  }
+]

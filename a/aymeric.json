@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Aymeric Laporte",
+    "givenNames": [
+      "Aymeric",
+      "Jean",
+      "Louis",
+      "Gérard",
+      "Alphonse"
+    ],
+    "familyName": "Laporte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aymeric_Laporte",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "UEFA Champions League winner (2018)",
+      "Premier League winner (2018, 2019)"
+    ],
+    "yearBorn": 1994
+  }
+]

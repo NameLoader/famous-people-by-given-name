@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Nina Simone",
+    "givenNames": [
+      "Nina"
+    ],
+    "familyName": "Simone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nina_Simone",
+    "occupation": "Singer, songwriter, pianist, and civil rights activist",
+    "achievements": [
+      "Known for her powerful vocals and unique style blending jazz, blues, folk, and classical music.",
+      "Actively involved in the Civil Rights Movement."
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Nina Dobrev",
+    "givenNames": [
+      "Nina"
+    ],
+    "familyName": "Dobrev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nina_Dobrev",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Elena Gilbert/Katherine Pierce in the CW supernatural drama series The Vampire Diaries."
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Nina Khrushcheva",
+    "givenNames": [
+      "Nina"
+    ],
+    "familyName": "Khrushcheva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nina_L._Khrushcheva",
+    "occupation": "Professor of International Affairs",
+    "achievements": [
+      "Expert on Russian politics and international relations.",
+      "Author of several books on Russia and the former Soviet Union."
+    ],
+    "yearBorn": 1960
+  }
+]

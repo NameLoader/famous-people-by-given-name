@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Ezequiel Lavezzi",
+    "givenNames": [
+      "Ezequiel",
+      "Iván"
+    ],
+    "familyName": "Lavezzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezequiel_Lavezzi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Copa América with Argentina in 2015",
+      "Played for top clubs like Napoli and Paris Saint-Germain"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Ezequiel Garay",
+    "givenNames": [
+      "Ezequiel",
+      "Marcelo"
+    ],
+    "familyName": "Garay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezequiel_Garay",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the UEFA Europa League with Benfica in 2014",
+      "Represented Argentina at the FIFA World Cup"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Ezequiel Martínez Estrada",
+    "givenNames": [
+      "Ezequiel"
+    ],
+    "familyName": "Martínez Estrada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezequiel_Mart%C3%ADnez_Estrada",
+    "occupation": "Writer",
+    "achievements": [
+      "Considered a major figure in Argentine literature",
+      "Known for his novels and short stories exploring themes of identity and isolation"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1964
+  }
+]

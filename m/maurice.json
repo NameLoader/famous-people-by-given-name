@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Maurice Ravel",
+    "givenNames": [
+      "Maurice",
+      "Joseph"
+    ],
+    "familyName": "Ravel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+    "occupation": "Composer, Pianist, Conductor",
+    "achievements": [
+      "Known for his musical impressionism",
+      "Composed famous works like Boléro and Daphnis et Chloe"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Maurice Wilkins",
+    "givenNames": [
+      "Maurice",
+      "Hugh",
+      "Frederick"
+    ],
+    "familyName": "Wilkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Wilkins",
+    "occupation": "Biophysicist, Nobel Laureate",
+    "achievements": [
+      "Key contributor to the discovery of DNA's double helix structure",
+      "Shared the Nobel Prize in Physiology or Medicine in 1962"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Maurice Sendak",
+    "givenNames": [
+      "Maurice",
+      "Bernard"
+    ],
+    "familyName": "Sendak",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Sendak",
+    "occupation": "Illustrator, Author, Children's Literature",
+    "achievements": [
+      "Created beloved children's books like Where the Wild Things Are",
+      "Won numerous awards for his illustrations and storytelling"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2012
+  }
+]

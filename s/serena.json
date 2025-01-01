@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Serena Williams",
+    "givenNames": [
+      "Serena",
+      "Jameka"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serena_Williams",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "23 Grand Slam singles titles",
+      "39 Grand Slam titles overall",
+      "Former World No. 1"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Serena van der Woodsen",
+    "givenNames": [
+      "Serena",
+      "Celia"
+    ],
+    "familyName": "van der Woodsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serena_van_der_Woodsen",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist in the book and television series 'Gossip Girl'"
+    ]
+  }
+]

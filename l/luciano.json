@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Luciano Pavarotti",
+    "givenNames": [
+      "Luciano"
+    ],
+    "familyName": "Pavarotti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luciano_Pavarotti",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "One of the most celebrated tenor singers of the 20th century",
+      "Known for his powerful voice and charismatic stage presence"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Luciano Berio",
+    "givenNames": [
+      "Luciano"
+    ],
+    "familyName": "Berio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luciano_Berio",
+    "occupation": "Composer and Conductor",
+    "achievements": [
+      "Known for his experimental and innovative compositions",
+      "Influential figure in the development of contemporary classical music"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Luciano Ligabue",
+    "givenNames": [
+      "Luciano",
+      "Riccardo"
+    ],
+    "familyName": "Ligabue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luciano_Ligabue",
+    "occupation": "Singer-Songwriter and Musician",
+    "achievements": [
+      "One of the most popular Italian rock musicians",
+      "Known for his introspective lyrics and energetic performances"
+    ],
+    "yearBorn": 1960
+  }
+]

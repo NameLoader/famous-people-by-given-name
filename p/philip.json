@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Philip K. Dick",
+    "givenNames": [
+      "Philip",
+      "Kindred"
+    ],
+    "familyName": "Dick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_K._Dick",
+    "occupation": "Science fiction writer",
+    "achievements": [
+      "Known for his philosophical and dystopian novels such as 'Do Androids Dream of Electric Sheep?' (adapted into the film Blade Runner)",
+      "Influenced generations of science fiction writers and filmmakers"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Philip Seymour Hoffman",
+    "givenNames": [
+      "Philip",
+      "Seymour"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Seymour_Hoffman",
+    "occupation": "Actor",
+    "achievements": [
+      "Won an Academy Award for Best Actor for his role in 'Capote'",
+      "Known for his versatility and intense performances in films such as 'The Master,' 'Doubt,' and 'Boogie Nights'"
+    ],
+    "yearBorn": 1967,
+    "yearDied": 2014
+  }
+]

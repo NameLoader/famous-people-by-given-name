@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Sharon Stone",
+    "givenNames": [
+      "Sharon",
+      "Vonne"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Stone",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Academy Award nomination for Best Actress for her role in Casino (1995)",
+      "Golden Globe Award win for Best Actress – Motion Picture Drama for Casino (1995)"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Sharon Olds",
+    "givenNames": [
+      "Sharon"
+    ],
+    "familyName": "Olds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Olds",
+    "occupation": "Poet",
+    "achievements": [
+      "Pulitzer Prize for Poetry (1984)",
+      "National Book Critics Circle Award (1980)"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Sharon Horgan",
+    "givenNames": [
+      "Sharon",
+      "Lorencia"
+    ],
+    "familyName": "Horgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Horgan",
+    "occupation": "Actress, Writer, Producer, Director",
+    "achievements": [
+      "BAFTA Award for Best Female Comedy Performance (2016)",
+      "Nominated for numerous Emmy Awards and Primetime Emmy Awards"
+    ],
+    "yearBorn": 1970
+  }
+]

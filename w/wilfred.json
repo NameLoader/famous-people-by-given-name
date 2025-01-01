@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Wilfred Laurier",
+    "givenNames": [
+      "Wilfrid"
+    ],
+    "familyName": "Laurier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfrid_Laurier",
+    "occupation": "Politician",
+    "achievements": [
+      "Seventh Prime Minister of Canada",
+      "Led the Liberal Party to victory in four consecutive federal elections"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Wilfred Owen",
+    "givenNames": [
+      "Wilfred",
+      "Edward",
+      "Salter"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Owen",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his powerful and graphic depiction of the horrors of World War I",
+      "Author of poems like 'Dulce et Decorum Est' and 'Anthem for Doomed Youth'"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Wilfred Benitez",
+    "givenNames": [
+      "Wilfred",
+      "Wilfredo"
+    ],
+    "familyName": "Benitez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Ben%C3%ADtez",
+    "occupation": "Boxer",
+    "achievements": [
+      "Three-division world champion",
+      "Youngest boxer to win a world title at the time (17 years old)"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Wilfred Ndidi",
+    "givenNames": [
+      "Wilfred",
+      "Onyinye"
+    ],
+    "familyName": "Ndidi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Ndidi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a defensive midfielder for Leicester City FC and the Nigerian national team"
+    ],
+    "yearBorn": 1996
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Lloyd Alexander",
+    "givenNames": [
+      "Lloyd",
+      "Chudley"
+    ],
+    "familyName": "Alexander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Alexander",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the Chronicles of Prydain series, which won the Newbery Medal"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Lloyd Bridges",
+    "givenNames": [
+      "Lloyd",
+      "Vernet"
+    ],
+    "familyName": "Bridges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Bridges",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'Airplane!' and 'Sea Hunt'"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Lloyd Bentsen",
+    "givenNames": [
+      "Lloyd",
+      "Millard"
+    ],
+    "familyName": "Bentsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Bentsen",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as U.S. Senator from Texas and Secretary of the Treasury"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2006
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Carl Friedrich Gauss",
+    "givenNames": [
+      "Johann",
+      "Carl",
+      "Friedrich"
+    ],
+    "familyName": "Gauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+    "occupation": "Mathematician, physicist, astronomer",
+    "achievements": [
+      "Considered one of the greatest mathematicians of all time.",
+      "Made significant contributions to number theory, algebra, statistics, analysis, differential geometry, geodesy, geophysics, electrostatics, astronomy, and optics."
+    ],
+    "yearBorn": 1777,
+    "yearDied": 1855
+  },
+  {
+    "fullName": "Carl Jung",
+    "givenNames": [
+      "Carl",
+      "Gustav"
+    ],
+    "familyName": "Jung",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Jung",
+    "occupation": "Psychiatrist, psychoanalyst",
+    "achievements": [
+      "Founder of analytical psychology.",
+      "Developed concepts like the collective unconscious and archetypes."
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Carl Sagan",
+    "givenNames": [
+      "Carl",
+      "Edward"
+    ],
+    "familyName": "Sagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan",
+    "occupation": "Astronomer, cosmologist, science communicator",
+    "achievements": [
+      "Popularized science through his books and television series 'Cosmos'",
+      "Advocated for scientific skepticism and critical thinking."
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Carl Lewis",
+    "givenNames": [
+      "Frederick",
+      "Carlton"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Lewis",
+    "occupation": "Track and field athlete",
+    "achievements": [
+      "Won nine Olympic gold medals",
+      "Considered one of the greatest sprinters of all time."
+    ],
+    "yearBorn": 1961
+  }
+]

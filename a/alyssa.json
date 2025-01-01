@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alyssa Milano",
+    "givenNames": [
+      "Alyssa",
+      "Jayne"
+    ],
+    "familyName": "Milano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alyssa_Milano",
+    "occupation": "Actress, producer, activist",
+    "achievements": [
+      "Starred in TV series 'Who's the Boss?' and 'Charmed'",
+      "Active in political activism and social justice causes"
+    ],
+    "yearBorn": 1972
+  }
+]

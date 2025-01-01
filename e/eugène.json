@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Eugène Delacroix",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Delacroix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure in the Romantic movement",
+      "Known for his dramatic and colorful paintings",
+      "Influential works include Liberty Leading the People and The Death of Sardanapalus"
+    ],
+    "yearBorn": 1798,
+    "yearDied": 1863
+  },
+  {
+    "fullName": "Eugène Ionesco",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Ionesco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
+    "occupation": "Playwright, Director, Novelist",
+    "achievements": [
+      "Pioneer of absurdist theatre",
+      "Famous plays include The Bald Soprano and Rhinoceros"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Eugène François Vidocq",
+    "givenNames": [
+      "Eugène",
+      "François"
+    ],
+    "familyName": "Vidocq",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq",
+    "occupation": "Criminal, Detective, Author",
+    "achievements": [
+      "Founder of the Sûreté Nationale, an early French police force",
+      "Known for his pioneering investigative techniques and use of disguise"
+    ],
+    "yearBorn": 1775,
+    "yearDied": 1857
+  }
+]

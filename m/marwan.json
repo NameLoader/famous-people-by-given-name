@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Marwan Barghouti",
+    "givenNames": [
+      "Marwan"
+    ],
+    "familyName": "Barghouti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marwan_Barghouti",
+    "occupation": "Palestinian politician and military leader",
+    "achievements": [
+      "Key figure in the First Intifada",
+      "Convicted by Israel for involvement in terrorist attacks"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Marwan Kenzari",
+    "givenNames": [
+      "Marwan"
+    ],
+    "familyName": "Kenzari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marwan_Kenzari",
+    "occupation": "Dutch actor",
+    "achievements": [
+      "Known for roles in films like 'The Mummy' and 'Aladdin'",
+      "Recipient of the Shooting Stars Award at the Berlin International Film Festival"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Marwan Hamed",
+    "givenNames": [
+      "Marwan"
+    ],
+    "familyName": "Hamed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marwan_Hamed",
+    "occupation": "Egyptian film director and screenwriter",
+    "achievements": [
+      "Known for critically acclaimed films like 'The Yacoubian Building' and 'The Blue Elephant'"
+    ]
+  }
+]

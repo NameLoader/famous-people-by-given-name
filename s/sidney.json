@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Sidney Poitier",
+    "givenNames": [
+      "Sidney"
+    ],
+    "familyName": "Poitier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Poitier",
+    "occupation": "Actor, Director, Ambassador",
+    "achievements": [
+      "First Black actor to win the Academy Award for Best Actor",
+      "Knighted by Queen Elizabeth II in 1974"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Sidney Crosby",
+    "givenNames": [
+      "Sidney",
+      "Patrick"
+    ],
+    "familyName": "Crosby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Crosby",
+    "occupation": "Professional Ice Hockey Player",
+    "achievements": [
+      "Three-time Stanley Cup Champion",
+      "Two-time Olympic gold medalist with Canada",
+      "Three-time Hart Memorial Trophy winner (NHL MVP)"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Sidney Sheldon",
+    "givenNames": [
+      "Sidney"
+    ],
+    "familyName": "Sheldon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Sheldon",
+    "occupation": "Author, Screenwriter",
+    "achievements": [
+      "Prolific author of bestselling novels such as 'The Other Side of Midnight' and 'If Tomorrow Comes'",
+      "Won the Edgar Award for Best Novel"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2007
+  }
+]

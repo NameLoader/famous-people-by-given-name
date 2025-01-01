@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Elisabetta I of England",
+    "givenNames": [
+      "Elizabeth"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "occupation": "Queen of England and Ireland",
+    "achievements": [
+      "Led England during a period of great prosperity and cultural achievement known as the Elizabethan era",
+      "Defeated the Spanish Armada",
+      "Established the Church of England"
+    ],
+    "yearBorn": 1533,
+    "yearDied": 1603
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Konrad Adenauer",
+    "givenNames": [
+      "Konrad",
+      "Hermann",
+      "Joseph"
+    ],
+    "familyName": "Adenauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
+    "occupation": "Politician",
+    "achievements": [
+      "First Chancellor of West Germany (1949-1963)",
+      "Key figure in the post-war reconstruction of Germany"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Konrad Lorenz",
+    "givenNames": [
+      "Konrad",
+      "Zacharias"
+    ],
+    "familyName": "Lorenz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Lorenz",
+    "occupation": "Zoologist, Ethologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1973)",
+      "Pioneer in the study of animal behavior and imprinting"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Konrad Zuse",
+    "givenNames": [
+      "Konrad",
+      "Ernst",
+      "Otto"
+    ],
+    "familyName": "Zuse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Zuse",
+    "occupation": "Computer Scientist, Engineer",
+    "achievements": [
+      "Considered the inventor of the first programmable computer (Z3)",
+      "Pioneer in algorithmic programming and computer architecture"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1995
+  }
+]

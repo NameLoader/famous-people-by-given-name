@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Laura Ingalls Wilder",
+    "givenNames": [
+      "Laura",
+      "Elizabeth"
+    ],
+    "familyName": "Wilder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder",
+    "occupation": "Author",
+    "achievements": [
+      "Authored the Little House on the Prairie book series"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1957
+  },
+  {
+    "fullName": "Laura Dern",
+    "givenNames": [
+      "Laura",
+      "Elizabeth"
+    ],
+    "familyName": "Dern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Dern",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Known for roles in Jurassic Park, Big Little Lies"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Laura Linney",
+    "givenNames": [
+      "Laura",
+      "Leggett"
+    ],
+    "familyName": "Linney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Linney",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nominations for Best Actress and Best Supporting Actress",
+      "Known for roles in You Can Count on Me, Ozark"
+    ],
+    "yearBorn": 1964
+  }
+]

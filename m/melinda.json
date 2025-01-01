@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Melinda Gates",
+    "givenNames": [
+      "Melinda",
+      "Ann"
+    ],
+    "familyName": "Gates",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melinda_French_Gates",
+    "occupation": "Philanthropist, author",
+    "achievements": [
+      "Co-founder of the Bill & Melinda Gates Foundation",
+      "Advocate for global health and development"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Melinda Dillon",
+    "givenNames": [
+      "Melinda",
+      "Ruth"
+    ],
+    "familyName": "Dillon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melinda_Dillon",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for two Academy Awards",
+      "Known for roles in films like 'Close Encounters of the Third Kind' and 'Absence of Malice'"
+    ],
+    "yearBorn": 1939
+  }
+]

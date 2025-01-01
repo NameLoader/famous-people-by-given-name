@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Giorgio Moroder",
+    "givenNames": [
+      "Giorgio",
+      "Giovanni"
+    ],
+    "familyName": "Moroder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Moroder",
+    "occupation": "Music Producer, Songwriter, DJ",
+    "achievements": [
+      "Pioneer of electronic music and disco",
+      "Won three Academy Awards for his film scores (Midnight Express, Flashdance, Top Gun)"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Giorgio Chiellini",
+    "givenNames": [
+      "Giorgio"
+    ],
+    "familyName": "Chiellini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Chiellini",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Won nine Serie A titles with Juventus",
+      "Captain of the Italian national team that won UEFA Euro 2020"
+    ],
+    "yearBorn": 1984
+  }
+]

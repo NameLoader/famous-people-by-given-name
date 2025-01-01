@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Dalia Grybauskaitė",
+    "givenNames": [
+      "Dalia"
+    ],
+    "familyName": "Grybauskaitė",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dalia_Grybauskait%C4%97",
+    "occupation": "Politician",
+    "achievements": [
+      "First female President of Lithuania (2009-2019)",
+      "Former European Union Commissioner for Financial Programming and Budget (2004-2009)"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Dalia Mogahed",
+    "givenNames": [
+      "Dalia"
+    ],
+    "familyName": "Mogahed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dalia_Mogahed",
+    "occupation": "Scholar, author, and consultant",
+    "achievements": [
+      "Former Senior Analyst at the Gallup Center for Muslim Studies",
+      "Author of 'Beyond Fundamentalism: Confronting Religious Extremism in the Age of Globalization'"
+    ],
+    "yearBorn": 1974
+  }
+]

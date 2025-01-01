@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Marian Anderson",
+    "givenNames": [
+      "Marian"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marian_Anderson",
+    "occupation": "Singer",
+    "achievements": [
+      "First African American to perform at the Metropolitan Opera",
+      "Recipient of the Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Marian Wright Edelman",
+    "givenNames": [
+      "Marian",
+      "Wright"
+    ],
+    "familyName": "Edelman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marian_Wright_Edelman",
+    "occupation": "Lawyer, Activist",
+    "achievements": [
+      "Founder and President of the Children's Defense Fund",
+      "Recipient of the Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Marian Keyes",
+    "givenNames": [
+      "Marian"
+    ],
+    "familyName": "Keyes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marian_Keyes",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author of romantic fiction and chick lit novels"
+    ],
+    "yearBorn": 1963
+  }
+]

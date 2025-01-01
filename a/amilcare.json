@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Amilcare Ponchielli",
+    "givenNames": [
+      "Amilcare"
+    ],
+    "familyName": "Ponchielli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amilcare_Ponchielli",
+    "occupation": "Composer",
+    "achievements": [
+      "Best known for his opera 'La Gioconda'",
+      "Influential figure in Italian opera of the late 19th century"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1886
+  },
+  {
+    "fullName": "Amilcare Barca",
+    "givenNames": [
+      "Hamilcar"
+    ],
+    "familyName": "Barca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamilcar_Barca",
+    "occupation": "General and statesman of Carthage",
+    "achievements": [
+      "Led the Carthaginian army against Rome in the First Punic War",
+      "Known for his military strategies and leadership"
+    ],
+    "yearBorn": 275,
+    "yearDied": 228
+  }
+]

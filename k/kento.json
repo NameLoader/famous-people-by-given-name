@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kento Yamazaki",
+    "givenNames": [
+      "Kento"
+    ],
+    "familyName": "Yamazaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kento_Yamazaki",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Japanese dramas like 'Death Note' and 'Good Doctor'",
+      "Popular model in Japan"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Kento Momota",
+    "givenNames": [
+      "Kento"
+    ],
+    "familyName": "Momota",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kento_Momota",
+    "occupation": "Badminton Player",
+    "achievements": [
+      "Former World No. 1 badminton player",
+      "Won multiple BWF World Championships and All England Open titles"
+    ],
+    "yearBorn": 1994
+  }
+]

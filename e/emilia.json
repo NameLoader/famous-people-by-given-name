@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Emilia Clarke",
+    "givenNames": [
+      "Emilia",
+      "Isobel",
+      "Euphemia",
+      "Rose"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia_Clarke",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Daenerys Targaryen in the HBO fantasy series Game of Thrones",
+      "Nominated for four Primetime Emmy Awards and won a Saturn Award"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Emilia Romagna",
+    "givenNames": [
+      "Emilia"
+    ],
+    "familyName": "Romagna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+    "occupation": "Region of Italy",
+    "achievements": [
+      "Known for its rich culture and history",
+      "Home to cities like Bologna, Modena, and Parma"
+    ]
+  },
+  {
+    "fullName": "Emilia Plater",
+    "givenNames": [
+      "Emilia",
+      "Broel"
+    ],
+    "familyName": "Plater",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia_Plater",
+    "occupation": "Polish noblewoman and revolutionary",
+    "achievements": [
+      "Known for her participation in the November Uprising against Russian rule in Poland",
+      "Considered a national heroine in Poland"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1831
+  }
+]

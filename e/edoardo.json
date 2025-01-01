@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Edoardo Mangiarotti",
+    "givenNames": [
+      "Edoardo"
+    ],
+    "familyName": "Mangiarotti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edoardo_Mangiarotti",
+    "occupation": "Fencer",
+    "achievements": [
+      "13 Olympic medals (6 gold)",
+      "World Champion fencer"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Edoardo Bennato",
+    "givenNames": [
+      "Edoardo"
+    ],
+    "familyName": "Bennato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edoardo_Bennato",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Popular Italian rock musician",
+      "Known for his Neapolitan folk influences"
+    ],
+    "yearBorn": 1946
+  }
+]

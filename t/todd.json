@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Todd Rundgren",
+    "givenNames": [
+      "Todd",
+      "Harry"
+    ],
+    "familyName": "Rundgren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Todd_Rundgren",
+    "occupation": "Musician, songwriter, record producer",
+    "achievements": [
+      "Pioneer of progressive rock and power pop",
+      "Known for albums like 'Something/Anything?' and 'A Wizard, a True Star'",
+      "Influential figure in music technology and production"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Todd McFarlane",
+    "givenNames": [
+      "Todd"
+    ],
+    "familyName": "McFarlane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Todd_McFarlane",
+    "occupation": "Comic book artist, writer, entrepreneur",
+    "achievements": [
+      "Co-creator of the Spawn comic book series",
+      "Founded Image Comics, a major independent comic publisher",
+      "Renowned for his dynamic and detailed art style"
+    ],
+    "yearBorn": 1961
+  }
+]

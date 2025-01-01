@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Soichiro Honda",
+    "givenNames": [
+      "Soichiro"
+    ],
+    "familyName": "Honda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+    "occupation": "Industrialist, engineer",
+    "achievements": [
+      "Founded Honda Motor Co., Ltd.",
+      "Pioneer in motorcycle and automobile manufacturing"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1991
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Vasco da Gama",
+    "givenNames": [
+      "Vasco"
+    ],
+    "familyName": "da Gama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+    "occupation": "Explorer, Navigator",
+    "achievements": [
+      "First European to reach India by sea.",
+      "Opened a sea route from Europe to Asia.",
+      "Played a crucial role in the Age of Discovery."
+    ],
+    "yearBorn": 1460,
+    "yearDied": 1524
+  },
+  {
+    "fullName": "Vasco Rossi",
+    "givenNames": [
+      "Vasco"
+    ],
+    "familyName": "Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasco_Rossi",
+    "occupation": "Singer-Songwriter, Musician",
+    "achievements": [
+      "One of the most popular Italian rock musicians.",
+      "Known for his passionate lyrics and energetic live performances.",
+      "Sold millions of records worldwide."
+    ],
+    "yearBorn": 1952
+  }
+]

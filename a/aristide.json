@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Aristide Maillol",
+    "givenNames": [
+      "Aristide",
+      "Joseph",
+      "Bonaventure"
+    ],
+    "familyName": "Maillol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristide_Maillol",
+    "occupation": "Sculptor, Painter",
+    "achievements": [
+      "Known for his sculptures of the human form",
+      "Influential figure in modern sculpture"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1944
+  }
+]

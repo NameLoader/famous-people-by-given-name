@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Nicolette Sheridan",
+    "givenNames": [
+      "Nicollette"
+    ],
+    "familyName": "Sheridan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicollette_Sheridan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in television series such as 'Knots Landing' and 'Desperate Housewives'",
+      "Nominated for multiple Soap Opera Digest Awards"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Nicolette Larson",
+    "givenNames": [
+      "Nicolette"
+    ],
+    "familyName": "Larson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolette_Larson",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Achieved commercial success in the 1970s and early 1980s with hits like 'Lotta Love'",
+      "Collaborated with artists like Neil Young and Kenny Loggins"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 1997
+  }
+]

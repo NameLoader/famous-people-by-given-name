@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Willy Wonka",
+    "givenNames": [
+      "Willy"
+    ],
+    "familyName": "Wonka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willy_Wonka",
+    "occupation": "Fictional chocolatier",
+    "achievements": [
+      "Created the Wonka Chocolate Factory",
+      "Developed fantastical and delicious candies"
+    ]
+  },
+  {
+    "fullName": "Willy Brandt",
+    "givenNames": [
+      "Willy"
+    ],
+    "familyName": "Brandt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willy_Brandt",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of West Germany (1969-1974)",
+      "Nobel Peace Prize laureate (1971)",
+      "Key figure in Ostpolitik"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1992
+  }
+]

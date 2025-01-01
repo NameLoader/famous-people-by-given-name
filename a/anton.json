@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Anton Chekhov",
+    "givenNames": [
+      "Anton",
+      "Pavlovich"
+    ],
+    "familyName": "Chekhov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
+    "occupation": "Playwright, Short story writer",
+    "achievements": [
+      "Considered one of the greatest writers of short fiction in history",
+      "Plays such as The Seagull, Uncle Vanya, and Three Sisters are still performed worldwide"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1904
+  },
+  {
+    "fullName": "Anton Bruckner",
+    "givenNames": [
+      "Anton"
+    ],
+    "familyName": "Bruckner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Bruckner",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his symphonies, especially the Symphony No. 4 'Romantic'",
+      "Influential figure in late Romantic music"
+    ],
+    "yearBorn": 1824,
+    "yearDied": 1896
+  },
+  {
+    "fullName": "Anton Yelchin",
+    "givenNames": [
+      "Anton",
+      "Viktorovich"
+    ],
+    "familyName": "Yelchin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Yelchin",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films such as Star Trek, Alpha Dog, and Fright Night",
+      "Posthumously received critical acclaim for his performance in the film Thoroughbreds"
+    ],
+    "yearBorn": 1989,
+    "yearDied": 2016
+  }
+]

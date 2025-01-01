@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ewan McGregor",
+    "givenNames": [
+      "Ewan",
+      "Gordon"
+    ],
+    "familyName": "McGregor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ewan_McGregor",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films such as Trainspotting, Moulin Rouge!, and the Star Wars prequel trilogy",
+      "Won a Primetime Emmy Award and a Golden Globe Award"
+    ],
+    "yearBorn": 1971
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Benvenuto Cellini",
+    "givenNames": [
+      "Benvenuto"
+    ],
+    "familyName": "Cellini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benvenuto_Cellini",
+    "occupation": "Goldsmith, sculptor, and writer",
+    "achievements": [
+      "Created the bronze statue of Perseus with the Head of Medusa",
+      "Wrote an autobiography considered a masterpiece of Renaissance literature"
+    ],
+    "yearBorn": 1500,
+    "yearDied": 1571
+  }
+]

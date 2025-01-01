@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Birgit Nilsson",
+    "givenNames": [
+      "Birgit"
+    ],
+    "familyName": "Nilsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Birgit_Nilsson",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Considered one of the greatest Wagnerian sopranos of all time",
+      "Known for her powerful voice and dramatic intensity"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Birgit Prinz",
+    "givenNames": [
+      "Birgit"
+    ],
+    "familyName": "Prinz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Birgit_Prinz",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won two World Cups with Germany (2003, 2007)",
+      "Named FIFA Women's World Player of the Year twice (2003, 2004)"
+    ],
+    "yearBorn": 1977
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Carson Daly",
+    "givenNames": [
+      "Carson",
+      "Jones"
+    ],
+    "familyName": "Daly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carson_Daly",
+    "occupation": "Television host, radio personality",
+    "achievements": [
+      "Hosted MTV's Total Request Live",
+      "Host of NBC's The Voice"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Carson Wentz",
+    "givenNames": [
+      "Carson",
+      "James"
+    ],
+    "familyName": "Wentz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carson_Wentz",
+    "occupation": "American football quarterback",
+    "achievements": [
+      "Drafted second overall in the 2016 NFL Draft",
+      "Led Philadelphia Eagles to Super Bowl LII"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Carson McCullers",
+    "givenNames": [
+      "Carson"
+    ],
+    "familyName": "McCullers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carson_McCullers",
+    "occupation": "Novelist, playwright, short story writer",
+    "achievements": [
+      "Wrote the acclaimed novels The Heart Is a Lonely Hunter and Reflections in a Golden Eye",
+      "Considered one of the leading Southern Gothic writers"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1967
+  }
+]

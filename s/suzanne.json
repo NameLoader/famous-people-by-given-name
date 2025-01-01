@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Suzanne Collins",
+    "givenNames": [
+      "Suzanne"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Collins",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of The Hunger Games trilogy",
+      "Won numerous awards for her writing"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Suzanne Vega",
+    "givenNames": [
+      "Suzanne",
+      "Nadine"
+    ],
+    "familyName": "Vega",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Vega",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for her folk-influenced music and distinctive voice",
+      "Hit song 'Luka' reached number one on the Billboard charts"
+    ],
+    "yearBorn": 1959
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Gianni Agnelli",
+    "givenNames": [
+      "Gianni",
+      "Giovanni"
+    ],
+    "familyName": "Agnelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianni_Agnelli",
+    "occupation": "Industrialist, businessman",
+    "achievements": [
+      "Chairman of Fiat",
+      "Known for his influence in Italian business and politics"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Gianni Versace",
+    "givenNames": [
+      "Giovanni",
+      "Maria",
+      "Gianni"
+    ],
+    "familyName": "Versace",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianni_Versace",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Founded the Versace fashion house",
+      "Known for his glamorous and innovative designs"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1997
+  }
+]

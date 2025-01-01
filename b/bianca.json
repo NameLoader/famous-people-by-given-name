@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Bianca Jagger",
+    "givenNames": [
+      "Bianca"
+    ],
+    "familyName": "Jagger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bianca_Jagger",
+    "occupation": "Actress, model, human rights activist",
+    "achievements": [
+      "Former wife of Mick Jagger",
+      "Known for her activism in various social and political causes"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Bianca Andreescu",
+    "givenNames": [
+      "Bianca",
+      "Vanessa"
+    ],
+    "familyName": "Andreescu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bianca_Andreescu",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Won the 2019 US Open singles title",
+      "Reached a career-high ranking of No. 4 in the world"
+    ],
+    "yearBorn": 2000
+  },
+  {
+    "fullName": "Bianca Lawson",
+    "givenNames": [
+      "Bianca"
+    ],
+    "familyName": "Lawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bianca_Lawson",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in television series like 'Buffy the Vampire Slayer', 'Saved by the Bell: The New Class', and 'Pretty Little Liars'"
+    ],
+    "yearBorn": 1979
+  }
+]

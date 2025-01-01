@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Leonhard Euler",
+    "givenNames": [
+      "Leonhard"
+    ],
+    "familyName": "Euler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "occupation": "Mathematician, Physicist",
+    "achievements": [
+      "Pioneer in many areas of mathematics like calculus and graph theory",
+      "Made significant contributions to physics, astronomy, and engineering"
+    ],
+    "yearBorn": 1707,
+    "yearDied": 1783
+  },
+  {
+    "fullName": "Leonhard Bernstein",
+    "givenNames": [
+      "Leonard"
+    ],
+    "familyName": "Bernstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+    "occupation": "Composer, Conductor, Pianist",
+    "achievements": [
+      "Known for his compositions like 'West Side Story' and 'Candide'",
+      "Highly acclaimed conductor, leading major orchestras worldwide"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1990
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Leopold Mozart",
+    "givenNames": [
+      "Leopold"
+    ],
+    "familyName": "Mozart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_Mozart",
+    "occupation": "Composer, violinist, and teacher",
+    "achievements": [
+      "Father and teacher of Wolfgang Amadeus Mozart",
+      "Court composer in Salzburg"
+    ],
+    "yearBorn": 1719,
+    "yearDied": 1787
+  },
+  {
+    "fullName": "Leopold Stokowski",
+    "givenNames": [
+      "Leopold",
+      "Anthony"
+    ],
+    "familyName": "Stokowski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_Stokowski",
+    "occupation": "Conductor and pianist",
+    "achievements": [
+      "Famous for his dramatic interpretations of classical music",
+      "Long tenure as conductor of the Philadelphia Orchestra"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1977
+  }
+]

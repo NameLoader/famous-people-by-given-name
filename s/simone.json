@@ -1,0 +1,83 @@
+[
+  {
+    "fullName": "Simone Biles",
+    "givenNames": [
+      "Simone",
+      "Arianne"
+    ],
+    "familyName": "Biles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Biles",
+    "occupation": "Gymnast",
+    "achievements": [
+      "Most World Championship medals (25)",
+      "7 Olympic medals (4 gold, 1 silver, 2 bronze)",
+      "First woman to land a Yurchenko double pike vault in competition"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Simone de Beauvoir",
+    "givenNames": [
+      "Simone",
+      "Lucie",
+      "Ernestine",
+      "Marie",
+      "Bertrand"
+    ],
+    "familyName": "de Beauvoir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
+    "occupation": "Philosopher, writer, feminist",
+    "achievements": [
+      "Author of 'The Second Sex', a foundational text of feminist philosophy",
+      "Key figure in existentialism and French intellectual life"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Simone Weil",
+    "givenNames": [
+      "Simone",
+      "Adolphine"
+    ],
+    "familyName": "Weil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Weil",
+    "occupation": "Philosopher, mystic, political activist",
+    "achievements": [
+      "Developed a unique philosophy blending Christianity, Marxism, and Platonic thought",
+      "Advocate for social justice and worker's rights"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Simone Signoret",
+    "givenNames": [
+      "Simone"
+    ],
+    "familyName": "Signoret",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Signoret",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (Room at the Top)",
+      "Known for her powerful performances in French and international cinema"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Simone Martini",
+    "givenNames": [
+      "Simone"
+    ],
+    "familyName": "Martini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Martini",
+    "occupation": "Painter",
+    "achievements": [
+      "One of the most important Sienese painters of the early Renaissance",
+      "Known for his elegant style and innovative use of perspective"
+    ],
+    "yearBorn": 1284,
+    "yearDied": 1344
+  }
+]

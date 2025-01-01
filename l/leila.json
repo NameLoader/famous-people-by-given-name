@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Leila Khaled",
+    "givenNames": [
+      "Leila"
+    ],
+    "familyName": "Khaled",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leila_Khaled",
+    "occupation": "Palestinian political activist and militant",
+    "achievements": [
+      "Member of the Popular Front for the Liberation of Palestine (PFLP)",
+      "Known for her involvement in airplane hijackings"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Leila Ahmed",
+    "givenNames": [
+      "Leila"
+    ],
+    "familyName": "Ahmed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leila_Ahmed",
+    "occupation": "Egyptian-American feminist scholar and professor of women's studies",
+    "achievements": [
+      "Pioneering work on gender and Islam",
+      "Author of influential books like 'Women and Gender in Islam'"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Leila Ali",
+    "givenNames": [
+      "Laila",
+      "Amaria"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laila_Ali",
+    "occupation": "American former professional boxer and television personality",
+    "achievements": [
+      "Undefeated world champion in women's boxing",
+      "Daughter of Muhammad Ali"
+    ],
+    "yearBorn": 1977
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Gustav Mahler",
+    "givenNames": [
+      "Gustav"
+    ],
+    "familyName": "Mahler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+    "occupation": "Composer, conductor",
+    "achievements": [
+      "Wrote influential symphonies and song cycles.",
+      "Known for his complex orchestration and emotionally charged music."
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1911
+  },
+  {
+    "fullName": "Gustav Klimt",
+    "givenNames": [
+      "Gustav"
+    ],
+    "familyName": "Klimt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Klimt",
+    "occupation": "Painter, symbolist",
+    "achievements": [
+      "Pioneer of the Vienna Secession movement.",
+      "Famous for his decorative and sensual paintings with gold leaf."
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Gustav Stresemann",
+    "givenNames": [
+      "Gustav",
+      "Ernst"
+    ],
+    "familyName": "Stresemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Stresemann",
+    "occupation": "Politician, Chancellor of Germany (1923)",
+    "achievements": [
+      "Helped stabilize the German economy after World War I.",
+      "Negotiated the Dawes Plan and the Young Plan for German reparations."
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1929
+  },
+  {
+    "fullName": "Gustav Holst",
+    "givenNames": [
+      "Gustav",
+      "Theodore"
+    ],
+    "familyName": "Holst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Holst",
+    "occupation": "Composer",
+    "achievements": [
+      "Best known for his orchestral suite 'The Planets'."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1934
+  }
+]

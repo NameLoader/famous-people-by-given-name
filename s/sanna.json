@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sanna Marin",
+    "givenNames": [
+      "Sanna",
+      "Mirella"
+    ],
+    "familyName": "Marin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanna_Marin",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Finland (2019-2023)",
+      "Youngest Prime Minister in Finnish history"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Sanna Nielsen",
+    "givenNames": [
+      "Sanna",
+      "Viktoria"
+    ],
+    "familyName": "Nielsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanna_Nielsen",
+    "occupation": "Singer",
+    "achievements": [
+      "Winner of Melodifestivalen (2014)",
+      "Represented Sweden in the Eurovision Song Contest (2014)"
+    ],
+    "yearBorn": 1985
+  }
+]

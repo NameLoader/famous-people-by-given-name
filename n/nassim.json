@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Nassim Nicholas Taleb",
+    "givenNames": [
+      "Nassim",
+      "Nicholas"
+    ],
+    "familyName": "Taleb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb",
+    "occupation": "Essayist, Scholar, Statistician, Trader",
+    "achievements": [
+      "Authored 'The Black Swan', a bestseller exploring the impact of unpredictable events",
+      "Known for his work on risk management and uncertainty",
+      "Professor at New York University's School of Engineering"
+    ],
+    "yearBorn": 1960
+  }
+]

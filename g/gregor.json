@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Gregor Mendel",
+    "givenNames": [
+      "Gregor",
+      "Johann"
+    ],
+    "familyName": "Mendel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+    "occupation": "Scientist, Monk",
+    "achievements": [
+      "Founder of modern genetics",
+      "Experiments with pea plants led to the discovery of fundamental principles of heredity"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1884
+  },
+  {
+    "fullName": "Gregor Townsend",
+    "givenNames": [
+      "Gregor",
+      "Peter",
+      "John"
+    ],
+    "familyName": "Townsend",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregor_Townsend",
+    "occupation": "Rugby player and coach",
+    "achievements": [
+      "Played scrum-half for Scotland national rugby team",
+      "Head coach of the Scotland national rugby team since 2017"
+    ],
+    "yearBorn": 1973
+  }
+]

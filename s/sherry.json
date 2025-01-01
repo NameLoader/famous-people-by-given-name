@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sherry Lansing",
+    "givenNames": [
+      "Sherry"
+    ],
+    "familyName": "Lansing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sherry_Lansing",
+    "occupation": "Film executive, producer",
+    "achievements": [
+      "First female head of a major Hollywood studio (Paramount Pictures)",
+      "Produced films such as 'Forrest Gump', 'Braveheart', and 'The Firm'"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Sherry Rehman",
+    "givenNames": [
+      "Shehrbano",
+      "Sherry"
+    ],
+    "familyName": "Rehman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sherry_Rehman",
+    "occupation": "Politician, diplomat",
+    "achievements": [
+      "Senator in Pakistan",
+      "Former Ambassador of Pakistan to the United States"
+    ],
+    "yearBorn": 1960
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Cyrus McCormick",
+    "givenNames": [
+      "Cyrus",
+      "Hall"
+    ],
+    "familyName": "McCormick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_McCormick",
+    "occupation": "Inventor and businessman",
+    "achievements": [
+      "Invented the mechanical reaper, revolutionizing agriculture"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1884
+  },
+  {
+    "fullName": "Cyrus Vance",
+    "givenNames": [
+      "Cyrus",
+      "Roberts"
+    ],
+    "familyName": "Vance",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_Vance",
+    "occupation": "Politician and diplomat",
+    "achievements": [
+      "Served as United States Secretary of State under President Jimmy Carter",
+      "Played a key role in the Camp David Accords"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Cyrus Chestnut",
+    "givenNames": [
+      "Cyrus"
+    ],
+    "familyName": "Chestnut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyrus_Chestnut",
+    "occupation": "Jazz pianist and composer",
+    "achievements": [
+      "Known for his virtuosic playing style and blending of traditional jazz with gospel and blues influences"
+    ],
+    "yearBorn": 1963
+  }
+]

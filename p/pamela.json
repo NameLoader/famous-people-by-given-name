@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Pamela Anderson",
+    "givenNames": [
+      "Pamela",
+      "Denise"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pamela_Anderson",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Known for her role as C.J. Parker in the television series Baywatch",
+      "Appeared in numerous films and television shows",
+      "Activist for animal rights"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Pamela Smart",
+    "givenNames": [
+      "Pamela",
+      "Ann"
+    ],
+    "familyName": "Smart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pamela_Smart",
+    "occupation": "Former school employee convicted of murder",
+    "achievements": [
+      "Became infamous for her involvement in the murder of her husband Gregg Smart"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Pamela Geller",
+    "givenNames": [
+      "Pamela"
+    ],
+    "familyName": "Geller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pamela_Geller",
+    "occupation": "Activist, blogger",
+    "achievements": [
+      "Known for her conservative and anti-Islamic views",
+      "Founder of the American Freedom Defense Initiative (AFDI)"
+    ],
+    "yearBorn": 1958
+  }
+]

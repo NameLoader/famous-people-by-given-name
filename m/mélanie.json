@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Mélanie Laurent",
+    "givenNames": [
+      "Mélanie"
+    ],
+    "familyName": "Laurent",
+    "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9lanie_Laurent",
+    "occupation": "Actress, director",
+    "achievements": [
+      "Nominated for César Award for Best Actress",
+      "Directed acclaimed films like 'The Adopted' and 'Breathe'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Mélanie Thierry",
+    "givenNames": [
+      "Mélanie"
+    ],
+    "familyName": "Thierry",
+    "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9lanie_Thierry",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Quai d'Orsay' and 'The Legend of Tarzan'"
+    ],
+    "yearBorn": 1981
+  }
+]

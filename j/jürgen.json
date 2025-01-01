@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Jürgen Klopp",
+    "givenNames": [
+      "Jürgen",
+      "Norbert"
+    ],
+    "familyName": "Klopp",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Klopp",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Won the UEFA Champions League with Liverpool FC in 2019",
+      "Won the Premier League with Liverpool FC in 2020",
+      "Led Borussia Dortmund to two Bundesliga titles"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Jürgen Habermas",
+    "givenNames": [
+      "Jürgen"
+    ],
+    "familyName": "Habermas",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas",
+    "occupation": "Philosopher and Sociologist",
+    "achievements": [
+      "Developed the theory of communicative action",
+      "Major influence on critical theory and social philosophy",
+      "Recipient of the Kyoto Prize and the Geschwister-Scholl-Preis"
+    ],
+    "yearBorn": 1929
+  },
+  {
+    "fullName": "Jürgen Moltmann",
+    "givenNames": [
+      "Jürgen"
+    ],
+    "familyName": "Moltmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Moltmann",
+    "occupation": "Theologian",
+    "achievements": [
+      "Pioneering figure in liberation theology",
+      "Known for his work on the theology of hope",
+      "Recipient of the Nobel Peace Prize nomination"
+    ],
+    "yearBorn": 1926
+  }
+]

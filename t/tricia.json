@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tricia Helfer",
+    "givenNames": [
+      "Tricia",
+      "Janine"
+    ],
+    "familyName": "Helfer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tricia_Helfer",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Known for roles in Battlestar Galactica and Lucifer"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Tricia Yearwood",
+    "givenNames": [
+      "Patricia",
+      "Lynn",
+      "Tricia"
+    ],
+    "familyName": "Yearwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trisha_Yearwood",
+    "occupation": "Singer, songwriter, actress, television personality",
+    "achievements": [
+      "Multi-Grammy Award winner",
+      "Successful country music career"
+    ],
+    "yearBorn": 1964
+  }
+]

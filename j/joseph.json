@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Joseph Haydn",
+    "givenNames": [
+      "Joseph",
+      "Franz"
+    ],
+    "familyName": "Haydn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered the 'Father of the Symphony'",
+      "Prolific composer of symphonies, string quartets, and operas"
+    ],
+    "yearBorn": 1732,
+    "yearDied": 1809
+  },
+  {
+    "fullName": "Joseph Pulitzer",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Pulitzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Pulitzer",
+    "occupation": "Newspaper publisher",
+    "achievements": [
+      "Founded the Pulitzer Prizes for journalism, literature, and music"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1911
+  }
+]

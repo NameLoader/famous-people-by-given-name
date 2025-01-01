@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Jérôme Bonaparte",
+    "givenNames": [
+      "Jérôme"
+    ],
+    "familyName": "Bonaparte",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaparte",
+    "occupation": "King of Westphalia",
+    "achievements": [
+      "Younger brother of Napoleon Bonaparte",
+      "Ruled the Kingdom of Westphalia from 1807 to 1813"
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1860
+  },
+  {
+    "fullName": "Jérôme David Salinger",
+    "givenNames": [
+      "Jérôme",
+      "David"
+    ],
+    "familyName": "Salinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._D._Salinger",
+    "occupation": "Author",
+    "achievements": [
+      "Known for his novel 'The Catcher in the Rye'",
+      "Reclusive and controversial figure"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2010
+  }
+]

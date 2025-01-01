@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Gail Borden Jr.",
+    "givenNames": [
+      "Gail",
+      "Jr."
+    ],
+    "familyName": "Borden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gail_Borden",
+    "occupation": "Inventor, Entrepreneur",
+    "achievements": [
+      "Invented condensed milk",
+      "Developed a process for preserving milk"
+    ],
+    "yearBorn": 1801,
+    "yearDied": 1872
+  },
+  {
+    "fullName": "Gail Godwin",
+    "givenNames": [
+      "Gail"
+    ],
+    "familyName": "Godwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gail_Godwin",
+    "occupation": "Novelist, Essayist",
+    "achievements": [
+      "Author of acclaimed novels such as 'The Odd Woman' and 'Violet Clay'",
+      "Known for her exploration of complex psychological themes"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Gail Simone",
+    "givenNames": [
+      "Gail"
+    ],
+    "familyName": "Simone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gail_Simone",
+    "occupation": "Comic book writer",
+    "achievements": [
+      "Known for her work on DC Comics characters like Batgirl and Wonder Woman",
+      "Championed diversity and representation in comics"
+    ],
+    "yearBorn": 1976
+  }
+]

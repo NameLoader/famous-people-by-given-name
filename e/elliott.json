@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Elliott Smith",
+    "givenNames": [
+      "Elliott"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elliott_Smith",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Critically acclaimed singer-songwriter known for his melancholic and introspective lyrics.",
+      "Influential figure in the indie rock scene."
+    ],
+    "yearBorn": 1969,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Elliott Page",
+    "givenNames": [
+      "Elliot"
+    ],
+    "familyName": "Page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elliot_Page",
+    "occupation": "Actor, producer",
+    "achievements": [
+      "Known for roles in films like 'Juno' and 'Inception'",
+      "Prominent LGBTQ+ advocate"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Elliott Ness",
+    "givenNames": [
+      "Eliot"
+    ],
+    "familyName": "Ness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliot_Ness",
+    "occupation": "Prohibition agent",
+    "achievements": [
+      "Famous for leading a team of agents that brought down notorious gangster Al Capone."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1957
+  }
+]

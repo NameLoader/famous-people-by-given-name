@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Germaine Greer",
+    "givenNames": [
+      "Germaine"
+    ],
+    "familyName": "Greer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Germaine_Greer",
+    "occupation": "Writer, feminist, academic",
+    "achievements": [
+      "Authored 'The Female Eunuch'",
+      "Prominent figure in the second-wave feminist movement"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Germaine Tailleferre",
+    "givenNames": [
+      "Germaine"
+    ],
+    "familyName": "Tailleferre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Germaine_Tailleferre",
+    "occupation": "Composer",
+    "achievements": [
+      "Member of Les Six",
+      "Prolific composer of ballets, operas, and chamber music"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1983
+  }
+]

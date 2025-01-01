@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Earl Woods",
+    "givenNames": [
+      "Earl",
+      "Dennison"
+    ],
+    "familyName": "Woods",
+    "wikipedia": "https://en.wikipedia.org/wiki/Earl_Woods",
+    "occupation": "Golfer (Amateur)",
+    "achievements": [
+      "Father and coach of Tiger Woods"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2006
+  }
+]

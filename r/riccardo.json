@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Riccardo Muti",
+    "givenNames": [
+      "Riccardo"
+    ],
+    "familyName": "Muti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Muti",
+    "occupation": "Conductor",
+    "achievements": [
+      "Musical Director of the Chicago Symphony Orchestra",
+      "Principal Conductor of the Philadelphia Orchestra",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Riccardo Tisci",
+    "givenNames": [
+      "Riccardo"
+    ],
+    "familyName": "Tisci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Tisci",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Creative Director of Givenchy",
+      "Designer for Burberry"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Riccardo Montolivo",
+    "givenNames": [
+      "Riccardo"
+    ],
+    "familyName": "Montolivo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Montolivo",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for AC Milan and the Italian national team"
+    ],
+    "yearBorn": 1985
+  }
+]

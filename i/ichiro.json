@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Ichiro Suzuki",
+    "givenNames": [
+      "Ichiro"
+    ],
+    "familyName": "Suzuki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ichiro_Suzuki",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "MLB All-Star (10 times)",
+      "American League MVP (2001)",
+      "Gold Glove Award winner (10 times)",
+      "Silver Slugger Award winner (2 times)",
+      "Japanese Baseball Hall of Fame inductee",
+      "Seattle Mariners Hall of Fame inductee"
+    ],
+    "yearBorn": 1973
+  }
+]

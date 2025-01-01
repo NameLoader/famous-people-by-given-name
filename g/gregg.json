@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Gregg Allman",
+    "givenNames": [
+      "Gregg",
+      "Gregory",
+      "LeNoir"
+    ],
+    "familyName": "Allman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregg_Allman",
+    "occupation": "Musician",
+    "achievements": [
+      "Founding member of The Allman Brothers Band",
+      "Successful solo career",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Gregg Popovich",
+    "givenNames": [
+      "Gregg",
+      "Charles"
+    ],
+    "familyName": "Popovich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregg_Popovich",
+    "occupation": "Basketball Coach",
+    "achievements": [
+      "Head coach of the San Antonio Spurs since 1996",
+      "Five-time NBA champion",
+      "Three-time NBA Coach of the Year"
+    ],
+    "yearBorn": 1958
+  }
+]

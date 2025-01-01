@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Tasha Smith",
+    "givenNames": [
+      "Tasha"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tasha_Smith",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Known for roles in films like 'Why Did I Get Married?' and the television series 'Empire'"
+    ],
+    "yearBorn": 1971
+  }
+]

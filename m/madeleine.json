@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Madeleine Albright",
+    "givenNames": [
+      "Madeleine",
+      "Jana",
+      "Korbel"
+    ],
+    "familyName": "Albright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_Albright",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "First female United States Secretary of State",
+      "United States Ambassador to the United Nations"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Madeleine Stowe",
+    "givenNames": [
+      "Madeleine"
+    ],
+    "familyName": "Stowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_Stowe",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Revenge,' 'The Last of the Mohicans,' and 'Twelve Monkeys'"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Madeleine McCann",
+    "givenNames": [
+      "Madeleine",
+      "Beth"
+    ],
+    "familyName": "McCann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Madeleine_McCann",
+    "occupation": "N/A",
+    "achievements": [
+      "Subject of a highly publicized missing person case"
+    ],
+    "yearBorn": 2003
+  }
+]

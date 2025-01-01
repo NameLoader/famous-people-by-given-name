@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Scott Joplin",
+    "givenNames": [
+      "Scott"
+    ],
+    "familyName": "Joplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Joplin",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Known as the 'King of Ragtime'",
+      "Composed influential ragtime pieces like 'The Entertainer' and 'Maple Leaf Rag'"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1917
+  },
+  {
+    "fullName": "Scott Bakula",
+    "givenNames": [
+      "Scott",
+      "Stewart"
+    ],
+    "familyName": "Bakula",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Bakula",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Star Trek: Enterprise' and 'Quantum Leap'",
+      "Tony Award nominee for his performance in the musical 'Romance/Romance'"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Scott Caan",
+    "givenNames": [
+      "Scott",
+      "Andrew"
+    ],
+    "familyName": "Caan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Caan",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role in the TV series 'Hawaii Five-0'",
+      "Appeared in films like 'Ocean's Eleven'"
+    ],
+    "yearBorn": 1976
+  }
+]

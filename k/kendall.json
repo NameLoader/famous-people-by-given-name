@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Kendall Jenner",
+    "givenNames": [
+      "Kendall",
+      "Nicole"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendall_Jenner",
+    "occupation": "Model, television personality",
+    "achievements": [
+      "One of the highest-paid models in the world",
+      "Appeared on the reality TV show Keeping Up with the Kardashians"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Kendall Gill",
+    "givenNames": [
+      "Kendall",
+      "Cedric"
+    ],
+    "familyName": "Gill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kendall_Gill",
+    "occupation": "Retired professional basketball player",
+    "achievements": [
+      "Played 15 seasons in the NBA",
+      "Selected to the NBA All-Star team in 1992"
+    ],
+    "yearBorn": 1968
+  }
+]

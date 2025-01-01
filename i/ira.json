@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Ira Gershwin",
+    "givenNames": [
+      "Ira"
+    ],
+    "familyName": "Gershwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ira_Gershwin",
+    "occupation": "Lyricist, composer",
+    "achievements": [
+      "Wrote lyrics for numerous Broadway musicals and films, including Porgy and Bess.",
+      "Won an Academy Award for Best Original Song in 1935 for 'They Can't Take That Away From Me'."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Ira Cohen",
+    "givenNames": [
+      "Ira"
+    ],
+    "familyName": "Cohen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ira_Cohen",
+    "occupation": "Poet, filmmaker",
+    "achievements": [
+      "Known for his experimental poetry and films.",
+      "Published numerous books of poetry and prose, including 'The Green Dragon'."
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Ira Hayes",
+    "givenNames": [
+      "Ira",
+      "Hamilton"
+    ],
+    "familyName": "Hayes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ira_Hayes",
+    "occupation": "U.S. Marine",
+    "achievements": [
+      "One of the six Marines who raised the American flag on Iwo Jima during World War II.",
+      "Immortalized in the iconic photograph taken by Joe Rosenthal."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1957
+  }
+]

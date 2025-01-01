@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Roman Abramovich",
+    "givenNames": [
+      "Roman",
+      "Arkadyevich"
+    ],
+    "familyName": "Abramovich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Abramovich",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Owner of Chelsea Football Club (2003-2022)",
+      "Russian oligarch and philanthropist"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Roman Polanski",
+    "givenNames": [
+      "Roman",
+      "Raymond",
+      "Thierry"
+    ],
+    "familyName": "Polanski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Polanski",
+    "occupation": "Film director, Producer, Screenwriter, Actor",
+    "achievements": [
+      "Academy Award-winning director (Rosemary's Baby)",
+      "Directed notable films like Chinatown and The Pianist"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Roman Kemp",
+    "givenNames": [
+      "Roman"
+    ],
+    "familyName": "Kemp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman_Kemp",
+    "occupation": "Radio presenter, Television personality",
+    "achievements": [
+      "Known for his work on Capital FM",
+      "Appeared on reality shows like I'm a Celebrity...Get Me Out of Here!"
+    ],
+    "yearBorn": 1993
+  }
+]

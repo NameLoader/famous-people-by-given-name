@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Lawrence Welk",
+    "givenNames": [
+      "Lawrence"
+    ],
+    "familyName": "Welk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Welk",
+    "occupation": "Musician, Bandleader, Television personality",
+    "achievements": [
+      "Hosted 'The Lawrence Welk Show', a popular television program featuring big band music and polka",
+      "Known for his distinctive 'champagne music' style"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1992
+  },
+  {
+    "fullName": "Lawrence Summers",
+    "givenNames": [
+      "Lawrence",
+      "Henry"
+    ],
+    "familyName": "Summers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Summers",
+    "occupation": "Economist, Academic, Former Secretary of the Treasury",
+    "achievements": [
+      "Served as Chief Economist of the World Bank",
+      "President of Harvard University"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Lawrence Fishburne",
+    "givenNames": [
+      "Laurence",
+      "John"
+    ],
+    "familyName": "Fishburne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Fishburne",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Known for roles in films like 'The Matrix', 'Boyz n the Hood', and 'Apocalypse Now'",
+      "Academy Award nominee"
+    ],
+    "yearBorn": 1961
+  }
+]

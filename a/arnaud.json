@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Arnaud Démare",
+    "givenNames": [
+      "Arnaud"
+    ],
+    "familyName": "Démare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnaud_D%C3%A9mare",
+    "occupation": "French cyclist",
+    "achievements": [
+      "Won multiple stages in the Giro d'Italia and Tour de France",
+      "Won Milan–San Remo in 2016"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Arnaud Montebourg",
+    "givenNames": [
+      "Arnaud"
+    ],
+    "familyName": "Montebourg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnaud_Montebourg",
+    "occupation": "French politician",
+    "achievements": [
+      "Served as Minister of Industrial Renewal in the government of François Hollande from 2012 to 2014"
+    ],
+    "yearBorn": 1963
+  }
+]

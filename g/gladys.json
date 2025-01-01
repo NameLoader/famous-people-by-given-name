@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Gladys Knight",
+    "givenNames": [
+      "Gladys",
+      "Maria"
+    ],
+    "familyName": "Knight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Knight",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Seven Grammy Awards",
+      "Grammy Lifetime Achievement Award",
+      "Induction into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Gladys Berejiklian",
+    "givenNames": [
+      "Gladys"
+    ],
+    "familyName": "Berejiklian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Berejiklian",
+    "occupation": "Politician",
+    "achievements": [
+      "Premier of New South Wales (2017-2021)",
+      "First female Premier of New South Wales"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Gladys Tantaquidgeon",
+    "givenNames": [
+      "Gladys",
+      "Iola"
+    ],
+    "familyName": "Tantaquidgeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Tantaquidgeon",
+    "occupation": "Mohegan medicine woman and anthropologist",
+    "achievements": [
+      "Preserved Mohegan traditions and language",
+      "Established the Mashantucket Pequot Museum"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 2005
+  }
+]

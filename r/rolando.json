@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Rolando Blackman",
+    "givenNames": [
+      "Rolando",
+      "Antonio"
+    ],
+    "familyName": "Blackman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rolando_Blackman",
+    "occupation": "Basketball player",
+    "achievements": [
+      "4× NBA All-Star",
+      "NBA All-Rookie Team (1982)",
+      "2× Second-team All-American (1980, 1981)"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Rolando Villazón",
+    "givenNames": [
+      "Rolando"
+    ],
+    "familyName": "Villazón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rolando_Villaz%C3%B3n",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Grammy Award winner",
+      "Recipient of the ECHO Klassik Award"
+    ],
+    "yearBorn": 1972
+  }
+]

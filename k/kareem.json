@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Kareem Abdul-Jabbar",
+    "givenNames": [
+      "Kareem"
+    ],
+    "familyName": "Abdul-Jabbar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
+    "occupation": "Basketball player, Actor, Author",
+    "achievements": [
+      "Six-time NBA champion",
+      "Six-time NBA MVP",
+      "19-time NBA All-Star",
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1947
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kathrine Switzer",
+    "givenNames": [
+      "Kathrine",
+      "Virginia"
+    ],
+    "familyName": "Switzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathrine_Switzer",
+    "occupation": "Marathon runner, author",
+    "achievements": [
+      "First woman to officially run the Boston Marathon (1967)",
+      "Advocate for women's rights in sports"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Kathrine Heigl",
+    "givenNames": [
+      "Katherine"
+    ],
+    "familyName": "Heigl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Heigl",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Emmy Award for Outstanding Supporting Actress in a Drama Series (Grey's Anatomy)",
+      "Roles in films like Knocked Up and 27 Dresses"
+    ],
+    "yearBorn": 1978
+  }
+]

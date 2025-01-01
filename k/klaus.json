@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Klaus Barbie",
+    "givenNames": [
+      "Klaus",
+      "Nikolaus"
+    ],
+    "familyName": "Barbie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Barbie",
+    "occupation": "War Criminal",
+    "achievements": [
+      "Known as the 'Butcher of Lyon' for his brutal actions during World War II."
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Klaus Kinski",
+    "givenNames": [
+      "Klaus"
+    ],
+    "familyName": "Kinski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Kinski",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his intense and controversial performances in films by Werner Herzog.",
+      "Starred in films such as 'Aguirre, the Wrath of God' and 'Fitzcarraldo'."
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Klaus Schulze",
+    "givenNames": [
+      "Klaus"
+    ],
+    "familyName": "Schulze",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Schulze",
+    "occupation": "Musician, Composer",
+    "achievements": [
+      "Pioneer of electronic music and ambient music.",
+      "Known for his lengthy, atmospheric compositions."
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2023
+  },
+  {
+    "fullName": "Klaus Maria Brandauer",
+    "givenNames": [
+      "Klaus",
+      "Maria"
+    ],
+    "familyName": "Brandauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Maria_Brandauer",
+    "occupation": "Actor",
+    "achievements": [
+      "Won an Academy Award for Best Supporting Actor in the film 'Out of Africa'."
+    ],
+    "yearBorn": 1943
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Wilma Rudolph",
+    "givenNames": [
+      "Wilma",
+      "Glodean"
+    ],
+    "familyName": "Rudolph",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilma_Rudolph",
+    "occupation": "Track and field athlete",
+    "achievements": [
+      "Won three gold medals at the 1960 Rome Olympics",
+      "First American woman to win three gold medals in a single Olympic Games"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Wilma Mankiller",
+    "givenNames": [
+      "Wilma",
+      "Pearl"
+    ],
+    "familyName": "Mankiller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilma_Mankiller",
+    "occupation": "Politician, activist",
+    "achievements": [
+      "First woman elected Principal Chief of the Cherokee Nation",
+      "Advocate for Native American rights and self-determination"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2010
+  }
+]

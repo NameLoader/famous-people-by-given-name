@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Kenjiro Tsuda",
+    "givenNames": [
+      "Kenjiro"
+    ],
+    "familyName": "Tsuda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenjiro_Tsuda",
+    "occupation": "Voice actor",
+    "achievements": [
+      "Known for voicing characters in popular anime and video games such as Overlord, My Hero Academia, and Attack on Titan."
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Kenjiro Hata",
+    "givenNames": [
+      "Kenjiro"
+    ],
+    "familyName": "Hata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenjiro_Hata",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Creator of the popular manga series Hayate the Combat Butler."
+    ],
+    "yearBorn": 1978
+  }
+]

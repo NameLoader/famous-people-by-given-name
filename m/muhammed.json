@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Muhammed ibn Abdullah",
+    "givenNames": [
+      "Muhammed"
+    ],
+    "familyName": "ibn Abdullah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
+    "occupation": "Prophet of Islam",
+    "achievements": [
+      "Founder of Islam",
+      "Received the Quranic revelations"
+    ],
+    "yearBorn": 570,
+    "yearDied": 632
+  },
+  {
+    "fullName": "Muhammed Ali",
+    "givenNames": [
+      "Muhammed"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+    "occupation": "Boxer",
+    "achievements": [
+      "Three-time World Heavyweight Champion",
+      "Olympic gold medalist",
+      "Civil rights activist"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2016
+  }
+]

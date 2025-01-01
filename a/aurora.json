@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Aurora Aksnes",
+    "givenNames": [
+      "Aurora"
+    ],
+    "familyName": "Aksnes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aurora_(singer)",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Internationally acclaimed Norwegian singer-songwriter",
+      "Known for her ethereal vocals and distinctive sound"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Aurora Perrineau",
+    "givenNames": [
+      "Aurora"
+    ],
+    "familyName": "Perrineau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aurora_Perrineau",
+    "occupation": "Actress",
+    "achievements": [
+      "Appeared in films such as 'Truth or Dare' and 'Jem and the Holograms'",
+      "Known for her roles in television series like 'Prodigal Son'"
+    ],
+    "yearBorn": 1994
+  }
+]

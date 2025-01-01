@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Herta Müller",
+    "givenNames": [
+      "Herta"
+    ],
+    "familyName": "Müller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herta_M%C3%BCller",
+    "occupation": "Writer",
+    "achievements": [
+      "Nobel Prize in Literature (2009)",
+      "Known for her works exploring the themes of totalitarian oppression and exile."
+    ],
+    "yearBorn": 1953
+  }
+]

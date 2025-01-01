@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Sophie Germain",
+    "givenNames": [
+      "Sophie",
+      "Marie-Sophie"
+    ],
+    "familyName": "Germain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Germain",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Made significant contributions to number theory and elasticity theory",
+      "Worked under the pseudonym Monsieur LeBlanc due to gender discrimination in academia"
+    ],
+    "yearBorn": 1776,
+    "yearDied": 1831
+  },
+  {
+    "fullName": "Sophie Scholl",
+    "givenNames": [
+      "Sophia",
+      "Magdalena"
+    ],
+    "familyName": "Scholl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Scholl",
+    "occupation": "Anti-Nazi activist",
+    "achievements": [
+      "Co-founded the White Rose resistance group in Nazi Germany",
+      "Distributed anti-war leaflets and advocated for peace",
+      "Executed by the Nazis for treason"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Sophie Turner",
+    "givenNames": [
+      "Sophie",
+      "Belinda"
+    ],
+    "familyName": "Turner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Turner",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Sansa Stark in the HBO series Game of Thrones",
+      "Starred in films such as X-Men: Apocalypse and Dark Phoenix"
+    ],
+    "yearBorn": 1996
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Nathan Hale",
+    "givenNames": [
+      "Nathan"
+    ],
+    "familyName": "Hale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Hale",
+    "occupation": "Soldier, Spy",
+    "achievements": [
+      "American Revolutionary War spy",
+      "Known for his famous last words: \"I only regret that I have but one life to lose for my country.\""
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1776
+  },
+  {
+    "fullName": "Nathan Myhrvold",
+    "givenNames": [
+      "Nathan",
+      "Paul"
+    ],
+    "familyName": "Myhrvold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Myhrvold",
+    "occupation": "Computer Scientist, Inventor, Author",
+    "achievements": [
+      "Former Chief Technology Officer of Microsoft",
+      "Co-founder of Intellectual Ventures",
+      "Author of the cookbook \"Modernist Cuisine\""
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Nathan Lane",
+    "givenNames": [
+      "Nathan"
+    ],
+    "familyName": "Lane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Lane",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Three-time Tony Award winner",
+      "Known for roles in Broadway productions and films like \"The Birdcage\" and \"Stuart Little\""
+    ],
+    "yearBorn": 1956
+  }
+]

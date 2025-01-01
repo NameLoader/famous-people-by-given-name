@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arianna Huffington",
+    "givenNames": [
+      "Arianna"
+    ],
+    "familyName": "Huffington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arianna_Huffington",
+    "occupation": "Author, columnist, businesswoman",
+    "achievements": [
+      "Founded The Huffington Post",
+      "Authored several bestselling books",
+      "Advocate for wellness and mindfulness"
+    ],
+    "yearBorn": 1950
+  }
+]

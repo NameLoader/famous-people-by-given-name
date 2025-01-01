@@ -1,0 +1,78 @@
+[
+  {
+    "fullName": "Colin Firth",
+    "givenNames": [
+      "Colin",
+      "Andrew"
+    ],
+    "familyName": "Firth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Firth",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (The King's Speech)",
+      "BAFTA Award for Best Actor (A Single Man)"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Colin Powell",
+    "givenNames": [
+      "Colin",
+      "Luther"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Powell",
+    "occupation": "Military leader and politician",
+    "achievements": [
+      "First African-American Secretary of State",
+      "Chairman of the Joint Chiefs of Staff"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Colin Farrell",
+    "givenNames": [
+      "Colin",
+      "James"
+    ],
+    "familyName": "Farrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Farrell",
+    "occupation": "Actor",
+    "achievements": [
+      "Golden Globe Award for Best Actor – Motion Picture Musical or Comedy (In Bruges)",
+      "Known for roles in films like 'Minority Report', 'Alexander', and 'The Lobster'"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Colin Kaepernick",
+    "givenNames": [
+      "Colin",
+      "Rand"
+    ],
+    "familyName": "Kaepernick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Kaepernick",
+    "occupation": "Former NFL quarterback and activist",
+    "achievements": [
+      "Led the San Francisco 49ers to Super Bowl XLVII",
+      "Known for kneeling during the national anthem to protest racial injustice"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Colin Hanks",
+    "givenNames": [
+      "Colin",
+      "Lewes"
+    ],
+    "familyName": "Hanks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colin_Hanks",
+    "occupation": "Actor",
+    "achievements": [
+      "Son of actor Tom Hanks",
+      "Known for roles in films like 'Orange County', 'King Kong', and TV series 'Dexter'"
+    ],
+    "yearBorn": 1977
+  }
+]

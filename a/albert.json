@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Albert Einstein",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Einstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "occupation": "Theoretical Physicist",
+    "achievements": [
+      "Theory of Relativity",
+      "Photoelectric Effect",
+      "Mass-Energy Equivalence (E=mc²)"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Albert Schweitzer",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Schweitzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Schweitzer",
+    "occupation": "Theologian, Musician, Physician",
+    "achievements": [
+      "Founded the Albert Schweitzer Hospital in Lambaréné, Gabon",
+      "Nobel Peace Prize (1952)",
+      "Philosophical works on reverence for life"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Albert Camus",
+    "givenNames": [
+      "Albert"
+    ],
+    "familyName": "Camus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Camus",
+    "occupation": "Philosopher, Author, Journalist",
+    "achievements": [
+      "Nobel Prize in Literature (1957)",
+      "Existentialist philosophy",
+      "Literary works like 'The Stranger' and 'The Plague'"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1960
+  },
+  {
+    "fullName": "Albert Gore Jr.",
+    "givenNames": [
+      "Albert",
+      "Arnold"
+    ],
+    "familyName": "Gore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Al_Gore",
+    "occupation": "Politician, Environmental Activist",
+    "achievements": [
+      "45th Vice President of the United States",
+      "Nobel Peace Prize (2007) for his work on climate change awareness",
+      "Documentary film 'An Inconvenient Truth'"
+    ],
+    "yearBorn": 1948
+  }
+]

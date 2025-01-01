@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Joan Didion",
+    "givenNames": [
+      "Joan"
+    ],
+    "familyName": "Didion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Didion",
+    "occupation": "Author, Journalist",
+    "achievements": [
+      "National Book Award winner for fiction and non-fiction",
+      "Known for her sharp prose and insightful commentary on American culture"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Joan Jett",
+    "givenNames": [
+      "Joan"
+    ],
+    "familyName": "Jett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Jett",
+    "occupation": "Singer, Songwriter, Guitarist",
+    "achievements": [
+      "Pioneer of the punk rock and hard rock genres",
+      "Frontwoman of The Runaways and Joan Jett & the Blackhearts"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Joan Rivers",
+    "givenNames": [
+      "Joan"
+    ],
+    "familyName": "Rivers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Rivers",
+    "occupation": "Comedian, Actress, Television Host",
+    "achievements": [
+      "Groundbreaking female comedian known for her sharp wit and fearless humor",
+      "Hosted numerous television shows, including 'The Tonight Show' and 'Fashion Police'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2014
+  }
+]

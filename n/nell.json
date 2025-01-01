@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nell Gwyn",
+    "givenNames": [
+      "Eleanor",
+      "Nell"
+    ],
+    "familyName": "Gwyn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nell_Gwyn",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the most famous actresses of the Restoration era.",
+      "Mistress to King Charles II."
+    ],
+    "yearBorn": 1650,
+    "yearDied": 1687
+  },
+  {
+    "fullName": "Nell Carter",
+    "givenNames": [
+      "Nell"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nell_Carter",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Won an Emmy Award for her role in the sitcom 'Gimme a Break'."
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2003
+  }
+]

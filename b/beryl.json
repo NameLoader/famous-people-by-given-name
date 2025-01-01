@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Beryl Markham",
+    "givenNames": [
+      "Beryl"
+    ],
+    "familyName": "Markham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beryl_Markham",
+    "occupation": "Aviator, Author",
+    "achievements": [
+      "First woman to fly solo across the Atlantic Ocean from east to west.",
+      "Author of the autobiographical novel 'West with the Night'."
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Beryl Bainbridge",
+    "givenNames": [
+      "Beryl",
+      "Margaret"
+    ],
+    "familyName": "Bainbridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beryl_Bainbridge",
+    "occupation": "Novelist",
+    "achievements": [
+      "Winner of the Whitbread Prize for Fiction.",
+      "Known for her darkly humorous and unconventional novels."
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2010
+  }
+]

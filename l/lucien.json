@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Lucien Bouchard",
+    "givenNames": [
+      "Lucien"
+    ],
+    "familyName": "Bouchard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_Bouchard",
+    "occupation": "Politician",
+    "achievements": [
+      "Premier of Quebec (1996-2001)",
+      "Leader of the Bloc Québécois (1991-1996)"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Lucien Favre",
+    "givenNames": [
+      "Lucien"
+    ],
+    "familyName": "Favre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_Favre",
+    "occupation": "Football Manager and former Player",
+    "achievements": [
+      "Managed Borussia Dortmund, Nice, Hertha BSC among others",
+      "Won Swiss Super League title as player with Servette FC"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Lucien Lévy-Bruhl",
+    "givenNames": [
+      "Lucien"
+    ],
+    "familyName": "Lévy-Bruhl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_L%C3%A9vy-Bruhl",
+    "occupation": "Anthropologist and Philosopher",
+    "achievements": [
+      "Pioneer in the study of primitive mentality",
+      "Known for his work on"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1939
+  }
+]

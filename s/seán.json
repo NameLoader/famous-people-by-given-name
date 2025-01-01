@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Seán Ó Riada",
+    "givenNames": [
+      "Seán"
+    ],
+    "familyName": "Ó Riada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%A1n_%C3%93_Riada",
+    "occupation": "Composer, musician, arranger",
+    "achievements": [
+      "Pioneered the revival of traditional Irish music",
+      "Founded the group Ceoltóirí Chualann"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Seán Lemass",
+    "givenNames": [
+      "Seán",
+      "Francis"
+    ],
+    "familyName": "Lemass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%A1n_Lemass",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Taoiseach (Prime Minister) of Ireland from 1959 to 1966",
+      "Oversaw a period of significant economic growth in Ireland"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Seán McCague",
+    "givenNames": [
+      "Seán"
+    ],
+    "familyName": "McCague",
+    "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%A1n_McCague",
+    "occupation": "Sports administrator",
+    "achievements": [
+      "Served as President of the Gaelic Athletic Association (GAA)"
+    ],
+    "yearBorn": 1940
+  }
+]

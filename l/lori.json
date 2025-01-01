@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Lori Loughlin",
+    "givenNames": [
+      "Lori",
+      "Anne"
+    ],
+    "familyName": "Loughlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lori_Loughlin",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Full House and When Calls the Heart",
+      "Involved in the 2019 college admissions scandal"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Lori Greiner",
+    "givenNames": [
+      "Lori"
+    ],
+    "familyName": "Greiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lori_Greiner",
+    "occupation": "Entrepreneur, investor",
+    "achievements": [
+      "Known as 'Queen of QVC' for her successful product inventions and sales",
+      "Investor on the TV show Shark Tank"
+    ],
+    "yearBorn": 1967
+  }
+]

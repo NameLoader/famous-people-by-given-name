@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Djibril Cissé",
+    "givenNames": [
+      "Djibril"
+    ],
+    "familyName": "Cissé",
+    "wikipedia": "https://en.wikipedia.org/wiki/Djibril_Ciss%C3%A9",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the UEFA Champions League with Liverpool in 2005",
+      "French international footballer"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Djibril Sidibé",
+    "givenNames": [
+      "Djibril"
+    ],
+    "familyName": "Sidibé",
+    "wikipedia": "https://en.wikipedia.org/wiki/Djibril_Sidib%C3%A9_(footballer,_born_1992)",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Ligue 1 title with Monaco in 2017",
+      "French international footballer"
+    ],
+    "yearBorn": 1992
+  }
+]

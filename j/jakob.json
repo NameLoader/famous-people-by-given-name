@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Jakob Bernoulli",
+    "givenNames": [
+      "Jakob",
+      "Jacob",
+      "James",
+      "Jacques"
+    ],
+    "familyName": "Bernoulli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Pioneer in calculus and probability theory",
+      "Formulated the Bernoulli principle"
+    ],
+    "yearBorn": 1655,
+    "yearDied": 1705
+  },
+  {
+    "fullName": "Jakob Friedrich Fries",
+    "givenNames": [
+      "Jakob",
+      "Friedrich"
+    ],
+    "familyName": "Fries",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jakob_Friedrich_Fries",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Developed a critical philosophy influenced by Kant",
+      "Emphasized the role of active thought in shaping knowledge"
+    ],
+    "yearBorn": 1773,
+    "yearDied": 1843
+  },
+  {
+    "fullName": "Jakob Dylan",
+    "givenNames": [
+      "Jakob",
+      "Luke"
+    ],
+    "familyName": "Dylan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jakob_Dylan",
+    "occupation": "Singer-songwriter, Musician",
+    "achievements": [
+      "Frontman for the rock band The Wallflowers",
+      "Won a Grammy Award for Best Rock Song in 1998"
+    ],
+    "yearBorn": 1969
+  }
+]

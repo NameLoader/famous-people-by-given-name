@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Seth Meyers",
+    "givenNames": [
+      "Seth",
+      "Adam"
+    ],
+    "familyName": "Meyers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seth_Meyers",
+    "occupation": "Comedian, Writer, Television Host",
+    "achievements": [
+      "Host of Late Night with Seth Meyers",
+      "Head writer for Saturday Night Live"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Seth Rogen",
+    "givenNames": [
+      "Seth",
+      "Aaron"
+    ],
+    "familyName": "Rogen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seth_Rogen",
+    "occupation": "Actor, Comedian, Writer, Producer",
+    "achievements": [
+      "Starred in films like Knocked Up, Superbad, Pineapple Express",
+      "Co-founded the production company Point Grey Pictures"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Seth MacFarlane",
+    "givenNames": [
+      "Seth",
+      "Woodbury"
+    ],
+    "familyName": "MacFarlane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seth_MacFarlane",
+    "occupation": "Animator, Writer, Producer, Actor, Singer",
+    "achievements": [
+      "Creator of animated series Family Guy, American Dad!, and The Cleveland Show",
+      "Directed live-action films Ted and Ted 2"
+    ],
+    "yearBorn": 1973
+  }
+]

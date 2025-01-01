@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Vivienne Westwood",
+    "givenNames": [
+      "Vivienne",
+      "Isabel"
+    ],
+    "familyName": "Westwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivienne_Westwood",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Revolutionized punk and new wave fashion",
+      "Known for her activism and outspoken nature"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2022
+  }
+]

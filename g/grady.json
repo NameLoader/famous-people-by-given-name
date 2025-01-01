@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Grady Hendrix",
+    "givenNames": [
+      "Grady"
+    ],
+    "familyName": "Hendrix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grady_Hendrix",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the horror novel 'Horrorstör'",
+      "Published multiple bestselling novels"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Grady Booch",
+    "givenNames": [
+      "Grady"
+    ],
+    "familyName": "Booch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grady_Booch",
+    "occupation": "Software engineer",
+    "achievements": [
+      "Pioneer in object-oriented programming",
+      "Co-authored the Unified Modeling Language (UML)"
+    ],
+    "yearBorn": 1954
+  }
+]

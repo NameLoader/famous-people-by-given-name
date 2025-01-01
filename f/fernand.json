@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Fernand Leger",
+    "givenNames": [
+      "Fernand",
+      "Henri"
+    ],
+    "familyName": "Léger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger",
+    "occupation": "Painter, Sculptor",
+    "achievements": [
+      "Pioneer of Cubism and Purism",
+      "Known for bold geometric forms and vibrant colors"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1955
+  },
+  {
+    "fullName": "Fernand Braudel",
+    "givenNames": [
+      "Fernand",
+      "Paul",
+      "Achille"
+    ],
+    "familyName": "Braudel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernand_Braudel",
+    "occupation": "Historian",
+    "achievements": [
+      "Founder of Annales School of history",
+      "Known for his influential work on the Mediterranean and long-term historical analysis"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1985
+  }
+]

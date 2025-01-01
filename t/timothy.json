@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Timothy Berners-Lee",
+    "givenNames": [
+      "Timothy",
+      "John"
+    ],
+    "familyName": "Berners-Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Inventor of the World Wide Web",
+      "Director of the World Wide Web Consortium (W3C)"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Timothy Dalton",
+    "givenNames": [
+      "Timothy",
+      "Leonard"
+    ],
+    "familyName": "Dalton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Dalton",
+    "occupation": "Actor",
+    "achievements": [
+      "Played James Bond in two films: 'The Living Daylights' and 'Licence to Kill'",
+      "Known for roles in stage productions and films like 'Wuthering Heights' and 'Hot Fuzz'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Timothy Snyder",
+    "givenNames": [
+      "Timothy",
+      "David"
+    ],
+    "familyName": "Snyder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Snyder",
+    "occupation": "Historian",
+    "achievements": [
+      "Professor of History at Yale University",
+      "Expert on Central and Eastern European history, particularly the Holocaust and the Soviet Union",
+      "Author of bestselling books like 'Bloodlands' and 'On Tyranny'"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Timothy Chalamet",
+    "givenNames": [
+      "Timothée",
+      "Hal"
+    ],
+    "familyName": "Chalamet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for his role in 'Call Me by Your Name'",
+      "Known for roles in films like 'Dune', 'Little Women', and 'Beautiful Boy'"
+    ],
+    "yearBorn": 1995
+  }
+]

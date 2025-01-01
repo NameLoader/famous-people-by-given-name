@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Aaron Burr",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Burr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Burr",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Third Vice President of the United States",
+      "Served in the Continental Army during the American Revolutionary War",
+      "Killed Alexander Hamilton in a duel"
+    ],
+    "yearBorn": 1756,
+    "yearDied": 1836
+  },
+  {
+    "fullName": "Aaron Spelling",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Spelling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Spelling",
+    "occupation": "Television Producer",
+    "achievements": [
+      "Created numerous successful television series including 'Beverly Hills, 90210', 'Dynasty', and 'Charlie's Angels'",
+      "Known as one of the most prolific television producers of all time"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Aaron Judge",
+    "givenNames": [
+      "Aaron",
+      "James"
+    ],
+    "familyName": "Judge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Judge",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Right fielder for the New York Yankees",
+      "American League home run record holder (62 home runs in a season)"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Aaron Sorkin",
+    "givenNames": [
+      "Aaron",
+      "Benjamin"
+    ],
+    "familyName": "Sorkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Sorkin",
+    "occupation": "Screenwriter, Playwright, Director",
+    "achievements": [
+      "Won Academy Award for Best Original Screenplay for 'The Social Network'",
+      "Created popular television shows including 'The West Wing', 'Sports Night', and 'The Newsroom'"
+    ],
+    "yearBorn": 1961
+  }
+]

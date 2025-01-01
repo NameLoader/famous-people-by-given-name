@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Katharina von Bora",
+    "givenNames": [
+      "Katharina"
+    ],
+    "familyName": "von Bora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharina_von_Bora",
+    "occupation": "Reformer, Wife of Martin Luther",
+    "achievements": [
+      "First wife of Martin Luther",
+      "Helped establish the Lutheran Church",
+      "Ran a successful household and raised six children"
+    ],
+    "yearBorn": 1499,
+    "yearDied": 1552
+  },
+  {
+    "fullName": "Katharina Witt",
+    "givenNames": [
+      "Katarina"
+    ],
+    "familyName": "Witt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katarina_Witt",
+    "occupation": "Figure Skater",
+    "achievements": [
+      "Two-time Olympic gold medalist in figure skating",
+      "Four-time World Champion",
+      "Six-time European Champion"
+    ],
+    "yearBorn": 1965
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Eliezer Berkovits",
+    "givenNames": [
+      "Eliezer"
+    ],
+    "familyName": "Berkovits",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliezer_Berkovits",
+    "occupation": "Rabbi, philosopher",
+    "achievements": [
+      "Prominent figure in modern Orthodox Judaism.",
+      "Authored influential works on Jewish thought and ethics."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Eliezer Yudkowsky",
+    "givenNames": [
+      "Eliezer",
+      "S."
+    ],
+    "familyName": "Yudkowsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
+    "occupation": "Artificial intelligence researcher, writer",
+    "achievements": [
+      "Co-founder of the Machine Intelligence Research Institute (MIRI).",
+      "Known for his work on artificial general intelligence and existential risk."
+    ],
+    "yearBorn": 1978
+  }
+]

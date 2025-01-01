@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Domenico Scarlatti",
+    "givenNames": [
+      "Domenico"
+    ],
+    "familyName": "Scarlatti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domenico_Scarlatti",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific composer of keyboard sonatas",
+      "Influenced the development of classical music"
+    ],
+    "yearBorn": 1685,
+    "yearDied": 1757
+  },
+  {
+    "fullName": "Domenico Ghirlandaio",
+    "givenNames": [
+      "Domenico"
+    ],
+    "familyName": "Ghirlandaio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domenico_Ghirlandaio",
+    "occupation": "Painter",
+    "achievements": [
+      "Leading figure of the Florentine Renaissance",
+      "Known for his frescoes in churches and palaces"
+    ],
+    "yearBorn": 1449,
+    "yearDied": 1494
+  },
+  {
+    "fullName": "Domenico Berardi",
+    "givenNames": [
+      "Domenico"
+    ],
+    "familyName": "Berardi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domenico_Berardi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Forward for Sassuolo and the Italy national team",
+      "Known for his dribbling skills and goal-scoring ability"
+    ],
+    "yearBorn": 1994
+  }
+]

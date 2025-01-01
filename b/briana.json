@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Briana Scurry",
+    "givenNames": [
+      "Briana",
+      "Collette"
+    ],
+    "familyName": "Scurry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Briana_Scurry",
+    "occupation": "Soccer player",
+    "achievements": [
+      "Olympic gold medalist (1996)",
+      "FIFA Women's World Cup champion (1999)"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Briana Evigan",
+    "givenNames": [
+      "Briana"
+    ],
+    "familyName": "Evigan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Briana_Evigan",
+    "occupation": "Actress, Dancer",
+    "achievements": [
+      "Starred in the Step Up franchise"
+    ],
+    "yearBorn": 1986
+  }
+]

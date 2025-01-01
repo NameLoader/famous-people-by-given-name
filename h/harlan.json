@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Harlan Ellison",
+    "givenNames": [
+      "Harlan",
+      "Jay"
+    ],
+    "familyName": "Ellison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harlan_Ellison",
+    "occupation": "Writer",
+    "achievements": [
+      "Prolific science fiction and fantasy author",
+      "Known for his sharp wit and controversial works",
+      "Won numerous awards including the Hugo, Nebula, and Edgar Awards"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Harlan Coben",
+    "givenNames": [
+      "Harlan"
+    ],
+    "familyName": "Coben",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harlan_Coben",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of mystery and thriller novels",
+      "Many of his books have been adapted into successful television series and films"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Harlan Sanders",
+    "givenNames": [
+      "Harland",
+      "David"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colonel_Sanders",
+    "occupation": "Restaurateur",
+    "achievements": [
+      "Founder of Kentucky Fried Chicken (KFC)",
+      "Iconic figure in the fast food industry"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1980
+  }
+]

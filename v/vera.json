@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Vera Wang",
+    "givenNames": [
+      "Vera",
+      "Ellen"
+    ],
+    "familyName": "Wang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vera_Wang",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Designed wedding gowns for numerous celebrities",
+      "Won the CFDA Lifetime Achievement Award"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Vera Rubin",
+    "givenNames": [
+      "Vera",
+      "Florence"
+    ],
+    "familyName": "Rubin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vera_Rubin",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Provided evidence for the existence of dark matter",
+      "Won the National Medal of Science"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2016
+  }
+]

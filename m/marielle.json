@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Marielle Franco",
+    "givenNames": [
+      "Marielle"
+    ],
+    "familyName": "Franco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marielle_Franco",
+    "occupation": "Politician",
+    "achievements": [
+      "Councilwoman of Rio de Janeiro",
+      "Advocate for human rights and social justice"
+    ],
+    "yearBorn": 1979,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Marielle Heller",
+    "givenNames": [
+      "Marielle",
+      "Stiles"
+    ],
+    "familyName": "Heller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marielle_Heller",
+    "occupation": "Film director, screenwriter, actress",
+    "achievements": [
+      "Directed films such as 'Can You Ever Forgive Me?' and 'A Beautiful Day in the Neighborhood'",
+      "Nominated for Academy Awards and Golden Globes"
+    ],
+    "yearBorn": 1979
+  }
+]

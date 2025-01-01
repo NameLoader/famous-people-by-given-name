@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Uwe Seeler",
+    "givenNames": [
+      "Uwe"
+    ],
+    "familyName": "Seeler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uwe_Seeler",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of Germany's greatest footballers",
+      "Leading scorer for West Germany in the 1958 and 1970 World Cups",
+      "Won the German Football Championship four times with Hamburger SV"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Uwe Boll",
+    "givenNames": [
+      "Uwe"
+    ],
+    "familyName": "Boll",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uwe_Boll",
+    "occupation": "Film director and producer",
+    "achievements": [
+      "Known for directing controversial video game adaptations"
+    ],
+    "yearBorn": 1965
+  }
+]

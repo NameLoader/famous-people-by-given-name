@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Napoleone Bonaparte",
+    "givenNames": [
+      "Napoleone"
+    ],
+    "familyName": "Bonaparte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
+    "occupation": "Military and political leader",
+    "achievements": [
+      "Emperor of the French",
+      "Military genius known for his tactical brilliance",
+      "Napoleonic Code"
+    ],
+    "yearBorn": 1769,
+    "yearDied": 1821
+  }
+]

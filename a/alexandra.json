@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Alexandra Ocasio-Cortez",
+    "givenNames": [
+      "Alexandria"
+    ],
+    "familyName": "Ocasio-Cortez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "occupation": "Politician",
+    "achievements": [
+      "Youngest woman to serve in the United States Congress",
+      "Advocate for progressive policies such as Medicare for All and the Green New Deal"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Alexandra Daddario",
+    "givenNames": [
+      "Alexandra",
+      "Anna"
+    ],
+    "familyName": "Daddario",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandra_Daddario",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films such as 'Percy Jackson & the Olympians' and 'Baywatch'",
+      "Appeared in numerous television series including 'True Detective'"
+    ],
+    "yearBorn": 1986
+  }
+]

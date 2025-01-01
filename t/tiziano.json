@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Tiziano Vecellio",
+    "givenNames": [
+      "Tiziano"
+    ],
+    "familyName": "Vecellio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Titian",
+    "occupation": "Painter",
+    "achievements": [
+      "Considered one of the greatest painters of the Venetian school",
+      "Known for his portraits and mythological paintings",
+      "Influenced generations of artists"
+    ],
+    "yearBorn": 1488,
+    "yearDied": 1576
+  },
+  {
+    "fullName": "Tiziano Ferro",
+    "givenNames": [
+      "Tiziano"
+    ],
+    "familyName": "Ferro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tiziano_Ferro",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Multi-platinum selling artist in Italy and internationally",
+      "Known for his soulful voice and romantic ballads",
+      "Won numerous music awards"
+    ],
+    "yearBorn": 1980
+  }
+]

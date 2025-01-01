@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Douglas Adams",
+    "givenNames": [
+      "Douglas",
+      "Noel"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Adams",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of 'The Hitchhiker's Guide to the Galaxy'",
+      "Known for his comedic science fiction and witty writing style"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Douglas Fairbanks",
+    "givenNames": [
+      "Douglas",
+      "Elton"
+    ],
+    "familyName": "Fairbanks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Silent film star known for swashbuckling roles",
+      "One of the founding fathers of United Artists"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1939
+  }
+]

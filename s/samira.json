@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Samira Ahmed",
+    "givenNames": [
+      "Samira"
+    ],
+    "familyName": "Ahmed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samira_Ahmed",
+    "occupation": "Journalist and broadcaster",
+    "achievements": [
+      "Presents Newswatch on BBC World News",
+      "Formerly presented Front Row on BBC Radio 4"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Samira Wiley",
+    "givenNames": [
+      "Samira",
+      "Denise"
+    ],
+    "familyName": "Wiley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samira_Wiley",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Poussey Washington in the Netflix series Orange Is the New Black",
+      "Won a Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series"
+    ],
+    "yearBorn": 1987
+  }
+]

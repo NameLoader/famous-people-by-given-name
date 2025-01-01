@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Wilhelm Conrad Röntgen",
+    "givenNames": [
+      "Wilhelm",
+      "Conrad"
+    ],
+    "familyName": "Röntgen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovery of X-rays",
+      "First recipient of the Nobel Prize in Physics (1901)"
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Wilhelm Wundt",
+    "givenNames": [
+      "Wilhelm",
+      "Maximilian"
+    ],
+    "familyName": "Wundt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Considered the founder of experimental psychology",
+      "Established the first formal laboratory for psychological research"
+    ],
+    "yearBorn": 1832,
+    "yearDied": 1920
+  },
+  {
+    "fullName": "Wilhelm Steinitz",
+    "givenNames": [
+      "Wilhelm",
+      "William"
+    ],
+    "familyName": "Steinitz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz",
+    "occupation": "Chess player",
+    "achievements": [
+      "First official World Chess Champion (1886)"
+    ],
+    "yearBorn": 1836,
+    "yearDied": 1900
+  },
+  {
+    "fullName": "Wilhelm Furtwängler",
+    "givenNames": [
+      "Wilhelm"
+    ],
+    "familyName": "Furtwängler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Furtw%C3%A4ngler",
+    "occupation": "Conductor",
+    "achievements": [
+      "Renowned for his interpretations of works by Beethoven and Bruckner"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1954
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Romy Schneider",
+    "givenNames": [
+      "Romy"
+    ],
+    "familyName": "Schneider",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romy_Schneider",
+    "occupation": "Actress",
+    "achievements": [
+      "Internationally acclaimed actress known for roles in films like 'Sissi', 'The Cardinal', and 'Swimming Pool'",
+      "Won numerous awards including the German Film Award and César Award"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Romy Madley Croft",
+    "givenNames": [
+      "Romy",
+      "Madley"
+    ],
+    "familyName": "Croft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romy_Madley_Croft",
+    "occupation": "Musician",
+    "achievements": [
+      "Singer and songwriter for the British electronic music duo The xx"
+    ],
+    "yearBorn": 1989
+  }
+]

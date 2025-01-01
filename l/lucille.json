@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Lucille Ball",
+    "givenNames": [
+      "Lucille",
+      "Désirée"
+    ],
+    "familyName": "Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Pioneering female comedian",
+      "Star of the iconic sitcom 'I Love Lucy'",
+      "Recipient of numerous awards including Emmy Awards and Golden Globe Awards"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Lucille Clifton",
+    "givenNames": [
+      "Lucille"
+    ],
+    "familyName": "Clifton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Clifton",
+    "occupation": "Poet, novelist",
+    "achievements": [
+      "Award-winning poet known for her powerful and personal voice",
+      "Explored themes of race, gender, and family in her work",
+      "Recipient of the National Book Award for Poetry"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2010
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alexis Bledel",
+    "givenNames": [
+      "Alexis",
+      "Kimberly"
+    ],
+    "familyName": "Bledel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Bledel",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Rory Gilmore in 'Gilmore Girls'",
+      "Starred in 'The Handmaid's Tale'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Alexis Ohanian",
+    "givenNames": [
+      "Alexis",
+      "Kerry"
+    ],
+    "familyName": "Ohanian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Ohanian",
+    "occupation": "Internet entrepreneur, investor",
+    "achievements": [
+      "Co-founder of Reddit",
+      "Investor in numerous startups"
+    ],
+    "yearBorn": 1983
+  }
+]

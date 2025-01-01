@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Vernon Howard",
+    "givenNames": [
+      "Vernon",
+      "Linwood"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vernon_Howard",
+    "occupation": "Author, Philosopher",
+    "achievements": [
+      "Known for his writings on self-transformation and spiritual enlightenment.",
+      "Authored numerous books, including 'The Power of Awareness' and 'The Mystic Way.'"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Vernon Reid",
+    "givenNames": [
+      "Vernon",
+      "Alphonsus"
+    ],
+    "familyName": "Reid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vernon_Reid",
+    "occupation": "Guitarist, Musician",
+    "achievements": [
+      "Best known as the guitarist for the band Living Colour.",
+      "Won a Grammy Award for Best Hard Rock Performance in 1990."
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Vernon Davis",
+    "givenNames": [
+      "Vernon",
+      "Leonard"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vernon_Davis",
+    "occupation": "Former American football player",
+    "achievements": [
+      "Three-time Pro Bowl selection.",
+      "Won a Super Bowl XLVII with the San Francisco 49ers."
+    ],
+    "yearBorn": 1984
+  }
+]

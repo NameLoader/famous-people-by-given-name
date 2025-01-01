@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Christie Brinkley",
+    "givenNames": [
+      "Christie",
+      "Lee"
+    ],
+    "familyName": "Brinkley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christie_Brinkley",
+    "occupation": "Model, actress, entrepreneur",
+    "achievements": [
+      "Appeared on over 300 magazine covers",
+      "Starred in films like 'National Lampoon's Vacation'",
+      "Successful businesswoman with her own skincare line"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Christie Whelan Browne",
+    "givenNames": [
+      "Christie"
+    ],
+    "familyName": "Whelan Browne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christie_Whelan_Browne",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for her roles in Australian soap operas like 'Neighbours'",
+      "Performed on stage in musicals like 'Wicked'"
+    ],
+    "yearBorn": 1982
+  }
+]

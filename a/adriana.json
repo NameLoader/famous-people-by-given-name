@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Adriana Lima",
+    "givenNames": [
+      "Adriana"
+    ],
+    "familyName": "Lima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriana_Lima",
+    "occupation": "Model",
+    "achievements": [
+      "Victoria's Secret Angel",
+      "One of the highest-paid models in the world"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Adriana Caselotti",
+    "givenNames": [
+      "Adriana",
+      "Elena",
+      "Loretta"
+    ],
+    "familyName": "Caselotti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriana_Caselotti",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Voice of Snow White in Disney's *Snow White and the Seven Dwarfs***"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Adriana Ugarte",
+    "givenNames": [
+      "Adriana",
+      "Sofía"
+    ],
+    "familyName": "Ugarte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriana_Ugarte",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Spanish television series and films",
+      "Goya Award nomination for Best Actress"
+    ],
+    "yearBorn": 1985
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Marshall Bruce Mathers III",
+    "givenNames": [
+      "Marshall",
+      "Bruce"
+    ],
+    "familyName": "Mathers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eminem",
+    "occupation": "Rapper, songwriter, record producer",
+    "achievements": [
+      "One of the best-selling music artists of all time",
+      "Won 15 Grammy Awards and an Academy Award"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Marshall Thurman Pinchot",
+    "givenNames": [
+      "Gifford"
+    ],
+    "familyName": "Pinchot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gifford_Pinchot",
+    "occupation": "Forester, conservationist, politician",
+    "achievements": [
+      "First Chief of the United States Forest Service",
+      "Advocate for conservation and sustainable forestry practices"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1946
+  }
+]

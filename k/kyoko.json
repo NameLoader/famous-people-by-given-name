@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kyoko Fukada",
+    "givenNames": [
+      "Kyoko"
+    ],
+    "familyName": "Fukada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyoko_Fukada",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Award-winning actress in Japanese cinema and television",
+      "Known for her roles in films like 'Kamikaze Girls' and 'The Grudge'"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Kyoko Kimura",
+    "givenNames": [
+      "Kyoko"
+    ],
+    "familyName": "Kimura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyoko_Kimura",
+    "occupation": "Professional Wrestler",
+    "achievements": [
+      "Former professional wrestler known as 'Kyoko Kimura'",
+      "Won numerous championships in All Japan Women's Pro-Wrestling"
+    ],
+    "yearBorn": 1977
+  }
+]

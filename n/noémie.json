@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Noémie Lenoir",
+    "givenNames": [
+      "Noémie"
+    ],
+    "familyName": "Lenoir",
+    "wikipedia": "https://en.wikipedia.org/wiki/No%C3%A9mie_Lenoir",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "Appeared in numerous fashion magazines and campaigns.",
+      "Starred in films such as 'The Transporter'"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Noémie Merlant",
+    "givenNames": [
+      "Noémie"
+    ],
+    "familyName": "Merlant",
+    "wikipedia": "https://en.wikipedia.org/wiki/No%C3%A9mie_Merlant",
+    "occupation": "Actress",
+    "achievements": [
+      "Won the César Award for Best Actress in a Supporting Role for 'Portrait of a Lady on Fire'"
+    ],
+    "yearBorn": 1988
+  }
+]

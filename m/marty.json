@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Marty Feldman",
+    "givenNames": [
+      "Martin",
+      "Alan"
+    ],
+    "familyName": "Feldman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marty_Feldman",
+    "occupation": "Comedian, Actor, Writer",
+    "achievements": [
+      "Known for his distinctive bulging eyes and comedic style",
+      "Starred in films like Young Frankenstein and The Adventure of Sherlock Holmes' Smarter Brother"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 1982
+  }
+]

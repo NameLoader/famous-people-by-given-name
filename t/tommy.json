@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Tommy Lee Jones",
+    "givenNames": [
+      "Tommy",
+      "Lee"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Lee_Jones",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor for his role in 'The Fugitive' (1993)",
+      "Known for roles in films such as 'Men in Black', 'No Country for Old Men'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Tommy Flanagan",
+    "givenNames": [
+      "Tommy",
+      "Thomas"
+    ],
+    "familyName": "Flanagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Flanagan_(actor)",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in 'Sons of Anarchy', 'Peaky Blinders'"
+    ]
+  }
+]

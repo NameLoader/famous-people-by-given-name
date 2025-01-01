@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Mariano Rivera",
+    "givenNames": [
+      "Mariano"
+    ],
+    "familyName": "Rivera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariano_Rivera",
+    "occupation": "Baseball player",
+    "achievements": [
+      "MLB All-Star (13 times)",
+      "World Series Champion (5 times)",
+      "MLB Saves Leader (all-time)"
+    ],
+    "yearBorn": 1969
+  }
+]

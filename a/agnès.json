@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Agnès Varda",
+    "givenNames": [
+      "Agnès"
+    ],
+    "familyName": "Varda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda",
+    "occupation": "Film director, screenwriter, photographer, artist",
+    "achievements": [
+      "Pioneer of the French New Wave movement",
+      "Known for films like Cléo from 5 to 7, Vagabond, and The Gleaners and I",
+      "Won an honorary Academy Award in 2017"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Agnès Sorel",
+    "givenNames": [
+      "Agnès"
+    ],
+    "familyName": "Sorel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Sorel",
+    "occupation": "Royal mistress",
+    "achievements": [
+      "Mistress of Charles VII of France",
+      "Known for her beauty and influence on the French court"
+    ],
+    "yearBorn": 1422,
+    "yearDied": 1450
+  },
+  {
+    "fullName": "Agnès Martin",
+    "givenNames": [
+      "Agnes",
+      "Bernice"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agnes_Martin",
+    "occupation": "Painter, sculptor",
+    "achievements": [
+      "Known for minimalist abstract paintings",
+      "Work featured in major museums worldwide"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2004
+  }
+]

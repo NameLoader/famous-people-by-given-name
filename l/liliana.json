@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Liliana Cavani",
+    "givenNames": [
+      "Liliana"
+    ],
+    "familyName": "Cavani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liliana_Cavani",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed the controversial film 'The Night Porter'",
+      "Known for her exploration of complex psychological themes"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Liliana Segre",
+    "givenNames": [
+      "Liliana"
+    ],
+    "familyName": "Segre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liliana_Segre",
+    "occupation": "Senator and Holocaust Survivor",
+    "achievements": [
+      "Survived Auschwitz as a teenager",
+      "Became a vocal advocate against antisemitism and prejudice"
+    ],
+    "yearBorn": 1930
+  }
+]

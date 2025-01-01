@@ -1,0 +1,60 @@
+[
+  {
+    "fullName": "Barry Allen",
+    "givenNames": [
+      "Barry"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Allen",
+    "occupation": "Fictional Superhero",
+    "achievements": [
+      "Fastest man alive in the DC Universe",
+      "Founding member of the Justice League"
+    ]
+  },
+  {
+    "fullName": "Barry Manilow",
+    "givenNames": [
+      "Barry"
+    ],
+    "familyName": "Manilow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Manilow",
+    "occupation": "Singer, Songwriter, Musician",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "Sold over 85 million records worldwide"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Barry Bonds",
+    "givenNames": [
+      "Barry",
+      "Lamar"
+    ],
+    "familyName": "Bonds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Bonds",
+    "occupation": "Former Professional Baseball Player",
+    "achievements": [
+      "Seven-time National League Most Valuable Player",
+      "Holds the Major League Baseball single-season and career home run records"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Barry Goldwater",
+    "givenNames": [
+      "Barry",
+      "Morris"
+    ],
+    "familyName": "Goldwater",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Goldwater",
+    "occupation": "Politician, U.S. Senator",
+    "achievements": [
+      "Republican nominee for President in 1964",
+      "Advocate for conservative policies"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1998
+  }
+]

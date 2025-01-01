@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Oliver Cromwell",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Cromwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+    "occupation": "Soldier and statesman",
+    "achievements": [
+      "Lord Protector of England, Scotland and Ireland",
+      "Led the Parliamentarian victory in the English Civil War"
+    ],
+    "yearBorn": 1599,
+    "yearDied": 1658
+  },
+  {
+    "fullName": "Oliver Twist",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Twist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Twist",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of Charles Dickens' novel 'Oliver Twist'",
+      "Symbol of Victorian poverty and social injustice"
+    ]
+  },
+  {
+    "fullName": "Oliver Sacks",
+    "givenNames": [
+      "Oliver",
+      "Wolf"
+    ],
+    "familyName": "Sacks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Sacks",
+    "occupation": "Neurologist and author",
+    "achievements": [
+      "Wrote bestselling books on neurology and the human mind",
+      "Known for his compassionate approach to patients with neurological disorders"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Oliver Stone",
+    "givenNames": [
+      "Oliver",
+      "William"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Stone",
+    "occupation": "Film director and screenwriter",
+    "achievements": [
+      "Directed acclaimed films like 'Platoon', 'JFK', and 'Nixon'",
+      "Known for his controversial and politically charged films"
+    ],
+    "yearBorn": 1946
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Sidonius Apollinaris",
+    "givenNames": [
+      "Sidonius"
+    ],
+    "familyName": "Apollinaris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidonius_Apollinaris",
+    "occupation": "Roman poet, politician, and bishop",
+    "achievements": [
+      "Authored numerous poems and letters",
+      "Served as a senator and governor",
+      "Became Bishop of Clermont-Ferrand"
+    ],
+    "yearBorn": 430,
+    "yearDied": 489
+  }
+]

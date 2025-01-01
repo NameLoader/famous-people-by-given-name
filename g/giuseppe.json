@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Giuseppe Verdi",
+    "givenNames": [
+      "Giuseppe",
+      "Fortunino",
+      "Francesco"
+    ],
+    "familyName": "Verdi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed operas such as Rigoletto, La traviata, and Aida"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1901
+  },
+  {
+    "fullName": "Giuseppe Garibaldi",
+    "givenNames": [
+      "Giuseppe",
+      "Maria"
+    ],
+    "familyName": "Garibaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi",
+    "occupation": "General, Patriot",
+    "achievements": [
+      "Led the unification of Italy"
+    ],
+    "yearBorn": 1807,
+    "yearDied": 1882
+  },
+  {
+    "fullName": "Giuseppe Conte",
+    "givenNames": [
+      "Giuseppe"
+    ],
+    "familyName": "Conte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Conte",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Italy from 2018 to 2021"
+    ],
+    "yearBorn": 1964
+  }
+]

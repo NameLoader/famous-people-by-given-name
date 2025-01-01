@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Miles Davis",
+    "givenNames": [
+      "Miles",
+      "Dewey"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Davis",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Influential jazz trumpeter and composer",
+      "Pioneer of bebop, cool jazz, modal jazz, and fusion"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Miles Teller",
+    "givenNames": [
+      "Miles"
+    ],
+    "familyName": "Teller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_Teller",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like Whiplash, Divergent series, and Top Gun: Maverick"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Miles O'Brien",
+    "givenNames": [
+      "Miles"
+    ],
+    "familyName": "O'Brien",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miles_O%27Brien_(journalist)",
+    "occupation": "Science journalist and television personality",
+    "achievements": [
+      "Former CNN correspondent, known for coverage of space exploration and science news"
+    ]
+  }
+]

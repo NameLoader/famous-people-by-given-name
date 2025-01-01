@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Cherry Jones",
+    "givenNames": [
+      "Cherry"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cherry_Jones",
+    "occupation": "Actress",
+    "achievements": [
+      "Tony Award winner for Best Actress in a Play",
+      "Emmy Award winner for Outstanding Lead Actress in a Miniseries or Movie"
+    ],
+    "yearBorn": 1966
+  }
+]

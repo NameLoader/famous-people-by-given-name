@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Alicia Keys",
+    "givenNames": [
+      "Alicia"
+    ],
+    "familyName": "Keys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Keys",
+    "occupation": "Singer, Songwriter, Actress, Producer",
+    "achievements": [
+      "15 Grammy Awards",
+      "Numerous Billboard Music Awards and NAACP Image Awards",
+      "Successful acting career"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Alicia Silverstone",
+    "givenNames": [
+      "Alicia"
+    ],
+    "familyName": "Silverstone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Silverstone",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Role as Cher Horowitz in the film 'Clueless'",
+      "Activism for animal rights and veganism"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Alicia Witt",
+    "givenNames": [
+      "Alicia",
+      "Roanne"
+    ],
+    "familyName": "Witt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Witt",
+    "occupation": "Actress, Singer-Songwriter",
+    "achievements": [
+      "Roles in films like 'Dune' and 'Mr. Holland's Opus'",
+      "Successful music career as a singer-songwriter"
+    ],
+    "yearBorn": 1975
+  }
+]

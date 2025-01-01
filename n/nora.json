@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nora Ephron",
+    "givenNames": [
+      "Nora"
+    ],
+    "familyName": "Ephron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nora_Ephron",
+    "occupation": "Filmmaker, writer",
+    "achievements": [
+      "Wrote and directed iconic romantic comedies like 'When Harry Met Sally...' and 'Sleepless in Seattle'",
+      "Won three Academy Award nominations",
+      "Authored several bestselling books and essays"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Nora Aunor",
+    "givenNames": [
+      "Nora"
+    ],
+    "familyName": "Aunor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nora_Aunor",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Considered a Filipino icon and one of the greatest actresses in Philippine cinema",
+      "Won numerous awards for her acting performances"
+    ],
+    "yearBorn": 1953
+  }
+]

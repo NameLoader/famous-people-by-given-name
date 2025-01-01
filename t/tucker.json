@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Tucker Carlson",
+    "givenNames": [
+      "Tucker",
+      "Swanson",
+      "McNear"
+    ],
+    "familyName": "Carlson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tucker_Carlson",
+    "occupation": "Television host, political commentator",
+    "achievements": [
+      "Host of Tucker Carlson Tonight on Fox News",
+      "Controversial figure known for his conservative views"
+    ],
+    "yearBorn": 1969
+  }
+]

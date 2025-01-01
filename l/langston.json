@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Langston Hughes",
+    "givenNames": [
+      "Langston"
+    ],
+    "familyName": "Hughes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Langston_Hughes",
+    "occupation": "Poet, social activist, novelist, playwright, and columnist",
+    "achievements": [
+      "Key figure in the Harlem Renaissance",
+      "Celebrated for his insightful portrayals of Black life in America"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1967
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Danica McKellar",
+    "givenNames": [
+      "Danica",
+      "Mae"
+    ],
+    "familyName": "McKellar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danica_McKellar",
+    "occupation": "Actress, mathematician",
+    "achievements": [
+      "Known for her role as Winnie Cooper in the television series 'The Wonder Years'",
+      "Authored several books on mathematics aimed at young people"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Danica Patrick",
+    "givenNames": [
+      "Danica",
+      "Sue"
+    ],
+    "familyName": "Patrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danica_Patrick",
+    "occupation": "Race car driver",
+    "achievements": [
+      "First woman to win an IndyCar Series race",
+      "Only woman to lead the Indianapolis 500"
+    ],
+    "yearBorn": 1982
+  }
+]

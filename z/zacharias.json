@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Zacharias Ursinus",
+    "givenNames": [
+      "Zacharias"
+    ],
+    "familyName": "Ursinus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zacharias_Ursinus",
+    "occupation": "German theologian and reformer",
+    "achievements": [
+      "Played a key role in the development of Lutheran theology.",
+      "Authored influential works on Christian doctrine and practice."
+    ],
+    "yearBorn": 1534,
+    "yearDied": 1583
+  }
+]

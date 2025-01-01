@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lindsay Lohan",
+    "givenNames": [
+      "Lindsay",
+      "Dee"
+    ],
+    "familyName": "Lohan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindsay_Lohan",
+    "occupation": "Actress, Singer, Songwriter",
+    "achievements": [
+      "Known for roles in films like 'The Parent Trap', 'Mean Girls', and 'Freaky Friday'",
+      "Music career with albums including 'Speak' and 'A Little More Personal (Raw)'"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Lindsay Wagner",
+    "givenNames": [
+      "Lindsay",
+      "Jean"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lindsay_Wagner",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the TV series 'The Bionic Woman'",
+      "Won a Primetime Emmy Award for Outstanding Lead Actress in a Drama Series"
+    ],
+    "yearBorn": 1949
+  }
+]

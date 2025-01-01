@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Umberto Eco",
+    "givenNames": [
+      "Umberto"
+    ],
+    "familyName": "Eco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Umberto_Eco",
+    "occupation": "Semiotician, philosopher, novelist",
+    "achievements": [
+      "Authored the best-selling novel 'The Name of the Rose'",
+      "Influential figure in semiotics and literary theory"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Umberto Boccioni",
+    "givenNames": [
+      "Umberto"
+    ],
+    "familyName": "Boccioni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Umberto_Boccioni",
+    "occupation": "Painter, sculptor",
+    "achievements": [
+      "Key figure in the Futurist movement",
+      "Known for his dynamic sculptures and paintings depicting motion and speed"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1916
+  }
+]

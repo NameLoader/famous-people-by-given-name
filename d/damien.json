@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Damien Hirst",
+    "givenNames": [
+      "Damien",
+      "Steven"
+    ],
+    "familyName": "Hirst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Hirst",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his provocative and often controversial art",
+      "One of the Young British Artists (YBAs)",
+      "Famous for works like 'The Physical Impossibility of Death in the Mind of Someone Living'",
+      "Holds the record for the most expensive work by a living artist sold at auction"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Damien Lewis",
+    "givenNames": [
+      "Damian",
+      "Watcyn"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damian_Lewis",
+    "occupation": "Actor",
+    "achievements": [
+      "Won a Primetime Emmy Award and a Golden Globe Award for his role as Nicholas Brody in the Showtime series Homeland",
+      "Known for roles in films like 'Band of Brothers', 'Ocean's Twelve', and 'Robin Hood'"
+    ],
+    "yearBorn": 1971
+  }
+]

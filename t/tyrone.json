@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Tyrone Power",
+    "givenNames": [
+      "Tyrone",
+      "Edmund"
+    ],
+    "familyName": "Power",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrone_Power",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in numerous Hollywood films during the Golden Age of Cinema",
+      "Known for his roles in swashbucklers like 'The Black Swan' and romantic dramas like 'Love Is News'"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Tyrone Willingham",
+    "givenNames": [
+      "Tyrone"
+    ],
+    "familyName": "Willingham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyrone_Willingham",
+    "occupation": "Football Coach",
+    "achievements": [
+      "First African-American head coach in the history of the Pac-10 Conference (now Pac-12)",
+      "Coached at Stanford University, Notre Dame, and the University of Washington"
+    ],
+    "yearBorn": 1953
+  }
+]

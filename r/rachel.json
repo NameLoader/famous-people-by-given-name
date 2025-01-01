@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Rachel Carson",
+    "givenNames": [
+      "Rachel",
+      "Louise"
+    ],
+    "familyName": "Carson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Carson",
+    "occupation": "Marine biologist, conservationist",
+    "achievements": [
+      "Author of Silent Spring, which raised awareness about the dangers of pesticides.",
+      "Credited with launching the modern environmental movement."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Rachel McAdams",
+    "givenNames": [
+      "Rachel",
+      "Anne"
+    ],
+    "familyName": "McAdams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_McAdams",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for two Academy Awards and three Golden Globe Awards.",
+      "Known for roles in films like Mean Girls, The Notebook, and Spotlight."
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Rachel Maddow",
+    "givenNames": [
+      "Rachel",
+      "Anne"
+    ],
+    "familyName": "Maddow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Maddow",
+    "occupation": "Television host, political commentator",
+    "achievements": [
+      "Host of The Rachel Maddow Show on MSNBC.",
+      "Won numerous Emmy Awards and a Grammy Award."
+    ],
+    "yearBorn": 1973
+  }
+]

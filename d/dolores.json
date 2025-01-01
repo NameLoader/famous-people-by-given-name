@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Dolores Huerta",
+    "givenNames": [
+      "Dolores",
+      "Clara",
+      "Fernández"
+    ],
+    "familyName": "Huerta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolores_Huerta",
+    "occupation": "Labor leader and civil rights activist",
+    "achievements": [
+      "Co-founded the United Farm Workers",
+      "Advocate for farmworkers' rights",
+      "Recipient of the Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1930
+  },
+  {
+    "fullName": "Dolores O'Riordan",
+    "givenNames": [
+      "Dolores",
+      "Mary",
+      "Eileen"
+    ],
+    "familyName": "O'Riordan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolores_O%27Riordan",
+    "occupation": "Singer and songwriter",
+    "achievements": [
+      "Lead singer of the band The Cranberries",
+      "Known for her distinctive vocals"
+    ],
+    "yearBorn": 1971,
+    "yearDied": 2018
+  }
+]

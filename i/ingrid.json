@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ingrid Bergman",
+    "givenNames": [
+      "Ingrid"
+    ],
+    "familyName": "Bergman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingrid_Bergman",
+    "occupation": "Actress",
+    "achievements": [
+      "Won three Academy Awards for Best Actress",
+      "Starred in classic films such as Casablanca and Gaslight"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Ingrid Newkirk",
+    "givenNames": [
+      "Ingrid",
+      "Elizabeth"
+    ],
+    "familyName": "Newkirk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingrid_Newkirk",
+    "occupation": "Animal rights activist",
+    "achievements": [
+      "Founder and president of PETA (People for the Ethical Treatment of Animals)",
+      "Prominent voice in the animal rights movement"
+    ],
+    "yearBorn": 1949
+  }
+]

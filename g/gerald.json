@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Gerald Ford",
+    "givenNames": [
+      "Gerald",
+      "Rudolph"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Ford",
+    "occupation": "Politician",
+    "achievements": [
+      "38th President of the United States",
+      "Vice President under Richard Nixon"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Gerald Durrell",
+    "givenNames": [
+      "Gerald",
+      "Malcolm"
+    ],
+    "familyName": "Durrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Durrell",
+    "occupation": "Zookeeper, naturalist, author",
+    "achievements": [
+      "Founded the Durrell Wildlife Conservation Trust",
+      "Author of popular books about his childhood and wildlife"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1995
+  }
+]

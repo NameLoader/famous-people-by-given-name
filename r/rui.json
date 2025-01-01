@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Rui Patricio",
+    "givenNames": [
+      "Rui",
+      "Pedro",
+      "dos Santos"
+    ],
+    "familyName": "Patrício",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rui_Patr%C3%ADcio",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Euro 2016 winner with Portugal",
+      "Played for Sporting CP, Wolverhampton Wanderers, and the Portugal national team"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Rui Costa",
+    "givenNames": [
+      "Rui",
+      "Manuel",
+      "César"
+    ],
+    "familyName": "Costa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rui_Costa",
+    "occupation": "Footballer, Politician",
+    "achievements": [
+      "Won Serie A with Fiorentina and AC Milan",
+      "Portuguese Footballer of the Year in 1996 and 1998",
+      "Served as President of Benfica since 2013"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Rui Hachimura",
+    "givenNames": [
+      "Rui"
+    ],
+    "familyName": "Hachimura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rui_Hachimura",
+    "occupation": "Basketball player",
+    "achievements": [
+      "First Japanese-born player to be drafted in the first round of the NBA draft",
+      "Plays for the Los Angeles Lakers"
+    ],
+    "yearBorn": 1998
+  }
+]

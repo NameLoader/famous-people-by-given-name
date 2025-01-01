@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Winston Churchill",
+    "givenNames": [
+      "Winston",
+      "Leonard",
+      "Spencer"
+    ],
+    "familyName": "Churchill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
+    "occupation": "Prime Minister, Statesman, Writer",
+    "achievements": [
+      "Led the United Kingdom to victory in World War II",
+      "Nobel Prize in Literature (1953)"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Winston Duke",
+    "givenNames": [
+      "Winston"
+    ],
+    "familyName": "Duke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Duke",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Black Panther' and 'Us'"
+    ],
+    "yearBorn": 1986
+  }
+]

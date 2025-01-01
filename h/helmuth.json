@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Helmuth von Moltke the Elder",
+    "givenNames": [
+      "Helmuth",
+      "Karl",
+      "Bernhard"
+    ],
+    "familyName": "Moltke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder",
+    "occupation": "Prussian field marshal",
+    "achievements": [
+      "Chief of the Prussian General Staff",
+      "Orchestrated Prussian victories in the Second Schleswig War and the Austro-Prussian War"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1891
+  },
+  {
+    "fullName": "Helmuth von Moltke the Younger",
+    "givenNames": [
+      "Helmuth",
+      "Johannes",
+      "Ludwig"
+    ],
+    "familyName": "Moltke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Younger",
+    "occupation": "German field marshal",
+    "achievements": [
+      "Chief of the German General Staff during World War I"
+    ],
+    "yearBorn": 1848,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Helmuth Newton",
+    "givenNames": [
+      "Helmut"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Newton",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for his provocative and stylized fashion photography",
+      "Photographed many famous celebrities and models"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Helmuth Koinigg",
+    "givenNames": [
+      "Helmuth"
+    ],
+    "familyName": "Koinigg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmuth_Koinigg",
+    "occupation": "Austrian racing driver",
+    "achievements": [
+      "Competed in Formula One"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1974
+  }
+]

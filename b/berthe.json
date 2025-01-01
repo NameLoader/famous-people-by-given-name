@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Berthe Morisot",
+    "givenNames": [
+      "Berthe",
+      "Marie",
+      "Pauline"
+    ],
+    "familyName": "Morisot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Berthe_Morisot",
+    "occupation": "Painter",
+    "achievements": [
+      "One of the founders of Impressionism",
+      "Known for her depictions of women and domestic life"
+    ],
+    "yearBorn": 1841,
+    "yearDied": 1895
+  }
+]

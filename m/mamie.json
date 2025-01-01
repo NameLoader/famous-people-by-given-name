@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Mamie Eisenhower",
+    "givenNames": [
+      "Mamie",
+      "Mary",
+      "Geneva"
+    ],
+    "familyName": "Eisenhower",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamie_Eisenhower",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Served as First Lady from 1953 to 1961",
+      "Known for her warm personality and dedication to social causes"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1979
+  }
+]

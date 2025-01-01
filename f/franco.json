@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Franco Zeffirelli",
+    "givenNames": [
+      "Franco"
+    ],
+    "familyName": "Zeffirelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Zeffirelli",
+    "occupation": "Film director, theatre and opera director, screenwriter, and producer",
+    "achievements": [
+      "Directed acclaimed films such as Romeo and Juliet (1968) and The Champ (1979)",
+      "Staged numerous operas at La Scala and other renowned venues",
+      "Received a Tony Award for Best Direction of a Play for"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2019
+  }
+]

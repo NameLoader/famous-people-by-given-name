@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Effie Gray",
+    "givenNames": [
+      "Euphemia",
+      "Chalmers"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Effie_Gray",
+    "occupation": "Subject of a Victorian art scandal, later a successful author and painter.",
+    "achievements": [
+      "Inspired John Ruskin's artwork",
+      "Became a prominent figure in the Pre-Raphaelite Brotherhood"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1877
+  }
+]

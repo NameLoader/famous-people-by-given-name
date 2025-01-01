@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Aloysius Bertrand",
+    "givenNames": [
+      "Aloysius"
+    ],
+    "familyName": "Bertrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aloysius_Bertrand",
+    "occupation": "Poet, writer",
+    "achievements": [
+      "Pioneer of Symbolism in French literature",
+      "Known for his poetry collection 'Gaspard de la nuit'"
+    ],
+    "yearBorn": 1807,
+    "yearDied": 1841
+  },
+  {
+    "fullName": "Saint Aloysius Gonzaga",
+    "givenNames": [
+      "Aloysius",
+      "Luigi"
+    ],
+    "familyName": "Gonzaga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aloysius_Gonzaga",
+    "occupation": "Jesuit novice, saint",
+    "achievements": [
+      "Patron saint of youth, Jesuit novices, and the sick"
+    ],
+    "yearBorn": 1568,
+    "yearDied": 1591
+  }
+]

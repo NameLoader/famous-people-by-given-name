@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Gloria Steinem",
+    "givenNames": [
+      "Gloria",
+      "Marie"
+    ],
+    "familyName": "Steinem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Steinem",
+    "occupation": "Writer, feminist activist",
+    "achievements": [
+      "Co-founded Ms. magazine",
+      "Prominent figure in the women's liberation movement"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Gloria Swanson",
+    "givenNames": [
+      "Gloria",
+      "Josephine",
+      "Mae"
+    ],
+    "familyName": "Swanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Swanson",
+    "occupation": "Actress",
+    "achievements": [
+      "Silent film star",
+      "Known for her roles in films like 'Sunset Boulevard'"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1983
+  },
+  {
+    "fullName": "Gloria Gaynor",
+    "givenNames": [
+      "Gloria"
+    ],
+    "familyName": "Gaynor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Gaynor",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Disco icon",
+      "Won a Grammy Award for her hit song 'I Will Survive'"
+    ],
+    "yearBorn": 1943
+  }
+]

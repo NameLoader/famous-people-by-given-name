@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Olaf Scholz",
+    "givenNames": [
+      "Olaf"
+    ],
+    "familyName": "Scholz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of Germany",
+      "Mayor of Hamburg",
+      "Vice-Chancellor of Germany"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Olaf Palme",
+    "givenNames": [
+      "Sven",
+      "Olof",
+      "Joachim"
+    ],
+    "familyName": "Palme",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olof_Palme",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Sweden"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Olaf Stapledon",
+    "givenNames": [
+      "Olaf",
+      "William"
+    ],
+    "familyName": "Stapledon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Stapledon",
+    "occupation": "Science fiction writer",
+    "achievements": [
+      "Known for visionary and philosophical science fiction works like 'Last and First Men'",
+      "Influential figure in the development of the genre"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1950
+  }
+]

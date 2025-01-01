@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sigismund of Luxembourg",
+    "givenNames": [
+      "Sigismund"
+    ],
+    "familyName": "Luxembourg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor",
+    "occupation": "Holy Roman Emperor",
+    "achievements": [
+      "Elected Holy Roman Emperor in 1410.",
+      "Known for his patronage of the arts and learning."
+    ],
+    "yearBorn": 1368,
+    "yearDied": 1437
+  },
+  {
+    "fullName": "Sigismund III Vasa",
+    "givenNames": [
+      "Sigismund",
+      "III"
+    ],
+    "familyName": "Vasa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigismund_III_Vasa",
+    "occupation": "King of Poland and Sweden",
+    "achievements": [
+      "Reigned as King of Poland-Lithuania from 1587 to 1632.",
+      "Led the Polish-Lithuanian Commonwealth during a period of expansion and conflict."
+    ],
+    "yearBorn": 1566,
+    "yearDied": 1632
+  }
+]

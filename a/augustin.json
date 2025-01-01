@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Augustin Louis Cauchy",
+    "givenNames": [
+      "Augustin",
+      "Louis"
+    ],
+    "familyName": "Cauchy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+    "occupation": "Mathematician, Physicist",
+    "achievements": [
+      "Significant contributions to calculus, analysis, and number theory",
+      "Developed Cauchy's integral theorem"
+    ],
+    "yearBorn": 1789,
+    "yearDied": 1857
+  }
+]

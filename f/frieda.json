@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Frieda Kahlo",
+    "givenNames": [
+      "Frida"
+    ],
+    "familyName": "Kahlo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for her self-portraits and surrealist works exploring themes of identity, pain, and the female experience.",
+      "Considered a feminist icon and one of the most famous artists of the 20th century."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1954
+  },
+  {
+    "fullName": "Frieda Pinto",
+    "givenNames": [
+      "Freida",
+      "Selena"
+    ],
+    "familyName": "Pinto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freida_Pinto",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films such as 'Slumdog Millionaire', 'Rise of the Planet of the Apes', and 'Love Sonia'.",
+      "Has also appeared in television series and is a prominent figure in Bollywood cinema."
+    ],
+    "yearBorn": 1984
+  }
+]

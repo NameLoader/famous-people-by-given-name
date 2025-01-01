@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Cornelius Vanderbilt",
+    "givenNames": [
+      "Cornelius"
+    ],
+    "familyName": "Vanderbilt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt",
+    "occupation": "Businessman, industrialist, and philanthropist",
+    "achievements": [
+      "Built a shipping and railroad empire.",
+      "Became one of the wealthiest Americans in history."
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1877
+  },
+  {
+    "fullName": "Cornelius Castoriadis",
+    "givenNames": [
+      "Cornelius"
+    ],
+    "familyName": "Castoriadis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cornelius_Castoriadis",
+    "occupation": "Philosopher and political theorist",
+    "achievements": [
+      "Developed the concept of 'radical imagination'.",
+      "Critiqued both capitalism and Marxism."
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1997
+  }
+]

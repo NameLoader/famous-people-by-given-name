@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Glen Campbell",
+    "givenNames": [
+      "Glen",
+      "Travis"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Campbell",
+    "occupation": "Singer, songwriter, guitarist, and actor",
+    "achievements": [
+      "Won numerous Grammy Awards and Academy of Country Music Awards",
+      "Known for hits like 'Rhinestone Cowboy' and 'Wichita Lineman'"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Glen Hansard",
+    "givenNames": [
+      "Glen",
+      "James"
+    ],
+    "familyName": "Hansard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Hansard",
+    "occupation": "Singer, songwriter, guitarist, and actor",
+    "achievements": [
+      "Academy Award for Best Original Song for 'Falling Slowly'",
+      "Fronted the Irish band The Frames"
+    ],
+    "yearBorn": 1970
+  }
+]

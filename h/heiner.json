@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Heiner Müller",
+    "givenNames": [
+      "Heiner"
+    ],
+    "familyName": "Müller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heiner_M%C3%BCller",
+    "occupation": "German playwright, poet and theatre director",
+    "achievements": [
+      "One of the most important post-war German playwrights",
+      "His works explored themes of political oppression, social alienation and existentialism."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1995
+  }
+]

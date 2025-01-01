@@ -1,0 +1,28 @@
+[
+  {
+    "fullName": "Megumi Hayashibara",
+    "givenNames": [
+      "Megumi"
+    ],
+    "familyName": "Hayashibara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megumi_Hayashibara",
+    "occupation": "Voice actress, singer",
+    "achievements": [
+      "Known for voicing iconic anime characters like Rei Ayanami in Neon Genesis Evangelion and Faye Valentine in Cowboy Bebop"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Megumi Ogata",
+    "givenNames": [
+      "Megumi"
+    ],
+    "familyName": "Ogata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megumi_Ogata",
+    "occupation": "Voice actress, singer",
+    "achievements": [
+      "Known for voicing characters like Shinji Ikari in Neon Genesis Evangelion and Kurama in YuYu Hakusho"
+    ],
+    "yearBorn": 1965
+  }
+]

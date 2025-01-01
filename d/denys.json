@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Denys Finch Hatton",
+    "givenNames": [
+      "Denys",
+      "George"
+    ],
+    "familyName": "Finch Hatton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denys_Finch_Hatton",
+    "occupation": "Adventurer, Hunter, Writer",
+    "achievements": [
+      "Lover of Karen Blixen (Isak Dinesen)",
+      "Featured in her memoir 'Out of Africa'",
+      "Known for his explorations and safaris in East Africa"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1931
+  },
+  {
+    "fullName": "Denys Arcand",
+    "givenNames": [
+      "Denys"
+    ],
+    "familyName": "Arcand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denys_Arcand",
+    "occupation": "Film Director, Screenwriter, Producer",
+    "achievements": [
+      "Won the Palme d'Or at the Cannes Film Festival for 'Jesus of Montreal'",
+      "Known for his films exploring themes of identity, Quebec culture, and religion"
+    ],
+    "yearBorn": 1941
+  }
+]

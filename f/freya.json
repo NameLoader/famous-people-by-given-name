@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Freya Ridings",
+    "givenNames": [
+      "Freya",
+      "Olivia",
+      "Rose"
+    ],
+    "familyName": "Ridings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freya_Ridings",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Released the hit single 'Lost Without You'",
+      "Performed at major music festivals worldwide"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Freya Allan",
+    "givenNames": [
+      "Freya"
+    ],
+    "familyName": "Allan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Freya_Allan",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred as Ciri in the Netflix series 'The Witcher'"
+    ],
+    "yearBorn": 2001
+  }
+]

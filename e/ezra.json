@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Ezra Pound",
+    "givenNames": [
+      "Ezra",
+      "Weston",
+      "Loomis"
+    ],
+    "familyName": "Pound",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Pound",
+    "occupation": "Poet, Critic",
+    "achievements": [
+      "Major figure in Modernist literature",
+      "Influential poetry and literary criticism",
+      "Known for experimental works like 'The Cantos'"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1972
+  },
+  {
+    "fullName": "Ezra Miller",
+    "givenNames": [
+      "Ezra",
+      "Matthew"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Miller",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'We Need to Talk About Kevin', 'Perks of Being a Wallflower', and the 'Fantastic Beasts' franchise"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Ezra Klein",
+    "givenNames": [
+      "Ezra"
+    ],
+    "familyName": "Klein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Klein",
+    "occupation": "Journalist, Podcaster",
+    "achievements": [
+      "Founder of Vox.com",
+      "Host of the popular podcast 'The Ezra Klein Show'"
+    ],
+    "yearBorn": 1984
+  }
+]

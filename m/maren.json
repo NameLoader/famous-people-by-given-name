@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Maren Morris",
+    "givenNames": [
+      "Maren",
+      "Larae"
+    ],
+    "familyName": "Morris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maren_Morris",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Country Music Association Awards winner"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Maren Ade",
+    "givenNames": [
+      "Maren"
+    ],
+    "familyName": "Ade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maren_Ade",
+    "occupation": "Film director",
+    "achievements": [
+      "Academy Award nominee for Best Foreign Language Film (Toni Erdmann)",
+      "European Film Award winner"
+    ],
+    "yearBorn": 1976
+  }
+]

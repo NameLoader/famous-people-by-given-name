@@ -1,0 +1,52 @@
+[
+  {
+    "fullName": "Helmut Kohl",
+    "givenNames": [
+      "Helmut",
+      "Josef",
+      "Michael"
+    ],
+    "familyName": "Kohl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Kohl",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of Germany (1982-1998)",
+      "Key figure in German reunification",
+      "Nobel Peace Prize nominee"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Helmut Newton",
+    "givenNames": [
+      "Helmut"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Newton",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for provocative and stylized fashion photography",
+      "Influential figure in art photography"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Helmut Schmidt",
+    "givenNames": [
+      "Helmut",
+      "Heinrich",
+      "Waldemar"
+    ],
+    "familyName": "Schmidt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Schmidt",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of West Germany (1974-1982)",
+      "Known for his pragmatic and cautious approach to politics"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2015
+  }
+]

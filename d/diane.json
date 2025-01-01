@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Diane Sawyer",
+    "givenNames": [
+      "Lila",
+      "Diane"
+    ],
+    "familyName": "Sawyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Sawyer",
+    "occupation": "Journalist",
+    "achievements": [
+      "First female solo anchor of ABC's World News Tonight",
+      "Multiple Emmy Awards",
+      "Peabody Award"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Diane Lane",
+    "givenNames": [
+      "Diane"
+    ],
+    "familyName": "Lane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Lane",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for Academy Awards and Golden Globe Awards",
+      "Starred in films like Unfaithful, The Perfect Storm, and Man of Steel"
+    ],
+    "yearBorn": 1965
+  }
+]

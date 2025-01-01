@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lila Downs",
+    "givenNames": [
+      "Lila",
+      "Ana"
+    ],
+    "familyName": "Downs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lila_Downs",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her blend of Mexican folk music and jazz"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Lila Rose",
+    "givenNames": [
+      "Lila",
+      "Grace"
+    ],
+    "familyName": "Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lila_Rose",
+    "occupation": "Anti-abortion activist",
+    "achievements": [
+      "Founder and president of Live Action",
+      "Known for undercover investigations into Planned Parenthood"
+    ],
+    "yearBorn": 1987
+  }
+]

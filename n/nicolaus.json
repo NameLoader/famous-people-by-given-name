@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nicolaus Copernicus",
+    "givenNames": [
+      "Nicolaus"
+    ],
+    "familyName": "Copernicus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "occupation": "Astronomer, Mathematician",
+    "achievements": [
+      "Developed the heliocentric model of the solar system"
+    ],
+    "yearBorn": 1473,
+    "yearDied": 1543
+  },
+  {
+    "fullName": "Nicolaus Steno",
+    "givenNames": [
+      "Nicolaus",
+      "Niels"
+    ],
+    "familyName": "Steno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Steno",
+    "occupation": "Anatomist, Geologist",
+    "achievements": [
+      "Pioneering work in stratigraphy and crystallography",
+      "Considered the 'father of geology'"
+    ],
+    "yearBorn": 1638,
+    "yearDied": 1686
+  }
+]

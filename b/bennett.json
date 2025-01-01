@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bennett Cerf",
+    "givenNames": [
+      "Bennett",
+      "Alfred"
+    ],
+    "familyName": "Cerf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bennett_Cerf",
+    "occupation": "Publisher",
+    "achievements": [
+      "Co-founded Random House",
+      "Prominent figure in the American publishing industry"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Bennett Miller",
+    "givenNames": [
+      "Bennett",
+      "Altman"
+    ],
+    "familyName": "Miller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bennett_Miller",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed films such as 'Moneyball' and 'Foxcatcher'",
+      "Known for his realistic and character-driven approach"
+    ]
+  }
+]

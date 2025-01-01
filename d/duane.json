@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Duane Allman",
+    "givenNames": [
+      "Duane",
+      "Howard"
+    ],
+    "familyName": "Allman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duane_Allman",
+    "occupation": "Guitarist, Singer-songwriter",
+    "achievements": [
+      "Founding member of the Allman Brothers Band",
+      "Renowned slide guitarist",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1971
+  }
+]

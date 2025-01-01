@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Neil Armstrong",
+    "givenNames": [
+      "Neil",
+      "Alden"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+    "occupation": "Astronaut, Engineer",
+    "achievements": [
+      "First person to walk on the Moon"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Neil Young",
+    "givenNames": [
+      "Neil",
+      "Percival"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Young",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Prolific and influential career in rock music",
+      "Known for his distinctive voice and guitar playing"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Neil Gaiman",
+    "givenNames": [
+      "Neil",
+      "Richard",
+      "MacKinnon"
+    ],
+    "familyName": "Gaiman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Gaiman",
+    "occupation": "Author, Comic Book Writer, Screenwriter",
+    "achievements": [
+      "Award-winning works of fantasy, science fiction, and horror",
+      "Notable for graphic novels like 'The Sandman'"
+    ],
+    "yearBorn": 1960
+  }
+]

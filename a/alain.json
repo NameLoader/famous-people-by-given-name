@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Alain Prost",
+    "givenNames": [
+      "Alain",
+      "Marie",
+      "Pascal"
+    ],
+    "familyName": "Prost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alain_Prost",
+    "occupation": "Formula One driver",
+    "achievements": [
+      "Four-time Formula One World Champion",
+      "Considered one of the greatest Formula One drivers of all time"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Alain Delon",
+    "givenNames": [
+      "Alain",
+      "Fabien",
+      "Maurice",
+      "Marcel"
+    ],
+    "familyName": "Delon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alain_Delon",
+    "occupation": "Actor",
+    "achievements": [
+      "Iconic French actor",
+      "Starred in numerous acclaimed films",
+      "Recipient of multiple César Awards"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Alain Robbe-Grillet",
+    "givenNames": [
+      "Alain"
+    ],
+    "familyName": "Robbe-Grillet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alain_Robbe-Grillet",
+    "occupation": "Novelist, screenwriter, and filmmaker",
+    "achievements": [
+      "Prominent figure in the Nouveau Roman movement",
+      "Won the Prix Renaudot for his novel 'Les Gommes'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2008
+  }
+]

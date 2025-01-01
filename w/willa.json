@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Willa Cather",
+    "givenNames": [
+      "Willa",
+      "Sibert"
+    ],
+    "familyName": "Cather",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willa_Cather",
+    "occupation": "Author",
+    "achievements": [
+      "Pulitzer Prize for Fiction (1923)",
+      "Known for novels depicting pioneer life on the American frontier, such as 'My Ántonia' and 'O Pioneers!'",
+      "Influential figure in American literature"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Willa Fitzgerald",
+    "givenNames": [
+      "Willa"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willa_Fitzgerald",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in television series such as 'Scream: The TV Series' and 'Royal Pains'",
+      "Appeared in films including 'The Goldfinch'"
+    ],
+    "yearBorn": 1991
+  }
+]

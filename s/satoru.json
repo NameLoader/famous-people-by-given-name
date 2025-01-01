@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Satoru Iwata",
+    "givenNames": [
+      "Satoru"
+    ],
+    "familyName": "Iwata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoru_Iwata",
+    "occupation": "Businessman, video game programmer",
+    "achievements": [
+      "President of Nintendo from 2002 to 2015",
+      "Developed key games for HAL Laboratory and Nintendo",
+      "Helped revitalize Nintendo with innovative consoles like the Wii and DS"
+    ],
+    "yearBorn": 1959,
+    "yearDied": 2015
+  }
+]

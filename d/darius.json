@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Darius Rucker",
+    "givenNames": [
+      "Darius",
+      "Carlos"
+    ],
+    "familyName": "Rucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_Rucker",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Lead singer of Hootie & the Blowfish",
+      "Successful solo career in country music"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Darius Miles",
+    "givenNames": [
+      "Darius",
+      "LaVar"
+    ],
+    "familyName": "Miles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_Miles",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played in the NBA for the Cleveland Cavaliers and Portland Trail Blazers"
+    ],
+    "yearBorn": 1981
+  }
+]

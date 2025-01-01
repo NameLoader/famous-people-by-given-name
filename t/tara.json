@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Tara Strong",
+    "givenNames": [
+      "Tara",
+      "Lyn"
+    ],
+    "familyName": "Strong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_Strong",
+    "occupation": "Voice actress, Actress",
+    "achievements": [
+      "Known for voicing characters in animated series like Bubbles in The Powerpuff Girls and Timmy Turner in The Fairly OddParents",
+      "Winner of multiple Annie Awards for voice acting"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Tara Sutaria",
+    "givenNames": [
+      "Tara"
+    ],
+    "familyName": "Sutaria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_Sutaria",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Debuted in the Bollywood film Student of the Year 2",
+      "Known for roles in films like Marjaavaan and Tadap"
+    ],
+    "yearBorn": 1995
+  }
+]

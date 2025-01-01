@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Selena Quintanilla-Pérez",
+    "givenNames": [
+      "Selena"
+    ],
+    "familyName": "Quintanilla-Pérez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selena",
+    "occupation": "Singer, songwriter, spokesperson, model, actress",
+    "achievements": [
+      "Known as the 'Queen of Tejano music'",
+      "Won a Grammy Award",
+      "Became one of the most successful Latin artists of all time"
+    ],
+    "yearBorn": 1971,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Selena Gomez",
+    "givenNames": [
+      "Selena",
+      "Marie"
+    ],
+    "familyName": "Gomez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selena_Gomez",
+    "occupation": "Singer, actress, producer",
+    "achievements": [
+      "Starred in Disney Channel series 'Wizards of Waverly Place'",
+      "Released numerous hit songs and albums",
+      "Became one of the most followed people on Instagram"
+    ],
+    "yearBorn": 1992
+  }
+]

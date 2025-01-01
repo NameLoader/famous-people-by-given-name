@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Wilbur Wright",
+    "givenNames": [
+      "Wilbur"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wright_brothers",
+    "occupation": "Aviation Pioneer",
+    "achievements": [
+      "First successful airplane flight with brother Orville",
+      "Inventor and innovator in the field of aviation"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Wilbur Scoville",
+    "givenNames": [
+      "Wilbur",
+      "Lincoln"
+    ],
+    "familyName": "Scoville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilbur_Scoville",
+    "occupation": "Pharmacist",
+    "achievements": [
+      "Developed the Scoville scale to measure the pungency of chili peppers"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1942
+  },
+  {
+    "fullName": "Wilbur Ross",
+    "givenNames": [
+      "Wilbur",
+      "Louis"
+    ],
+    "familyName": "Ross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilbur_Ross",
+    "occupation": "Businessman, Politician",
+    "achievements": [
+      "Served as the 43rd United States Secretary of Commerce",
+      "Successful investor and businessman"
+    ],
+    "yearBorn": 1937
+  }
+]

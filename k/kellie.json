@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kellie Pickler",
+    "givenNames": [
+      "Kellie",
+      "Dawn"
+    ],
+    "familyName": "Pickler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kellie_Pickler",
+    "occupation": "Singer, songwriter, television personality",
+    "achievements": [
+      "American Idol Season 5 finalist",
+      "Country Music Award winner",
+      "Daytime Emmy Award winner"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Kellie Leitch",
+    "givenNames": [
+      "Khristinn",
+      "Kellie"
+    ],
+    "familyName": "Leitch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kellie_Leitch",
+    "occupation": "Politician, physician",
+    "achievements": [
+      "Member of Parliament for Simcoe-Grey (2011-2019)",
+      "Candidate for the Conservative Party leadership (2017)"
+    ],
+    "yearBorn": 1972
+  }
+]

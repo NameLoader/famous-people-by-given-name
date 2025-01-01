@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Daria Morgendorffer",
+    "givenNames": [
+      "Daria"
+    ],
+    "familyName": "Morgendorffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daria_Morgendorffer",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the animated MTV series 'Daria'",
+      "Known for her dry wit and cynical observations"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Daria Kasatkina",
+    "givenNames": [
+      "Daria",
+      "Sergeyevna"
+    ],
+    "familyName": "Kasatkina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daria_Kasatkina",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Reached a career-high singles ranking of World No. 8",
+      "Won four WTA Tour singles titles"
+    ],
+    "yearBorn": 1997
+  }
+]

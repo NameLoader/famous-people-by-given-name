@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Rhoda Penmark",
+    "givenNames": [
+      "Rhoda"
+    ],
+    "familyName": "Penmark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhoda_Penmark",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the novel and film 'The Bad Seed'"
+    ]
+  },
+  {
+    "fullName": "Rhoda Morgenstern",
+    "givenNames": [
+      "Rhoda"
+    ],
+    "familyName": "Morgenstern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhoda",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Lead character in the television sitcom 'Rhoda'"
+    ]
+  }
+]

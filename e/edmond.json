@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Edmond Halley",
+    "givenNames": [
+      "Edmond",
+      "Edmund"
+    ],
+    "familyName": "Halley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmond_Halley",
+    "occupation": "Astronomer, geophysicist, mathematician, meteorologist, physicist",
+    "achievements": [
+      "Computed the orbit of Halley's Comet",
+      "Predicted its return in 1758",
+      "Developed a method for calculating mortality rates"
+    ],
+    "yearBorn": 1656,
+    "yearDied": 1742
+  },
+  {
+    "fullName": "Edmond Rostand",
+    "givenNames": [
+      "Edmond",
+      "Eugène",
+      "Alexis"
+    ],
+    "familyName": "Rostand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edmond_Rostand",
+    "occupation": "Playwright, poet",
+    "achievements": [
+      "Authored the play Cyrano de Bergerac",
+      "Became a member of the Académie française"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1925
+  }
+]

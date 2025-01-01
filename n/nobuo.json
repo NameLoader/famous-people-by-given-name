@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Nobuo Uematsu",
+    "givenNames": [
+      "Nobuo"
+    ],
+    "familyName": "Uematsu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nobuo_Uematsu",
+    "occupation": "Video game music composer",
+    "achievements": [
+      "Composed soundtracks for the Final Fantasy series and other Square Enix games",
+      "Won numerous awards for his work, including the Japan Game Awards' Music Award"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Nobuo Kishi",
+    "givenNames": [
+      "Nobuo"
+    ],
+    "familyName": "Kishi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nobuo_Kishi",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the Defense Minister of Japan from 2012 to 2014 and again in 2020",
+      "Member of the House of Representatives since 1993"
+    ],
+    "yearBorn": 1959
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Antonello da Messina",
+    "givenNames": [
+      "Antonello"
+    ],
+    "familyName": "da Messina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonello_da_Messina",
+    "occupation": "Painter",
+    "achievements": [
+      "Pioneer of oil painting in Italy",
+      "Known for his realistic portraits and religious scenes"
+    ],
+    "yearBorn": 1430,
+    "yearDied": 1479
+  }
+]

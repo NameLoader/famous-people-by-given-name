@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Tristan Tzara",
+    "givenNames": [
+      "Tristan"
+    ],
+    "familyName": "Tzara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tristan_Tzara",
+    "occupation": "Poet, essayist, performance artist",
+    "achievements": [
+      "Founder of the Dada art movement",
+      "Pioneer of avant-garde literature and performance art"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Tristan Wirfs",
+    "givenNames": [
+      "Tristan"
+    ],
+    "familyName": "Wirfs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tristan_Wirfs",
+    "occupation": "American football player",
+    "achievements": [
+      "NFL Offensive Rookie of the Year (2020)",
+      "Two-time Pro Bowler"
+    ],
+    "yearBorn": 1999
+  }
+]

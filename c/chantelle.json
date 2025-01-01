@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Chantelle Houghton",
+    "givenNames": [
+      "Chantelle",
+      "Vivien"
+    ],
+    "familyName": "Houghton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chantelle_Houghton",
+    "occupation": "Reality television personality, model",
+    "achievements": [
+      "Winner of Celebrity Big Brother UK 2006",
+      "Appeared on numerous other reality television shows"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Chantelle Cameron",
+    "givenNames": [
+      "Chantelle"
+    ],
+    "familyName": "Cameron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chantelle_Cameron",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Undisputed World Super-Lightweight Champion",
+      "Former WBC Super-Featherweight Champion"
+    ],
+    "yearBorn": 1991
+  }
+]

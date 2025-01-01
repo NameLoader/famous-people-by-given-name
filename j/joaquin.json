@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Joaquin Phoenix",
+    "givenNames": [
+      "Joaquin",
+      "Rafael"
+    ],
+    "familyName": "Phoenix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joaquin_Phoenix",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Grammy Award nomination",
+      "Known for roles in films like Gladiator, Walk the Line, Joker"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Joaquin Correa",
+    "givenNames": [
+      "Joaquin",
+      "Carlos"
+    ],
+    "familyName": "Correa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Correa",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a forward for Inter Milan and the Argentina national team",
+      "Won the Copa América with Argentina in 2021"
+    ],
+    "yearBorn": 1994
+  }
+]

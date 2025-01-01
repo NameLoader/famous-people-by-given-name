@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Prince Rogers Nelson",
+    "givenNames": [
+      "Prince",
+      "Rogers"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Prince_(musician)",
+    "occupation": "Musician, singer-songwriter, multi-instrumentalist, record producer",
+    "achievements": [
+      "Sold over 100 million records worldwide",
+      "Won seven Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame in 2004",
+      "Known for his innovative music, flamboyant stage presence, and eclectic style"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2016
+  }
+]

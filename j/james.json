@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "James Clerk Maxwell",
+    "givenNames": [
+      "James",
+      "Clerk"
+    ],
+    "familyName": "Maxwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "occupation": "Physicist",
+    "achievements": [
+      "Formulated the classical theory of electromagnetic radiation",
+      "Fundamental contributions to statistical mechanics and thermodynamics"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1879
+  },
+  {
+    "fullName": "James Joyce",
+    "givenNames": [
+      "James",
+      "Augustine",
+      "Aloysius"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce",
+    "occupation": "Writer and Poet",
+    "achievements": [
+      "Modernist literary giant",
+      "Known for works like Ulysses and Finnegans Wake"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1941
+  },
+  {
+    "fullName": "James Baldwin",
+    "givenNames": [
+      "James",
+      "Arthur"
+    ],
+    "familyName": "Baldwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Baldwin",
+    "occupation": "Writer and Activist",
+    "achievements": [
+      "Powerful voice in the Civil Rights Movement",
+      "Known for essays and novels exploring race, sexuality, and social justice"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "James Cameron",
+    "givenNames": [
+      "James",
+      "Francis"
+    ],
+    "familyName": "Cameron",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Cameron",
+    "occupation": "Film Director and Producer",
+    "achievements": [
+      "Directed blockbuster films like Titanic and Avatar",
+      "Pioneer in filmmaking technology"
+    ],
+    "yearBorn": 1954
+  }
+]

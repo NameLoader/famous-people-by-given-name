@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Joy Harjo",
+    "givenNames": [
+      "Joy"
+    ],
+    "familyName": "Harjo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joy_Harjo",
+    "occupation": "Poet, musician, playwright",
+    "achievements": [
+      "First Native American to be named the U.S. Poet Laureate",
+      "Award-winning poet and author"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Joy Behar",
+    "givenNames": [
+      "Josephine",
+      "Victoria",
+      "Joy"
+    ],
+    "familyName": "Behar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joy_Behar",
+    "occupation": "Comedian, talk show host, actress",
+    "achievements": [
+      "Co-host of 'The View'",
+      "Stand-up comedian and author"
+    ],
+    "yearBorn": 1942
+  }
+]

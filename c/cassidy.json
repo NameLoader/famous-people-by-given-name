@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Cassidy Gifford",
+    "givenNames": [
+      "Cassidy",
+      "Erin"
+    ],
+    "familyName": "Gifford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassidy_Gifford",
+    "occupation": "Actress, Television personality",
+    "achievements": [
+      "Daughter of Kathie Lee Gifford and Frank Gifford",
+      "Appeared in various television shows and films"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Cassidy Freeman",
+    "givenNames": [
+      "Cassidy"
+    ],
+    "familyName": "Freeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassidy_Freeman",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her roles in 'Smallville' and 'The Time Traveler's Wife'",
+      "Released music as a singer-songwriter"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Cassidy Hubbarth",
+    "givenNames": [
+      "Cassidy"
+    ],
+    "familyName": "Hubbarth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassidy_Hubbarth",
+    "occupation": "Sportscaster",
+    "achievements": [
+      "Anchor for ESPN's 'NBA Tonight'",
+      "Known for her coverage of the NBA and college basketball"
+    ],
+    "yearBorn": 1984
+  }
+]

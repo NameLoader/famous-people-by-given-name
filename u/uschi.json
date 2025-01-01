@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Uschi Glas",
+    "givenNames": [
+      "Uschi",
+      "Helga",
+      "Ursula"
+    ],
+    "familyName": "Glas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uschi_Glas",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in German films and television series.",
+      "Won several awards, including the German Film Award."
+    ],
+    "yearBorn": 1944
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Noé  Lavoisier",
+    "givenNames": [
+      "Antoine-Laurent",
+      "Antoine"
+    ],
+    "familyName": "Lavoisier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+    "occupation": "Chemist",
+    "achievements": [
+      "Considered the 'Father of Modern Chemistry'",
+      "Discovered the role of oxygen in combustion and identified fundamental chemical elements",
+      "Contributed to the development of the metric system"
+    ],
+    "yearBorn": 1743,
+    "yearDied": 1794
+  }
+]

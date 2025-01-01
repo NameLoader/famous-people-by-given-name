@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Alfons Mucha",
+    "givenNames": [
+      "Alfons",
+      "Maria"
+    ],
+    "familyName": "Mucha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+    "occupation": "Artist, Illustrator",
+    "achievements": [
+      "Art Nouveau style",
+      "Posters, illustrations, and decorative arts"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1939
+  }
+]

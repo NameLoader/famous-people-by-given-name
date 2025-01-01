@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Henry VIII",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Tudor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII",
+    "occupation": "King of England",
+    "achievements": [
+      "Established the Church of England",
+      "Had six wives"
+    ],
+    "yearBorn": 1491,
+    "yearDied": 1547
+  },
+  {
+    "fullName": "Henry Ford",
+    "givenNames": [
+      "Henry"
+    ],
+    "familyName": "Ford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ford",
+    "occupation": "Industrialist",
+    "achievements": [
+      "Pioneer of the assembly line",
+      "Founder of Ford Motor Company"
+    ],
+    "yearBorn": 1863,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Henry Kissinger",
+    "givenNames": [
+      "Henry",
+      "Alfred"
+    ],
+    "familyName": "Kissinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Kissinger",
+    "occupation": "Diplomat, political scientist",
+    "achievements": [
+      "Secretary of State under Presidents Nixon and Ford",
+      "Nobel Peace Prize laureate (1973)"
+    ],
+    "yearBorn": 1923
+  },
+  {
+    "fullName": "Henry David Thoreau",
+    "givenNames": [
+      "Henry",
+      "David"
+    ],
+    "familyName": "Thoreau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+    "occupation": "Writer, philosopher",
+    "achievements": [
+      "Author of Walden and Civil Disobedience",
+      "Transcendentalist thinker"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1862
+  }
+]

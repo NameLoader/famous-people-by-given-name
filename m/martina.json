@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Martina Navratilova",
+    "givenNames": [
+      "Martina"
+    ],
+    "familyName": "Navratilova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martina_Navratilova",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Won 18 Grand Slam singles titles",
+      "Won 31 Grand Slam doubles titles",
+      "Held the world No. 1 ranking for a record 332 weeks"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Martina Hingis",
+    "givenNames": [
+      "Martina"
+    ],
+    "familyName": "Hingis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martina_Hingis",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Won 5 Grand Slam singles titles",
+      "Won 13 Grand Slam doubles titles",
+      "Became the youngest player to reach No. 1 in WTA rankings at age 16"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Martina McBride",
+    "givenNames": [
+      "Martina",
+      "Mariea"
+    ],
+    "familyName": "McBride",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martina_McBride",
+    "occupation": "Country Music Singer",
+    "achievements": [
+      "Won 3 Grammy Awards",
+      "Known for powerful vocals and emotionally charged songs"
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Tia Mowry",
+    "givenNames": [
+      "Tia",
+      "Dashon"
+    ],
+    "familyName": "Mowry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tia_Mowry",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Known for her role as Tia Landry in the sitcom 'Sister, Sister'",
+      "Starred in other television series like 'The Game' and 'Family Reunion'"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Tia Carrere",
+    "givenNames": [
+      "Tia"
+    ],
+    "familyName": "Carrere",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tia_Carrere",
+    "occupation": "Actress, Singer, Model",
+    "achievements": [
+      "Won a Grammy Award for Best Hawaiian Music Album in 2009",
+      "Known for her roles in films like 'Wayne's World' and 'True Lies'"
+    ],
+    "yearBorn": 1966
+  }
+]

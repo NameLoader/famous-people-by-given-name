@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Burton Richter",
+    "givenNames": [
+      "Burton"
+    ],
+    "familyName": "Richter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burton_Richter",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1976)",
+      "Discovery of the J/ψ meson"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Burton Gilliam",
+    "givenNames": [
+      "Burton"
+    ],
+    "familyName": "Gilliam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Burton_Gilliam",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Blazing Saddles' and 'The Longest Yard'"
+    ],
+    "yearBorn": 1938
+  }
+]

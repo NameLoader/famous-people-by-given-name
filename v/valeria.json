@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Valeria Golino",
+    "givenNames": [
+      "Valeria"
+    ],
+    "familyName": "Golino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valeria_Golino",
+    "occupation": "Actress, director",
+    "achievements": [
+      "Starred in films such as 'Rain Man' and 'Hot Shots!'",
+      "Directed the acclaimed film 'Honey'"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Valeria Mazza",
+    "givenNames": [
+      "Valeria",
+      "Raquel"
+    ],
+    "familyName": "Mazza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valeria_Mazza",
+    "occupation": "Model, actress, businesswoman",
+    "achievements": [
+      "One of the most successful Argentine models",
+      "Appeared in numerous international magazines and campaigns"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Valeria Luiselli",
+    "givenNames": [
+      "Valeria"
+    ],
+    "familyName": "Luiselli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valeria_Luiselli",
+    "occupation": "Writer",
+    "achievements": [
+      "Won the prestigious Los Angeles Times Book Prize for her novel 'Lost Children Archive'",
+      "Known for her experimental and thought-provoking writing style"
+    ],
+    "yearBorn": 1983
+  }
+]

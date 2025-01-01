@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Elmer Keith",
+    "givenNames": [
+      "Elmer",
+      "Merrifield"
+    ],
+    "familyName": "Keith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elmer_Keith",
+    "occupation": "Gunsmith and Writer",
+    "achievements": [
+      "Considered the father of modern handgun hunting",
+      "Developed numerous innovative firearm cartridges and designs"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Elmer Fudd",
+    "givenNames": [
+      "Elmer",
+      "J"
+    ],
+    "familyName": "Fudd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elmer_Fudd",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Iconic Looney Tunes character known for his hunting of Bugs Bunny"
+    ]
+  }
+]

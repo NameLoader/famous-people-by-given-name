@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Jorge Luis Borges",
+    "givenNames": [
+      "Jorge",
+      "Luis"
+    ],
+    "familyName": "Borges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Short story writer known for his exploration of themes like infinity, dreams, and reality.",
+      "Key figure in Latin American literature."
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Jorge Mario Bergoglio",
+    "givenNames": [
+      "Jorge",
+      "Mario"
+    ],
+    "familyName": "Bergoglio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Francis",
+    "occupation": "Pope",
+    "achievements": [
+      "First Pope from the Americas.",
+      "Advocate for social justice and environmental protection."
+    ],
+    "yearBorn": 1936
+  },
+  {
+    "fullName": "Jorge Sampaoli",
+    "givenNames": [
+      "Jorge",
+      "Luis"
+    ],
+    "familyName": "Sampaoli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Sampaoli",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Led Chile to victory in the 2015 Copa América.",
+      "Managed Sevilla FC and Argentina national team."
+    ],
+    "yearBorn": 1960
+  }
+]

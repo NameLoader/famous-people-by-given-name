@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Janina Gavankar",
+    "givenNames": [
+      "Janina",
+      "Zione"
+    ],
+    "familyName": "Gavankar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janina_Gavankar",
+    "occupation": "Actress, musician",
+    "achievements": [
+      "Known for roles in True Blood, The L Word, and Arrow.",
+      "Active advocate for social justice and technology."
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Janina Ramirez",
+    "givenNames": [
+      "Janina",
+      "Sara",
+      "Maria"
+    ],
+    "familyName": "Ramirez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janina_Ramirez",
+    "occupation": "Historian, author, television presenter",
+    "achievements": [
+      "Specializes in medieval history and art.",
+      "Has presented documentaries for the BBC on topics like Vikings and Anglo-Saxon England."
+    ]
+  }
+]

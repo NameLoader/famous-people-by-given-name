@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Betty White",
+    "givenNames": [
+      "Betty",
+      "Marion"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Betty_White",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Longest-running career for a female entertainer",
+      "Multiple Emmy Awards",
+      "Cultural icon"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Betty Friedan",
+    "givenNames": [
+      "Betty"
+    ],
+    "familyName": "Friedan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Betty_Friedan",
+    "occupation": "Writer, activist",
+    "achievements": [
+      "Author of 'The Feminine Mystique'",
+      "Key figure in the second-wave feminist movement"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2006
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Anita Borg",
+    "givenNames": [
+      "Anita"
+    ],
+    "familyName": "Borg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Borg",
+    "occupation": "Computer scientist",
+    "achievements": [
+      "Founded the Institute for Women and Technology",
+      "Created the Grace Hopper Celebration of Women in Computing"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Anita Desai",
+    "givenNames": [
+      "Anita"
+    ],
+    "familyName": "Desai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Desai",
+    "occupation": "Novelist and short story writer",
+    "achievements": [
+      "Winner of the Sahitya Akademi Award",
+      "Shortlisted for the Booker Prize three times"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Anita Baker",
+    "givenNames": [
+      "Anita",
+      "Denise"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Baker",
+    "occupation": "Singer and songwriter",
+    "achievements": [
+      "Eight Grammy Awards",
+      "Known for her distinctive vocal style and blend of R&B, soul, and jazz"
+    ],
+    "yearBorn": 1958
+  }
+]

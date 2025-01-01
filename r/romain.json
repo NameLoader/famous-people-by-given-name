@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Romain Gary",
+    "givenNames": [
+      "Romain"
+    ],
+    "familyName": "Gary",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romain_Gary",
+    "occupation": "Novelist, Diplomat",
+    "achievements": [
+      "Won the Goncourt Prize for his novel 'The Roots of Heaven'",
+      "Served as a diplomat for France"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Romain Grosjean",
+    "givenNames": [
+      "Romain",
+      "David",
+      "Jeremie"
+    ],
+    "familyName": "Grosjean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romain_Grosjean",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Competed in Formula One for several teams",
+      "Won races in GP2 and Formula V8 3.5"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Romain Rolland",
+    "givenNames": [
+      "Romain"
+    ],
+    "familyName": "Rolland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romain_Rolland",
+    "occupation": "Novelist, Playwright, Essayist",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1915",
+      "Known for novels like 'Jean-Christophe'"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1944
+  }
+]

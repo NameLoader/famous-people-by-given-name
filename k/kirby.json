@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Kirby Puckett",
+    "givenNames": [
+      "Kirby"
+    ],
+    "familyName": "Puckett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirby_Puckett",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "10-time MLB All-Star",
+      "World Series Champion (1987)",
+      "6-time Gold Glove Award winner",
+      "Inducted into the Baseball Hall of Fame in 2001"
+    ],
+    "yearBorn": 1960,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Kirby Smart",
+    "givenNames": [
+      "Kirby",
+      "Paul"
+    ],
+    "familyName": "Smart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirby_Smart",
+    "occupation": "College Football Coach",
+    "achievements": [
+      "Head coach of the University of Georgia Bulldogs football team",
+      "Two-time College Football Playoff National Champion (2021, 2022)"
+    ],
+    "yearBorn": 1975
+  }
+]

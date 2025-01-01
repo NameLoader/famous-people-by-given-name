@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Rosamund Pike",
+    "givenNames": [
+      "Rosamund",
+      "Mary",
+      "Ellen"
+    ],
+    "familyName": "Pike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosamund_Pike",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress",
+      "Known for roles in 'Gone Girl', 'Die Another Day', and 'A Private War'"
+    ],
+    "yearBorn": 1979
+  }
+]

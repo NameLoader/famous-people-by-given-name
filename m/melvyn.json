@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Melvyn Douglas",
+    "givenNames": [
+      "Melvyn"
+    ],
+    "familyName": "Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melvyn_Douglas",
+    "occupation": "Actor",
+    "achievements": [
+      "Won two Academy Awards for Best Supporting Actor",
+      "Starred in numerous films including 'Hud', 'Being There', and 'The Changeling'"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Melvyn Bragg",
+    "givenNames": [
+      "Melvyn"
+    ],
+    "familyName": "Bragg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melvyn_Bragg",
+    "occupation": "Broadcaster, author, and academic",
+    "achievements": [
+      "Presented the BBC Radio 4 programme 'In Our Time'",
+      "Authored numerous books on history, literature, and culture",
+      "Knighted for services to broadcasting and the arts"
+    ],
+    "yearBorn": 1939
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Shinya Yamanaka",
+    "givenNames": [
+      "Shinya",
+      "Shin'ya"
+    ],
+    "familyName": "Yamanaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinya_Yamanaka",
+    "occupation": "Physician, stem cell researcher",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 2012 for the discovery that mature cells can be reprogrammed to become pluripotent."
+    ],
+    "yearBorn": 1962
+  }
+]

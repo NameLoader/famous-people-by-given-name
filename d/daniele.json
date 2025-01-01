@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Daniele De Rossi",
+    "givenNames": [
+      "Daniele"
+    ],
+    "familyName": "De Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniele_De_Rossi",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with Italy in 2006",
+      "Played for AS Roma his entire career"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Daniele Rugani",
+    "givenNames": [
+      "Daniele"
+    ],
+    "familyName": "Rugani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniele_Rugani",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won Serie A with Juventus in 2017 and 2018"
+    ],
+    "yearBorn": 1994
+  }
+]

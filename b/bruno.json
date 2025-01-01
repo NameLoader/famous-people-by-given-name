@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Bruno Sammartino",
+    "givenNames": [
+      "Bruno",
+      "Leopoldo",
+      "Francesco"
+    ],
+    "familyName": "Sammartino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Sammartino",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Two-time WWF World Heavyweight Champion",
+      "Held the title for a combined 4,040 days"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Bruno Kreisky",
+    "givenNames": [
+      "Bruno"
+    ],
+    "familyName": "Kreisky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Kreisky",
+    "occupation": "Politician",
+    "achievements": [
+      "Chancellor of Austria from 1970 to 1983",
+      "Known for his social democratic policies"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1990
+  }
+]

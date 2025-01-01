@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Jerome K. Jerome",
+    "givenNames": [
+      "Jerome",
+      "Klapka"
+    ],
+    "familyName": "Jerome",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerome_K._Jerome",
+    "occupation": "Writer, humorist",
+    "achievements": [
+      "Author of the comic novel 'Three Men in a Boat'",
+      "Popular essayist and playwright"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1927
+  },
+  {
+    "fullName": "Jerome David Salinger",
+    "givenNames": [
+      "Jerome",
+      "David"
+    ],
+    "familyName": "Salinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._D._Salinger",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Author of 'The Catcher in the Rye'",
+      "Influential figure in American literature"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Jerome Powell",
+    "givenNames": [
+      "Jerome",
+      "Hayden",
+      "Jay"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Powell",
+    "occupation": "Economist, Chair of the Federal Reserve",
+    "achievements": [
+      "Oversaw monetary policy during a period of significant economic volatility",
+      "Played a key role in responding to the COVID-19 pandemic's economic impact"
+    ],
+    "yearBorn": 1953
+  }
+]

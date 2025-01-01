@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Wayne Gretzky",
+    "givenNames": [
+      "Wayne",
+      "Douglas"
+    ],
+    "familyName": "Gretzky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Gretzky",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Considered the greatest ice hockey player of all time",
+      "Holds numerous NHL records"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Wayne Brady",
+    "givenNames": [
+      "Wayne",
+      "Alphonso"
+    ],
+    "familyName": "Brady",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Brady",
+    "occupation": "Actor, singer, comedian, television personality",
+    "achievements": [
+      "Emmy Award winner for Outstanding Performer in a Children's Series (Whose Line Is It Anyway?)",
+      "Known for roles on shows like 'The Wayne Brady Show' and 'Let's Make a Deal'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Wayne Newton",
+    "givenNames": [
+      "Carson",
+      "Wayne"
+    ],
+    "familyName": "Newton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Newton",
+    "occupation": "Singer, entertainer",
+    "achievements": [
+      "Known for his Las Vegas residency and patriotic performances",
+      "Popularized the song 'Daddy Don't You Walk So Far'"
+    ],
+    "yearBorn": 1942
+  }
+]

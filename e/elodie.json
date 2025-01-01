@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Elodie Gossuin",
+    "givenNames": [
+      "Elodie"
+    ],
+    "familyName": "Gossuin",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89lodie_Gossuin",
+    "occupation": "Model, television presenter",
+    "achievements": [
+      "Miss France 2001",
+      "Represented France in Miss Universe 2001"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Elodie Yung",
+    "givenNames": [
+      "Élodie"
+    ],
+    "familyName": "Yung",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89lodie_Yung",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Daredevil', 'The Defenders'"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Alessandro Volta",
+    "givenNames": [
+      "Alessandro",
+      "Giuseppe",
+      "Antonio",
+      "Anastasio"
+    ],
+    "familyName": "Volta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Volta",
+    "occupation": "Physicist",
+    "achievements": [
+      "Invented the electric battery",
+      "Pioneer in the study of electricity and galvanism"
+    ],
+    "yearBorn": 1745,
+    "yearDied": 1827
+  },
+  {
+    "fullName": "Alessandro Del Piero",
+    "givenNames": [
+      "Alessandro"
+    ],
+    "familyName": "Del Piero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Del_Piero",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with Italy in 2006",
+      "Legendary striker for Juventus"
+    ],
+    "yearBorn": 1974
+  }
+]

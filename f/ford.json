@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Ford Prefect",
+    "givenNames": [
+      "Ford"
+    ],
+    "familyName": "Prefect",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ford_Prefect_(character)",
+    "occupation": "Fictional character (The Hitchhiker's Guide to the Galaxy)",
+    "achievements": [
+      "Wrote the Guide Mark II.",
+      "Helped Arthur Dent escape Earth's destruction."
+    ]
+  }
+]

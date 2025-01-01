@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Fidel Alejandro Castro Ruz",
+    "givenNames": [
+      "Fidel",
+      "Alejandro"
+    ],
+    "familyName": "Castro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fidel_Castro",
+    "occupation": "Politician, Revolutionary",
+    "achievements": [
+      "Led the Cuban Revolution",
+      "Served as Prime Minister and later President of Cuba for nearly five decades",
+      "Became a controversial figure both domestically and internationally"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Fidel Valdez Ramos",
+    "givenNames": [
+      "Fidel",
+      "Valdez"
+    ],
+    "familyName": "Ramos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fidel_V._Ramos",
+    "occupation": "Politician, Military Officer",
+    "achievements": [
+      "Served as the 12th President of the Philippines from 1992 to 1998",
+      "Oversaw significant economic reforms and peace negotiations during his presidency"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2022
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Sylvester Stallone",
+    "givenNames": [
+      "Sylvester"
+    ],
+    "familyName": "Stallone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+    "occupation": "Actor, director, screenwriter, producer",
+    "achievements": [
+      "Academy Award nominations for Best Actor and Best Original Screenplay",
+      "Golden Globe Awards for Best Actor – Motion Picture Drama and Best Director – Motion Picture",
+      "Known for iconic roles in films like Rocky and Rambo"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Sylvester McCoy",
+    "givenNames": [
+      "Sylvester"
+    ],
+    "familyName": "McCoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_McCoy",
+    "occupation": "Actor",
+    "achievements": [
+      "Seventh actor to portray the Doctor in the long-running British science fiction television series Doctor Who",
+      "Known for his stage work and roles in films and television shows"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Sylvester Graham",
+    "givenNames": [
+      "Sylvester"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_Graham",
+    "occupation": "Presbyterian minister and dietary reformer",
+    "achievements": [
+      "Developed Graham flour and graham crackers",
+      "Promoted a vegetarian diet and temperance"
+    ],
+    "yearBorn": 1794,
+    "yearDied": 1851
+  }
+]

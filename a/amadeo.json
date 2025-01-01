@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Amadeo Modigliani",
+    "givenNames": [
+      "Amedeo",
+      "Clemente"
+    ],
+    "familyName": "Modigliani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
+    "occupation": "Painter and sculptor",
+    "achievements": [
+      "Known for his distinctive portraits and nudes",
+      "Associated with the School of Paris"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1920
+  }
+]

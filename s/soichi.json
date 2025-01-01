@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Soichi Noguchi",
+    "givenNames": [
+      "Soichi"
+    ],
+    "familyName": "Noguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soichi_Noguchi",
+    "occupation": "Astronaut",
+    "achievements": [
+      "First Japanese astronaut to board the International Space Station twice"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Soichi Honda",
+    "givenNames": [
+      "Soichiro",
+      "Sōichirō"
+    ],
+    "familyName": "Honda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Soichiro_Honda",
+    "occupation": "Engineer, industrialist",
+    "achievements": [
+      "Founder of Honda Motor Co., Ltd."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1991
+  }
+]

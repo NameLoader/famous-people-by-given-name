@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Federico Fellini",
+    "givenNames": [
+      "Federico"
+    ],
+    "familyName": "Fellini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Fellini",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Academy Award for Best Foreign Language Film (8½)",
+      "Palme d'Or (La Strada)"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Federico García Lorca",
+    "givenNames": [
+      "Federico"
+    ],
+    "familyName": "García Lorca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca",
+    "occupation": "Poet, playwright, and theatre director",
+    "achievements": [
+      "Influential figure in the Generation of '27",
+      "Known for works like Blood Wedding and Yerma"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Federico Valverde",
+    "givenNames": [
+      "Federico",
+      "Santiago"
+    ],
+    "familyName": "Valverde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Federico_Valverde",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "La Liga champion with Real Madrid (2020)",
+      "UEFA Champions League winner (2022)"
+    ],
+    "yearBorn": 1998
+  }
+]

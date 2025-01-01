@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sigmund Freud",
+    "givenNames": [
+      "Sigmund"
+    ],
+    "familyName": "Freud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+    "occupation": "Neurologist, Psychoanalyst",
+    "achievements": [
+      "Founder of psychoanalysis",
+      "Developed theories about the unconscious mind, dreams, and sexuality"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1939
+  },
+  {
+    "fullName": "Sigmund Romberg",
+    "givenNames": [
+      "Sigmund"
+    ],
+    "familyName": "Romberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Romberg",
+    "occupation": "Composer",
+    "achievements": [
+      "Wrote popular operettas and musicals such as 'The Student Prince' and 'Desert Song'"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1951
+  }
+]

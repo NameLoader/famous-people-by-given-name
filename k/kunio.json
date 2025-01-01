@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kunio Maekawa",
+    "givenNames": [
+      "Kunio"
+    ],
+    "familyName": "Maekawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of modern architecture in Japan",
+      "Designed numerous iconic buildings including the Hiroshima Peace Memorial Museum and the Tokyo Metropolitan Gymnasium"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Kunio Hatoyama",
+    "givenNames": [
+      "Kunio"
+    ],
+    "familyName": "Hatoyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kunio_Hatoyama",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the Minister of State for Okinawa and Northern Territories Affairs",
+      "Member of the House of Representatives"
+    ],
+    "yearBorn": 1948
+  }
+]

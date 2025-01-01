@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Yolanda Adams",
+    "givenNames": [
+      "Yolanda",
+      "Yvette"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yolanda_Adams",
+    "occupation": "Gospel singer",
+    "achievements": [
+      "Grammy Award winner",
+      "Stellar Award winner",
+      "Nominated for multiple Dove Awards"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Yolanda King",
+    "givenNames": [
+      "Yolanda",
+      "Denise"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yolanda_King",
+    "occupation": "Actress, activist",
+    "achievements": [
+      "Daughter of Martin Luther King Jr.",
+      "Advocate for social justice and equality"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2007
+  }
+]

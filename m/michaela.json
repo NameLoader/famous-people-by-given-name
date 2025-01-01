@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Michaela Coel",
+    "givenNames": [
+      "Michaela"
+    ],
+    "familyName": "Coel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michaela_Coel",
+    "occupation": "Actress, screenwriter, director",
+    "achievements": [
+      "BAFTA Award for Best Female Performance in a Comedy Programme",
+      "Emmy Award nomination for Outstanding Writing for a Limited or Anthology Series or Movie"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Michaela Jae Rodriguez",
+    "givenNames": [
+      "Michaela",
+      "Antonia",
+      "Jaé"
+    ],
+    "familyName": "Rodriguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michaela_Ja%C3%A9_Rodriguez",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "First transgender actress to win a Golden Globe Award for Best Actress – Television Series Drama"
+    ],
+    "yearBorn": 1991
+  }
+]

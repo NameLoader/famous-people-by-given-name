@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Roy Orbison",
+    "givenNames": [
+      "Roy",
+      "Kelton"
+    ],
+    "familyName": "Orbison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Orbison",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Influential figure in rock and roll music",
+      "Known for his distinctive voice and emotional ballads"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1988
+  },
+  {
+    "fullName": "Roy Rogers",
+    "givenNames": [
+      "Roy"
+    ],
+    "familyName": "Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Rogers",
+    "occupation": "Singer, actor, cowboy",
+    "achievements": [
+      "Iconic figure in Western films and television",
+      "Known for his singing voice and his horse Trigger"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Roy Lichtenstein",
+    "givenNames": [
+      "Roy",
+      "Fox"
+    ],
+    "familyName": "Lichtenstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Lichtenstein",
+    "occupation": "Painter, sculptor",
+    "achievements": [
+      "Prominent figure in the Pop Art movement",
+      "Known for his bold colors and comic strip-inspired imagery"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1997
+  }
+]

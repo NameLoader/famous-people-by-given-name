@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Opal Winfrey",
+    "givenNames": [
+      "Oprah",
+      "Gail"
+    ],
+    "familyName": "Winfrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oprah_Winfrey",
+    "occupation": "Media executive, actress, talk show host, television producer, and philanthropist",
+    "achievements": [
+      "Hosted the highly successful 'The Oprah Winfrey Show' for 25 seasons.",
+      "Founded OWN: Oprah Winfrey Network.",
+      "Known for her philanthropy and advocacy work."
+    ],
+    "yearBorn": 1954
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Jesse Owens",
+    "givenNames": [
+      "Jesse",
+      "James",
+      "Cleveland"
+    ],
+    "familyName": "Owens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Owens",
+    "occupation": "Track and Field Athlete",
+    "achievements": [
+      "Won four gold medals at the 1936 Berlin Olympics",
+      "Broke numerous world records in sprinting and long jump"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Jesse Jackson",
+    "givenNames": [
+      "Jesse",
+      "Louis"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Jackson",
+    "occupation": "Civil Rights Activist, Baptist Minister, Politician",
+    "achievements": [
+      "Ran for President of the United States in 1984 and 1988",
+      "Founded the Rainbow/PUSH Coalition"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Jesse Eisenberg",
+    "givenNames": [
+      "Jesse",
+      "Adam"
+    ],
+    "familyName": "Eisenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Eisenberg",
+    "occupation": "Actor, Writer, Producer",
+    "achievements": [
+      "Nominated for an Academy Award for Best Actor for his role in 'The Social Network'",
+      "Starred in films such as 'Zombieland', 'Now You See Me' and 'Batman v Superman: Dawn of Justice'"
+    ],
+    "yearBorn": 1983
+  }
+]

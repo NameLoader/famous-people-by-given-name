@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Agostino Carracci",
+    "givenNames": [
+      "Agostino"
+    ],
+    "familyName": "Carracci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agostino_Carracci",
+    "occupation": "Painter, engraver",
+    "achievements": [
+      "Leading figure of the Bolognese School of painting",
+      "Known for his innovative use of chiaroscuro and naturalistic depiction of figures"
+    ],
+    "yearBorn": 1557,
+    "yearDied": 1602
+  },
+  {
+    "fullName": "Agostino Gemelli",
+    "givenNames": [
+      "Agostino"
+    ],
+    "familyName": "Gemelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agostino_Gemelli",
+    "occupation": "Catholic Priest, Founder of the Catholic University of Milan",
+    "achievements": [
+      "Founded the Gemelli Hospital and the Catholic University of Milan",
+      "Advocated for social justice and the education of disadvantaged youth"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1959
+  }
+]

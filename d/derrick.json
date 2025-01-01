@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Derrick Rose",
+    "givenNames": [
+      "Derrick",
+      "Martell"
+    ],
+    "familyName": "Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derrick_Rose",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "NBA Most Valuable Player (2011)",
+      "3× NBA All-Star",
+      "NBA Rookie of the Year (2009)"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Derrick Bell",
+    "givenNames": [
+      "Derrick",
+      "Albert"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derrick_Bell",
+    "occupation": "Legal scholar and civil rights advocate",
+    "achievements": [
+      "Pioneer of Critical Race Theory",
+      "Professor at Harvard Law School"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2011
+  }
+]

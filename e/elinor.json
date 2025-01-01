@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Elinor Wylie",
+    "givenNames": [
+      "Elinor",
+      "Morton"
+    ],
+    "familyName": "Wylie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Wylie",
+    "occupation": "Poet, novelist",
+    "achievements": [
+      "Published influential poetry collections like 'Nets to Catch the Wind' and 'Black Armour of Youth'",
+      "Known for her elegant style and exploration of themes like love, loss, and mortality"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1928
+  },
+  {
+    "fullName": "Elinor Donahue",
+    "givenNames": [
+      "Elinor",
+      "Mary Eleanor"
+    ],
+    "familyName": "Donahue",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Donahue",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Betty Anderson on the sitcom 'Father Knows Best'"
+    ],
+    "yearBorn": 1937
+  }
+]

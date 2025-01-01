@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Robin Williams",
+    "givenNames": [
+      "Robin",
+      "McLaurin"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robin_Williams",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Multiple Grammy Awards",
+      "Seven Primetime Emmy Awards"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Robin Wright",
+    "givenNames": [
+      "Robin",
+      "Gayle"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robin_Wright",
+    "occupation": "Actress, director",
+    "achievements": [
+      "Golden Globe Award for Best Actress – Television Series Drama",
+      "Nominated for four Primetime Emmy Awards"
+    ],
+    "yearBorn": 1966
+  }
+]

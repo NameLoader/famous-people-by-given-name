@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Viktor Frankl",
+    "givenNames": [
+      "Viktor",
+      "Emil"
+    ],
+    "familyName": "Frankl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "occupation": "Neurologist, psychiatrist, author",
+    "achievements": [
+      "Developed logotherapy, a form of psychotherapy",
+      "Author of the influential book 'Man's Search for Meaning'",
+      "Survived the Holocaust and used his experiences to inform his work"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1997
+  },
+  {
+    "fullName": "Viktor Orbán",
+    "givenNames": [
+      "Viktor",
+      "Mihály"
+    ],
+    "familyName": "Orbán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Hungary since 2010",
+      "Leader of the Fidesz party"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Viktor Vasnetsov",
+    "givenNames": [
+      "Viktor",
+      "Mikhaylovich"
+    ],
+    "familyName": "Vasnetsov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Vasnetsov",
+    "occupation": "Painter, architect",
+    "achievements": [
+      "Known for his paintings depicting Russian folklore and history",
+      "Designed the interior of the Cathedral of Saint Vladimir in Kyiv"
+    ],
+    "yearBorn": 1848,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Viktor Patsayev",
+    "givenNames": [
+      "Viktor",
+      "Ivanovich"
+    ],
+    "familyName": "Patsayev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Viktor_Patsayev",
+    "occupation": "Cosmonaut",
+    "achievements": [
+      "Flew aboard Soyuz 11, the first crewed mission to the Salyut 1 space station",
+      "Tragically died in a cabin depressurization during reentry"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 1971
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Tatyana Ali",
+    "givenNames": [
+      "Tatyana",
+      "Marisol"
+    ],
+    "familyName": "Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatyana_Ali",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for her role as Ashley Banks on the sitcom 'The Fresh Prince of Bel-Air'",
+      "Successful music career"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Tatyana McFadden",
+    "givenNames": [
+      "Tatyana"
+    ],
+    "familyName": "McFadden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatyana_McFadden",
+    "occupation": "Paralympic athlete",
+    "achievements": [
+      "Seven-time Paralympic gold medalist in wheelchair racing",
+      "Advocate for disability rights"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Tatyana Tolstaya",
+    "givenNames": [
+      "Tatyana",
+      "Nikitichna"
+    ],
+    "familyName": "Tolstaya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatyana_Tolstaya",
+    "occupation": "Writer, essayist",
+    "achievements": [
+      "Known for her experimental and often satirical novels and essays",
+      "Prominent voice in Russian literature"
+    ],
+    "yearBorn": 1951
+  }
+]

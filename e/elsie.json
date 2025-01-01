@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Elsie de Wolfe",
+    "givenNames": [
+      "Elsie"
+    ],
+    "familyName": "de Wolfe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsie_de_Wolfe",
+    "occupation": "Interior designer, actress",
+    "achievements": [
+      "Pioneer of modern interior design",
+      "Influenced the development of Art Deco style"
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Elsie Janis",
+    "givenNames": [
+      "Elsie"
+    ],
+    "familyName": "Janis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsie_Janis",
+    "occupation": "Actress, singer, comedian",
+    "achievements": [
+      "Performed in vaudeville and Broadway shows",
+      "Known for her energetic performances and comedic timing"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1956
+  }
+]

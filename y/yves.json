@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Yves Saint Laurent",
+    "givenNames": [
+      "Yves",
+      "Henri",
+      "Donat",
+      "Mathieu"
+    ],
+    "familyName": "Saint Laurent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(designer)",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Revolutionized women's fashion with designs like the tuxedo suit and safari jacket.",
+      "Founded the Yves Saint Laurent fashion house.",
+      "Considered one of the most influential fashion designers of the 20th century."
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Yves Montand",
+    "givenNames": [
+      "Yves"
+    ],
+    "familyName": "Montand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yves_Montand",
+    "occupation": "Actor and Singer",
+    "achievements": [
+      "Starred in iconic French films like 'Z' and 'The Wages of Fear'.",
+      "Renowned for his charismatic stage presence and powerful vocals.",
+      "Collaborated with renowned filmmakers like Jean Renoir and Federico Fellini."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1991
+  }
+]

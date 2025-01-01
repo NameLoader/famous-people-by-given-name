@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Holger Rune",
+    "givenNames": [
+      "Holger",
+      "Vitus",
+      "Nødskov"
+    ],
+    "familyName": "Rune",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holger_Rune",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached the quarterfinals of the French Open in 2022",
+      "Won three ATP Tour titles"
+    ],
+    "yearBorn": 2003
+  },
+  {
+    "fullName": "Holger Badstuber",
+    "givenNames": [
+      "Holger",
+      "Felix"
+    ],
+    "familyName": "Badstuber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holger_Badstuber",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Bundesliga with Bayern Munich in 2010 and 2013",
+      "Played for the German national team"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Holger Meins",
+    "givenNames": [
+      "Holger",
+      "Klaus"
+    ],
+    "familyName": "Meins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holger_Meins",
+    "occupation": "Terrorist, member of the Red Army Faction (RAF)",
+    "achievements": [],
+    "yearBorn": 1941,
+    "yearDied": 1974
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Noelle Stevenson",
+    "givenNames": [
+      "Noelle",
+      "Nate",
+      "Diana",
+      "Indy"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/ND_Stevenson",
+    "occupation": "Cartoonist, author, screenwriter",
+    "achievements": [
+      "Creator of the graphic novel series 'Nimona'",
+      "Wrote for the animated series 'She-Ra and the Princesses of Power'"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Noelle Scaggs",
+    "givenNames": [
+      "Noelle"
+    ],
+    "familyName": "Scaggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noelle_Scaggs",
+    "occupation": "Singer, musician",
+    "achievements": [
+      "Lead singer of the band Fitz and The Tantrums"
+    ],
+    "yearBorn": 1978
+  }
+]

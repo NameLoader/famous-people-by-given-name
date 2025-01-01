@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Ruth Bader Ginsburg",
+    "givenNames": [
+      "Ruth",
+      "Bader"
+    ],
+    "familyName": "Ginsburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "Championed gender equality and women's rights",
+      "First female Jewish Supreme Court Justice"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Ruth Handler",
+    "givenNames": [
+      "Ruth",
+      "Marianna"
+    ],
+    "familyName": "Handler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Handler",
+    "occupation": "Businesswoman, inventor",
+    "achievements": [
+      "Co-founded Mattel",
+      "Created the Barbie doll"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Ruth Benedict",
+    "givenNames": [
+      "Ruth",
+      "Fulton"
+    ],
+    "familyName": "Benedict",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Benedict",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Pioneer in cultural anthropology",
+      "Influential work on Japanese culture"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1948
+  }
+]

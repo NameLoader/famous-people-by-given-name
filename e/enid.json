@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Enid Blyton",
+    "givenNames": [
+      "Enid",
+      "Mary"
+    ],
+    "familyName": "Blyton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enid_Blyton",
+    "occupation": "Author",
+    "achievements": [
+      "Prolific writer of children's books",
+      "Created beloved series such as The Famous Five, The Secret Seven, and Noddy"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1968
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Garry Kasparov",
+    "givenNames": [
+      "Garry",
+      "Kimovich"
+    ],
+    "familyName": "Kasparov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+    "occupation": "Chess Grandmaster, Politician",
+    "achievements": [
+      "World Chess Champion from 1985 to 2000",
+      "Human rights activist",
+      "Author and commentator"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Garry Shandling",
+    "givenNames": [
+      "Garry",
+      "Emmanuel"
+    ],
+    "familyName": "Shandling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Shandling",
+    "occupation": "Comedian, Actor, Writer, Producer",
+    "achievements": [
+      "Creator and star of 'It's Garry Shandling's Show'",
+      "Starred in films like 'The Killing Fields'"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Garry Trudeau",
+    "givenNames": [
+      "Garry",
+      "Garretson",
+      "Beekman"
+    ],
+    "familyName": "Trudeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Trudeau",
+    "occupation": "Cartoonist",
+    "achievements": [
+      "Creator of the comic strip 'Doonesbury'"
+    ],
+    "yearBorn": 1948
+  }
+]

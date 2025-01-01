@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Iris Apfel",
+    "givenNames": [
+      "Iris"
+    ],
+    "familyName": "Apfel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iris_Apfel",
+    "occupation": "Fashion icon, interior designer",
+    "achievements": [
+      "Known for her bold and eclectic personal style.",
+      "Received the CFDA Award for Lifetime Achievement in 2007."
+    ],
+    "yearBorn": 1921
+  },
+  {
+    "fullName": "Iris Murdoch",
+    "givenNames": [
+      "Iris",
+      "Jean"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iris_Murdoch",
+    "occupation": "Novelist, philosopher",
+    "achievements": [
+      "Authored numerous critically acclaimed novels.",
+      "Won the Booker Prize in 1978 for her novel 'The Sea, The Sea'."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Iris Van Herpen",
+    "givenNames": [
+      "Iris"
+    ],
+    "familyName": "Van Herpen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iris_van_Herpen",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for her innovative and avant-garde designs.",
+      "First Dutch couturier to be awarded the ANDAM Fashion Award in 2016."
+    ],
+    "yearBorn": 1984
+  }
+]

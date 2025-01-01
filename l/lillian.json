@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Lillian Gish",
+    "givenNames": [
+      "Lillian",
+      "Diana"
+    ],
+    "familyName": "Gish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillian_Gish",
+    "occupation": "Actress",
+    "achievements": [
+      "Silent film star",
+      "Pioneer of American cinema",
+      "Recipient of the Academy Honorary Award"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Lillian Hellman",
+    "givenNames": [
+      "Lillian",
+      "Florence"
+    ],
+    "familyName": "Hellman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillian_Hellman",
+    "occupation": "Playwright, screenwriter",
+    "achievements": [
+      "Known for plays like 'The Children's Hour'",
+      "Screenwriter for films such as 'The Little Foxes'"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Lillian Moller Gilbreth",
+    "givenNames": [
+      "Lillian",
+      "Evelyn"
+    ],
+    "familyName": "Gilbreth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth",
+    "occupation": "Industrial engineer, psychologist",
+    "achievements": [
+      "Pioneer in motion study and time management",
+      "Contributed to the design of more efficient kitchens and workplaces"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1972
+  }
+]

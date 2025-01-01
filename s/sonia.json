@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Sonia Sotomayor",
+    "givenNames": [
+      "Sonia",
+      "Maria"
+    ],
+    "familyName": "Sotomayor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Sotomayor",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "First Hispanic and third woman to serve on the Supreme Court"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Sonia Gandhi",
+    "givenNames": [
+      "Sonia"
+    ],
+    "familyName": "Gandhi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+    "occupation": "Politician",
+    "achievements": [
+      "President of the Indian National Congress",
+      "Longest-serving President of the Indian National Congress"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Sonia Rykiel",
+    "givenNames": [
+      "Sonia"
+    ],
+    "familyName": "Rykiel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Rykiel",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for her knitwear designs and contributions to Parisian fashion"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2016
+  }
+]

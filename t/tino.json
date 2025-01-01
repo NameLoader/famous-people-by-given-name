@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Tino Asprilla",
+    "givenNames": [
+      "Faustino",
+      "Hernán"
+    ],
+    "familyName": "Asprilla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faustino_Asprilla",
+    "occupation": "Footballer",
+    "achievements": [
+      "Represented Colombia in the 1994 and 1998 FIFA World Cups",
+      "Played for prominent clubs like Newcastle United, Parma, and Fiorentina"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Tino Rossi",
+    "givenNames": [
+      "Constantin",
+      "Tino"
+    ],
+    "familyName": "Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tino_Rossi",
+    "occupation": "Singer and actor",
+    "achievements": [
+      "Popular French singer and actor during the interwar period",
+      "Known for his romantic ballads and operetta roles"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1983
+  }
+]

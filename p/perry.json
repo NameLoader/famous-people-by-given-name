@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Perry Como",
+    "givenNames": [
+      "Perry"
+    ],
+    "familyName": "Como",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perry_Como",
+    "occupation": "Singer, actor",
+    "achievements": [
+      "Sold over 100 million records worldwide",
+      "Won five Grammy Awards",
+      "Hosted popular television shows like \"The Perry Como Show\""
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Perry Mason",
+    "givenNames": [
+      "Perry"
+    ],
+    "familyName": "Mason",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perry_Mason",
+    "occupation": "Fictional lawyer",
+    "achievements": [
+      "Protagonist of a long-running series of novels, short stories, and television shows"
+    ]
+  }
+]

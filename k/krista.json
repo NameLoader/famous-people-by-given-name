@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Krista Tippett",
+    "givenNames": [
+      "Krista"
+    ],
+    "familyName": "Tippett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krista_Tippett",
+    "occupation": "Journalist, broadcaster, author",
+    "achievements": [
+      "Host of the public radio program and podcast 'On Being'",
+      "Peabody Award winner",
+      "Author of several books"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Krista Allen",
+    "givenNames": [
+      "Krista"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krista_Allen",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Known for roles in 'Days of Our Lives', 'Emmanuelle' series, and 'Baywatch'",
+      "Appeared in numerous films and television shows"
+    ],
+    "yearBorn": 1971
+  }
+]

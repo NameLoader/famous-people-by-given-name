@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Virginie Ledoyen",
+    "givenNames": [
+      "Virginie"
+    ],
+    "familyName": "Ledoyen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginie_Ledoyen",
+    "occupation": "Actress",
+    "achievements": [
+      "Césars Award for Best Actress nomination",
+      "Known for roles in films like 'The Scent of Green Papaya', 'The Beach', and '8 Women'"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Virginie Despentes",
+    "givenNames": [
+      "Virginie"
+    ],
+    "familyName": "Despentes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginie_Despentes",
+    "occupation": "Writer and filmmaker",
+    "achievements": [
+      "Known for her provocative novels like 'Baise-moi' and 'Vernon Subutex'",
+      "Recipient of the Prix Renaudot"
+    ],
+    "yearBorn": 1969
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Jill Biden",
+    "givenNames": [
+      "Jill",
+      "Tracy",
+      "Jacobs"
+    ],
+    "familyName": "Biden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jill_Biden",
+    "occupation": "Educator, First Lady of the United States",
+    "achievements": [
+      "First lady of the United States (2021-present)",
+      "Education advocate",
+      "Co-founder of the Biden Breast Health Initiative and the Jill Biden Foundation"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Jill Scott",
+    "givenNames": [
+      "Jill",
+      "Heather"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jill_Scott_(singer)",
+    "occupation": "Singer, songwriter, poet, actress",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her neo soul music and spoken word poetry",
+      "Appeared in films like 'Why Did I Get Married?' and 'Baggage Claim'"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Jill Abramson",
+    "givenNames": [
+      "Jill",
+      "Ellen"
+    ],
+    "familyName": "Abramson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jill_Abramson",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "First female executive editor of The New York Times (2011-2014)",
+      "Author of 'Merchants of Truth: The Business of News and the Fight for Facts'"
+    ],
+    "yearBorn": 1954
+  }
+]

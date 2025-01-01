@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rose Byrne",
+    "givenNames": [
+      "Rose",
+      "Mary"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_Byrne",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like Bridesmaids and Insidious.",
+      "Nominated for two Primetime Emmy Awards."
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Rose Namajunas",
+    "givenNames": [
+      "Rose",
+      "Gertrude"
+    ],
+    "familyName": "Namajunas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_Namajunas",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "Former UFC Women's Strawweight Champion."
+    ],
+    "yearBorn": 1992
+  }
+]

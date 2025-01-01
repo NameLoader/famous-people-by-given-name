@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Edna St. Vincent Millay",
+    "givenNames": [
+      "Edna",
+      "St. Vincent"
+    ],
+    "familyName": "Millay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edna_St._Vincent_Millay",
+    "occupation": "Poet and playwright",
+    "achievements": [
+      "Pulitzer Prize for Poetry (1923)",
+      "Known for her feminist themes and passionate verse"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1950
+  },
+  {
+    "fullName": "Edna Lewis",
+    "givenNames": [
+      "Edna",
+      "Regina"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edna_Lewis",
+    "occupation": "Chef and cookbook author",
+    "achievements": [
+      "Pioneered Southern cuisine",
+      "Authored several influential cookbooks"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Edna Mode",
+    "givenNames": [
+      "Edna",
+      "E"
+    ],
+    "familyName": "Mode",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edna_Mode",
+    "occupation": "Fictional fashion designer (The Incredibles)",
+    "achievements": [
+      "Iconic character in Pixar films"
+    ]
+  }
+]

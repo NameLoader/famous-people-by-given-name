@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Mira Sorvino",
+    "givenNames": [
+      "Mira",
+      "Katherine"
+    ],
+    "familyName": "Sorvino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mira_Sorvino",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress (Mighty Aphrodite)",
+      "Golden Globe Award for Best Supporting Actress – Motion Picture (Mighty Aphrodite)"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Mira Nair",
+    "givenNames": [
+      "Mira"
+    ],
+    "familyName": "Nair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mira_Nair",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Directed critically acclaimed films like Salaam Bombay!, Mississippi Masala, and The Namesake"
+    ],
+    "yearBorn": 1957
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Alberto Fujimori",
+    "givenNames": [
+      "Alberto",
+      "Kenya"
+    ],
+    "familyName": "Fujimori",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Fujimori",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as President of Peru from 1990 to 2000",
+      "Known for his authoritarian rule and controversial policies"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Alberto Sordi",
+    "givenNames": [
+      "Alberto"
+    ],
+    "familyName": "Sordi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Sordi",
+    "occupation": "Actor",
+    "achievements": [
+      "One of Italy's most beloved comedians and actors",
+      "Starred in numerous films, including 'Yesterday, Today and Tomorrow'",
+      "Won multiple awards for his acting"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2003
+  }
+]

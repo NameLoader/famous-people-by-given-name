@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Renata Tebaldi",
+    "givenNames": [
+      "Renata"
+    ],
+    "familyName": "Tebaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renata_Tebaldi",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Acclaimed Italian soprano known for her roles in Verdi and Puccini operas.",
+      "Considered one of the greatest operatic voices of the 20th century."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Renata Scotto",
+    "givenNames": [
+      "Renata"
+    ],
+    "familyName": "Scotto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renata_Scotto",
+    "occupation": "Opera Singer",
+    "achievements": [
+      "Highly respected Italian soprano known for her versatility and dramatic interpretations.",
+      "Performed leading roles in operas by Verdi, Puccini, Mozart, and Donizetti."
+    ],
+    "yearBorn": 1934
+  }
+]

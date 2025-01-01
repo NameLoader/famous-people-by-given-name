@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Fabrice Muamba",
+    "givenNames": [
+      "Fabrice",
+      "Ndala"
+    ],
+    "familyName": "Muamba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrice_Muamba",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Bolton Wanderers and England national team",
+      "Survived a cardiac arrest during a football match in 2012"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Fabrice Luchini",
+    "givenNames": [
+      "Fabrice"
+    ],
+    "familyName": "Luchini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrice_Luchini",
+    "occupation": "Actor",
+    "achievements": [
+      "Won two César Awards for Best Actor",
+      "Known for roles in films like 'The Dinner Game' and 'Paris Match'"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Fabrice Santoro",
+    "givenNames": [
+      "Fabrice",
+      "Vetea"
+    ],
+    "familyName": "Santoro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrice_Santoro",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached a career-high ranking of No. 17 in the world",
+      "Won 6 ATP singles titles and 8 doubles titles"
+    ],
+    "yearBorn": 1972
+  }
+]

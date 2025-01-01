@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ulisse Aldrovandi",
+    "givenNames": [
+      "Ulisse"
+    ],
+    "familyName": "Aldrovandi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulisse_Aldrovandi",
+    "occupation": "Naturalist, physician",
+    "achievements": [
+      "Prolific writer on natural history and medicine.",
+      "Founded the botanical garden at Bologna.",
+      "Considered one of the founders of modern zoology."
+    ],
+    "yearBorn": 1522,
+    "yearDied": 1605
+  }
+]

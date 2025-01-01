@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Laurent Blanc",
+    "givenNames": [
+      "Laurent",
+      "Robert"
+    ],
+    "familyName": "Blanc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Blanc",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Won the UEFA European Championship with France in 2000.",
+      "Managed the French national team and Paris Saint-Germain."
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Laurent Garnier",
+    "givenNames": [
+      "Laurent"
+    ],
+    "familyName": "Garnier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Garnier",
+    "occupation": "DJ, Producer",
+    "achievements": [
+      "Pioneer of the techno and house music scenes.",
+      "Released influential albums like \"Shot in the Dark\"."
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Laurent Gbagbo",
+    "givenNames": [
+      "Laurent",
+      "Koudou"
+    ],
+    "familyName": "Gbagbo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Gbagbo",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Côte d'Ivoire from 2000 to 2011.",
+      "Convicted by the International Criminal Court for crimes against humanity."
+    ],
+    "yearBorn": 1945
+  }
+]

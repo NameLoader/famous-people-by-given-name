@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Valérie Trierweiler",
+    "givenNames": [
+      "Valérie"
+    ],
+    "familyName": "Trierweiler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Val%C3%A9rie_Trierweiler",
+    "occupation": "Journalist, writer",
+    "achievements": [
+      "Former First Lady of France (2012-2014)"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Valérie Lemercier",
+    "givenNames": [
+      "Valérie"
+    ],
+    "familyName": "Lemercier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Val%C3%A9rie_Lemercier",
+    "occupation": "Actress, director, singer",
+    "achievements": [
+      "César Award for Best Actress (2008)",
+      "Known for her comedic roles"
+    ],
+    "yearBorn": 1964
+  }
+]

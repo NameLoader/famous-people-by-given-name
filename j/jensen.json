@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jensen Ackles",
+    "givenNames": [
+      "Jensen",
+      "Ross"
+    ],
+    "familyName": "Ackles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jensen_Ackles",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Dean Winchester in the television series Supernatural",
+      "Also appeared in shows like Days of Our Lives and Smallville"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Jensen Huang",
+    "givenNames": [
+      "Jen-Hsun",
+      "Jensen"
+    ],
+    "familyName": "Huang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jensen_Huang",
+    "occupation": "Entrepreneur, Engineer",
+    "achievements": [
+      "Co-founder and CEO of Nvidia, a leading graphics processing unit (GPU) manufacturer",
+      "Pioneer in artificial intelligence (AI) and accelerated computing"
+    ],
+    "yearBorn": 1963
+  }
+]

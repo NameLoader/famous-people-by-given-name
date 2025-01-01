@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Kirsty Wark",
+    "givenNames": [
+      "Kirsteen",
+      "Anne",
+      "Kirsty"
+    ],
+    "familyName": "Wark",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirsty_Wark",
+    "occupation": "Journalist, Television presenter",
+    "achievements": [
+      "Presenter of BBC's Newsnight programme",
+      "Recipient of numerous awards for journalism"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Kirsty MacColl",
+    "givenNames": [
+      "Kirsty",
+      "Anna"
+    ],
+    "familyName": "MacColl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kirsty_MacColl",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for her unique blend of pop and folk music",
+      "Had several hit singles, including 'Days'",
+      "Tragically died in a boating accident"
+    ],
+    "yearBorn": 1957,
+    "yearDied": 2000
+  }
+]

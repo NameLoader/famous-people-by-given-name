@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Delores Huerta",
+    "givenNames": [
+      "Dolores",
+      "Clara"
+    ],
+    "familyName": "Huerta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolores_Huerta",
+    "occupation": "Labor leader and civil rights activist",
+    "achievements": [
+      "Co-founded the United Farm Workers (UFW)",
+      "Championed the rights of farmworkers",
+      "Received the Presidential Medal of Freedom"
+    ],
+    "yearBorn": 1930
+  },
+  {
+    "fullName": "Delores Del Río",
+    "givenNames": [
+      "Dolores"
+    ],
+    "familyName": "Del Río",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dolores_del_R%C3%ADo",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the first Mexican actresses to achieve international fame",
+      "Starred in Hollywood films during the Golden Age"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1983
+  }
+]

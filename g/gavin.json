@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Gavin Newsom",
+    "givenNames": [
+      "Gavin",
+      "Christopher"
+    ],
+    "familyName": "Newsom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gavin_Newsom",
+    "occupation": "Politician",
+    "achievements": [
+      "Governor of California",
+      "Mayor of San Francisco"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Gavin Rossdale",
+    "givenNames": [
+      "Gavin",
+      "McGregor"
+    ],
+    "familyName": "Rossdale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gavin_Rossdale",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Lead singer of Bush"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Gavin DeGraw",
+    "givenNames": [
+      "Gavin",
+      "Shane"
+    ],
+    "familyName": "DeGraw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gavin_DeGraw",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Hit singles 'I Don't Want to Be' and 'Chariot'"
+    ],
+    "yearBorn": 1977
+  }
+]

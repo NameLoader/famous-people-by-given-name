@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Wade Boggs",
+    "givenNames": [
+      "Wade",
+      "Anthony"
+    ],
+    "familyName": "Boggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wade_Boggs",
+    "occupation": "Baseball player",
+    "achievements": [
+      "12-time All-Star",
+      "5-time World Series Champion",
+      "3,000 hits",
+      "Hall of Fame inductee"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Wade Phillips",
+    "givenNames": [
+      "Harold",
+      "Wade"
+    ],
+    "familyName": "Phillips",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wade_Phillips",
+    "occupation": "Football coach",
+    "achievements": [
+      "NFL Defensive Coordinator of the Year (2000)",
+      "Coached for multiple NFL teams"
+    ],
+    "yearBorn": 1947
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Demetria Devonne Lovato",
+    "givenNames": [
+      "Demetria",
+      "Devonne"
+    ],
+    "familyName": "Lovato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demi_Lovato",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Multiple Grammy Award nominations",
+      "Billboard Music Awards",
+      "Teen Choice Awards",
+      "Successful acting career"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Demetria McKinney",
+    "givenNames": [
+      "Demetria",
+      "Dyan"
+    ],
+    "familyName": "McKinney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demetria_McKinney",
+    "occupation": "Actress, Singer, Songwriter",
+    "achievements": [
+      "Known for roles in 'House of Payne' and 'The Rickey Smiley Show'",
+      "Released multiple albums and singles"
+    ],
+    "yearBorn": 1978
+  }
+]

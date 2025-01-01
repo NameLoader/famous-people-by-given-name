@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Luka Modrić",
+    "givenNames": [
+      "Luka"
+    ],
+    "familyName": "Modrić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87",
+    "occupation": "Footballer",
+    "achievements": [
+      "Ballon d'Or winner (2018)",
+      "FIFA World Cup runner-up (2018)",
+      "UEFA Champions League winner (4 times)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Luka Dončić",
+    "givenNames": [
+      "Luka"
+    ],
+    "familyName": "Dončić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA All-Star (3 times)",
+      "NBA Rookie of the Year (2019)"
+    ],
+    "yearBorn": 1999
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hippolyte Taine",
+    "givenNames": [
+      "Hippolyte",
+      "Adolphe"
+    ],
+    "familyName": "Taine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippolyte_Taine",
+    "occupation": "Critic, historian, philosopher",
+    "achievements": [
+      "Major figure in French literary criticism",
+      "Developed the concept of 'race', environment, and moment in shaping history"
+    ],
+    "yearBorn": 1828,
+    "yearDied": 1893
+  }
+]

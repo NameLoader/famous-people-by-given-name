@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Dana Carvey",
+    "givenNames": [
+      "Dana",
+      "Thomas"
+    ],
+    "familyName": "Carvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dana_Carvey",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "Saturday Night Live Cast Member",
+      "Emmy Award Winner"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Dana Scully",
+    "givenNames": [
+      "Dana",
+      "Katherine"
+    ],
+    "familyName": "Scully",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dana_Scully",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "FBI Special Agent in The X-Files",
+      "Popular Science Fiction Icon"
+    ]
+  },
+  {
+    "fullName": "Dana White",
+    "givenNames": [
+      "Dana",
+      "Frederick"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dana_White",
+    "occupation": "President of the Ultimate Fighting Championship (UFC)",
+    "achievements": [
+      "Pioneer in Mixed Martial Arts Promotion"
+    ],
+    "yearBorn": 1969
+  }
+]

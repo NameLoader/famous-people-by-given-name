@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Zahir Shah",
+    "givenNames": [
+      "Mohammad",
+      "Zahir"
+    ],
+    "familyName": "Shah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Zahir_Shah",
+    "occupation": "King of Afghanistan",
+    "achievements": [
+      "Longest-reigning monarch of Afghanistan (1933-1973)",
+      "Led Afghanistan through modernization and independence"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Zahir Raihan",
+    "givenNames": [
+      "Zahir"
+    ],
+    "familyName": "Raihan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zahir_Raihan",
+    "occupation": "Filmmaker, writer, and journalist",
+    "achievements": [
+      "Pioneer of Bangladeshi cinema",
+      "Known for his socially conscious films and writings"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 1972
+  }
+]

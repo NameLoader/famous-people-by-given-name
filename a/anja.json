@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Anja Rubik",
+    "givenNames": [
+      "Anja"
+    ],
+    "familyName": "Rubik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anja_Rubik",
+    "occupation": "Model",
+    "achievements": [
+      "One of the world's top models",
+      "Appeared in campaigns for major brands like Gucci and Prada"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Anja Niedringhaus",
+    "givenNames": [
+      "Anja"
+    ],
+    "familyName": "Niedringhaus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anja_Niedringhaus",
+    "occupation": "Photojournalist",
+    "achievements": [
+      "Won the Pulitzer Prize for her photography",
+      "Known for covering conflict zones and documenting humanitarian crises"
+    ],
+    "yearBorn": 1965,
+    "yearDied": 2014
+  }
+]

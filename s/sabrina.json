@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Sabrina Carpenter",
+    "givenNames": [
+      "Sabrina",
+      "Annlynn"
+    ],
+    "familyName": "Carpenter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabrina_Carpenter",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Starred in Disney Channel series 'Girl Meets World'",
+      "Released multiple successful albums",
+      "Nominated for several Teen Choice Awards"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Sabrina Spellman",
+    "givenNames": [
+      "Sabrina"
+    ],
+    "familyName": "Spellman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the 'Sabrina the Teenage Witch' comic book series, television show and reboot"
+    ]
+  }
+]

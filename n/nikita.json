@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nikita Mazepin",
+    "givenNames": [
+      "Nikita",
+      "Dmitryevich"
+    ],
+    "familyName": "Mazepin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikita_Mazepin",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Competed in Formula One for the Haas team in 2021",
+      "Won the 2018 GP3 Series championship"
+    ],
+    "yearBorn": 1999
+  }
+]

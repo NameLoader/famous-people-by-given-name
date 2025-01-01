@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Erin Brockovich",
+    "givenNames": [
+      "Erin"
+    ],
+    "familyName": "Brockovich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erin_Brockovich",
+    "occupation": "Environmental activist and legal clerk",
+    "achievements": [
+      "Won a $333 million settlement against Pacific Gas & Electric for groundwater contamination in Hinkley, California.",
+      "Subject of the biographical film 'Erin Brockovich' (2000) starring Julia Roberts."
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Erin Andrews",
+    "givenNames": [
+      "Erin",
+      "Jill"
+    ],
+    "familyName": "Andrews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erin_Andrews",
+    "occupation": "Television personality and sportscaster",
+    "achievements": [
+      "Hosted 'College GameDay' on ESPN.",
+      "Served as a sideline reporter for Fox NFL and the World Series.",
+      "Appeared on 'Dancing with the Stars'."
+    ],
+    "yearBorn": 1978
+  }
+]

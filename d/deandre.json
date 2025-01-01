@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "DeAndre Jordan",
+    "givenNames": [
+      "DeAndre"
+    ],
+    "familyName": "Jordan",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeAndre_Jordan",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "NBA All-Star (2017)",
+      "NBA All-Defensive First Team (2015)",
+      "Led the NBA in rebounds per game (2014, 2016)"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "DeAndre Hopkins",
+    "givenNames": [
+      "DeAndre",
+      "Rashaun"
+    ],
+    "familyName": "Hopkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeAndre_Hopkins",
+    "occupation": "Professional football player",
+    "achievements": [
+      "5× Pro Bowl selection",
+      "3× First-team All-Pro selection"
+    ],
+    "yearBorn": 1992
+  }
+]

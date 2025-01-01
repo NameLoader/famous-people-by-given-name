@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Augustus Pugin",
+    "givenNames": [
+      "Augustus",
+      "Welby",
+      "Northmore"
+    ],
+    "familyName": "Pugin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustus_Pugin",
+    "occupation": "Architect, Designer, Critic",
+    "achievements": [
+      "Leading figure in the Gothic Revival movement",
+      "Designed Houses of Parliament (Westminster Palace)",
+      "Influential architectural theorist"
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1852
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Reed Hastings",
+    "givenNames": [
+      "Wilmot",
+      "Reed"
+    ],
+    "familyName": "Hastings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reed_Hastings",
+    "occupation": "Entrepreneur, CEO",
+    "achievements": [
+      "Co-founder and co-CEO of Netflix",
+      "Pioneering figure in the streaming entertainment industry"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Reed Richards",
+    "givenNames": [
+      "Reed",
+      "Nathaniel"
+    ],
+    "familyName": "Richards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fantastic",
+    "occupation": "Fictional Superhero",
+    "achievements": [
+      "Leader of the Fantastic Four",
+      "Brilliant scientist and inventor with the ability to stretch his body"
+    ]
+  }
+]

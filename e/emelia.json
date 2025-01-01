@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Emelia Earhart",
+    "givenNames": [
+      "Amelia",
+      "Mary"
+    ],
+    "familyName": "Earhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+    "occupation": "Aviator",
+    "achievements": [
+      "First female aviator to fly solo across the Atlantic Ocean.",
+      "Set many other aviation records."
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1937
+  },
+  {
+    "fullName": "Emelia Clarke",
+    "givenNames": [
+      "Emilia",
+      "Isobel",
+      "Euphemia",
+      "Rose"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilia_Clarke",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Daenerys Targaryen in the HBO series Game of Thrones.",
+      "Appeared in films such as Me Before You and Solo: A Star Wars Story."
+    ],
+    "yearBorn": 1986
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Eddy Merckx",
+    "givenNames": [
+      "Édouard",
+      "Louis",
+      "Joseph"
+    ],
+    "familyName": "Merckx",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddy_Merckx",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Won a record 5 Tours de France",
+      "Won a record 5 Giro d'Italia races",
+      "Considered one of the greatest cyclists of all time"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Eddy Arnold",
+    "givenNames": [
+      "Richard",
+      "Edward"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddy_Arnold",
+    "occupation": "Country music singer",
+    "achievements": [
+      "One of the most popular and influential country singers of all time",
+      "Known for his smooth baritone voice and romantic ballads",
+      "Inducted into the Country Music Hall of Fame in 1966"
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2008
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Doyle Brunson",
+    "givenNames": [
+      "Doyle",
+      "Frank"
+    ],
+    "familyName": "Brunson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doyle_Brunson",
+    "occupation": "Professional Poker Player",
+    "achievements": [
+      "Two-time World Series of Poker Main Event champion",
+      "Author of poker strategy books",
+      "Member of the Poker Hall of Fame"
+    ],
+    "yearBorn": 1933
+  }
+]

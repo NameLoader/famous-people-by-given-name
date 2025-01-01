@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rosario Dawson",
+    "givenNames": [
+      "Rosario",
+      "Isabel"
+    ],
+    "familyName": "Dawson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosario_Dawson",
+    "occupation": "Actress",
+    "achievements": [
+      "Appeared in films such as Sin City, Rent, and Clerks II",
+      "Known for her activism and philanthropy"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Rosario Flores",
+    "givenNames": [
+      "Rosario",
+      "del Carmen",
+      "González"
+    ],
+    "familyName": "Flores",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosario_Flores",
+    "occupation": "Singer",
+    "achievements": [
+      "Won a Latin Grammy Award for Best Female Pop Vocal Album",
+      "Known for her flamenco-inspired music"
+    ],
+    "yearBorn": 1963
+  }
+]

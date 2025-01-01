@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sascha Lobo",
+    "givenNames": [
+      "Sascha"
+    ],
+    "familyName": "Lobo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sascha_Lobo",
+    "occupation": "Blogger, Journalist, Author",
+    "achievements": [
+      "Prominent figure in German online media",
+      "Author of several books on digital culture and society"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Sascha Zverev",
+    "givenNames": [
+      "Alexander",
+      "Sascha"
+    ],
+    "familyName": "Zverev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Zverev",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Two-time ATP Finals champion",
+      "Olympic gold medalist in men's singles"
+    ],
+    "yearBorn": 1997
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Beulah Bondi",
+    "givenNames": [
+      "Beulah"
+    ],
+    "familyName": "Bondi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beulah_Bondi",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress for her role in 'The Girl from Missouri'",
+      "Long career in film and television, appearing in over 100 productions"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Beulah Louise Henry",
+    "givenNames": [
+      "Beulah",
+      "Louise"
+    ],
+    "familyName": "Henry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beulah_Louise_Henry",
+    "occupation": "Inventor",
+    "achievements": [
+      "Held over 28 patents for inventions such as a vacuum-operated ice cream maker and a doll's carriage with a retractable sunshade.",
+      "Known for her creativity and persistence in pursuing her ideas."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1970
+  }
+]

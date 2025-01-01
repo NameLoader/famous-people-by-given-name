@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Leonardo da Vinci",
+    "givenNames": [
+      "Leonardo"
+    ],
+    "familyName": "da Vinci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "occupation": "Polymath (painter, sculptor, architect, musician, scientist, inventor, anatomist, geologist, cartographer, botanist, and writer)",
+    "achievements": [
+      "Mona Lisa",
+      "The Last Supper",
+      "Vitruvian Man"
+    ],
+    "yearBorn": 1452,
+    "yearDied": 1519
+  },
+  {
+    "fullName": "Leonardo DiCaprio",
+    "givenNames": [
+      "Leonardo",
+      "Wilhelm"
+    ],
+    "familyName": "DiCaprio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+    "occupation": "Actor and Film Producer",
+    "achievements": [
+      "Academy Award for Best Actor (The Revenant)",
+      "Known for roles in films like Titanic, Inception, The Wolf of Wall Street"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Leonardo Fibonacci",
+    "givenNames": [
+      "Leonardo"
+    ],
+    "familyName": "Fibonacci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fibonacci",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Introduced the Fibonacci sequence to Western mathematics"
+    ],
+    "yearBorn": 1170,
+    "yearDied": 1250
+  }
+]

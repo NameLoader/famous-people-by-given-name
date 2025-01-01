@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Rei Kawakubo",
+    "givenNames": [
+      "Rei"
+    ],
+    "familyName": "Kawakubo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rei_Kawakubo",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Founder of the fashion label Comme des Garçons",
+      "Known for her avant-garde and deconstructivist designs",
+      "Influential figure in the world of fashion"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Rei Ayanami",
+    "givenNames": [
+      "Rei"
+    ],
+    "familyName": "Ayanami",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rei_Ayanami",
+    "occupation": "Fictional character",
+    "achievements": [
+      "One of the main characters in the anime series Neon Genesis Evangelion",
+      "Known for her enigmatic personality and mysterious origins"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lester Piggott",
+    "givenNames": [
+      "Lester",
+      "Keith"
+    ],
+    "familyName": "Piggott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Piggott",
+    "occupation": "Jockey",
+    "achievements": [
+      "Won the Epsom Derby a record nine times",
+      "Considered one of the greatest jockeys of all time"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Lester Holt",
+    "givenNames": [
+      "Lester",
+      "Don"
+    ],
+    "familyName": "Holt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Holt",
+    "occupation": "Journalist",
+    "achievements": [
+      "Anchors NBC Nightly News",
+      "First African-American to solo anchor a weekday network nightly newscast"
+    ],
+    "yearBorn": 1958
+  }
+]

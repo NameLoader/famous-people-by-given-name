@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Masaharu Homma",
+    "givenNames": [
+      "Masaharu"
+    ],
+    "familyName": "Homma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaharu_Homma",
+    "occupation": "Military officer",
+    "achievements": [
+      "Led Japanese forces in the invasion of the Philippines during World War II",
+      "Convicted of war crimes by a US military tribunal"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1946
+  },
+  {
+    "fullName": "Masaharu Fukuyama",
+    "givenNames": [
+      "Masaharu"
+    ],
+    "familyName": "Fukuyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaharu_Fukuyama",
+    "occupation": "Singer-songwriter, musician, actor",
+    "achievements": [
+      "One of Japan's best-selling music artists",
+      "Known for his distinctive vocals and introspective lyrics",
+      "Successful acting career in film and television"
+    ],
+    "yearBorn": 1969
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sonja Henie",
+    "givenNames": [
+      "Sonja"
+    ],
+    "familyName": "Henie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonja_Henie",
+    "occupation": "Figure skater, actress, and film producer",
+    "achievements": [
+      "Three-time Olympic champion in figure skating (1928, 1932, 1936)",
+      "Ten-time World champion in figure skating",
+      "Six-time European champion in figure skating",
+      "Starred in Hollywood films in the 1930s and 1940s"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Sonja Morgan",
+    "givenNames": [
+      "Sonja"
+    ],
+    "familyName": "Morgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonja_Morgan",
+    "occupation": "Socialite, television personality",
+    "achievements": [
+      "Cast member on the reality television series The Real Housewives of New York City"
+    ],
+    "yearBorn": 1963
+  }
+]

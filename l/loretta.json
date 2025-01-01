@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Loretta Lynn",
+    "givenNames": [
+      "Loretta"
+    ],
+    "familyName": "Lynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Loretta_Lynn",
+    "occupation": "Country music singer, songwriter",
+    "achievements": [
+      "One of the most successful female country singers of all time",
+      "Inducted into the Country Music Hall of Fame"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Loretta Young",
+    "givenNames": [
+      "Loretta"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Loretta_Young",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in 'The Farmer's Daughter'",
+      "Starred in numerous films and television shows throughout her career"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 2000
+  }
+]

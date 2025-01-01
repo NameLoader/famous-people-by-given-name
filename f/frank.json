@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Frank Lloyd Wright",
+    "givenNames": [
+      "Frank",
+      "Lloyd"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of organic architecture",
+      "Designed over 1,000 structures",
+      "UNESCO World Heritage Site: Fallingwater"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Frank Gehry",
+    "givenNames": [
+      "Frank",
+      "Owen"
+    ],
+    "familyName": "Gehry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Gehry",
+    "occupation": "Architect",
+    "achievements": [
+      "Known for deconstructivist architecture",
+      "Designed Guggenheim Museum Bilbao and Walt Disney Concert Hall",
+      "Pritzker Architecture Prize winner"
+    ],
+    "yearBorn": 1929
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gretchen Rubin",
+    "givenNames": [
+      "Gretchen",
+      "Craft"
+    ],
+    "familyName": "Rubin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gretchen_Rubin",
+    "occupation": "Author, blogger, speaker",
+    "achievements": [
+      "Bestselling author of books on happiness and habit formation, including 'The Happiness Project' and 'Better Than Before'",
+      "Host of the popular podcast 'Happier with Gretchen Rubin'"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Gretchen Carlson",
+    "givenNames": [
+      "Gretchen",
+      "Elizabeth"
+    ],
+    "familyName": "Carlson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gretchen_Carlson",
+    "occupation": "Television news anchor, author",
+    "achievements": [
+      "Former co-host of 'Fox & Friends'",
+      "Known for her reporting on the Roger Ailes sexual harassment scandal",
+      "Author of the book 'Be Fierce: Stop Harassment and Take Your Power Back'"
+    ],
+    "yearBorn": 1966
+  }
+]

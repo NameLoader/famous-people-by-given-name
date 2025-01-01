@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Christian Bale",
+    "givenNames": [
+      "Christian",
+      "Charles",
+      "Philip"
+    ],
+    "familyName": "Bale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Bale",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Known for roles in films like 'American Psycho', 'The Dark Knight', and 'The Fighter'"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Christian Louboutin",
+    "givenNames": [
+      "Christian"
+    ],
+    "familyName": "Louboutin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Louboutin",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Known for his signature red-soled shoes"
+    ],
+    "yearBorn": 1963
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Bryant Gumbel",
+    "givenNames": [
+      "Bryant",
+      "Charles"
+    ],
+    "familyName": "Gumbel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryant_Gumbel",
+    "occupation": "Television journalist and broadcaster",
+    "achievements": [
+      "Hosted Today, NBC's morning news program",
+      "Hosted Real Sports with Bryant Gumbel on HBO"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Bryant Jennings",
+    "givenNames": [
+      "Bryant"
+    ],
+    "familyName": "Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryant_Jennings",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Challenged for the WBO heavyweight title in 2015"
+    ],
+    "yearBorn": 1984
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Belen Esteban",
+    "givenNames": [
+      "María",
+      "Belén"
+    ],
+    "familyName": "Esteban",
+    "wikipedia": "https://es.wikipedia.org/wiki/Bel%C3%A9n_Esteban",
+    "occupation": "Television personality",
+    "achievements": [
+      "Known for her appearances on reality television shows in Spain.",
+      "Popular figure in Spanish media."
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Belen Rueda",
+    "givenNames": [
+      "María",
+      "Belen"
+    ],
+    "familyName": "Rueda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bel%C3%A9n_Rueda",
+    "occupation": "Actress",
+    "achievements": [
+      "Won Goya Award for Best Actress for her role in 'The Orphanage'.",
+      "Known for roles in Spanish films and television series."
+    ],
+    "yearBorn": 1965
+  }
+]

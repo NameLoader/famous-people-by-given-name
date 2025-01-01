@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Susanne Bier",
+    "givenNames": [
+      "Susanne"
+    ],
+    "familyName": "Bier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susanne_Bier",
+    "occupation": "Film director",
+    "achievements": [
+      "Academy Award for Best Foreign Language Film for In a Better World (2010)",
+      "BAFTA Award for Best Film Not in the English Language for After the Wedding (2006)"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Susanne Vega",
+    "givenNames": [
+      "Susanne",
+      "Suzanne",
+      "Nadine"
+    ],
+    "familyName": "Vega",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Vega",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nomination for Best Female Pop Vocal Performance for Luka (1988)",
+      "Known for her distinctive voice and introspective lyrics"
+    ],
+    "yearBorn": 1959
+  }
+]

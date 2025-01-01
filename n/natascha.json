@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Natascha McElhone",
+    "givenNames": [
+      "Natascha"
+    ],
+    "familyName": "McElhone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natascha_McElhone",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Ronin' and 'Solaris'",
+      "Starred in the television series 'Californication'"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Natascha Kampusch",
+    "givenNames": [
+      "Natascha",
+      "Maria"
+    ],
+    "familyName": "Kampusch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natascha_Kampusch",
+    "occupation": "Author, Speaker",
+    "achievements": [
+      "Survived a highly publicized kidnapping and captivity for eight years",
+      "Wrote books about her experiences and advocates for victims of violence"
+    ],
+    "yearBorn": 1988
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Brenda Lee",
+    "givenNames": [
+      "Brenda",
+      "Mae"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Lee",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known as 'Little Miss Dynamite'",
+      "Rock and Roll Hall of Fame inductee",
+      "Chart-topping hits including 'Sweet Nothin's'"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Brenda Joyce",
+    "givenNames": [
+      "Brenda"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Joyce_(actress)",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in Tarzan films during the 1940s",
+      "Popular pin-up model"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Brenda Blethyn",
+    "givenNames": [
+      "Brenda"
+    ],
+    "familyName": "Blethyn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Blethyn",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for 'Secrets & Lies'",
+      "BAFTA Award winner for 'Secrets & Lies'"
+    ],
+    "yearBorn": 1946
+  }
+]

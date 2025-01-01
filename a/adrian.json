@@ -1,0 +1,58 @@
+[
+  {
+    "fullName": "Adrian Paul",
+    "givenNames": [
+      "Adrian"
+    ],
+    "familyName": "Paul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Paul",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Duncan MacLeod in the Highlander franchise"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Adrian Smith",
+    "givenNames": [
+      "Adrian",
+      "Frederick"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Smith_(musician)",
+    "occupation": "Guitarist",
+    "achievements": [
+      "Guitarist for Iron Maiden",
+      "Known for his distinctive twin guitar harmonies with Dave Murray"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Adrian Chiles",
+    "givenNames": [
+      "Adrian"
+    ],
+    "familyName": "Chiles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Chiles",
+    "occupation": "Television and radio presenter",
+    "achievements": [
+      "Known for presenting Match of the Day and The One Show"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Adrian Frutiger",
+    "givenNames": [
+      "Adrian",
+      "Johann"
+    ],
+    "familyName": "Frutiger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Frutiger",
+    "occupation": "Type designer",
+    "achievements": [
+      "Created iconic typefaces such as Univers and Frutiger"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2015
+  }
+]

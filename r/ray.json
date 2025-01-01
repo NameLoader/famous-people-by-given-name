@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ray Charles",
+    "givenNames": [
+      "Ray"
+    ],
+    "familyName": "Charles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Charles",
+    "occupation": "Singer, Songwriter, Musician, Composer",
+    "achievements": [
+      "Pioneer of soul music",
+      "Won 17 Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Ray Bradbury",
+    "givenNames": [
+      "Ray",
+      "Douglas"
+    ],
+    "familyName": "Bradbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Bradbury",
+    "occupation": "Author",
+    "achievements": [
+      "Known for science fiction and fantasy novels",
+      "Famous works include Fahrenheit 451 and The Martian Chronicles"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2012
+  }
+]

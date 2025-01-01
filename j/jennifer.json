@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Jennifer Aniston",
+    "givenNames": [
+      "Jennifer",
+      "Joanna"
+    ],
+    "familyName": "Aniston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Primetime Emmy Award, a Golden Globe Award, and two Screen Actors Guild Awards.",
+      "Known for her role as Rachel Green on the sitcom Friends."
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Jennifer Lawrence",
+    "givenNames": [
+      "Jennifer",
+      "Shrader"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+    "occupation": "Actress",
+    "achievements": [
+      "Won an Academy Award for Best Actress for her role in Silver Linings Playbook.",
+      "Known for roles in The Hunger Games series, X-Men films, and American Hustle."
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Jennifer Coolidge",
+    "givenNames": [
+      "Jennifer"
+    ],
+    "familyName": "Coolidge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Coolidge",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her comedic roles in films such as American Pie and Legally Blonde.",
+      "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie for her role in The White Lotus."
+    ],
+    "yearBorn": 1961
+  }
+]

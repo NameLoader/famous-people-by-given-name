@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Stephanie Beatriz",
+    "givenNames": [
+      "Stephanie",
+      "Bischoff",
+      "Alvizuri"
+    ],
+    "familyName": "Beatriz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Beatriz",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Rosa Diaz in the NBC comedy series 'Brooklyn Nine-Nine'",
+      "Voice actress for Mirabel Madrigal in Disney's animated film 'Encanto'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Stephanie Meyer",
+    "givenNames": [
+      "Stephenie"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephenie_Meyer",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for the 'Twilight' saga, a series of vampire romance novels that became a global phenomenon"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Stephanie McMahon",
+    "givenNames": [
+      "Stephanie",
+      "Marie"
+    ],
+    "familyName": "McMahon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_McMahon",
+    "occupation": "Businesswoman, WWE executive",
+    "achievements": [
+      "Chief Brand Officer of World Wrestling Entertainment (WWE)",
+      "Former wrestler and multiple-time WWE Women's Champion"
+    ],
+    "yearBorn": 1976
+  }
+]

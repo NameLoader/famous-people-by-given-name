@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "DeAngelo Hall",
+    "givenNames": [
+      "DeAngelo",
+      "Eugene"
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeAngelo_Hall",
+    "occupation": "Professional Football Player",
+    "achievements": [
+      "Three-time Pro Bowler",
+      "NFL interceptions leader (2008)"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "DeAngelo Williams",
+    "givenNames": [
+      "DeAngelo",
+      "Chondon"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeAngelo_Williams",
+    "occupation": "Professional Football Player",
+    "achievements": [
+      "Super Bowl champion (Carolina Panthers)",
+      "One of the top rushers in Carolina Panthers history"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Preston Tucker",
+    "givenNames": [
+      "Preston",
+      "Thomas"
+    ],
+    "familyName": "Tucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Preston_Tucker",
+    "occupation": "Automotive designer and entrepreneur",
+    "achievements": [
+      "Designed the Tucker Torpedo, a revolutionary car with innovative features",
+      "Faced controversy and ultimately bankruptcy due to legal battles and accusations of fraud"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Preston Manning",
+    "givenNames": [
+      "Preston"
+    ],
+    "familyName": "Manning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Preston_Manning",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the Reform Party of Canada and later founder of the Canadian Alliance",
+      "Advocated for conservative principles and fiscal responsibility"
+    ],
+    "yearBorn": 1942
+  }
+]

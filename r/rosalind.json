@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rosalind Franklin",
+    "givenNames": [
+      "Rosalind",
+      "Elsie"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+    "occupation": "Chemist, X-ray crystallographer",
+    "achievements": [
+      "Pioneering work in understanding the molecular structures of DNA, RNA, viruses, coal, and graphite.",
+      "Her X-ray diffraction images were crucial in determining the double helix structure of DNA."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1958
+  },
+  {
+    "fullName": "Rosalind Brewer",
+    "givenNames": [
+      "Rosalind",
+      "G"
+    ],
+    "familyName": "Brewer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalind_Brewer",
+    "occupation": "Business executive",
+    "achievements": [
+      "First Black woman to lead a Fortune 500 company (Walgreens Boots Alliance)",
+      "Former Chief Operating Officer of Starbucks"
+    ],
+    "yearBorn": 1962
+  }
+]

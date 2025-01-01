@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Pablo Picasso",
+    "givenNames": [
+      "Pablo",
+      "Ruiz"
+    ],
+    "familyName": "Picasso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+    "occupation": "Painter, sculptor, printmaker, ceramicist, stage designer, poet, and playwright",
+    "achievements": [
+      "Co-founder of the Cubist movement",
+      "Prolific artist who produced over 50,000 works of art"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Pablo Neruda",
+    "givenNames": [
+      "Pablo"
+    ],
+    "familyName": "Neruda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Neruda",
+    "occupation": "Poet, diplomat, and politician",
+    "achievements": [
+      "Won the Nobel Prize in Literature in 1971",
+      "Known for his love poems and politically charged works"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Pablo Escobar",
+    "givenNames": [
+      "Pablo",
+      "Emilio"
+    ],
+    "familyName": "Escobar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Escobar",
+    "occupation": "Drug lord and narcoterrorist",
+    "achievements": [
+      "Head of the Medellín Cartel, responsible for up to 80% of the global cocaine trade in the 1980s",
+      "Notorious for his brutality and violent tactics"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 1993
+  }
+]

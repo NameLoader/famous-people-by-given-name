@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Stanislao Cannizzaro",
+    "givenNames": [
+      "Stanislao"
+    ],
+    "familyName": "Cannizzaro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanislao_Cannizzaro",
+    "occupation": "Chemist",
+    "achievements": [
+      "Developed the Cannizzaro reaction",
+      "Contributed to understanding of atomic weights and molecular formulas"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1910
+  }
+]

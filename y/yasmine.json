@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Yasmine Bleeth",
+    "givenNames": [
+      "Yasmine"
+    ],
+    "familyName": "Bleeth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasmine_Bleeth",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Caroline Holden on the television series Baywatch"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Yasmine Hamdan",
+    "givenNames": [
+      "Yasmine",
+      "Hani"
+    ],
+    "familyName": "Hamdan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasmine_Hamdan",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Pioneer of alternative Arabic music",
+      "Collaborated with artists like Brian Eno and Kindness"
+    ]
+  }
+]

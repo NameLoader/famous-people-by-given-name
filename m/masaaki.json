@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Masaaki Suzuki",
+    "givenNames": [
+      "Masaaki"
+    ],
+    "familyName": "Suzuki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaaki_Suzuki",
+    "occupation": "Conductor, violinist",
+    "achievements": [
+      "Founder and Music Director of the Bach Collegium Japan",
+      "Renowned interpreter of Baroque music, particularly the works of Johann Sebastian Bach"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Masaaki Shirakawa",
+    "givenNames": [
+      "Masaaki"
+    ],
+    "familyName": "Shirakawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masaaki_Shirakawa",
+    "occupation": "Economist",
+    "achievements": [
+      "Governor of the Bank of Japan (2008-2013)",
+      "Contributed to Japan's monetary policy during the global financial crisis"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2023
+  }
+]

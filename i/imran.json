@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Imran Khan",
+    "givenNames": [
+      "Imran",
+      "Ahmed"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan",
+    "occupation": "Politician, cricketer",
+    "achievements": [
+      "Prime Minister of Pakistan (2018-2022)",
+      "Captain of the Pakistani cricket team that won the 1992 Cricket World Cup"
+    ],
+    "yearBorn": 1952
+  }
+]

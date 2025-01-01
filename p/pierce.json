@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Pierce Brosnan",
+    "givenNames": [
+      "Pierce",
+      "Brendan"
+    ],
+    "familyName": "Brosnan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierce_Brosnan",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as James Bond in four films.",
+      "Starred in films such as Mrs. Doubtfire, The Thomas Crown Affair and Mamma Mia!"
+    ],
+    "yearBorn": 1953
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Patrice Lumumba",
+    "givenNames": [
+      "Patrice",
+      "Émery"
+    ],
+    "familyName": "Lumumba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrice_Lumumba",
+    "occupation": "Politician",
+    "achievements": [
+      "First Prime Minister of the Democratic Republic of Congo",
+      "Key figure in the Congolese independence movement"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Patrice Evra",
+    "givenNames": [
+      "Patrice",
+      "Latyr"
+    ],
+    "familyName": "Evra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrice_Evra",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won five Premier League titles with Manchester United",
+      "Captained the French national team"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Patrice Roberts",
+    "givenNames": [
+      "Patrice"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrice_Roberts",
+    "occupation": "Singer",
+    "achievements": [
+      "Popular soca artist from Trinidad and Tobago",
+      "Known for hits like 'Sweet Fuh Days' and 'Carnival Queen'"
+    ]
+  }
+]

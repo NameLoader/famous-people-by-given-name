@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Carmen McRae",
+    "givenNames": [
+      "Carmen",
+      "Mercedes"
+    ],
+    "familyName": "McRae",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_McRae",
+    "occupation": "Jazz singer and pianist",
+    "achievements": [
+      "Grammy Award nominee",
+      "Renowned for her improvisational skills and unique vocal style"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Carmen Sandiego",
+    "givenNames": [
+      "Carmen"
+    ],
+    "familyName": "Sandiego",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Sandiego",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the educational media franchise 'Where in the World Is Carmen Sandiego?'"
+    ]
+  }
+]

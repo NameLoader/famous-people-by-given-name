@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Carli Lloyd",
+    "givenNames": [
+      "Carli",
+      "Anne"
+    ],
+    "familyName": "Lloyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carli_Lloyd",
+    "occupation": "Soccer Player",
+    "achievements": [
+      "Two-time FIFA Women's World Cup champion (2015, 2019)",
+      "Olympic gold medalist (2008, 2012)",
+      "FIFA Women's World Player of the Year (2015)"
+    ],
+    "yearBorn": 1982
+  }
+]

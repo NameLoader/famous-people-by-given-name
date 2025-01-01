@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Danny DeVito",
+    "givenNames": [
+      "Daniel",
+      "Michael"
+    ],
+    "familyName": "DeVito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danny_DeVito",
+    "occupation": "Actor, Producer, Director",
+    "achievements": [
+      "Emmy Award winner",
+      "Golden Globe Award winner",
+      "Known for roles in 'Taxi', 'Twins', 'Matilda'"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Danny Glover",
+    "givenNames": [
+      "Danny"
+    ],
+    "familyName": "Glover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Glover",
+    "occupation": "Actor, Film director, Political activist",
+    "achievements": [
+      "Academy Award nominee",
+      "Known for roles in 'Lethal Weapon' series, 'The Color Purple'"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Danny Boyle",
+    "givenNames": [
+      "Danny",
+      "Daniel",
+      "Francis"
+    ],
+    "familyName": "Boyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Danny_Boyle",
+    "occupation": "Film director, Screenwriter, Producer",
+    "achievements": [
+      "Academy Award winner (Best Director)",
+      "Known for films 'Trainspotting', 'Slumdog Millionaire', '28 Days Later'"
+    ],
+    "yearBorn": 1956
+  }
+]

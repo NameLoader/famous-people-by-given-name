@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Amalie Emmy Noether",
+    "givenNames": [
+      "Amalie",
+      "Emmy"
+    ],
+    "familyName": "Noether",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmy_Noether",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Made groundbreaking contributions to abstract algebra and theoretical physics.",
+      "Developed Noether's theorem, a fundamental concept in physics relating symmetry to conservation laws."
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1935
+  },
+  {
+    "fullName": "Amalie Skram",
+    "givenNames": [
+      "Amalie"
+    ],
+    "familyName": "Skram",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amalie_Skram",
+    "occupation": "Novelist, Short story writer",
+    "achievements": [
+      "Considered one of the most important Norwegian realist writers.",
+      "Her works often explored themes of social injustice and women's roles in society."
+    ],
+    "yearBorn": 1846,
+    "yearDied": 1905
+  }
+]

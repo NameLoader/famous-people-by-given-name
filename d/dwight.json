@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Dwight D. Eisenhower",
+    "givenNames": [
+      "Dwight",
+      "David"
+    ],
+    "familyName": "Eisenhower",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+    "occupation": "General, 34th President of the United States",
+    "achievements": [
+      "Supreme Commander of Allied Forces in Europe during World War II",
+      "Implemented the Interstate Highway System",
+      "Led the US through a period of relative peace and prosperity"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1969
+  },
+  {
+    "fullName": "Dwight Howard",
+    "givenNames": [
+      "Dwight",
+      "David"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_Howard",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "8× NBA All-Star",
+      "3× Defensive Player of the Year",
+      "NBA Champion (2020)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Dwight Yorke",
+    "givenNames": [
+      "Dwight",
+      "Eversley"
+    ],
+    "familyName": "Yorke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_Yorke",
+    "occupation": "Professional Footballer (Soccer)",
+    "achievements": [
+      "Premier League champion with Manchester United",
+      "UEFA Champions League winner",
+      "Trinidad and Tobago national team top scorer"
+    ],
+    "yearBorn": 1971
+  }
+]

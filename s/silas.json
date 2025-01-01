@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Silas Deane",
+    "givenNames": [
+      "Silas"
+    ],
+    "familyName": "Deane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silas_Deane",
+    "occupation": "Diplomat, Spy",
+    "achievements": [
+      "Served as a diplomat to France during the American Revolutionary War",
+      "Played a key role in securing French financial and military aid for the American colonies"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1789
+  },
+  {
+    "fullName": "Silas Weir Mitchell",
+    "givenNames": [
+      "Silas",
+      "Weir"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silas_Weir_Mitchell_(physician)",
+    "occupation": "Physician, Writer",
+    "achievements": [
+      "Pioneer in the treatment of neurasthenia (a condition now often understood as chronic fatigue syndrome)",
+      "Authored influential medical texts and novels"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1914
+  },
+  {
+    "fullName": "Silas Marner",
+    "givenNames": [
+      "Silas"
+    ],
+    "familyName": "Marner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silas_Marner",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of George Eliot's novel 'Silas Marner'"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Zinedine Zidane",
+    "givenNames": [
+      "Zinedine",
+      "Yazid"
+    ],
+    "familyName": "Zidane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "FIFA World Cup Winner (1998)",
+      "UEFA European Championship Winner (2000)",
+      "Ballon d'Or winner (1998)",
+      "Three-time FIFA World Coach of the Year",
+      "UEFA Champions League winner as a manager (2016, 2017)"
+    ],
+    "yearBorn": 1972
+  }
+]

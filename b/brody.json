@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Brody Jenner",
+    "givenNames": [
+      "Brody",
+      "Sam"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brody_Jenner",
+    "occupation": "Television personality",
+    "achievements": [
+      "Known for his appearances on reality television shows such as 'The Hills' and 'Keeping Up with the Kardashians'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Brody Stevens",
+    "givenNames": [
+      "Brody"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brody_Stevens",
+    "occupation": "Comedian and actor",
+    "achievements": [
+      "Performed stand-up comedy on late-night talk shows and appeared in films like 'The Hangover'"
+    ],
+    "yearBorn": 1970,
+    "yearDied": 2019
+  }
+]

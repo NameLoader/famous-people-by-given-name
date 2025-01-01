@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Wilhelmine von Bayreuth",
+    "givenNames": [
+      "Wilhelmine",
+      "Friederike",
+      "Sophie"
+    ],
+    "familyName": "von Bayreuth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelmine,_Margravine_of_Brandenburg-Bayreuth",
+    "occupation": "Margravine of Brandenburg-Bayreuth",
+    "achievements": [
+      "Known for her patronage of the arts and sciences.",
+      "Commissioned the construction of several palaces and gardens."
+    ],
+    "yearBorn": 1709,
+    "yearDied": 1758
+  },
+  {
+    "fullName": "Wilhelmine Schröder-Devrient",
+    "givenNames": [
+      "Wilhelmine"
+    ],
+    "familyName": "Schröder-Devrient",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelmine_Schr%C3%B6der-Devrient",
+    "occupation": "Soprano and actress",
+    "achievements": [
+      "Considered one of the greatest opera singers of her time.",
+      "Famous for her roles in operas by Mozart, Weber, and Bellini."
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1865
+  }
+]

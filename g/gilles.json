@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Gilles Deleuze",
+    "givenNames": [
+      "Gilles",
+      "Louis",
+      "René"
+    ],
+    "familyName": "Deleuze",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilles_Deleuze",
+    "occupation": "Philosopher, Philosopher",
+    "achievements": [
+      "Developed influential theories in post-structuralism, phenomenology, and existentialism.",
+      "Co-authored key works with Félix Guattari, including 'Anti-Oedipus' and 'A Thousand Plateaus'."
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Gilles Villeneuve",
+    "givenNames": [
+      "Gilles",
+      "Henri"
+    ],
+    "familyName": "Villeneuve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilles_Villeneuve",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Six-time Formula One Grand Prix winner.",
+      "Known for his aggressive driving style and daring overtaking maneuvers."
+    ],
+    "yearBorn": 1950,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Gilles Duceppe",
+    "givenNames": [
+      "Gilles"
+    ],
+    "familyName": "Duceppe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilles_Duceppe",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the Bloc Québécois from 1997 to 2007.",
+      "Prominent advocate for Quebec sovereignty."
+    ],
+    "yearBorn": 1947
+  }
+]

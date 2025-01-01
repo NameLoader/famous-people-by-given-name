@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alana Haim",
+    "givenNames": [
+      "Alana",
+      "Mychal"
+    ],
+    "familyName": "Haim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alana_Haim",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Member of the Grammy-nominated band Haim",
+      "Known for her distinctive guitar playing and vocals"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Alana Blanchard",
+    "givenNames": [
+      "Alana",
+      "Rene"
+    ],
+    "familyName": "Blanchard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alana_Blanchard",
+    "occupation": "Professional Surfer, Model",
+    "achievements": [
+      "Multiple-time World Surfing Games competitor",
+      "Featured in the documentary film 'Chasing Mavericks'"
+    ],
+    "yearBorn": 1990
+  }
+]

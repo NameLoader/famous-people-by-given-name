@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Celia Cruz",
+    "givenNames": [
+      "Celia",
+      "Caridad"
+    ],
+    "familyName": "Cruz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celia_Cruz",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Known as the 'Queen of Salsa'",
+      "Won multiple Grammy Awards"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Celia Imrie",
+    "givenNames": [
+      "Celia",
+      "Diana",
+      "Savile"
+    ],
+    "familyName": "Imrie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celia_Imrie",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Calendar Girls' and 'Bridget Jones's Diary'",
+      "Award-winning stage actress"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Celia Walden",
+    "givenNames": [
+      "Celia",
+      "Isobel"
+    ],
+    "familyName": "Walden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celia_Walden",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Columnist for The Daily Telegraph",
+      "Author of the novel 'Taken'"
+    ],
+    "yearBorn": 1976
+  }
+]

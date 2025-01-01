@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Dalton Trumbo",
+    "givenNames": [
+      "Dalton"
+    ],
+    "familyName": "Trumbo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dalton_Trumbo",
+    "occupation": "Screenwriter",
+    "achievements": [
+      "Known for his work on films like 'Roman Holiday', 'Spartacus' and 'Exodus'",
+      "Blacklisted during the McCarthy era for his communist beliefs"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1976
+  },
+  {
+    "fullName": "Dalton McGuinty",
+    "givenNames": [
+      "Dalton",
+      "James",
+      "Patrick"
+    ],
+    "familyName": "McGuinty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dalton_McGuinty",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 26th Premier of Ontario, Canada from 2003 to 2013"
+    ],
+    "yearBorn": 1954
+  }
+]

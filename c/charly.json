@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Charly García",
+    "givenNames": [
+      "Carlos",
+      "Alberto"
+    ],
+    "familyName": "García",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charly_Garc%C3%ADa",
+    "occupation": "Musician, Singer-songwriter",
+    "achievements": [
+      "Pioneer of Argentine rock",
+      "Influential figure in Latin American music"
+    ],
+    "yearBorn": 1951
+  }
+]

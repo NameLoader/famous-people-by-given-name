@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Ulrich Beck",
+    "givenNames": [
+      "Ulrich"
+    ],
+    "familyName": "Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulrich_Beck",
+    "occupation": "Sociologist",
+    "achievements": [
+      "Developed the theory of 'risk society'",
+      "Influential thinker on globalization and modernity"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Ulrich Thomsen",
+    "givenNames": [
+      "Ulrich"
+    ],
+    "familyName": "Thomsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulrich_Thomsen",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'The Celebration' and 'Mifune'",
+      "Known for his intense and naturalistic performances"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Ulrich Zwingli",
+    "givenNames": [
+      "Ulrich",
+      "Huldrych"
+    ],
+    "familyName": "Zwingli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
+    "occupation": "Theologian, Reformer",
+    "achievements": [
+      "Leader of the Swiss Reformation",
+      "Challenged the authority of the Catholic Church"
+    ],
+    "yearBorn": 1484,
+    "yearDied": 1531
+  }
+]

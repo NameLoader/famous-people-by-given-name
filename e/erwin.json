@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Erwin Rommel",
+    "givenNames": [
+      "Erwin",
+      "Eugen"
+    ],
+    "familyName": "Rommel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Rommel",
+    "occupation": "Military commander",
+    "achievements": [
+      "Field Marshal in the Wehrmacht of Nazi Germany during World War II.",
+      "Known as the 'Desert Fox' for his exploits in North Africa."
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Erwin Schrödinger",
+    "givenNames": [
+      "Erwin",
+      "Rudolf",
+      "Josef",
+      "Alexander"
+    ],
+    "familyName": "Schrödinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger",
+    "occupation": "Physicist",
+    "achievements": [
+      "Developed the Schrödinger equation which describes how the quantum state of a physical system changes over time.",
+      "Nobel Prize in Physics in 1933 for his contributions to quantum mechanics."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Erwin Chargaff",
+    "givenNames": [
+      "Erwin"
+    ],
+    "familyName": "Chargaff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erwin_Chargaff",
+    "occupation": "Biochemist",
+    "achievements": [
+      "Discovered Chargaff's rules, which state that in DNA the amount of guanine is equal to cytosine and the amount of adenine is equal to thymine."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 2002
+  }
+]

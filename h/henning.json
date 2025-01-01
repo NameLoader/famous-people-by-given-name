@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Henning Mankell",
+    "givenNames": [
+      "Henning",
+      "Georg"
+    ],
+    "familyName": "Mankell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henning_Mankell",
+    "occupation": "Author, screenwriter",
+    "achievements": [
+      "Known for his Kurt Wallander detective novels",
+      "Advocate for social justice"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2015
+  }
+]

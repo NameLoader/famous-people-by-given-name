@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Mitchell Rapp",
+    "givenNames": [
+      "Mitch"
+    ],
+    "familyName": "Rapp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_Rapp",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the Mitch Rapp series by Vince Flynn and Kyle Mills.",
+      "CIA counterterrorism operative known for his ruthlessness and efficiency."
+    ]
+  },
+  {
+    "fullName": "Mitchell Trubisky",
+    "givenNames": [
+      "Mitchell",
+      "David"
+    ],
+    "familyName": "Trubisky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Trubisky",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Quarterback for the Pittsburgh Steelers.",
+      "Selected second overall in the 2017 NFL Draft."
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Mitchell Schwartz",
+    "givenNames": [
+      "Mitchell",
+      "Bryan"
+    ],
+    "familyName": "Schwartz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Schwartz",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Offensive tackle who played for the Cleveland Browns and Kansas City Chiefs.",
+      "Super Bowl LIV champion with the Chiefs."
+    ],
+    "yearBorn": 1989
+  }
+]

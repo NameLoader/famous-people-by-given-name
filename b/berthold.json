@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "Berthold Brecht",
+    "givenNames": [
+      "Eugen",
+      "Berthold",
+      "Friedrich"
+    ],
+    "familyName": "Brecht",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertolt_Brecht",
+    "occupation": "Playwright, poet, theatre director",
+    "achievements": [
+      "Pioneer of epic theatre",
+      "Famous for plays like 'Mother Courage and Her Children'",
+      "Influential figure in 20th-century German literature and theatre"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1956
+  }
+]

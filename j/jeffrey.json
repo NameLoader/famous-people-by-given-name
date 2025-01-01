@@ -1,0 +1,58 @@
+[
+  {
+    "fullName": "Jeffrey Dean Morgan",
+    "givenNames": [
+      "Jeffrey",
+      "Dean"
+    ],
+    "familyName": "Morgan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Dean_Morgan",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'The Walking Dead', 'Supernatural', and 'Watchmen'"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Jeffrey Epstein",
+    "givenNames": [
+      "Jeffrey",
+      "Edward"
+    ],
+    "familyName": "Epstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+    "occupation": "Financier, convicted sex offender",
+    "achievements": [
+      "Convicted of sex trafficking and conspiracy to commit sex trafficking"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Jeffrey Katzenberg",
+    "givenNames": [
+      "Jeffrey"
+    ],
+    "familyName": "Katzenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Katzenberg",
+    "occupation": "Film producer, executive",
+    "achievements": [
+      "Former chairman of Walt Disney Studios, co-founder of DreamWorks Animation"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Jeffrey Archer",
+    "givenNames": [
+      "Jeffrey",
+      "Howard"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
+    "occupation": "Author, politician",
+    "achievements": [
+      "Bestselling author known for novels such as 'Kane and Abel' and 'The Clifton Chronicles'"
+    ],
+    "yearBorn": 1940
+  }
+]

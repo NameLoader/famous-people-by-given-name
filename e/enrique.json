@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Enrique Iglesias",
+    "givenNames": [
+      "Enrique",
+      "Miguel"
+    ],
+    "familyName": "Iglesias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Iglesias",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Sold over 180 million records worldwide",
+      "Multiple Grammy Award winner",
+      "Known for hits like 'Hero', 'Bailamos', and 'Rhythm Divine'"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Enrique Peña Nieto",
+    "givenNames": [
+      "Enrique"
+    ],
+    "familyName": "Peña Nieto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Mexico from 2012 to 2018",
+      "Led the Institutional Revolutionary Party (PRI)"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Enrique Bunbury",
+    "givenNames": [
+      "Enrique"
+    ],
+    "familyName": "Bunbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enrique_Bunbury",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Known for his work with the band Héroes del Silencio",
+      "Successful solo career",
+      "Critically acclaimed albums and live performances"
+    ],
+    "yearBorn": 1967
+  }
+]

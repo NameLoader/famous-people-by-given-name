@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rosalyn Yalow",
+    "givenNames": [
+      "Rosalyn",
+      "Sussman"
+    ],
+    "familyName": "Yalow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalyn_Sussman_Yalow",
+    "occupation": "Medical Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 1977 for her development of the radioimmunoassay (RIA) technique.",
+      "Pioneering work in measuring hormone levels in the blood."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Rosalyn Carter",
+    "givenNames": [
+      "Rosalyn",
+      "Eleanor"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosalynn_Carter",
+    "occupation": "Former First Lady of the United States",
+    "achievements": [
+      "Advocated for mental health awareness and care.",
+      "Established the Carter Center with her husband, former President Jimmy Carter."
+    ],
+    "yearBorn": 1927
+  }
+]

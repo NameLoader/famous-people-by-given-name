@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Giancarlo Esposito",
+    "givenNames": [
+      "Giancarlo",
+      "Giuseppe",
+      "Alessandro"
+    ],
+    "familyName": "Esposito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giancarlo_Esposito",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Breaking Bad, Better Call Saul, and The Mandalorian",
+      "Won a Saturn Award for Best Guest Performance on Television"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Giancarlo Stanton",
+    "givenNames": [
+      "Giancarlo",
+      "Cruz",
+      "Michael"
+    ],
+    "familyName": "Stanton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giancarlo_Stanton",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Four-time MLB All-Star",
+      "Won the National League Most Valuable Player Award in 2017"
+    ],
+    "yearBorn": 1989
+  }
+]

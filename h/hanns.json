@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Hanns Eisler",
+    "givenNames": [
+      "Hanns"
+    ],
+    "familyName": "Eisler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanns_Eisler",
+    "occupation": "Composer, Musicologist",
+    "achievements": [
+      "Wrote film scores for influential directors like Bertolt Brecht and Fritz Lang.",
+      "Contributed significantly to the development of socialist realism in music."
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1962
+  }
+]

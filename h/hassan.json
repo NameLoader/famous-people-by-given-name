@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Hassan Rouhani",
+    "givenNames": [
+      "Hassan"
+    ],
+    "familyName": "Rouhani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hassan_Rouhani",
+    "occupation": "Politician",
+    "achievements": [
+      "President of Iran from 2013 to 2021",
+      "Cleric and academic"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Hassan Whiteside",
+    "givenNames": [
+      "Hassan",
+      "Niam"
+    ],
+    "familyName": "Whiteside",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hassan_Whiteside",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA All-Star (2016)",
+      "NBA Defensive Player of the Year runner-up (2016)"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Hassan ibn Thabit",
+    "givenNames": [
+      "Hassan"
+    ],
+    "familyName": "ibn Thabit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hassan_ibn_Thabit",
+    "occupation": "Poet",
+    "achievements": [
+      "One of the most celebrated poets in early Islamic history",
+      "Known for his satirical poems and panegyrics"
+    ],
+    "yearBorn": 642,
+    "yearDied": 670
+  }
+]

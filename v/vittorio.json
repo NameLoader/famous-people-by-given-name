@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Vittorio Gassman",
+    "givenNames": [
+      "Vittorio"
+    ],
+    "familyName": "Gassman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vittorio_Gassman",
+    "occupation": "Actor, director, screenwriter",
+    "achievements": [
+      "Award-winning stage and screen actor",
+      "Considered one of the greatest Italian actors of all time"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Vittorio De Sica",
+    "givenNames": [
+      "Vittorio"
+    ],
+    "familyName": "De Sica",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vittorio_De_Sica",
+    "occupation": "Film director, actor, screenwriter",
+    "achievements": [
+      "Won two Academy Awards for Best Foreign Language Film",
+      "Known for his Neorealist films like Bicycle Thieves and Umberto D."
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Vittorio Grigolo",
+    "givenNames": [
+      "Vittorio"
+    ],
+    "familyName": "Grigolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vittorio_Grigolo",
+    "occupation": "Opera singer (tenor)",
+    "achievements": [
+      "Performed leading roles at major opera houses worldwide",
+      "Known for his powerful voice and charismatic stage presence"
+    ],
+    "yearBorn": 1977
+  }
+]

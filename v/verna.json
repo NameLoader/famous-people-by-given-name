@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Verna Bloom",
+    "givenNames": [
+      "Verna",
+      "Frances"
+    ],
+    "familyName": "Bloom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verna_Bloom",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Animal House' and 'Tootsie'",
+      "Had a successful career in both film and television"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Verna Felton",
+    "givenNames": [
+      "Verna",
+      "Arline"
+    ],
+    "familyName": "Felton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verna_Felton",
+    "occupation": "Actress, Voice Actress",
+    "achievements": [
+      "Known for her distinctive voice and roles in classic Disney films like 'Cinderella' and 'Alice in Wonderland'",
+      "Had a prolific career spanning decades on stage, screen, and radio"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1966
+  }
+]

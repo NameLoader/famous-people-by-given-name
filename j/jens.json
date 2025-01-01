@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jens Stoltenberg",
+    "givenNames": [
+      "Jens"
+    ],
+    "familyName": "Stoltenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jens_Stoltenberg",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Norway (twice)",
+      "Secretary General of NATO"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Jens Lehmann",
+    "givenNames": [
+      "Jens",
+      "Gerhard"
+    ],
+    "familyName": "Lehmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jens_Lehmann",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the UEFA Champions League and Premier League with Arsenal",
+      "Played for the German national team"
+    ],
+    "yearBorn": 1969
+  }
+]

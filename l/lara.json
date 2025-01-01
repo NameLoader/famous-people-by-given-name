@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lara Croft",
+    "givenNames": [
+      "Lara"
+    ],
+    "familyName": "Croft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lara_Croft",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Tomb Raider video game franchise",
+      "Iconic female video game character known for her adventurous spirit and athleticism"
+    ]
+  },
+  {
+    "fullName": "Lara Fabian",
+    "givenNames": [
+      "Lara",
+      "Sophie",
+      "Katy"
+    ],
+    "familyName": "Fabian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lara_Fabian",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Internationally acclaimed singer with a powerful vocal range",
+      "Known for her emotional ballads and operatic style",
+      "Sold millions of albums worldwide"
+    ],
+    "yearBorn": 1970
+  }
+]

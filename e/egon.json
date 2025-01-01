@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Egon Schiele",
+    "givenNames": [
+      "Egon",
+      "Leo",
+      "Adolf",
+      "Ludwig"
+    ],
+    "familyName": "Schiele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egon_Schiele",
+    "occupation": "Painter, Graphic Artist",
+    "achievements": [
+      "Expressionist painter and draftsman.",
+      "Known for his intense and often erotic figurative works."
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Egon Spengler",
+    "givenNames": [
+      "Egon"
+    ],
+    "familyName": "Spengler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghostbusters",
+    "occupation": "Fictional Paranormal Investigator",
+    "achievements": [
+      "Co-founder of Ghostbusters.",
+      "Expert in parapsychology and paranormal phenomena."
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Regina Spektor",
+    "givenNames": [
+      "Regina",
+      "Ilyinichna"
+    ],
+    "familyName": "Spektor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Regina_Spektor",
+    "occupation": "Singer-songwriter, pianist",
+    "achievements": [],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Regina King",
+    "givenNames": [
+      "Regina",
+      "Rene"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Regina_King",
+    "occupation": "Actress, director",
+    "achievements": [],
+    "yearBorn": 1971
+  }
+]

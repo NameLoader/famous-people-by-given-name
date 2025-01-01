@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Thérèse Raquin",
+    "givenNames": [
+      "Thérèse"
+    ],
+    "familyName": "Raquin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Raquin",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of Émile Zola's 1867 novel *Thérèse Raquin*, a naturalistic portrayal of adultery and murder."
+    ]
+  },
+  {
+    "fullName": "Thérèse Coffey",
+    "givenNames": [
+      "Thérèse",
+      "Anne"
+    ],
+    "familyName": "Coffey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Coffey",
+    "occupation": "Politician",
+    "achievements": [
+      "Current Secretary of State for Health and Social Care in the UK.",
+      "Previously served as Work and Pensions Secretary."
+    ],
+    "yearBorn": 1971
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Valerie Bertinelli",
+    "givenNames": [
+      "Valerie",
+      "Anne"
+    ],
+    "familyName": "Bertinelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Bertinelli",
+    "occupation": "Actress, author",
+    "achievements": [
+      "Emmy Award winner for her role in 'One Day at a Time'",
+      "Successful cookbook author"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Valerie Plame Wilson",
+    "givenNames": [
+      "Valerie",
+      "Elise"
+    ],
+    "familyName": "Plame Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Plame",
+    "occupation": "Former CIA operative",
+    "achievements": [
+      "Became known for the Valerie Plame affair, a political scandal involving the leak of her identity as a covert CIA officer"
+    ],
+    "yearBorn": 1963
+  }
+]

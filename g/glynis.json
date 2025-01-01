@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Glynis Johns",
+    "givenNames": [
+      "Glynis",
+      "Margaret",
+      "Payne"
+    ],
+    "familyName": "Johns",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glynis_Johns",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for two Academy Awards",
+      "Starred in films like 'Mary Poppins' and 'The Court Jester'",
+      "Successful stage career in both London and New York"
+    ],
+    "yearBorn": 1923
+  }
+]

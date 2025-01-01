@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Otis Redding",
+    "givenNames": [
+      "Otis",
+      "Ray"
+    ],
+    "familyName": "Redding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otis_Redding",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Considered one of the greatest soul singers of all time",
+      "(Sittin' On) The Dock of the Bay"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1967
+  }
+]

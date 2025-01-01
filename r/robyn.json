@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Robyn Rihanna Fenty",
+    "givenNames": [
+      "Robyn",
+      "Rihanna"
+    ],
+    "familyName": "Fenty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rihanna",
+    "occupation": "Singer, actress, businesswoman",
+    "achievements": [
+      "Best-selling music artist of all time",
+      "Multiple Grammy Awards winner",
+      "Successful fashion and beauty lines"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Robyn Hitchcock",
+    "givenNames": [
+      "Robyn",
+      "Rowan"
+    ],
+    "familyName": "Hitchcock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robyn_Hitchcock",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Influential figure in alternative rock",
+      "Known for quirky lyrics and unconventional song structures"
+    ],
+    "yearBorn": 1953
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Gaston Leroux",
+    "givenNames": [
+      "Gaston",
+      "Louis",
+      "Alfred"
+    ],
+    "familyName": "Leroux",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaston_Leroux",
+    "occupation": "French novelist, journalist, and playwright",
+    "achievements": [
+      "Author of 'The Phantom of the Opera'"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1927
+  },
+  {
+    "fullName": "Gaston Bachelard",
+    "givenNames": [
+      "Gaston"
+    ],
+    "familyName": "Bachelard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaston_Bachelard",
+    "occupation": "French philosopher and poet",
+    "achievements": [
+      "Philosopher of science"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1962
+  }
+]

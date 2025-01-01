@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Campbell Brown",
+    "givenNames": [
+      "Campbell",
+      "Alma",
+      "Dale"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Campbell_Brown_(journalist)",
+    "occupation": "Journalist, television anchor",
+    "achievements": [
+      "Anchor for CNN's 'Election Center'",
+      "Hosted 'Campbell Brown: No Bias, No Bull'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Campbell Newman",
+    "givenNames": [
+      "Campbell",
+      "Kevin",
+      "Thomas"
+    ],
+    "familyName": "Newman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Campbell_Newman",
+    "occupation": "Politician",
+    "achievements": [
+      "Premier of Queensland, Australia (2012-2015)",
+      "Leader of the Liberal National Party of Queensland"
+    ],
+    "yearBorn": 1967
+  }
+]

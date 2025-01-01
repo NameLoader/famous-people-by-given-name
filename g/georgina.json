@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Georgina Cavendish, Duchess of Devonshire",
+    "givenNames": [
+      "Georgina"
+    ],
+    "familyName": "Cavendish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgiana_Cavendish,_Duchess_of_Devonshire",
+    "occupation": "Aristocrat, socialite",
+    "achievements": [
+      "Known for her fashion sense and political influence",
+      "Subject of the novel 'The Duchess' by Amanda Foreman"
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1806
+  },
+  {
+    "fullName": "Georgina Chapman",
+    "givenNames": [
+      "Georgina",
+      "Rose"
+    ],
+    "familyName": "Chapman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgina_Chapman",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Co-founder of the fashion label Marchesa"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Georgina Wilson",
+    "givenNames": [
+      "Georgina",
+      "Ashley"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgina_Wilson",
+    "occupation": "Model, actress, TV personality",
+    "achievements": [
+      "Miss World Philippines 2007"
+    ],
+    "yearBorn": 1986
+  }
+]

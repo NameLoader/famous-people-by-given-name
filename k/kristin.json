@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Kristin Chenoweth",
+    "givenNames": [
+      "Kristin",
+      "Dawn"
+    ],
+    "familyName": "Chenoweth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristin_Chenoweth",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Tony Award winner",
+      "Emmy Award nominee",
+      "Known for roles in Broadway musicals and television shows like 'Wicked' and 'Pushing Daisies'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Kristin Scott Thomas",
+    "givenNames": [
+      "Kristin",
+      "Ann"
+    ],
+    "familyName": "Scott Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristin_Scott_Thomas",
+    "occupation": "Actress",
+    "achievements": [
+      "BAFTA Award winner",
+      "Known for roles in films like 'The English Patient', 'Four Weddings and a Funeral', and 'Gosford Park'"
+    ],
+    "yearBorn": 1960
+  }
+]

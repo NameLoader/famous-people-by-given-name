@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Daniel Radcliffe",
+    "givenNames": [
+      "Daniel",
+      "Jacob"
+    ],
+    "familyName": "Radcliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Radcliffe",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for portraying Harry Potter in the film series of the same name.",
+      "Won numerous awards including a Teen Choice Award and several Empire Awards."
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Daniel Craig",
+    "givenNames": [
+      "Daniel",
+      "Wroughton"
+    ],
+    "familyName": "Craig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Craig",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for portraying James Bond in the film series.",
+      "Won a BAFTA Award and nominated for three Golden Globe Awards."
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Daniel Day-Lewis",
+    "givenNames": [
+      "Daniel",
+      "Michael",
+      "Blake"
+    ],
+    "familyName": "Day-Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Day-Lewis",
+    "occupation": "Actor",
+    "achievements": [
+      "Only actor to have won three Best Actor Oscars.",
+      "Known for his method acting and intense performances."
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Daniel Kahneman",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Kahneman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Won the Nobel Memorial Prize in Economic Sciences.",
+      "Pioneer in behavioral economics and decision-making research."
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Daniel Boone",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Boone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Boone",
+    "occupation": "Pioneer, Explorer",
+    "achievements": [
+      "Famous for exploring and settling Kentucky.",
+      "Trailblazer and frontiersman."
+    ],
+    "yearBorn": 1734,
+    "yearDied": 1820
+  }
+]

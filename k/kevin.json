@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Kevin Bacon",
+    "givenNames": [
+      "Kevin",
+      "Norwood"
+    ],
+    "familyName": "Bacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Bacon",
+    "occupation": "Actor",
+    "achievements": [
+      "Six Degrees of Kevin Bacon game",
+      "Award-winning actor in film and television"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Kevin Spacey",
+    "givenNames": [
+      "Kevin"
+    ],
+    "familyName": "Spacey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Spacey",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Tony Award for Best Actor in a Play"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Kevin Durant",
+    "givenNames": [
+      "Kevin",
+      "Wayne"
+    ],
+    "familyName": "Durant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Durant",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "Two-time NBA Champion",
+      "Two-time NBA Finals MVP"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Kevin Hart",
+    "givenNames": [
+      "Kevin",
+      "Darnell"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Hart",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "One of the highest-grossing comedians of all time",
+      "Starred in numerous successful films"
+    ],
+    "yearBorn": 1979
+  }
+]

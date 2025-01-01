@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Harper Lee",
+    "givenNames": [
+      "Harper",
+      "Nelle"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harper_Lee",
+    "occupation": "Novelist",
+    "achievements": [
+      "Pulitzer Prize for Fiction for 'To Kill a Mockingbird'",
+      "One of the most widely read American novelists of the 20th century"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2016
+  }
+]

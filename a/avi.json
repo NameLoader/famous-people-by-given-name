@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Avi Loeb",
+    "givenNames": [
+      "Abraham",
+      "Avi"
+    ],
+    "familyName": "Loeb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avi_Loeb",
+    "occupation": "Astrophysicist",
+    "achievements": [
+      "Professor of Science at Harvard University",
+      "Author of 'Extraterrestrial: The First Sign of Intelligent Life Beyond Earth'",
+      "Known for his controversial views on the nature of Oumuamua"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Avi Nesher",
+    "givenNames": [
+      "Avi"
+    ],
+    "familyName": "Nesher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avi_Nesher",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Award-winning Israeli film director and screenwriter",
+      "Known for films like 'The Wonders',"
+    ],
+    "yearBorn": 1954
+  }
+]

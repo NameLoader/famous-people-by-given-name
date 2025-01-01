@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Takaaki Kajita",
+    "givenNames": [
+      "Takaaki"
+    ],
+    "familyName": "Kajita",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takaaki_Kajita",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 2015 for his work on neutrino oscillations."
+    ],
+    "yearBorn": 1959
+  }
+]

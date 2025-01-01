@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gianfranco Ferré",
+    "givenNames": [
+      "Gianfranco"
+    ],
+    "familyName": "Ferré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianfranco_Ferr%C3%A9",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for his minimalist and elegant designs.",
+      "Headed the Italian fashion house Gianfranco Ferré from 1978 to 1996.",
+      "Designed for Dior Haute Couture from 1989 to 1996."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Gianfranco Zola",
+    "givenNames": [
+      "Gianfranco"
+    ],
+    "familyName": "Zola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gianfranco_Zola",
+    "occupation": "Footballer and manager",
+    "achievements": [
+      "Played as a forward for clubs such as Napoli, Chelsea, and Parma.",
+      "Known for his technical skills and goalscoring ability.",
+      "Managed several English football clubs including West Ham United and Watford."
+    ],
+    "yearBorn": 1966
+  }
+]

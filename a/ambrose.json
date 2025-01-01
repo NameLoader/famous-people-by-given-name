@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Ambrose Bierce",
+    "givenNames": [
+      "Ambrose",
+      "Gwinnett"
+    ],
+    "familyName": "Bierce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambrose_Bierce",
+    "occupation": "Writer, journalist, Civil War veteran",
+    "achievements": [
+      "Known for his short stories and cynical wit",
+      "Author of The Devil's Dictionary"
+    ],
+    "yearBorn": 1842,
+    "yearDied": 1913
+  }
+]

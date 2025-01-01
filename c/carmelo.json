@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Carmelo Anthony",
+    "givenNames": [
+      "Carmelo",
+      "Kyam"
+    ],
+    "familyName": "Anthony",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmelo_Anthony",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "10x NBA All-Star",
+      "NBA Scoring Champion (2013)",
+      "Olympic Gold Medalist (2008, 2012, 2016)"
+    ],
+    "yearBorn": 1984
+  }
+]

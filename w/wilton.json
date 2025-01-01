@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Wilton Norman Chamberlain",
+    "givenNames": [
+      "Wilton",
+      "Norman"
+    ],
+    "familyName": "Chamberlain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilt_Chamberlain",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA champion",
+      "4-time NBA MVP",
+      "13-time NBA All-Star",
+      "Held numerous NBA records, including most points in a single game (100)"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Wilton Gregory",
+    "givenNames": [
+      "Wilton",
+      "Daniel"
+    ],
+    "familyName": "Gregory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilton_Daniel_Gregory",
+    "occupation": "Catholic cardinal and archbishop",
+    "achievements": [
+      "First African American Cardinal in the United States",
+      "Archbishop of Washington, D.C."
+    ],
+    "yearBorn": 1947
+  }
+]

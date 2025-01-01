@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Michio Kaku",
+    "givenNames": [
+      "Michio"
+    ],
+    "familyName": "Kaku",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michio_Kaku",
+    "occupation": "Theoretical physicist, futurist, popular science communicator",
+    "achievements": [
+      "Contributions to string field theory",
+      "Author of several best-selling books on physics and futurism",
+      "Frequent appearances on television and radio discussing scientific topics"
+    ],
+    "yearBorn": 1947
+  }
+]

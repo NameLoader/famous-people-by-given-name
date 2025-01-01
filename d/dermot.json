@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Dermot Mulroney",
+    "givenNames": [
+      "Dermot",
+      "Patrick"
+    ],
+    "familyName": "Mulroney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dermot_Mulroney",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'My Best Friend's Wedding', 'About Schmidt', and 'Zodiac'",
+      "Nominated for a Golden Globe Award"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Dermot Kennedy",
+    "givenNames": [
+      "Dermot",
+      "Joseph"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dermot_Kennedy",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for his soulful voice and acoustic sound",
+      "Released hit singles like 'Giants' and 'Power Over Me'",
+      "Performed at major festivals like Glastonbury"
+    ],
+    "yearBorn": 1991
+  }
+]

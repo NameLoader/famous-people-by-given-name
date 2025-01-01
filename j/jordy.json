@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Jordy Smith",
+    "givenNames": [
+      "Jordan",
+      "Jordy"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordy_Smith",
+    "occupation": "Surfer",
+    "achievements": [
+      "2010 ASP World Tour Rookie of the Year",
+      "Multiple WCT event wins"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Jordy Nelson",
+    "givenNames": [
+      "Jordy",
+      "Ray"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordy_Nelson",
+    "occupation": "Former NFL wide receiver",
+    "achievements": [
+      "Super Bowl XLV Champion (Green Bay Packers)",
+      "NFL All-Pro selection"
+    ],
+    "yearBorn": 1985
+  }
+]

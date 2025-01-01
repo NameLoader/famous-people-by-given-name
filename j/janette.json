@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Janette Oke",
+    "givenNames": [
+      "Janette"
+    ],
+    "familyName": "Oke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janette_Oke",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of Christian romance novels",
+      "Known for the Love Comes Softly series"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Janette Manrara",
+    "givenNames": [
+      "Janette"
+    ],
+    "familyName": "Manrara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janette_Manrara",
+    "occupation": "Dancer, Choreographer, Television Presenter",
+    "achievements": [
+      "Professional dancer on Strictly Come Dancing",
+      "Co-host of It Takes Two"
+    ],
+    "yearBorn": 1983
+  }
+]

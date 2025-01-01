@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Suzy Bogguss",
+    "givenNames": [
+      "Suzy",
+      "Susan"
+    ],
+    "familyName": "Bogguss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzy_Bogguss",
+    "occupation": "Country music singer-songwriter",
+    "achievements": [
+      "Grammy Award nomination for Best Female Country Vocal Performance"
+    ],
+    "yearBorn": 1956
+  }
+]

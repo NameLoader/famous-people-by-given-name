@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Pauline Kael",
+    "givenNames": [
+      "Pauline"
+    ],
+    "familyName": "Kael",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pauline_Kael",
+    "occupation": "Film Critic",
+    "achievements": [
+      "Influential film critic for The New Yorker",
+      "Known for her sharp wit and passionate writing style"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Pauline Quirke",
+    "givenNames": [
+      "Pauline",
+      "Perpetua"
+    ],
+    "familyName": "Quirke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pauline_Quirke",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in British television series like 'Birds of a Feather'"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Pauline Hanson",
+    "givenNames": [
+      "Pauline",
+      "Lee"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pauline_Hanson",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the One Nation political party in Australia",
+      "Known for her controversial views on immigration and multiculturalism"
+    ],
+    "yearBorn": 1954
+  }
+]

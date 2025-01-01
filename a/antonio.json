@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Antonio Vivaldi",
+    "givenNames": [
+      "Antonio",
+      "Lucio"
+    ],
+    "familyName": "Vivaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
+    "occupation": "Composer, violinist",
+    "achievements": [
+      "Prolific composer of Baroque music",
+      "Known for his concertos, especially The Four Seasons"
+    ],
+    "yearBorn": 1678,
+    "yearDied": 1741
+  },
+  {
+    "fullName": "Antonio Gramsci",
+    "givenNames": [
+      "Antonio",
+      "Francesco"
+    ],
+    "familyName": "Gramsci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Gramsci",
+    "occupation": "Philosopher, writer, politician",
+    "achievements": [
+      "Developed the concept of cultural hegemony",
+      "Key figure in Italian Marxism"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1937
+  }
+]

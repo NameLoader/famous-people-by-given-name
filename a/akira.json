@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Akira Kurosawa",
+    "givenNames": [
+      "Akira"
+    ],
+    "familyName": "Kurosawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akira_Kurosawa",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Considered one of the most important and influential filmmakers in history.",
+      "Directed classic films such as Rashomon, Seven Samurai, and Yojimbo."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Akira Toriyama",
+    "givenNames": [
+      "Akira"
+    ],
+    "familyName": "Toriyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akira_Toriyama",
+    "occupation": "Manga artist",
+    "achievements": [
+      "Created the popular Dragon Ball manga and anime series.",
+      "Known for his distinctive art style and imaginative storytelling."
+    ],
+    "yearBorn": 1955
+  }
+]

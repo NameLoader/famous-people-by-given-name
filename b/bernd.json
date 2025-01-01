@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Bernd Schuster",
+    "givenNames": [
+      "Bernd"
+    ],
+    "familyName": "Schuster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernd_Schuster",
+    "occupation": "Footballer and manager",
+    "achievements": [
+      "Won the Ballon d'Or in 1980",
+      "Won two European Cups with FC Barcelona (1982) and Real Madrid (1986)"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Bernd Leno",
+    "givenNames": [
+      "Bernd"
+    ],
+    "familyName": "Leno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernd_Leno",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the DFB-Pokal with Bayer Leverkusen in 2017"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Bernd Wiesberger",
+    "givenNames": [
+      "Bernd",
+      "Klaus"
+    ],
+    "familyName": "Wiesberger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernd_Wiesberger",
+    "occupation": "Golfer",
+    "achievements": [
+      "Won eight European Tour titles"
+    ],
+    "yearBorn": 1985
+  }
+]

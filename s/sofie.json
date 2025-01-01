@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Sofie Hagen",
+    "givenNames": [
+      "Sofie"
+    ],
+    "familyName": "Hagen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofie_Hagen",
+    "occupation": "Comedian, writer",
+    "achievements": [
+      "Won the Edinburgh Comedy Award for Best Newcomer in 2015",
+      "Known for her stand-up comedy and podcasts focusing on mental health and feminism"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Sofie Oksanen",
+    "givenNames": [
+      "Sofi-Elina"
+    ],
+    "familyName": "Oksanen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofi_Oksanen",
+    "occupation": "Writer",
+    "achievements": [
+      "Won the prestigious Finlandia Prize for her novel 'Purge'"
+    ],
+    "yearBorn": 1977
+  }
+]

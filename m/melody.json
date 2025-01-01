@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Melody Gardot",
+    "givenNames": [
+      "Melody"
+    ],
+    "familyName": "Gardot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melody_Gardot",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for her distinctive vocal style and jazz influences"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Melody Thornton",
+    "givenNames": [
+      "Melody"
+    ],
+    "familyName": "Thornton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melody_Thornton",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Former member of the girl group The Pussycat Dolls",
+      "Solo career with singles like 'Hit the Ground Running'"
+    ],
+    "yearBorn": 1984
+  }
+]

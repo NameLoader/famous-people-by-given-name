@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Adolfo Suárez González",
+    "givenNames": [
+      "Adolfo"
+    ],
+    "familyName": "Suárez González",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez",
+    "occupation": "Politician",
+    "achievements": [
+      "First democratically elected Prime Minister of Spain after the Francoist dictatorship.",
+      "Oversaw the transition to democracy in Spain."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Adolfo Bioy Casares",
+    "givenNames": [
+      "Adolfo"
+    ],
+    "familyName": "Bioy Casares",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolfo_Bioy_Casares",
+    "occupation": "Writer",
+    "achievements": [
+      "Argentine writer known for his novels and short stories.",
+      "Co-authored the novel \"The Invention of Morel\" with Silvina Ocampo."
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Adolfo Hitler",
+    "givenNames": [
+      "Adolf"
+    ],
+    "familyName": "Hitler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+    "occupation": "Dictator",
+    "achievements": [
+      "Leader of the Nazi Party and Dictator of Germany.",
+      "Responsible for the Holocaust and World War II."
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1945
+  }
+]

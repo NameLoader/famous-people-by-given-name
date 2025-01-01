@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Shin'ichi Suzuki",
+    "givenNames": [
+      "Shin'ichi"
+    ],
+    "familyName": "Suzuki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shinichi_Suzuki",
+    "occupation": "Violinist and educator",
+    "achievements": [
+      "Developed the Suzuki method for violin education.",
+      "Revolutionized music education for children worldwide."
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Shin'ichi Chiba",
+    "givenNames": [
+      "Shin'ichi",
+      "Sonny"
+    ],
+    "familyName": "Chiba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonny_Chiba",
+    "occupation": "Actor and martial artist",
+    "achievements": [
+      "Starred in numerous martial arts films.",
+      "Known for his roles in 'The Street Fighter' series and 'Kill Bill'."
+    ],
+    "yearBorn": 1939
+  }
+]

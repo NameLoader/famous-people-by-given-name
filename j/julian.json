@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Julian Assange",
+    "givenNames": [
+      "Julian",
+      "Paul"
+    ],
+    "familyName": "Assange",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Assange",
+    "occupation": "Journalist, Activist",
+    "achievements": [
+      "Founded WikiLeaks, a website that publishes leaked confidential information"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Julian Lennon",
+    "givenNames": [
+      "Julian",
+      "Charles",
+      "John"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Lennon",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Son of John Lennon and his first wife Cynthia Powell",
+      "Successful solo music career with hits like 'Valotte' and 'Saltwater'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Julian Edelman",
+    "givenNames": [
+      "Julian",
+      "Francis"
+    ],
+    "familyName": "Edelman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Edelman",
+    "occupation": "Former American Football Player",
+    "achievements": [
+      "Wide receiver for the New England Patriots",
+      "Three-time Super Bowl champion"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Julian Barnes",
+    "givenNames": [
+      "Julian",
+      "Patrick"
+    ],
+    "familyName": "Barnes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Barnes",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Won the Man Booker Prize for his novel 'The Sense of an Ending'"
+    ],
+    "yearBorn": 1946
+  }
+]

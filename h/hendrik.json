@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Hendrik Lorentz",
+    "givenNames": [
+      "Hendrik",
+      "Antoon"
+    ],
+    "familyName": "Lorentz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Lorentz",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1902)",
+      "Development of the Lorentz transformation equations",
+      "Contributions to electromagnetism and optics"
+    ],
+    "yearBorn": 1853,
+    "yearDied": 1928
+  },
+  {
+    "fullName": "Hendrik Willem van Loon",
+    "givenNames": [
+      "Hendrik",
+      "Willem"
+    ],
+    "familyName": "van Loon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon",
+    "occupation": "Historian, author, and illustrator",
+    "achievements": [
+      "Pulitzer Prize for History (1937)",
+      "Authorship of popular history books for children and adults"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Hendrik Casimir",
+    "givenNames": [
+      "Hendrik",
+      "Brugt",
+      "Gerhard"
+    ],
+    "familyName": "Casimir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Casimir",
+    "occupation": "Physicist",
+    "achievements": [
+      "Discovery of the Casimir effect"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 2000
+  }
+]

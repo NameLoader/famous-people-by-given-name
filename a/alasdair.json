@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Alasdair Gray",
+    "givenNames": [
+      "Alasdair",
+      "James"
+    ],
+    "familyName": "Gray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alasdair_Gray",
+    "occupation": "Writer, Artist",
+    "achievements": [
+      "Scottish literary icon",
+      "Known for novels like 'Lanark'",
+      "Acclaimed visual artist"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Alasdair MacIntyre",
+    "givenNames": [
+      "Alasdair",
+      "Chalmers"
+    ],
+    "familyName": "MacIntyre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alasdair_MacIntyre",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Influential moral philosopher",
+      "Known for works on virtue ethics and tradition"
+    ],
+    "yearBorn": 1929
+  }
+]

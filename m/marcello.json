@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Marcello Mastroianni",
+    "givenNames": [
+      "Marcello",
+      "Vincenzo",
+      "Domenico"
+    ],
+    "familyName": "Mastroianni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcello_Mastroianni",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee for Best Actor",
+      "Won three BAFTA Awards",
+      "Starred in iconic films like La Dolce Vita and 8½"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Marcello Lippi",
+    "givenNames": [
+      "Marcello",
+      "Romeo"
+    ],
+    "familyName": "Lippi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcello_Lippi",
+    "occupation": "Football Manager and former Player",
+    "achievements": [
+      "Won the FIFA World Cup with Italy in 2006",
+      "Won five Serie A titles as manager of Juventus",
+      "Managed clubs like Napoli, Inter Milan, and Guangzhou Evergrande"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Marcello Gandini",
+    "givenNames": [
+      "Marcello"
+    ],
+    "familyName": "Gandini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcello_Gandini",
+    "occupation": "Automotive Designer",
+    "achievements": [
+      "Designed iconic cars like the Lamborghini Miura, Countach and Diablo.",
+      "Worked for Alfa Romeo, Fiat, Lancia, and Maserati."
+    ]
+  }
+]

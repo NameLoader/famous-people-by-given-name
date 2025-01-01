@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Emil Zátopek",
+    "givenNames": [
+      "Emil"
+    ],
+    "familyName": "Zátopek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek",
+    "occupation": "Athlete",
+    "achievements": [
+      "Four-time Olympic gold medalist",
+      "World record holder in multiple running events"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Emil Nolde",
+    "givenNames": [
+      "Emil"
+    ],
+    "familyName": "Nolde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Nolde",
+    "occupation": "Painter",
+    "achievements": [
+      "Member of the Expressionist group 'Die Brücke'",
+      "Known for his expressive use of color and biblical themes"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1956
+  },
+  {
+    "fullName": "Emil Ludwig",
+    "givenNames": [
+      "Emil"
+    ],
+    "familyName": "Ludwig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Ludwig",
+    "occupation": "Writer, biographer",
+    "achievements": [
+      "Prolific author of historical biographies and novels",
+      "Known for his accessible writing style"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1948
+  }
+]

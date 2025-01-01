@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Walker Percy",
+    "givenNames": [
+      "Walker"
+    ],
+    "familyName": "Percy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walker_Percy",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Known for his Southern existential novels.",
+      "Won the National Book Award for Fiction in 1962 for 'The Moviegoer'."
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Walker Evans",
+    "givenNames": [
+      "Walker"
+    ],
+    "familyName": "Evans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walker_Evans",
+    "occupation": "Photographer",
+    "achievements": [
+      "Associated with the American Depression-era documentary photography movement.",
+      "Famous for his portraits and images of rural America."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Walker Buehler",
+    "givenNames": [
+      "Walker",
+      "Anthony"
+    ],
+    "familyName": "Buehler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walker_Buehler",
+    "occupation": "Baseball pitcher",
+    "achievements": [
+      "Pitched for the Los Angeles Dodgers.",
+      "Two-time All-Star"
+    ],
+    "yearBorn": 1994
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Carole King",
+    "givenNames": [
+      "Carole"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carole_King",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won four Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame",
+      "Wrote numerous hit songs for other artists"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Carole Lombard",
+    "givenNames": [
+      "Carole"
+    ],
+    "familyName": "Lombard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carole_Lombard",
+    "occupation": "Actress",
+    "achievements": [
+      "One of the most popular actresses of the 1930s",
+      "Nominated for three Academy Awards"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1942
+  }
+]

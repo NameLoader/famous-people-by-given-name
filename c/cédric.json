@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Cédric Pioline",
+    "givenNames": [
+      "Cédric"
+    ],
+    "familyName": "Pioline",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9dric_Pioline",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached the final of the Australian Open in 1993",
+      "Won 10 ATP singles titles"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Cédric Villani",
+    "givenNames": [
+      "Cédric",
+      "Patrice",
+      "Thierry"
+    ],
+    "familyName": "Villani",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9dric_Villani",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Won the Fields Medal in 2010 for his work on the Boltzmann equation",
+      "Director of the Institut Henri Poincaré"
+    ],
+    "yearBorn": 1973
+  }
+]

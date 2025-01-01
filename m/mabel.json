@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mabel Normand",
+    "givenNames": [
+      "Mabel"
+    ],
+    "familyName": "Normand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mabel_Normand",
+    "occupation": "Actress, director, screenwriter",
+    "achievements": [
+      "Silent film star",
+      "One of the most popular comedic actresses of her time",
+      "Collaborated with Charlie Chaplin and Mack Sennett"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Mabel Mercer",
+    "givenNames": [
+      "Mabel"
+    ],
+    "familyName": "Mercer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mabel_Mercer",
+    "occupation": "Singer",
+    "achievements": [
+      "Acclaimed cabaret and jazz vocalist",
+      "Known for her rich voice and sophisticated style"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1984
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Amber Heard",
+    "givenNames": [
+      "Amber",
+      "Laura"
+    ],
+    "familyName": "Heard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amber_Heard",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Rum Diary', 'Drive Angry', and 'Aquaman'"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Amber Valletta",
+    "givenNames": [
+      "Amber",
+      "Evangeline"
+    ],
+    "familyName": "Valletta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amber_Valletta",
+    "occupation": "Model, actress",
+    "achievements": [
+      "One of the original supermodels in the 1990s",
+      "Appeared in films like 'Drop Dead Gorgeous' and 'The Family Man'"
+    ],
+    "yearBorn": 1974
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Herman Melville",
+    "givenNames": [
+      "Herman"
+    ],
+    "familyName": "Melville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Herman_Melville",
+    "occupation": "Novelist, Short story writer, Poet",
+    "achievements": [
+      "Authored Moby Dick",
+      "Considered one of the greatest American novelists"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1891
+  }
+]

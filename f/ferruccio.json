@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ferruccio Lamborghini",
+    "givenNames": [
+      "Ferruccio"
+    ],
+    "familyName": "Lamborghini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferruccio_Lamborghini",
+    "occupation": "Industrialist, Founder of Automobili Lamborghini",
+    "achievements": [
+      "Founded the luxury sports car manufacturer Lamborghini",
+      "Produced iconic cars like the Miura and Countach"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Ferruccio Busoni",
+    "givenNames": [
+      "Ferruccio"
+    ],
+    "familyName": "Busoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
+    "occupation": "Composer, Pianist, Conductor",
+    "achievements": [
+      "Known for his virtuosic piano playing and innovative compositions",
+      "Wrote influential works such as 'Turandot' and the 'Piano Concerto'"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1924
+  }
+]

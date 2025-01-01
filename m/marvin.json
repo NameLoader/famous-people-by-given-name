@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Marvin Gaye",
+    "givenNames": [
+      "Marvin",
+      "Pentz"
+    ],
+    "familyName": "Gaye",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Pioneer of soul music",
+      "Two Grammy Awards",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Marvin Hagler",
+    "givenNames": [
+      "Marvin",
+      "Marvelous Marvin"
+    ],
+    "familyName": "Hagler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvelous_Marvin_Hagler",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Middleweight boxing champion",
+      "Inducted into the International Boxing Hall of Fame"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Marvin Minsky",
+    "givenNames": [
+      "Marvin",
+      "Lee"
+    ],
+    "familyName": "Minsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Minsky",
+    "occupation": "Computer scientist, cognitive scientist",
+    "achievements": [
+      "Co-founder of the MIT AI Lab",
+      "Turing Award recipient"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2016
+  }
+]

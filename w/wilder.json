@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Wilder Penfield",
+    "givenNames": [
+      "Wilder",
+      "Graves"
+    ],
+    "familyName": "Penfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilder_Penfield",
+    "occupation": "Neurosurgeon, medical researcher",
+    "achievements": [
+      "Pioneer in the field of neurosurgery",
+      "Developed techniques for brain mapping and surgery",
+      "Founded the Montreal Neurological Institute"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1971
+  }
+]

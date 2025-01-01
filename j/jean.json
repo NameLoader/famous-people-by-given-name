@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Jean Piaget",
+    "givenNames": [
+      "Jean",
+      "William",
+      "Fritz"
+    ],
+    "familyName": "Piaget",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Piaget",
+    "occupation": "Psychologist, epistemologist",
+    "achievements": [
+      "Theory of cognitive development",
+      "Stages of intellectual growth in children",
+      "Impact on educational psychology"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Jean Harlow",
+    "givenNames": [
+      "Jean"
+    ],
+    "familyName": "Harlow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Harlow",
+    "occupation": "Actress",
+    "achievements": [
+      "Hollywood sex symbol of the 1930s",
+      "Notable roles in films like 'Hell's Angels' and 'Platinum Blonde'"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1937
+  }
+]

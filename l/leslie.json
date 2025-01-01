@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Leslie Caron",
+    "givenNames": [
+      "Leslie",
+      "Claire",
+      "Margaret"
+    ],
+    "familyName": "Caron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Caron",
+    "occupation": "Actress, Dancer",
+    "achievements": [
+      "Academy Award nomination for Best Actress",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Leslie Nielsen",
+    "givenNames": [
+      "Leslie",
+      "William"
+    ],
+    "familyName": "Nielsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Nielsen",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Known for comedic roles in films like 'Airplane!' and 'The Naked Gun'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2010
+  },
+  {
+    "fullName": "Leslie Howard",
+    "givenNames": [
+      "Leslie"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Howard",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for Academy Award for Best Actor",
+      "Star on the Hollywood Walk of Fame"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Leslie Cheung",
+    "givenNames": [
+      "Leslie",
+      "Kwok-wing"
+    ],
+    "familyName": "Cheung",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Cheung",
+    "occupation": "Singer, Actor",
+    "achievements": [
+      "One of the most influential Cantopop singers",
+      "Starred in films like 'Farewell My Concubine'"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2003
+  }
+]

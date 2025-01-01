@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Laverne Cox",
+    "givenNames": [
+      "Laverne"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laverne_Cox",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "First openly transgender person to be nominated for a Primetime Emmy Award in an acting category.",
+      "Advocate for LGBTQ+ rights."
+    ],
+    "yearBorn": 1972
+  }
+]

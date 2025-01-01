@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Erik the Red",
+    "givenNames": [
+      "Erik"
+    ],
+    "familyName": "Thorvaldsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_the_Red",
+    "occupation": "Viking explorer and chieftain",
+    "achievements": [
+      "Founded the Norse settlement at Brattahlid in Greenland",
+      "Explored parts of North America (Vinland)"
+    ],
+    "yearBorn": 950,
+    "yearDied": 1003
+  },
+  {
+    "fullName": "Erik Erikson",
+    "givenNames": [
+      "Erik",
+      "Homburger"
+    ],
+    "familyName": "Erikson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Erikson",
+    "occupation": "Psychoanalyst and developmental psychologist",
+    "achievements": [
+      "Developed the theory of psychosocial development",
+      "Influenced understanding of identity formation"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Erik Estrada",
+    "givenNames": [
+      "Erik",
+      "Henry",
+      "Enrique"
+    ],
+    "familyName": "Estrada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Estrada",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Officer Frank 'Ponch' Poncherello in the television series CHiPs"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Erik Spoelstra",
+    "givenNames": [
+      "Erik",
+      "Jon"
+    ],
+    "familyName": "Spoelstra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Spoelstra",
+    "occupation": "Basketball coach",
+    "achievements": [
+      "Head coach of the Miami Heat",
+      "Won two NBA Championships (2012, 2013)"
+    ],
+    "yearBorn": 1970
+  }
+]

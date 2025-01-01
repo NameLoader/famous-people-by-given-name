@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Siegmund Freud",
+    "givenNames": [
+      "Sigmund"
+    ],
+    "familyName": "Freud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+    "occupation": "Neurologist, Psychoanalyst",
+    "achievements": [
+      "Founder of psychoanalysis",
+      "Influential theories on the unconscious mind, dreams, and sexuality"
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1939
+  }
+]

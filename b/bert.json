@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bert Campaneris",
+    "givenNames": [
+      "Dagoberto",
+      "Bert"
+    ],
+    "familyName": "Campaneris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bert_Campaneris",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "Four-time All-Star",
+      "Three-time World Series Champion with the Oakland Athletics"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Bert Parks",
+    "givenNames": [
+      "Bert"
+    ],
+    "familyName": "Parks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bert_Parks",
+    "occupation": "Singer, Actor, Television Personality",
+    "achievements": [
+      "Host of the Miss America Pageant for 25 years",
+      "Tony Award nomination for Best Actor in a Musical"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1992
+  }
+]

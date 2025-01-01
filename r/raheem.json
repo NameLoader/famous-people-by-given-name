@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Raheem Sterling",
+    "givenNames": [
+      "Raheem",
+      "Shaquille"
+    ],
+    "familyName": "Sterling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raheem_Sterling",
+    "occupation": "Footballer",
+    "achievements": [
+      "Premier League Champion (2017-18, 2020-21)",
+      "FA Cup Winner (2018-19)",
+      "League Cup Winner (2013-14, 2017-18)"
+    ],
+    "yearBorn": 1994
+  }
+]

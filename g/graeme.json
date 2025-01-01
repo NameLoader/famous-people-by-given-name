@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Graeme Souness",
+    "givenNames": [
+      "Graeme",
+      "James"
+    ],
+    "familyName": "Souness",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graeme_Souness",
+    "occupation": "Footballer, manager",
+    "achievements": [
+      "Won three European Cups as a player with Liverpool",
+      "Managed several prominent football clubs including Rangers and Blackburn Rovers",
+      "Renowned for his tactical acumen and strong personality"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Graeme Dott",
+    "givenNames": [
+      "Graeme"
+    ],
+    "familyName": "Dott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graeme_Dott",
+    "occupation": "Professional snooker player",
+    "achievements": [
+      "World Snooker Champion in 2006",
+      "Known for his tactical prowess and strong potting ability"
+    ],
+    "yearBorn": 1977
+  }
+]

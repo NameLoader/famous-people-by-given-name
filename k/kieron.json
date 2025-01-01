@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Kieron Dyer",
+    "givenNames": [
+      "Kieron",
+      "Courtney"
+    ],
+    "familyName": "Dyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kieron_Dyer",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Newcastle United and West Ham United",
+      "Earned 33 caps for the England national team"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Kieron Gillen",
+    "givenNames": [
+      "Kieron",
+      "Michael"
+    ],
+    "familyName": "Gillen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kieron_Gillen",
+    "occupation": "Comic book writer",
+    "achievements": [
+      "Known for works such as 'The Wicked + The Divine' and 'Die'",
+      "Won multiple Eisner Awards"
+    ]
+  }
+]

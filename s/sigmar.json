@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Sigmar Gabriel",
+    "givenNames": [
+      "Sigmar",
+      "Hartmut"
+    ],
+    "familyName": "Gabriel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmar_Gabriel",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as German Federal Minister of Economy and Energy (2013-2017)",
+      "Leader of the Social Democratic Party (SPD) from 2009 to 2017",
+      "Member of the Bundestag since 1998"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Sigmar Polke",
+    "givenNames": [
+      "Sigmar"
+    ],
+    "familyName": "Polke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigmar_Polke",
+    "occupation": "Artist",
+    "achievements": [
+      "German painter and photographer known for his experimental and conceptually driven works.",
+      "Associated with the Capitalist Realism movement."
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2010
+  }
+]

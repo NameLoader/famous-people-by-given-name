@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Celso Amorim",
+    "givenNames": [
+      "Celso",
+      "Luiz",
+      "Nunes"
+    ],
+    "familyName": "Amorim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celso_Amorim",
+    "occupation": "Politician, Diplomat",
+    "achievements": [
+      "Served as Foreign Minister of Brazil"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Celso Piña",
+    "givenNames": [
+      "Celso"
+    ],
+    "familyName": "Piña",
+    "wikipedia": "https://en.wikipedia.org/wiki/Celso_Pi%C3%B1a",
+    "occupation": "Musician",
+    "achievements": [
+      "Pioneer of Cumbia Sonidera"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2019
+  }
+]

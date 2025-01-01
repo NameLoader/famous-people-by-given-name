@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lauri Markkanen",
+    "givenNames": [
+      "Lauri",
+      "Elias"
+    ],
+    "familyName": "Markkanen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauri_Markkanen",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "Plays for the Utah Jazz in the NBA",
+      "Selected 7th overall in the 2017 NBA Draft"
+    ],
+    "yearBorn": 1997
+  }
+]

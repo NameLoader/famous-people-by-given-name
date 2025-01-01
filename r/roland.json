@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Roland Barthes",
+    "givenNames": [
+      "Roland",
+      "Gérard"
+    ],
+    "familyName": "Barthes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roland_Barthes",
+    "occupation": "Philosopher, literary theorist, critic",
+    "achievements": [
+      "Structuralist theory",
+      "Semiotics",
+      "Literary criticism"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Roland Deschain",
+    "givenNames": [
+      "Roland"
+    ],
+    "familyName": "Deschain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roland_Deschain",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of Stephen King's The Dark Tower series"
+    ]
+  },
+  {
+    "fullName": "Roland Emmerich",
+    "givenNames": [
+      "Roland"
+    ],
+    "familyName": "Emmerich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roland_Emmerich",
+    "occupation": "Film director, producer, screenwriter",
+    "achievements": [
+      "Known for blockbuster disaster films such as Independence Day and The Day After Tomorrow"
+    ],
+    "yearBorn": 1955
+  }
+]

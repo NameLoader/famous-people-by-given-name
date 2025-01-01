@@ -1,0 +1,78 @@
+[
+  {
+    "fullName": "Thomas Aquinas",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Aquinas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "occupation": "Philosopher, Theologian",
+    "achievements": [
+      "Key figure in the development of natural law theory",
+      "Influential in Catholic theology"
+    ],
+    "yearBorn": 1225,
+    "yearDied": 1274
+  },
+  {
+    "fullName": "Thomas Jefferson",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Jefferson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+    "occupation": "Politician, Founding Father",
+    "achievements": [
+      "Principal author of the Declaration of Independence",
+      "Third President of the United States"
+    ],
+    "yearBorn": 1743,
+    "yearDied": 1826
+  },
+  {
+    "fullName": "Thomas Edison",
+    "givenNames": [
+      "Thomas",
+      "Alva"
+    ],
+    "familyName": "Edison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "occupation": "Inventor, Businessman",
+    "achievements": [
+      "Prolific inventor with over 1,000 patents",
+      "Developed the first practical incandescent light bulb"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1931
+  },
+  {
+    "fullName": "Thomas Paine",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Paine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
+    "occupation": "Political Activist, Philosopher",
+    "achievements": [
+      "Author of 'Common Sense,' a pamphlet that inspired the American Revolution",
+      "Advocate for republicanism and democracy"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1809
+  },
+  {
+    "fullName": "Thomas More",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "More",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
+    "occupation": "Lawyer, Philosopher, Author",
+    "achievements": [
+      "Wrote 'Utopia,' a influential work of political philosophy",
+      "Lord Chancellor of England"
+    ],
+    "yearBorn": 1478,
+    "yearDied": 1535
+  }
+]

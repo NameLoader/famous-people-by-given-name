@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Oskar Schindler",
+    "givenNames": [
+      "Oskar"
+    ],
+    "familyName": "Schindler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oskar_Schindler",
+    "occupation": "German businessman",
+    "achievements": [
+      "Saved the lives of over 1,200 Jews during the Holocaust by employing them in his factories."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Oskar Kokoschka",
+    "givenNames": [
+      "Oskar"
+    ],
+    "familyName": "Kokoschka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oskar_Kokoschka",
+    "occupation": "Austrian Expressionist painter and playwright",
+    "achievements": [
+      "Known for his intense portraits, landscapes, and allegorical works.",
+      "His plays explored themes of love, loss, and the human condition."
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Oskar Lafontaine",
+    "givenNames": [
+      "Oskar"
+    ],
+    "familyName": "Lafontaine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oskar_Lafontaine",
+    "occupation": "German politician",
+    "achievements": [
+      "Served as the Minister of Finance of Germany from 1998 to 1999.",
+      "Prominent figure in the Social Democratic Party of Germany."
+    ],
+    "yearBorn": 1943
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Giovan Battista Piranesi",
+    "givenNames": [
+      "Giovanni",
+      "Battista"
+    ],
+    "familyName": "Piranesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi",
+    "occupation": "Architect, engraver, and archaeologist",
+    "achievements": [
+      "Known for his etchings of Roman ruins",
+      "His works influenced neoclassicism"
+    ],
+    "yearBorn": 1720,
+    "yearDied": 1778
+  },
+  {
+    "fullName": "Giovan Battista Pergolesi",
+    "givenNames": [
+      "Giovan",
+      "Battista"
+    ],
+    "familyName": "Pergolesi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his operas and religious music",
+      "His Stabat Mater is one of the most popular sacred works ever written"
+    ],
+    "yearBorn": 1710,
+    "yearDied": 1736
+  }
+]

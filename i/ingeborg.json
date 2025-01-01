@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ingeborg Bachmann",
+    "givenNames": [
+      "Ingeborg"
+    ],
+    "familyName": "Bachmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingeborg_Bachmann",
+    "occupation": "Poet, Novelist, Dramatist",
+    "achievements": [
+      "One of the most important Austrian writers of the 20th century.",
+      "Known for her complex and philosophical works exploring themes of identity, language, and existence."
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1973
+  }
+]

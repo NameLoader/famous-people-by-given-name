@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Marin Mersenne",
+    "givenNames": [
+      "Marin"
+    ],
+    "familyName": "Mersenne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marin_Mersenne",
+    "occupation": "Friar, mathematician, philosopher, theologian",
+    "achievements": [
+      "Known for Mersenne Primes",
+      "Contributed to the understanding of acoustics and music theory"
+    ],
+    "yearBorn": 1588,
+    "yearDied": 1648
+  }
+]

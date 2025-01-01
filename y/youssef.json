@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Youssef En-Nesyri",
+    "givenNames": [
+      "Youssef"
+    ],
+    "familyName": "En-Nesyri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Youssef_En-Nesyri",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays for Sevilla FC and the Morocco national team.",
+      "Scored crucial goals in Morocco's 2022 FIFA World Cup run."
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Youssef Chahine",
+    "givenNames": [
+      "Youssef"
+    ],
+    "familyName": "Chahine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Youssef_Chahine",
+    "occupation": "Film director",
+    "achievements": [
+      "Considered one of the most important filmmakers in Egyptian and Arab cinema.",
+      "Known for his politically charged films and exploration of social issues."
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Youssef Islam",
+    "givenNames": [
+      "Youssef"
+    ],
+    "familyName": "Islam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cat_Stevens",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for hit songs like 'Wild World' and 'Morning Has Broken'.",
+      "Converted to Islam in the 1970s and adopted the name Yusuf Islam."
+    ],
+    "yearBorn": 1948
+  }
+]

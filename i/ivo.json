@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Ivo Andrić",
+    "givenNames": [
+      "Ivo"
+    ],
+    "familyName": "Andrić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivo_Andri%C4%87",
+    "occupation": "Novelist, poet, short-story writer",
+    "achievements": [
+      "Nobel Prize in Literature (1961)",
+      "Known for his works like 'The Bridge on the Drina'"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Ivo Karlović",
+    "givenNames": [
+      "Ivo"
+    ],
+    "familyName": "Karlović",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivo_Karlovi%C4%87",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Reached a career-high ranking of No. 14 in the world",
+      "Known for his powerful serve"
+    ],
+    "yearBorn": 1979
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Benjamin Franklin",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Franklin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+    "occupation": "Polymath, Founding Father of the United States",
+    "achievements": [
+      "Inventor (bifocals, lightning rod)",
+      "Writer (Poor Richard's Almanack)",
+      "Diplomat",
+      "Scientist",
+      "Political Activist"
+    ],
+    "yearBorn": 1706,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Benjamin Netanyahu",
+    "givenNames": [
+      "Benjamin",
+      "Bibi"
+    ],
+    "familyName": "Netanyahu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+    "occupation": "Politician",
+    "achievements": [
+      "Longest-serving Prime Minister of Israel"
+    ],
+    "yearBorn": 1949
+  }
+]

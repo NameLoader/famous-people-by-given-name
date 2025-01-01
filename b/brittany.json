@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Brittany Murphy",
+    "givenNames": [
+      "Brittany",
+      "Anne"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brittany_Murphy",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films such as Clueless, 8 Mile, and Girl, Interrupted",
+      "Nominated for a Golden Globe Award and several other accolades"
+    ],
+    "yearBorn": 1977,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Brittany Snow",
+    "givenNames": [
+      "Brittany",
+      "Anne"
+    ],
+    "familyName": "Snow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brittany_Snow",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for roles in Pitch Perfect, Hairspray, and John Tucker Must Die",
+      "Also appeared in television series such as Guiding Light and Almost Family"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Brittany Mahomes",
+    "givenNames": [
+      "Brittany",
+      "Lynne"
+    ],
+    "familyName": "Mahomes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brittany_Mahomes",
+    "occupation": "Fitness Trainer, Social Media Personality",
+    "achievements": [
+      "Wife of NFL quarterback Patrick Mahomes",
+      "Active philanthropist and advocate for women's health"
+    ],
+    "yearBorn": 1995
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Jamal Crawford",
+    "givenNames": [
+      "Jamal",
+      "Aaron"
+    ],
+    "familyName": "Crawford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamal_Crawford",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Three-time NBA Sixth Man of the Year",
+      "NBA All-Star (2010)"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Jamal Musiala",
+    "givenNames": [
+      "Jamal"
+    ],
+    "familyName": "Musiala",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+    "occupation": "Footballer",
+    "achievements": [
+      "Bundesliga champion (2021)",
+      "FIFA World Cup runner-up (2022)"
+    ],
+    "yearBorn": 2003
+  },
+  {
+    "fullName": "Jamal Khashoggi",
+    "givenNames": [
+      "Jamal",
+      "Ahmad"
+    ],
+    "familyName": "Khashoggi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamal_Khashoggi",
+    "occupation": "Journalist",
+    "achievements": [
+      "Critic of the Saudi Arabian government",
+      "His assassination sparked international outrage"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2018
+  }
+]

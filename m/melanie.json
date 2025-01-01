@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Melanie Griffith",
+    "givenNames": [
+      "Melanie",
+      "Richards"
+    ],
+    "familyName": "Griffith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Griffith",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress",
+      "Golden Globe Award for Best Actress – Motion Picture Musical or Comedy"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Melanie Martinez",
+    "givenNames": [
+      "Melanie",
+      "Adele"
+    ],
+    "familyName": "Martinez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Martinez",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Billboard Music Award nomination for Top New Artist"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Melanie C",
+    "givenNames": [
+      "Melanie",
+      "Jayne"
+    ],
+    "familyName": "Chisholm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melanie_C",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Member of the Spice Girls",
+      "Successful solo career"
+    ],
+    "yearBorn": 1974
+  }
+]

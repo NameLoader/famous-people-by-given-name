@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Farrah Fawcett",
+    "givenNames": [
+      "Farrah",
+      "Leni"
+    ],
+    "familyName": "Fawcett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farrah_Fawcett",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Became a pop culture icon in the 1970s with her role in the TV series 'Charlie's Angels'",
+      "Known for her signature feathered hairstyle"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Farrah Abraham",
+    "givenNames": [
+      "Farrah"
+    ],
+    "familyName": "Abraham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farrah_Abraham",
+    "occupation": "Reality television personality, adult film actress",
+    "achievements": [
+      "Appeared on the MTV reality series 'Teen Mom'",
+      "Ventured into adult entertainment"
+    ],
+    "yearBorn": 1991
+  }
+]

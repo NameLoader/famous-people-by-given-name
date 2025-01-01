@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Rhys Ifans",
+    "givenNames": [
+      "Rhys"
+    ],
+    "familyName": "Ifans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhys_Ifans",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films such as 'Notting Hill', 'Harry Potter and the Prisoner of Azkaban', and 'The Amazing Spider-Man'",
+      "Won a BAFTA Cymru Award for Best Actor"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Rhys Darby",
+    "givenNames": [
+      "Rhys",
+      "Montague"
+    ],
+    "familyName": "Darby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhys_Darby",
+    "occupation": "Comedian, Actor",
+    "achievements": [
+      "Known for his role as Murray Hewitt in the HBO comedy series 'Flight of the Conchords'",
+      "Has appeared in films such as 'Yes Man' and 'Jumanji: Welcome to the Jungle'"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Rhys Webb",
+    "givenNames": [
+      "Rhys"
+    ],
+    "familyName": "Webb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhys_Webb",
+    "occupation": "Rugby Union Player",
+    "achievements": [
+      "Played scrum-half for the Wales national rugby union team",
+      "Represented Wales at the Rugby World Cup in 2015"
+    ],
+    "yearBorn": 1988
+  }
+]

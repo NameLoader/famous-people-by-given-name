@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Eugen Ehrlich",
+    "givenNames": [
+      "Eugen"
+    ],
+    "familyName": "Ehrlich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugen_Ehrlich",
+    "occupation": "Legal scholar, sociologist",
+    "achievements": [
+      "Pioneer of sociological jurisprudence",
+      "Developed the concept of 'living law'"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Eugen Ionesco",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Ionesco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
+    "occupation": "Playwright, director, essayist",
+    "achievements": [
+      "Key figure in the Theatre of the Absurd",
+      "Known for plays like 'The Bald Soprano' and 'Rhinoceros'"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Eugen Weber",
+    "givenNames": [
+      "Eugen",
+      "Joseph"
+    ],
+    "familyName": "Weber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugen_Weber",
+    "occupation": "Historian",
+    "achievements": [
+      "Specialized in modern European history, particularly France",
+      "Authored influential works like 'Peasants into Frenchmen'"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2007
+  }
+]

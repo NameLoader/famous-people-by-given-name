@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Mona Simpson",
+    "givenNames": [
+      "Mona"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mona_Simpson",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Published several acclaimed novels and essays",
+      "Sister of Apple co-founder Steve Jobs"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Mona Marshall",
+    "givenNames": [
+      "Mona"
+    ],
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mona_Marshall",
+    "occupation": "Voice actress",
+    "achievements": [
+      "Provided voices for numerous animated series and video games",
+      "Known for her versatile vocal range and comedic timing"
+    ]
+  }
+]

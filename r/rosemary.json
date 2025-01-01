@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Rosemary Clooney",
+    "givenNames": [
+      "Rose",
+      "Mary"
+    ],
+    "familyName": "Clooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosemary_Clooney",
+    "occupation": "Singer and actress",
+    "achievements": [
+      "Sold over 50 million records worldwide.",
+      "Starred in films such as 'White Christmas' and 'The Stars Are Singing'",
+      "Won a Grammy Award for Lifetime Achievement"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Rosemary Harris",
+    "givenNames": [
+      "Rosemary",
+      "Ann"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosemary_Harris",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for three Tony Awards and won one.",
+      "Known for her roles in stage productions of Shakespeare's plays.",
+      "Appeared in films such as 'Spider-Man' and 'The Cider House Rules'"
+    ],
+    "yearBorn": 1927
+  },
+  {
+    "fullName": "Rosemary Sutcliff",
+    "givenNames": [
+      "Rosemary"
+    ],
+    "familyName": "Sutcliff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosemary_Sutcliff",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote historical fiction novels primarily set in ancient Britain.",
+      "Won the Carnegie Medal for her novel 'The Eagle of the Ninth'."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1992
+  }
+]

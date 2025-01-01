@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Anne Frank",
+    "givenNames": [
+      "Annelies",
+      "Marie",
+      "Anne"
+    ],
+    "familyName": "Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Frank",
+    "occupation": "Diarist, Holocaust victim",
+    "achievements": [
+      "Wrote the diary 'The Diary of a Young Girl' which documented her experiences hiding from the Nazis during World War II."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Anne Hathaway",
+    "givenNames": [
+      "Anne",
+      "Jacqueline"
+    ],
+    "familyName": "Hathaway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hathaway",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress for her role in 'Les Misérables'",
+      "Known for roles in films such as 'The Devil Wears Prada', 'Brokeback Mountain', and 'Interstellar'"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Anne Rice",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Rice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Rice",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for her gothic fiction novels, particularly 'Interview with the Vampire'",
+      "Popularized vampire literature in the modern era"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Anne Boleyn",
+    "givenNames": [
+      "Anne"
+    ],
+    "familyName": "Boleyn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+    "occupation": "Queen consort of England",
+    "achievements": [
+      "Second wife of King Henry VIII of England",
+      "Played a key role in the English Reformation"
+    ],
+    "yearBorn": 1501,
+    "yearDied": 1536
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Rodney Dangerfield",
+    "givenNames": [
+      "Rodney"
+    ],
+    "familyName": "Dangerfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Dangerfield",
+    "occupation": "Comedian, actor",
+    "achievements": [
+      "Known for his self-deprecating humor and catchphrase 'I get no respect!'"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Rodney King",
+    "givenNames": [
+      "Rodney",
+      "Glen"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_King",
+    "occupation": "Taxi driver",
+    "achievements": [
+      "His beating by Los Angeles police officers in 1991 sparked riots and national conversations about racial injustice."
+    ],
+    "yearBorn": 1965,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Rodney Mullen",
+    "givenNames": [
+      "Rodney",
+      "John"
+    ],
+    "familyName": "Mullen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Mullen",
+    "occupation": "Professional skateboarder",
+    "achievements": [
+      "Considered one of the most influential skateboarders of all time.",
+      "Pioneer of many modern skateboarding tricks."
+    ],
+    "yearBorn": 1966
+  }
+]

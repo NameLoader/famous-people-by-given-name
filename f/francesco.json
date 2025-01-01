@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Francesco Petrarch",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Petrarch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petrarch",
+    "occupation": "Poet, Scholar",
+    "achievements": [
+      "Considered the 'Father of Humanism'",
+      "His sonnets to Laura are famous works of Renaissance literature"
+    ],
+    "yearBorn": 1304,
+    "yearDied": 1374
+  },
+  {
+    "fullName": "Francesco di Giorgio Martini",
+    "givenNames": [
+      "Francesco",
+      "di Giorgio"
+    ],
+    "familyName": "Martini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_di_Giorgio_Martini",
+    "occupation": "Painter, Architect, Sculptor",
+    "achievements": [
+      "Important figure in the Sienese School of painting"
+    ],
+    "yearBorn": 1439,
+    "yearDied": 1501
+  },
+  {
+    "fullName": "Francesco Redi",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Redi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Redi",
+    "occupation": "Physician, Naturalist",
+    "achievements": [
+      "Pioneer of experimental biology",
+      "Known for his work disproving spontaneous generation"
+    ],
+    "yearBorn": 1626,
+    "yearDied": 1697
+  },
+  {
+    "fullName": "Francesco Maria Grimaldi",
+    "givenNames": [
+      "Francesco",
+      "Maria"
+    ],
+    "familyName": "Grimaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Maria_Grimaldi",
+    "occupation": "Jesuit Priest, Physicist",
+    "achievements": [
+      "Observed the diffraction of light",
+      "Contributed to understanding wave phenomena"
+    ],
+    "yearBorn": 1618,
+    "yearDied": 1663
+  },
+  {
+    "fullName": "Francesco Totti",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Totti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Totti",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of the greatest Italian footballers of all time",
+      "Won the FIFA World Cup with Italy in 2006"
+    ],
+    "yearBorn": 1976
+  }
+]

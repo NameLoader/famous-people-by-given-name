@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Dax Shepard",
+    "givenNames": [
+      "Dax",
+      "Randall"
+    ],
+    "familyName": "Shepard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dax_Shepard",
+    "occupation": "Actor, Director, Podcast Host",
+    "achievements": [
+      "Known for roles in films like 'Without a Paddle' and 'Zathura', co-hosts the popular podcast 'Armchair Expert'"
+    ],
+    "yearBorn": 1975
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Chase Claypool",
+    "givenNames": [
+      "Chase"
+    ],
+    "familyName": "Claypool",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chase_Claypool",
+    "occupation": "American football player",
+    "achievements": [
+      "Wide receiver for the Pittsburgh Steelers",
+      "College Football Playoff National Champion (2019)"
+    ],
+    "yearBorn": 1998
+  },
+  {
+    "fullName": "Chase Elliott",
+    "givenNames": [
+      "William",
+      "Clyde",
+      "Chase"
+    ],
+    "familyName": "Elliott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chase_Elliott",
+    "occupation": "NASCAR driver",
+    "achievements": [
+      "2020 NASCAR Cup Series Champion",
+      "Son of NASCAR Hall of Famer Bill Elliott"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Chase Utley",
+    "givenNames": [
+      "Chase",
+      "Cameron"
+    ],
+    "familyName": "Utley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chase_Utley",
+    "occupation": "Former Major League Baseball player",
+    "achievements": [
+      "6-time MLB All-Star",
+      "4-time Silver Slugger Award winner",
+      "World Series Champion (2008)"
+    ],
+    "yearBorn": 1978
+  }
+]

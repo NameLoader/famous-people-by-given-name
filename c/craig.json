@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Craig David",
+    "givenNames": [
+      "Craig",
+      "Ashley"
+    ],
+    "familyName": "David",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_David",
+    "occupation": "Singer, songwriter, rapper, record producer",
+    "achievements": [
+      "Multi-platinum selling artist",
+      "Brit Award winner",
+      "Known for hits like '7 Days' and 'Fill Me In'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Craig Ferguson",
+    "givenNames": [
+      "Craig"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Ferguson",
+    "occupation": "Comedian, actor, writer, television host",
+    "achievements": [
+      "Host of 'The Late Late Show with Craig Ferguson'",
+      "Stand-up comedian and actor in films like 'Saving Grace'"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Craig T. Nelson",
+    "givenNames": [
+      "Craig",
+      "Theodore"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_T._Nelson",
+    "occupation": "Actor, voice actor",
+    "achievements": [
+      "Emmy Award winner for 'Coach'",
+      "Known for roles in films like 'Poltergeist' and 'The Incredibles'"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Craig Kielburger",
+    "givenNames": [
+      "Craig"
+    ],
+    "familyName": "Kielburger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Kielburger",
+    "occupation": "Human rights activist, author, entrepreneur",
+    "achievements": [
+      "Co-founder of Free the Children and Me to We",
+      "Advocate for youth empowerment and social justice"
+    ],
+    "yearBorn": 1982
+  }
+]

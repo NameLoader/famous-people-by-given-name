@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Cassandra Wilson",
+    "givenNames": [
+      "Cassandra"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassandra_Wilson",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for her unique vocal style and eclectic musical influences"
+    ],
+    "yearBorn": 1955
+  }
+]

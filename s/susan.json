@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Susan B. Anthony",
+    "givenNames": [
+      "Susan",
+      "B"
+    ],
+    "familyName": "Anthony",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_B._Anthony",
+    "occupation": "Women's rights activist",
+    "achievements": [
+      "Key figure in the women's suffrage movement",
+      "Co-founder of the National Woman Suffrage Association",
+      "Arrested for illegally voting in the 1872 presidential election"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1906
+  },
+  {
+    "fullName": "Susan Sontag",
+    "givenNames": [
+      "Susan",
+      "Lee"
+    ],
+    "familyName": "Sontag",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Sontag",
+    "occupation": "Writer, philosopher, filmmaker",
+    "achievements": [
+      "Prolific author of essays, novels, and plays",
+      "Known for her critical theory and cultural commentary",
+      "Won the National Book Award for her novel 'The Volcano Lover'"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Susan Sarandon",
+    "givenNames": [
+      "Susan",
+      "Abigail"
+    ],
+    "familyName": "Sarandon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Sarandon",
+    "occupation": "Actress, activist",
+    "achievements": [
+      "Academy Award winner for her role in 'Dead Man Walking'",
+      "Known for roles in films such as 'Thelma & Louise' and 'Bull Durham'",
+      "Active political and social justice activist"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Susan Rice",
+    "givenNames": [
+      "Susan",
+      "Elizabeth"
+    ],
+    "familyName": "Rice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Rice",
+    "occupation": "Politician, diplomat",
+    "achievements": [
+      "Former United States Ambassador to the United Nations",
+      "Served as National Security Advisor under President Barack Obama",
+      "First African-American woman to hold both positions"
+    ],
+    "yearBorn": 1964
+  }
+]

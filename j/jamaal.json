@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Jamaal Wilkes",
+    "givenNames": [
+      "Jamaal",
+      "Jackson Keith"
+    ],
+    "familyName": "Wilkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaal_Wilkes",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (4 times)",
+      "NBA All-Star (2 times)"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Jamaal Bowman",
+    "givenNames": [
+      "Jamaal",
+      "Anthony"
+    ],
+    "familyName": "Bowman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamaal_Bowman",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for New York's 16th congressional district"
+    ],
+    "yearBorn": 1976
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Irvin S. Cobb",
+    "givenNames": [
+      "Irvin",
+      "Shrewsbury"
+    ],
+    "familyName": "Cobb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irvin_S._Cobb",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Prolific author of short stories, novels, and essays",
+      "Known for his humorous writing style"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Irvin Khoza",
+    "givenNames": [
+      "Irvin"
+    ],
+    "familyName": "Khoza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irvin_Khoza",
+    "occupation": "Football administrator",
+    "achievements": [
+      "Chairman of the Orlando Pirates Football Club",
+      "Instrumental in South African football development"
+    ],
+    "yearBorn": 1948
+  }
+]

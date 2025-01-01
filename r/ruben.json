@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Ruben Studdard",
+    "givenNames": [
+      "Ruben"
+    ],
+    "familyName": "Studdard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruben_Studdard",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Winner of the second season of American Idol.",
+      "Released several successful albums, including his platinum-selling debut 'Soulful'."
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Ruben Neves",
+    "givenNames": [
+      "Rúben",
+      "Diogo",
+      "da Silva"
+    ],
+    "familyName": "Neves",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BAben_Neves",
+    "occupation": "Footballer",
+    "achievements": [
+      "Midfielder for the Premier League club Wolverhampton Wanderers.",
+      "Portuguese international player."
+    ],
+    "yearBorn": 1997
+  }
+]

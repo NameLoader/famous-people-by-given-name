@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Gottfried Wilhelm Leibniz",
+    "givenNames": [
+      "Gottfried",
+      "Wilhelm"
+    ],
+    "familyName": "Leibniz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "occupation": "Philosopher, Mathematician",
+    "achievements": [
+      "Developed calculus independently of Isaac Newton",
+      "Made significant contributions to logic, metaphysics, and physics",
+      "Invented the binary number system"
+    ],
+    "yearBorn": 1646,
+    "yearDied": 1716
+  },
+  {
+    "fullName": "Gottfried Benn",
+    "givenNames": [
+      "Gottfried"
+    ],
+    "familyName": "Benn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Benn",
+    "occupation": "Poet, Physician, Essayist",
+    "achievements": [
+      "Key figure in German Expressionism and Modernism",
+      "Known for his complex and often unsettling poetry",
+      "Explored themes of death, decay, and the human condition"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1956
+  }
+]

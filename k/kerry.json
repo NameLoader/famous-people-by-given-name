@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Kerry Washington",
+    "givenNames": [
+      "Kerry",
+      "Marisa"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerry_Washington",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award nominations",
+      "Screen Actors Guild Awards",
+      "Known for role in Scandal"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Kerry Packer",
+    "givenNames": [
+      "Kerry",
+      "Francis",
+      "Bullmore"
+    ],
+    "familyName": "Packer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerry_Packer",
+    "occupation": "Media Tycoon",
+    "achievements": [
+      "Built a media empire in Australia",
+      "Owned Nine Network and Australian Consolidated Press"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Kerry Stokes",
+    "givenNames": [
+      "Kerry",
+      "Matthew"
+    ],
+    "familyName": "Stokes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerry_Stokes",
+    "occupation": "Businessman",
+    "achievements": [
+      "Chairman of Seven Group Holdings",
+      "Philanthropist"
+    ],
+    "yearBorn": 1940
+  }
+]

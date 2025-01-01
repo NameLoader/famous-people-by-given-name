@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Elin Hilderbrand",
+    "givenNames": [
+      "Elin"
+    ],
+    "familyName": "Hilderbrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elin_Hilderbrand",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author of romance novels set in Nantucket",
+      "Known for her beachy and heartwarming stories"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Elin Nordegren",
+    "givenNames": [
+      "Elin",
+      "Maria",
+      "Pernilla"
+    ],
+    "familyName": "Nordegren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elin_Nordegren",
+    "occupation": "Former model",
+    "achievements": [
+      "Known for her marriage to golfer Tiger Woods",
+      "Advocate for children's charities"
+    ],
+    "yearBorn": 1980
+  }
+]

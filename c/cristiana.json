@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Cristiana Ronaldo",
+    "givenNames": [
+      "Cristiano"
+    ],
+    "familyName": "Ronaldo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "occupation": "Footballer",
+    "achievements": [
+      "Five-time Ballon d'Or winner",
+      "Five-time UEFA Champions League winner",
+      "UEFA European Championship winner (2016)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Cristiana Oliveira",
+    "givenNames": [
+      "Cristiana",
+      "Barbosa",
+      "da Silva"
+    ],
+    "familyName": "Oliveira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiana_Oliveira",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Brazilian telenovelas"
+    ],
+    "yearBorn": 1963
+  }
+]

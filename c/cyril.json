@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Cyril Ramaphosa",
+    "givenNames": [
+      "Cyril",
+      "Matamela"
+    ],
+    "familyName": "Ramaphosa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+    "occupation": "Politician",
+    "achievements": [
+      "President of South Africa",
+      "Anti-apartheid activist",
+      "Businessman"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Cyril Connolly",
+    "givenNames": [
+      "Cyril",
+      "Vernon"
+    ],
+    "familyName": "Connolly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Connolly",
+    "occupation": "Writer, critic",
+    "achievements": [
+      "Author of 'The Unquiet Grave'",
+      "Founder of Horizon magazine"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1974
+  },
+  {
+    "fullName": "Cyril Scott",
+    "givenNames": [
+      "Cyril",
+      "Meir"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Scott",
+    "occupation": "Composer, pianist",
+    "achievements": [
+      "Known for mystical and impressionistic music",
+      "Prolific composer of piano works, orchestral pieces, and chamber music"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1971
+  }
+]

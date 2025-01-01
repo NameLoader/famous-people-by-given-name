@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lance Armstrong",
+    "givenNames": [
+      "Lance",
+      "Edward"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lance_Armstrong",
+    "occupation": "Professional Cyclist",
+    "achievements": [
+      "Won seven consecutive Tour de France titles (later stripped)",
+      "Olympic bronze medalist in the Sydney 2000 road race"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Lance Bass",
+    "givenNames": [
+      "James",
+      "Lance"
+    ],
+    "familyName": "Bass",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lance_Bass",
+    "occupation": "Singer, Actor, Producer",
+    "achievements": [
+      "Member of the pop group NSYNC",
+      "Astronaut training candidate for Space Adventures"
+    ],
+    "yearBorn": 1979
+  }
+]

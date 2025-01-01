@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Yuna Kim",
+    "givenNames": [
+      "Yuna"
+    ],
+    "familyName": "Kim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuna_Kim",
+    "occupation": "Figure skater",
+    "achievements": [
+      "2010 Olympic champion",
+      "Two-time World champion",
+      "Three-time Four Continents champion"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Yuna Ito",
+    "givenNames": [
+      "Yuna"
+    ],
+    "familyName": "Ito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuna_Ito",
+    "occupation": "Singer-songwriter, actress",
+    "achievements": [
+      "Bestselling Japanese artist in the early 2000s",
+      "Known for her pop ballads and R&B influences"
+    ],
+    "yearBorn": 1983
+  }
+]

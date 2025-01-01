@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Sylvie Guillem",
+    "givenNames": [
+      "Sylvie"
+    ],
+    "familyName": "Guillem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvie_Guillem",
+    "occupation": "Ballet Dancer",
+    "achievements": [
+      "Prima Ballerina of the Paris Opera Ballet",
+      "Principal dancer with the Royal Ballet",
+      "Known for her technical brilliance and innovative choreography"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Sylvie Vartan",
+    "givenNames": [
+      "Sylvie"
+    ],
+    "familyName": "Vartan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvie_Vartan",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "One of the most popular French singers of the 1960s and 1970s",
+      "Known for her energetic performances and catchy pop songs"
+    ],
+    "yearBorn": 1944
+  }
+]

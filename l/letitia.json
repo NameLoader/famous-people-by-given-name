@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Letitia Wright",
+    "givenNames": [
+      "Letitia",
+      "Michelle"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Letitia_Wright",
+    "occupation": "Actress",
+    "achievements": [
+      "BAFTA Rising Star Award nominee",
+      "Known for roles in Black Panther and Small Axe"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Letitia Dean",
+    "givenNames": [
+      "Letitia",
+      "Jane"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Letitia_Dean",
+    "occupation": "Actress",
+    "achievements": [
+      "Best Actress award at the British Soap Awards",
+      "Known for role as Sharon Watts in EastEnders"
+    ],
+    "yearBorn": 1968
+  }
+]

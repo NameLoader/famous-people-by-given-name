@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Garrett Hedlund",
+    "givenNames": [
+      "Garrett",
+      "John"
+    ],
+    "familyName": "Hedlund",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garrett_Hedlund",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films such as 'Troy', 'Tron: Legacy', and 'Mudbound'"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Garrett Camp",
+    "givenNames": [
+      "Garrett"
+    ],
+    "familyName": "Camp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garrett_Camp",
+    "occupation": "Entrepreneur",
+    "achievements": [
+      "Co-founder of Uber"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Garrett Hardin",
+    "givenNames": [
+      "Garrett",
+      "James"
+    ],
+    "familyName": "Hardin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Garrett_Hardin",
+    "occupation": "Biologist, Philosopher",
+    "achievements": [
+      "Known for the 'Tragedy of the Commons' essay"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 2003
+  }
+]

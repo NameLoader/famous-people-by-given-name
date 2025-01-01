@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nadine Gordimer",
+    "givenNames": [
+      "Nadine"
+    ],
+    "familyName": "Gordimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadine_Gordimer",
+    "occupation": "Writer, Activist",
+    "achievements": [
+      "Nobel Prize in Literature",
+      "Booker Prize"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2014
+  }
+]

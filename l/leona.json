@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Leona Lewis",
+    "givenNames": [
+      "Leona",
+      "Louise"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leona_Lewis",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Winner of the third series of The X Factor (UK)",
+      "Multi-platinum selling artist with hits like 'Bleeding Love' and 'Better in Time'"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Leona Helmsley",
+    "givenNames": [
+      "Leona",
+      "Lena"
+    ],
+    "familyName": "Helmsley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leona_Helmsley",
+    "occupation": "Real estate tycoon",
+    "achievements": [
+      "Known for her vast real estate empire and opulent lifestyle",
+      "Famously left a significant portion of her fortune to her Maltese dog, Trouble"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2007
+  }
+]

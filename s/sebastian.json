@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Sebastian Vettel",
+    "givenNames": [
+      "Sebastian"
+    ],
+    "familyName": "Vettel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Vettel",
+    "occupation": "Racing Driver",
+    "achievements": [
+      "Four-time Formula One World Champion",
+      "Most wins in Canadian Grand Prix history"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Sebastian Bach",
+    "givenNames": [
+      "Sebastian"
+    ],
+    "familyName": "Bach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Bach",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Former lead vocalist of Skid Row"
+    ],
+    "yearBorn": 1968
+  }
+]

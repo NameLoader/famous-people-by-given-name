@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Akio Toyoda",
+    "givenNames": [
+      "Akio"
+    ],
+    "familyName": "Toyoda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akio_Toyoda",
+    "occupation": "Business Executive",
+    "achievements": [
+      "President of Toyota Motor Corporation",
+      "Led Toyota through significant technological advancements and global expansion"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Akio Morita",
+    "givenNames": [
+      "Akio"
+    ],
+    "familyName": "Morita",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akio_Morita",
+    "occupation": "Entrepreneur, Business Executive",
+    "achievements": [
+      "Co-founder of Sony Corporation",
+      "Pioneer in consumer electronics and audio technology"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1999
+  }
+]

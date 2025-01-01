@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Claude Debussy",
+    "givenNames": [
+      "Claude",
+      "Achille"
+    ],
+    "familyName": "Debussy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Debussy",
+    "occupation": "Composer",
+    "achievements": [
+      "Impressionist composer",
+      "Known for works like Clair de Lune and La Mer"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Claude Monet",
+    "givenNames": [
+      "Oscar",
+      "Claude"
+    ],
+    "familyName": "Monet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Monet",
+    "occupation": "Painter",
+    "achievements": [
+      "Founder of French Impressionist painting",
+      "Famous for paintings like Water Lilies and Impression, Sunrise"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Claude Shannon",
+    "givenNames": [
+      "Claude",
+      "Elwood"
+    ],
+    "familyName": "Shannon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Shannon",
+    "occupation": "Mathematician, electrical engineer",
+    "achievements": [
+      "Considered the 'father of information theory'",
+      "Developed fundamental concepts in digital circuit design and cryptography"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2001
+  },
+  {
+    "fullName": "Claude Lévi-Strauss",
+    "givenNames": [
+      "Claude"
+    ],
+    "familyName": "Lévi-Strauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Pioneer of structural anthropology",
+      "Studied kinship systems and mythologies"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2009
+  }
+]

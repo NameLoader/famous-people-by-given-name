@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Gabriel García Márquez",
+    "givenNames": [
+      "Gabriel",
+      "José",
+      "de la Concordia"
+    ],
+    "familyName": "García Márquez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+    "occupation": "Novelist, short-story writer, screenwriter, and journalist",
+    "achievements": [
+      "Nobel Prize in Literature (1982)",
+      "Known for magical realism style",
+      "Author of One Hundred Years of Solitude"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Gabriel Byrne",
+    "givenNames": [
+      "Gabriel",
+      "James"
+    ],
+    "familyName": "Byrne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Byrne",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like Miller's Crossing and The Usual Suspects",
+      "Starred in the HBO series In Treatment"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Gabriel Batistuta",
+    "givenNames": [
+      "Gabriel",
+      "Omar"
+    ],
+    "familyName": "Batistuta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Batistuta",
+    "occupation": "Retired professional footballer",
+    "achievements": [
+      "Argentina's all-time leading goalscorer",
+      "FIFA World Cup finalist (1990)",
+      "Serie A top scorer (twice)"
+    ],
+    "yearBorn": 1969
+  }
+]

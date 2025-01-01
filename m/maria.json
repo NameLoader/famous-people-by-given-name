@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Maria Montessori",
+    "givenNames": [
+      "Maria",
+      "Tecla",
+      "Artemisia"
+    ],
+    "familyName": "Montessori",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Montessori",
+    "occupation": "Physician, educator",
+    "achievements": [
+      "Developed the Montessori method of education"
+    ],
+    "yearBorn": 1870,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Maria Callas",
+    "givenNames": [
+      "Maria"
+    ],
+    "familyName": "Callas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Callas",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Widely considered one of the greatest opera singers of the 20th century"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Maria Sharapova",
+    "givenNames": [
+      "Maria",
+      "Yuryevna"
+    ],
+    "familyName": "Sharapova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Sharapova",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Won five Grand Slam singles titles"
+    ],
+    "yearBorn": 1987
+  }
+]

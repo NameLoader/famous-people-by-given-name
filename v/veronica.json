@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Veronica Lake",
+    "givenNames": [
+      "Veronica"
+    ],
+    "familyName": "Lake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Veronica_Lake",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her peekaboo hairstyle and roles in film noir classics like 'Sullivan's Travels' and 'The Blue Dahlia'."
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Veronica Roth",
+    "givenNames": [
+      "Veronica",
+      "Anne"
+    ],
+    "familyName": "Roth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Veronica_Roth",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of the 'Divergent' trilogy."
+    ],
+    "yearBorn": 1988
+  }
+]

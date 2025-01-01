@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Jabari Parker",
+    "givenNames": [
+      "Jabari",
+      "Ali"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jabari_Parker",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA All-Rookie First Team (2015)",
+      "McDonald's All-American (2013)"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Jabari Banks",
+    "givenNames": [
+      "Jabari"
+    ],
+    "familyName": "Banks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jabari_Banks",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred as Will in the Peacock series 'Bel-Air' (2022-present)"
+    ],
+    "yearBorn": 1998
+  }
+]

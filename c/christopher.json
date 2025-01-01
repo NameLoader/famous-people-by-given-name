@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Christopher Columbus",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Columbus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+    "occupation": "Explorer, Navigator",
+    "achievements": [
+      "First European to reach the Americas by sailing across the Atlantic Ocean",
+      "Opened up new trade routes and initiated widespread European colonization of the Americas"
+    ],
+    "yearBorn": 1451,
+    "yearDied": 1506
+  },
+  {
+    "fullName": "Christopher Nolan",
+    "givenNames": [
+      "Christopher",
+      "Edward"
+    ],
+    "familyName": "Nolan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Nolan",
+    "occupation": "Film Director, Producer, Screenwriter",
+    "achievements": [
+      "Known for his complex and innovative films such as Memento, Inception, The Dark Knight Trilogy",
+      "Critically acclaimed and commercially successful filmmaker"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Christopher Hitchens",
+    "givenNames": [
+      "Christopher",
+      "Eric"
+    ],
+    "familyName": "Hitchens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Hitchens",
+    "occupation": "Journalist, Author, Essayist",
+    "achievements": [
+      "Prolific writer known for his polemical style and intellectual arguments",
+      "Authored numerous books on topics such as religion, politics, and literature"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Christopher Walken",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Walken",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Walken",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award winner for his performance in The Deer Hunter",
+      "Known for his distinctive voice and acting style"
+    ],
+    "yearBorn": 1943
+  }
+]

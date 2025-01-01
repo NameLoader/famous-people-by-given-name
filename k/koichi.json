@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Koichi Sugiyama",
+    "givenNames": [
+      "Koichi"
+    ],
+    "familyName": "Sugiyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Sugiyama",
+    "occupation": "Composer",
+    "achievements": [
+      "Best known for composing the music for the Dragon Quest video game series",
+      "Won numerous awards for his musical compositions"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Koichi Yamadera",
+    "givenNames": [
+      "Koichi"
+    ],
+    "familyName": "Yamadera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Yamadera",
+    "occupation": "Voice actor, Narrator",
+    "achievements": [
+      "Known for his versatile voice acting roles in anime and video games",
+      "Popular narrator for documentaries and television programs"
+    ],
+    "yearBorn": 1961
+  }
+]

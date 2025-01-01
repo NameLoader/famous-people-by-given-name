@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "François Hollande",
+    "givenNames": [
+      "François",
+      "Gérard",
+      "Georges",
+      "Nicolas"
+    ],
+    "familyName": "Hollande",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France (2012-2017)",
+      "First Secretary of the Socialist Party (1997-2008)"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "François Mitterrand",
+    "givenNames": [
+      "François",
+      "Maurice",
+      "Adrien",
+      "Marie"
+    ],
+    "familyName": "Mitterrand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France (1981-1995)",
+      "Longest serving President of France"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "François Truffaut",
+    "givenNames": [
+      "François",
+      "Roland"
+    ],
+    "familyName": "Truffaut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Truffaut",
+    "occupation": "Film director, screenwriter, producer, actor",
+    "achievements": [
+      "Pioneer of the French New Wave movement",
+      "Director of acclaimed films such as 'The 400 Blows' and 'Jules et Jim'"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "François Rabelais",
+    "givenNames": [
+      "François"
+    ],
+    "familyName": "Rabelais",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais",
+    "occupation": "Writer, monk",
+    "achievements": [
+      "Author of the satirical novel 'Gargantua and Pantagruel'",
+      "Considered a pioneer of Renaissance literature"
+    ],
+    "yearBorn": 1490,
+    "yearDied": 1553
+  }
+]

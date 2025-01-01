@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Sandra Bullock",
+    "givenNames": [
+      "Sandra",
+      "Annette"
+    ],
+    "familyName": "Bullock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Bullock",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Golden Globe Award for Best Actress – Motion Picture Drama"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Sandra Oh",
+    "givenNames": [
+      "Sandra",
+      "Miju"
+    ],
+    "familyName": "Oh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Oh",
+    "occupation": "Actress",
+    "achievements": [
+      "Primetime Emmy Award nominations",
+      "Golden Globe Award for Best Actress – Television Series Drama"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Sandra Day O'Connor",
+    "givenNames": [
+      "Sandra",
+      "Day"
+    ],
+    "familyName": "O'Connor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor",
+    "occupation": "Lawyer, Judge",
+    "achievements": [
+      "First woman appointed to the Supreme Court of the United States"
+    ],
+    "yearBorn": 1930
+  }
+]

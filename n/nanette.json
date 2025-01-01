@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Nanette Fabray",
+    "givenNames": [
+      "Nanette"
+    ],
+    "familyName": "Fabray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nanette_Fabray",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Tony Award winner for Best Featured Actress in a Musical (1962)",
+      "Known for roles in musicals like 'Comin' Thro the Rye'"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2018
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Emmanuel Macron",
+    "givenNames": [
+      "Emmanuel",
+      "Jean-Michel",
+      "Frédéric"
+    ],
+    "familyName": "Macron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France",
+      "Former Minister of Economy, Industry and Digital Affairs"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Emmanuel Lewis",
+    "givenNames": [
+      "Emmanuel"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Lewis",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in the sitcom 'Webster'"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Emmanuel Adebayor",
+    "givenNames": [
+      "Sheyi",
+      "Emmanuel"
+    ],
+    "familyName": "Adebayor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Adebayor",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Arsenal, Manchester City, and Togo national team"
+    ],
+    "yearBorn": 1984
+  }
+]

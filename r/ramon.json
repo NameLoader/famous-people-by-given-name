@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Ramon Novarro",
+    "givenNames": [
+      "Ramon"
+    ],
+    "familyName": "Novarro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramon_Novarro",
+    "occupation": "Actor",
+    "achievements": [
+      "Silent film and early talkie star",
+      "Known for roles in films like 'Ben-Hur' (1925) and 'The Pagan'"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1960
+  },
+  {
+    "fullName": "Ramon Hernandez",
+    "givenNames": [
+      "Ramon",
+      "José"
+    ],
+    "familyName": "Hernandez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Hern%C3%A1ndez",
+    "occupation": "Baseball Player",
+    "achievements": [
+      "Former Major League Baseball catcher"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Ramon Llull",
+    "givenNames": [
+      "Ramon"
+    ],
+    "familyName": "Llull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramon_Llull",
+    "occupation": "Philosopher, Writer, Mystic",
+    "achievements": [
+      "Major figure in Catalan literature and philosophy",
+      "Known for his encyclopedic works and mystical writings"
+    ],
+    "yearBorn": 1235,
+    "yearDied": 1316
+  }
+]

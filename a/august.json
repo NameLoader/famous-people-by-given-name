@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "August Wilson",
+    "givenNames": [
+      "August"
+    ],
+    "familyName": "Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Wilson",
+    "occupation": "Playwright",
+    "achievements": [
+      "Pulitzer Prize for Drama",
+      "Tony Award for Best Play",
+      "American Theatre Hall of Fame inductee"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "August Strindberg",
+    "givenNames": [
+      "August"
+    ],
+    "familyName": "Strindberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Strindberg",
+    "occupation": "Playwright, novelist, poet, essayist",
+    "achievements": [
+      "Considered one of Sweden's greatest writers",
+      "Pioneer of naturalism and psychological realism in theatre"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1912
+  },
+  {
+    "fullName": "August Kekulé",
+    "givenNames": [
+      "August",
+      "Friedrich"
+    ],
+    "familyName": "Kekulé",
+    "wikipedia": "https://en.wikipedia.org/wiki/August_Kekul%C3%A9",
+    "occupation": "Chemist",
+    "achievements": [
+      "Proposed the structure of benzene"
+    ],
+    "yearBorn": 1829,
+    "yearDied": 1896
+  }
+]

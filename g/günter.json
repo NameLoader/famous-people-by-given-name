@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Günter Grass",
+    "givenNames": [
+      "Günter",
+      "Wilhelm"
+    ],
+    "familyName": "Grass",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnter_Grass",
+    "occupation": "Writer, Nobel laureate",
+    "achievements": [
+      "Nobel Prize in Literature (1999)",
+      "Known for novels like 'The Tin Drum' and 'Dog Years'"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Günter Blobel",
+    "givenNames": [
+      "Günter"
+    ],
+    "familyName": "Blobel",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnter_Blobel",
+    "occupation": "Cell biologist, Nobel laureate",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1999)",
+      "Discovered the signal hypothesis explaining protein targeting within cells"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2018
+  }
+]

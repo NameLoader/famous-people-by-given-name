@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Chadwick Boseman",
+    "givenNames": [
+      "Chadwick",
+      "Aaron"
+    ],
+    "familyName": "Boseman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chadwick_Boseman",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for portraying Black Panther in the Marvel Cinematic Universe",
+      "Received an Academy Award nomination for Best Actor for his role in Ma Rainey's Black Bottom"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Chadwick Tromp",
+    "givenNames": [
+      "Chadwick",
+      "Chandler"
+    ],
+    "familyName": "Tromp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chadwick_Tromp",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Played Major League Baseball for the San Francisco Giants and Cincinnati Reds"
+    ],
+    "yearBorn": 1995
+  }
+]

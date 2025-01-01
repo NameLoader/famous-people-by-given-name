@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bobbi Kristina Brown",
+    "givenNames": [
+      "Bobbi",
+      "Kristina"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bobbi_Kristina_Brown",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Daughter of singers Whitney Houston and Bobby Brown",
+      "Appeared on reality TV show 'Being Bobby Brown'"
+    ],
+    "yearBorn": 1993,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Bobbi Morse",
+    "givenNames": [
+      "Barbara",
+      "Bobbi"
+    ],
+    "familyName": "Morse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Marvel Comics superheroine known as Mockingbird",
+      "Skilled martial artist and spy"
+    ]
+  }
+]

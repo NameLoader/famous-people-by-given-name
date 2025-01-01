@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Kenneth Branagh",
+    "givenNames": [
+      "Kenneth",
+      "Charles"
+    ],
+    "familyName": "Branagh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Branagh",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Academy Award nominations for Best Director and Best Actor",
+      "Knight Bachelor"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Kenneth Arrow",
+    "givenNames": [
+      "Kenneth",
+      "Joseph"
+    ],
+    "familyName": "Arrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Arrow",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (1972)",
+      "Key contributions to welfare economics and social choice theory"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Kenneth Lay",
+    "givenNames": [
+      "Kenneth",
+      "Lee"
+    ],
+    "familyName": "Lay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Lay",
+    "occupation": "Businessman",
+    "achievements": [
+      "Founded Enron Corporation",
+      "Convicted of fraud and conspiracy related to Enron's collapse"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Kenneth Clarke",
+    "givenNames": [
+      "Kenneth",
+      "Harry"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Clarke",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Chancellor of the Exchequer in the UK",
+      "Long-standing Conservative Member of Parliament"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Kenneth Cole",
+    "givenNames": [
+      "Kenneth",
+      "D."
+    ],
+    "familyName": "Cole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Cole_(designer)",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Founded Kenneth Cole Productions, a fashion and footwear company"
+    ]
+  }
+]

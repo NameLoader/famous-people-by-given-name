@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Jonathan Swift",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Swift",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+    "occupation": "Writer, satirist",
+    "achievements": [
+      "Author of Gulliver's Travels",
+      "Political pamphleteer"
+    ],
+    "yearBorn": 1667,
+    "yearDied": 1745
+  },
+  {
+    "fullName": "Jonathan Edwards",
+    "givenNames": [
+      "Jonathan"
+    ],
+    "familyName": "Edwards",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+    "occupation": "Theologian, preacher",
+    "achievements": [
+      "Leader of the Great Awakening",
+      "Influential theologian in American history"
+    ],
+    "yearBorn": 1703,
+    "yearDied": 1758
+  },
+  {
+    "fullName": "Jonathan Franzen",
+    "givenNames": [
+      "Jonathan",
+      "Earl"
+    ],
+    "familyName": "Franzen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Franzen",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of The Corrections and Freedom",
+      "Known for complex characters and social commentary"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Jonathan Ive",
+    "givenNames": [
+      "Jonathan",
+      "Paul"
+    ],
+    "familyName": "Ive",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jony_Ive",
+    "occupation": "Designer",
+    "achievements": [
+      "Chief Design Officer at Apple Inc.",
+      "Designed iconic products like the iMac, iPod, iPhone"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Jonathan Majors",
+    "givenNames": [
+      "Jonathan",
+      "Michael"
+    ],
+    "familyName": "Majors",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Majors",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Lovecraft Country and The Last Black Man in San Francisco",
+      "Rising star in Hollywood"
+    ],
+    "yearBorn": 1989
+  }
+]

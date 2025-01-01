@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Basil Rathbone",
+    "givenNames": [
+      "Basil",
+      "Philip",
+      "St. John"
+    ],
+    "familyName": "Rathbone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil_Rathbone",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his portrayal of Sherlock Holmes"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Basil Bunting",
+    "givenNames": [
+      "Basil",
+      "Cheesman"
+    ],
+    "familyName": "Bunting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil_Bunting",
+    "occupation": "Poet",
+    "achievements": [
+      "Known for his long poem Briggflats"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1985
+  },
+  {
+    "fullName": "Basil D'Oliveira",
+    "givenNames": [
+      "Basil",
+      "Lewis"
+    ],
+    "familyName": "D'Oliveira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Basil_D%27Oliveira",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Played for South Africa and England"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2011
+  }
+]

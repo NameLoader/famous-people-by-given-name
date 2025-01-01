@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rowland Hill",
+    "givenNames": [
+      "Rowland"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowland_Hill",
+    "occupation": "Social reformer, postal service innovator",
+    "achievements": [
+      "Introduced the postage stamp",
+      "Reformed the British postal system"
+    ],
+    "yearBorn": 1795,
+    "yearDied": 1879
+  },
+  {
+    "fullName": "Rowland S. Howard",
+    "givenNames": [
+      "Rowland",
+      "Stuart"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowland_S._Howard",
+    "occupation": "Musician, songwriter",
+    "achievements": [
+      "Founding member of The Birthday Party",
+      "Influential post-punk guitarist and songwriter"
+    ],
+    "yearBorn": 1959,
+    "yearDied": 2003
+  }
+]

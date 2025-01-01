@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sheryl Sandberg",
+    "givenNames": [
+      "Sheryl",
+      "Kara"
+    ],
+    "familyName": "Sandberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sheryl_Sandberg",
+    "occupation": "Business executive",
+    "achievements": [
+      "Chief Operating Officer of Meta Platforms (formerly Facebook)",
+      "Author of the best-selling book 'Lean In'"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Sheryl Crow",
+    "givenNames": [
+      "Sheryl",
+      "Suzanne"
+    ],
+    "familyName": "Crow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sheryl_Crow",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won nine Grammy Awards",
+      "Known for hit songs like 'All I Wanna Do' and 'Soak Up the Sun'"
+    ],
+    "yearBorn": 1962
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Massimiliano Allegri",
+    "givenNames": [
+      "Massimiliano",
+      "Max"
+    ],
+    "familyName": "Allegri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massimiliano_Allegri",
+    "occupation": "Football manager",
+    "achievements": [
+      "Won five Serie A titles with Juventus",
+      "Won the Coppa Italia four times"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Massimiliano Fuksas",
+    "givenNames": [
+      "Massimiliano"
+    ],
+    "familyName": "Fuksas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massimiliano_Fuksas",
+    "occupation": "Architect",
+    "achievements": [
+      "Designed notable buildings worldwide including the New Mole Antonelliana in Turin",
+      "Known for his innovative and futuristic designs"
+    ],
+    "yearBorn": 1944
+  }
+]

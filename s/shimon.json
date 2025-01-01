@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Shimon Peres",
+    "givenNames": [
+      "Shimon"
+    ],
+    "familyName": "Peres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shimon_Peres",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Israel",
+      "President of Israel",
+      "Nobel Peace Prize laureate"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2016
+  }
+]

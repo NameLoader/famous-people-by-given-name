@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Nathaniel Hawthorne",
+    "givenNames": [
+      "Nathaniel"
+    ],
+    "familyName": "Hawthorne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Hawthorne",
+    "occupation": "Novelist, short story writer",
+    "achievements": [
+      "Authored classic novels like 'The Scarlet Letter' and 'The House of the Seven Gables'",
+      "Considered a key figure in American Romanticism"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1864
+  },
+  {
+    "fullName": "Nathaniel Rateliff",
+    "givenNames": [
+      "Nathaniel",
+      "David"
+    ],
+    "familyName": "Rateliff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Rateliff",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Fronted the band Nathaniel Rateliff & The Night Sweats",
+      "Known for his soulful vocals and Americana sound"
+    ]
+  }
+]

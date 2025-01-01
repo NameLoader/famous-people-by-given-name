@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Gwen Stefani",
+    "givenNames": [
+      "Gwen",
+      "Renée"
+    ],
+    "familyName": "Stefani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gwen_Stefani",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Lead vocalist of the band No Doubt",
+      "Successful solo career with hits like 'Hollaback Girl' and 'Rich Girl'",
+      "Fashion icon and designer"
+    ],
+    "yearBorn": 1969
+  }
+]

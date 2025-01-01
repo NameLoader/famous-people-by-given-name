@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Elvin Bishop",
+    "givenNames": [
+      "Elvin",
+      "Richard"
+    ],
+    "familyName": "Bishop",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvin_Bishop",
+    "occupation": "Blues musician",
+    "achievements": [
+      "Grammy Award winner for Best Blues Album (1976)",
+      "Known for his slide guitar skills and blend of blues, rock, and country."
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Elvin Hayes",
+    "givenNames": [
+      "Elvin",
+      "Ernest"
+    ],
+    "familyName": "Hayes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elvin_Hayes",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Hall of Famer",
+      "12-time NBA All-Star",
+      "Won an NBA championship with the Washington Bullets (1978)"
+    ],
+    "yearBorn": 1945
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Kayla Harrison",
+    "givenNames": [
+      "Kayla",
+      "Jean"
+    ],
+    "familyName": "Harrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kayla_Harrison",
+    "occupation": "Judoka, Mixed Martial Artist",
+    "achievements": [
+      "Two-time Olympic gold medalist in Judo",
+      "Former PFL Women's Lightweight Champion"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Kayla Itsines",
+    "givenNames": [
+      "Kayla"
+    ],
+    "familyName": "Itsines",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kayla_Itsines",
+    "occupation": "Personal trainer, author",
+    "achievements": [
+      "Created the Bikini Body Guide (BBG) workout program",
+      "Has over 14 million followers on Instagram"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Laurie Metcalf",
+    "givenNames": [
+      "Laura",
+      "Elizabeth"
+    ],
+    "familyName": "Metcalf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurie_Metcalf",
+    "occupation": "Actress",
+    "achievements": [
+      "Three Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series",
+      "Tony Award for Best Featured Actress in a Play"
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Laurie Anderson",
+    "givenNames": [
+      "Laurie"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+    "occupation": "Avant-garde artist, musician, composer",
+    "achievements": [
+      "National Book Award for Poetry",
+      "Grammy Award for Best Alternative Music Album"
+    ],
+    "yearBorn": 1947
+  }
+]

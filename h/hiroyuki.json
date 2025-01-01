@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Hiroyuki Imaishi",
+    "givenNames": [
+      "Hiroyuki"
+    ],
+    "familyName": "Imaishi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiroyuki_Imaishi",
+    "occupation": "Anime director",
+    "achievements": [
+      "Directed acclaimed anime series like Gurren Lagann and Kill la Kill",
+      "Known for his dynamic animation style and over-the-top action sequences"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Hiroyuki Sanada",
+    "givenNames": [
+      "Hiroyuki"
+    ],
+    "familyName": "Sanada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiroyuki_Sanada",
+    "occupation": "Actor",
+    "achievements": [
+      "Internationally recognized actor known for roles in films like The Last Samurai and Ring",
+      "Versatile performer who has starred in both dramatic and action roles"
+    ],
+    "yearBorn": 1960
+  }
+]

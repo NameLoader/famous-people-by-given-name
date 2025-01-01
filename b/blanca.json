@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Blanca Portillo",
+    "givenNames": [
+      "Blanca"
+    ],
+    "familyName": "Portillo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanca_Portillo",
+    "occupation": "Actress",
+    "achievements": [
+      "Spanish Academy Award for Best Actress",
+      "Known for her roles in films like 'Volver' and 'The Secret in Their Eyes'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Blanca Suárez",
+    "givenNames": [
+      "Blanca",
+      "Martínez"
+    ],
+    "familyName": "Suárez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanca_Su%C3%A1rez",
+    "occupation": "Actress and model",
+    "achievements": [
+      "Known for her roles in Spanish television series like 'El barco' and 'Gran Hotel'",
+      "Successful modeling career"
+    ],
+    "yearBorn": 1989
+  }
+]

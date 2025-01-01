@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Carrie Fisher",
+    "givenNames": [
+      "Carrie",
+      "Frances"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrie_Fisher",
+    "occupation": "Actress, Writer",
+    "achievements": [
+      "Known for her role as Princess Leia in the Star Wars franchise",
+      "Acclaimed author and screenwriter",
+      "Open advocate for mental health awareness"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Carrie Underwood",
+    "givenNames": [
+      "Carrie",
+      "Marie"
+    ],
+    "familyName": "Underwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Winner of American Idol (Season 4)",
+      "Multiple Grammy Award winner",
+      "Best-selling country music artist"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Carrie Brownstein",
+    "givenNames": [
+      "Carrie",
+      "Rachel"
+    ],
+    "familyName": "Brownstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carrie_Brownstein",
+    "occupation": "Musician, Actress, Writer",
+    "achievements": [
+      "Guitarist and vocalist for the band Sleater-Kinney",
+      "Co-creator and star of the comedy series Portlandia"
+    ],
+    "yearBorn": 1974
+  }
+]

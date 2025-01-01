@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Romano Prodi",
+    "givenNames": [
+      "Romano"
+    ],
+    "familyName": "Prodi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romano_Prodi",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Italy (twice)",
+      "President of the European Commission"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Romano Mussolini",
+    "givenNames": [
+      "Romano",
+      "Bruno"
+    ],
+    "familyName": "Mussolini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romano_Mussolini",
+    "occupation": "Musician, Composer",
+    "achievements": [
+      "Jazz musician and composer",
+      "Son of Benito Mussolini"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2006
+  }
+]

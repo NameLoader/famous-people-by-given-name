@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Adolf Hitler",
+    "givenNames": [
+      "Adolf"
+    ],
+    "familyName": "Hitler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+    "occupation": "Dictator of Nazi Germany",
+    "achievements": [
+      "Leader of the Nazi Party",
+      "Chancellor of Germany (1933-1945)",
+      "Architect of the Holocaust"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Adolf Eichmann",
+    "givenNames": [
+      "Adolf",
+      "Otto"
+    ],
+    "familyName": "Eichmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Eichmann",
+    "occupation": "Nazi official",
+    "achievements": [
+      "Key organizer of the Holocaust"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Adolf Dassler",
+    "givenNames": [
+      "Adolf",
+      "Adi"
+    ],
+    "familyName": "Dassler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Dassler",
+    "occupation": "Entrepreneur",
+    "achievements": [
+      "Founder of Adidas"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1978
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Jeanne d'Arc",
+    "givenNames": [
+      "Jeanne"
+    ],
+    "familyName": "d'Arc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "occupation": "Military leader, Saint",
+    "achievements": [
+      "Led the French army to victory against the English during the Hundred Years' War",
+      "Canonized as a saint by the Catholic Church"
+    ],
+    "yearBorn": 1412,
+    "yearDied": 1431
+  },
+  {
+    "fullName": "Jeanne Moreau",
+    "givenNames": [
+      "Jeanne"
+    ],
+    "familyName": "Moreau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_Moreau",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in iconic French New Wave films like 'Elevator to the Gallows' and 'Jules and Jim'",
+      "Received numerous awards including a César Award for Best Actress"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Jeanne Dixon",
+    "givenNames": [
+      "Jeane"
+    ],
+    "familyName": "Dixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeane_Dixon",
+    "occupation": "Psychic, astrologer",
+    "achievements": [
+      "Gained fame for her predictions, some of which were widely publicized"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1997
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Carol Burnett",
+    "givenNames": [
+      "Carol",
+      "Creighton"
+    ],
+    "familyName": "Burnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Burnett",
+    "occupation": "Actress, Comedienne",
+    "achievements": [
+      "Emmy Awards",
+      "Golden Globe Awards",
+      "Peabody Award"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Carol Ann Susi",
+    "givenNames": [
+      "Carol",
+      "Ann"
+    ],
+    "familyName": "Susi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Ann_Susi",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for voice role as the unseen Mrs. Wolowitz on The Big Bang Theory"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Carol Vorderman",
+    "givenNames": [
+      "Carol",
+      "Jean"
+    ],
+    "familyName": "Vorderman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Vorderman",
+    "occupation": "Television Presenter, Author",
+    "achievements": [
+      "Co-host of Countdown for 26 years",
+      "Presented various other television programs"
+    ],
+    "yearBorn": 1960
+  }
+]

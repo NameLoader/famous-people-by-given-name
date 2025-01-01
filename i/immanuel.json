@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Immanuel Kant",
+    "givenNames": [
+      "Immanuel"
+    ],
+    "familyName": "Kant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Critiqued pure reason and established the foundations of epistemology",
+      "Developed ethical theories based on categorical imperative and duty"
+    ],
+    "yearBorn": 1724,
+    "yearDied": 1804
+  },
+  {
+    "fullName": "Immanuel Velikovsky",
+    "givenNames": [
+      "Immanuel"
+    ],
+    "familyName": "Velikovsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Velikovsky",
+    "occupation": "Psychiatrist and Author",
+    "achievements": [
+      "Proposed controversial theories about planetary alignment and historical catastrophes",
+      "Authored books like 'Worlds in Collision' and 'Earth in Upheaval'"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1979
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Rhonda Fleming",
+    "givenNames": [
+      "Rhonda"
+    ],
+    "familyName": "Fleming",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhonda_Fleming",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous Hollywood films in the 1940s and 1950s",
+      "Known for her beauty and glamorous roles"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Rhonda Rousey",
+    "givenNames": [
+      "Ronda",
+      "Jean"
+    ],
+    "familyName": "Rousey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronda_Rousey",
+    "occupation": "Mixed martial artist, actress, and professional wrestler",
+    "achievements": [
+      "Former UFC Women's Bantamweight Champion",
+      "First American woman to medal in the Olympics in Judo"
+    ],
+    "yearBorn": 1987
+  }
+]

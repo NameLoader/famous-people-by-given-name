@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Faye Dunaway",
+    "givenNames": [
+      "Dorothy",
+      "Faye"
+    ],
+    "familyName": "Dunaway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faye_Dunaway",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Three Golden Globe Awards"
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Faye Wong",
+    "givenNames": [
+      "Faye"
+    ],
+    "familyName": "Wong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faye_Wong",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "One of the best-selling music artists in China",
+      "Award-winning actress in Hong Kong cinema"
+    ],
+    "yearBorn": 1969
+  }
+]

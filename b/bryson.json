@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Bryson DeChambeau",
+    "givenNames": [
+      "Bryson",
+      "James",
+      "Aldrich"
+    ],
+    "familyName": "DeChambeau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryson_DeChambeau",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "US Open Champion (2020)",
+      "Multiple PGA Tour wins"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Bryson Tiller",
+    "givenNames": [
+      "Bryson",
+      "Djuan"
+    ],
+    "familyName": "Tiller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryson_Tiller",
+    "occupation": "Singer, songwriter, rapper",
+    "achievements": [
+      "Grammy nominee",
+      "Multi-platinum selling artist"
+    ],
+    "yearBorn": 1993
+  }
+]

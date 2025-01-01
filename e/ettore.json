@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ettore Bugatti",
+    "givenNames": [
+      "Ettore",
+      "Arco",
+      "Isidoro"
+    ],
+    "familyName": "Bugatti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ettore_Bugatti",
+    "occupation": "Automotive designer and manufacturer",
+    "achievements": [
+      "Founded Bugatti Automobiles",
+      "Designed iconic cars like the Type 35 and Type 57"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Ettore Majorana",
+    "givenNames": [
+      "Ettore"
+    ],
+    "familyName": "Majorana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ettore_Majorana",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Contributed to the development of quantum field theory",
+      "Predicted the existence of Majorana fermions"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 1938
+  }
+]

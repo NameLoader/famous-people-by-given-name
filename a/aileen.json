@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Aileen Wuornos",
+    "givenNames": [
+      "Aileen",
+      "Carol"
+    ],
+    "familyName": "Wuornos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aileen_Wuornos",
+    "occupation": "Serial Killer",
+    "achievements": [
+      "Convicted of murdering seven men in Florida between 1989 and 1990.",
+      "Her case was the subject of much debate and media attention due to her claims of self-defense and the circumstances surrounding her crimes."
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2002
+  },
+  {
+    "fullName": "Aileen Quinn",
+    "givenNames": [
+      "Aileen",
+      "Marie"
+    ],
+    "familyName": "Quinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aileen_Quinn",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Annie in the 1982 film adaptation of the musical 'Annie'."
+    ],
+    "yearBorn": 1972
+  }
+]

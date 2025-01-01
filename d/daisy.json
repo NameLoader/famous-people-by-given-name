@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Daisy Ridley",
+    "givenNames": [
+      "Daisy",
+      "Jazz",
+      "Isobel"
+    ],
+    "familyName": "Ridley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisy_Ridley",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Rey in the Star Wars sequel trilogy"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Daisy Buchanan",
+    "givenNames": [
+      "Daisy",
+      "Fay"
+    ],
+    "familyName": "Buchanan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisy_Buchanan",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Central character in F. Scott Fitzgerald's novel The Great Gatsby"
+    ]
+  }
+]

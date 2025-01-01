@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Ahmed Zewail",
+    "givenNames": [
+      "Ahmed",
+      "Hassan"
+    ],
+    "familyName": "Zewail",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Zewail",
+    "occupation": "Chemist, Professor",
+    "achievements": [
+      "Nobel Prize in Chemistry (1999)",
+      "Pioneer in femtochemistry"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Ahmed Chalabi",
+    "givenNames": [
+      "Ahmed",
+      "Abdel Hadi"
+    ],
+    "familyName": "Chalabi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Chalabi",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of the Iraqi National Congress",
+      "Played a key role in advocating for the overthrow of Saddam Hussein"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2015
+  }
+]

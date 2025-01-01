@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alisha Boe",
+    "givenNames": [
+      "Alisha",
+      "Ilhaan"
+    ],
+    "familyName": "Boe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alisha_Boe",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Jessica Davis in the Netflix series \"13 Reasons Why\"",
+      "Appeared in films such as \"Gates of Darkness\" and \"Amityville: The Awakening\""
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Alisha Keys",
+    "givenNames": [
+      "Alicia"
+    ],
+    "familyName": "Keys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Keys",
+    "occupation": "Singer, songwriter, pianist, actress",
+    "achievements": [
+      "Won 15 Grammy Awards",
+      "Known for hits such as \"Fallin'\", \"If I Ain't Got You\", and \"No One\"",
+      "Activist for social justice causes"
+    ],
+    "yearBorn": 1981
+  }
+]

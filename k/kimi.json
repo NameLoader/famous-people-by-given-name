@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kimi Räikkönen",
+    "givenNames": [
+      "Kimi",
+      "Matias"
+    ],
+    "familyName": "Räikkönen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+    "occupation": "Formula One driver",
+    "achievements": [
+      "2007 Formula One World Champion",
+      "Won 21 Grand Prix races"
+    ],
+    "yearBorn": 1979
+  }
+]

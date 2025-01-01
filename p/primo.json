@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Primo Levi",
+    "givenNames": [
+      "Primo",
+      "Michele"
+    ],
+    "familyName": "Levi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Primo_Levi",
+    "occupation": "Writer, chemist",
+    "achievements": [
+      "Survivor of Auschwitz concentration camp",
+      "Author of acclaimed autobiographical novels and essays"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1987
+  }
+]

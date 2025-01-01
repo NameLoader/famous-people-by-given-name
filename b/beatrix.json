@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Beatrix Potter",
+    "givenNames": [
+      "Beatrix"
+    ],
+    "familyName": "Potter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrix_Potter",
+    "occupation": "Author, Illustrator",
+    "achievements": [
+      "Creator of beloved children's characters like Peter Rabbit and Jemima Puddle-Duck",
+      "Pioneering female author and illustrator",
+      "Conservationist and landowner"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1943
+  }
+]

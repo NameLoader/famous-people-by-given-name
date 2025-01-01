@@ -1,0 +1,68 @@
+[
+  {
+    "fullName": "Karl Marx",
+    "givenNames": [
+      "Karl"
+    ],
+    "familyName": "Marx",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
+    "occupation": "Philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary",
+    "achievements": [
+      "Developed the theories of Marxism",
+      "Co-authored 'The Communist Manifesto'",
+      "Critiqued capitalism and advocated for socialism"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1883
+  },
+  {
+    "fullName": "Karl Friedrich Gauss",
+    "givenNames": [
+      "Johann",
+      "Carl",
+      "Friedrich"
+    ],
+    "familyName": "Gauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+    "occupation": "Mathematician, astronomer, physicist",
+    "achievements": [
+      "Known as the 'Prince of Mathematicians'",
+      "Made significant contributions to number theory, algebra, statistics, analysis, differential geometry, geodesy, geophysics, electrostatics, astronomy, and optics",
+      "Developed the Gaussian distribution"
+    ],
+    "yearBorn": 1777,
+    "yearDied": 1855
+  },
+  {
+    "fullName": "Karl Popper",
+    "givenNames": [
+      "Karl",
+      "Raimund"
+    ],
+    "familyName": "Popper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Popper",
+    "occupation": "Philosopher of science",
+    "achievements": [
+      "Developed the philosophy of falsificationism",
+      "Contributed to the understanding of scientific method and knowledge"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Karl Lagerfeld",
+    "givenNames": [
+      "Karl",
+      "Otto"
+    ],
+    "familyName": "Lagerfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Lagerfeld",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Creative director of Chanel, Fendi, and his own eponymous label",
+      "Known for his distinctive style and influence on fashion trends"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2019
+  }
+]

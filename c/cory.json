@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Cory Booker",
+    "givenNames": [
+      "Cory",
+      "Anthony"
+    ],
+    "familyName": "Booker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cory_Booker",
+    "occupation": "Politician",
+    "achievements": [
+      "Current U.S. Senator from New Jersey",
+      "Former Mayor of Newark, New Jersey"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Cory Monteith",
+    "givenNames": [
+      "Cory",
+      "Allan",
+      "Michael"
+    ],
+    "familyName": "Monteith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cory_Monteith",
+    "occupation": "Actor, Musician",
+    "achievements": [
+      "Known for his role as Finn Hudson in the musical comedy-drama series Glee"
+    ],
+    "yearBorn": 1982,
+    "yearDied": 2013
+  }
+]

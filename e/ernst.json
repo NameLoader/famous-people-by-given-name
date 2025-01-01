@@ -1,0 +1,66 @@
+[
+  {
+    "fullName": "Ernst Julius Oppenheimer",
+    "givenNames": [
+      "Ernst",
+      "Julius"
+    ],
+    "familyName": "Oppenheimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Led the Manhattan Project to develop the atomic bomb"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Ernst Mach",
+    "givenNames": [
+      "Ernst",
+      "Waldfried",
+      "Josef",
+      "Wenzel"
+    ],
+    "familyName": "Mach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Mach",
+    "occupation": "Physicist and philosopher",
+    "achievements": [
+      "Known for his contributions to supersonic speeds (Mach number)"
+    ],
+    "yearBorn": 1838,
+    "yearDied": 1916
+  },
+  {
+    "fullName": "Ernst Haeckel",
+    "givenNames": [
+      "Ernst",
+      "Heinrich",
+      "Philipp",
+      "August"
+    ],
+    "familyName": "Haeckel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
+    "occupation": "Biologist, naturalist, and philosopher",
+    "achievements": [
+      "Promoter of Darwinism, coined the term 'ecology'"
+    ],
+    "yearBorn": 1834,
+    "yearDied": 1919
+  },
+  {
+    "fullName": "Ernst Mayr",
+    "givenNames": [
+      "Ernst",
+      "Walter"
+    ],
+    "familyName": "Mayr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Mayr",
+    "occupation": "Biologist",
+    "achievements": [
+      "Influential figure in evolutionary biology"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 2005
+  }
+]

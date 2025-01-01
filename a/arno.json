@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Arno Schmidt",
+    "givenNames": [
+      "Arno"
+    ],
+    "familyName": "Schmidt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arno_Schmidt",
+    "occupation": "Writer",
+    "achievements": [
+      "Known for his complex and experimental novels",
+      "Considered one of the most important German writers of the 20th century"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Arno Penzias",
+    "givenNames": [
+      "Arno",
+      "Allan"
+    ],
+    "familyName": "Penzias",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arno_Allan_Penzias",
+    "occupation": "Physicist",
+    "achievements": [
+      "Co-discovered the cosmic microwave background radiation",
+      "Won the Nobel Prize in Physics in 1978"
+    ],
+    "yearBorn": 1933
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Martha Stewart",
+    "givenNames": [
+      "Martha",
+      "Helen"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Stewart",
+    "occupation": "Television personality, businesswoman, author",
+    "achievements": [
+      "Built a multimedia empire based on homemaking and lifestyle.",
+      "Convicted of obstruction of justice and released from prison in 2005."
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Martha Argerich",
+    "givenNames": [
+      "Martha"
+    ],
+    "familyName": "Argerich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Argerich",
+    "occupation": "Pianist",
+    "achievements": [
+      "Internationally acclaimed classical pianist.",
+      "Known for her virtuosity and powerful performances."
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Martha Gellhorn",
+    "givenNames": [
+      "Martha",
+      "Ellis"
+    ],
+    "familyName": "Gellhorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Gellhorn",
+    "occupation": "Journalist, novelist",
+    "achievements": [
+      "Covered major conflicts of the 20th century, including the Spanish Civil War and World War II.",
+      "Wrote novels and short stories reflecting her experiences as a war correspondent."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1998
+  }
+]

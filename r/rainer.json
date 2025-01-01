@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Rainer Werner Fassbinder",
+    "givenNames": [
+      "Rainer",
+      "Werner"
+    ],
+    "familyName": "Fassbinder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Werner_Fassbinder",
+    "occupation": "Film director, screenwriter, actor, playwright",
+    "achievements": [
+      "Prolific German filmmaker known for his New German Cinema contributions.",
+      "Directed over 40 films and television productions."
+    ],
+    "yearBorn": 1945,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Rainer Maria Rilke",
+    "givenNames": [
+      "Rainer",
+      "Maria"
+    ],
+    "familyName": "Rilke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+    "occupation": "Poet, novelist, essayist",
+    "achievements": [
+      "Austrian poet and novelist considered one of the most important figures in German literature.",
+      "Known for his existential themes and exploration of love, death, and spirituality."
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1926
+  }
+]

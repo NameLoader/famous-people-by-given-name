@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Natalya Kaspersky",
+    "givenNames": [
+      "Natalya",
+      "Ivanovna"
+    ],
+    "familyName": "Kaspersky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalya_Kaspersky",
+    "occupation": "Co-founder of Kaspersky Lab",
+    "achievements": [
+      "Led the development and growth of Kaspersky Lab into a global cybersecurity firm",
+      "Recognized for contributions to antivirus software and threat intelligence"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Natalya Goncharova",
+    "givenNames": [
+      "Natalia",
+      "Sergeevna"
+    ],
+    "familyName": "Goncharova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Goncharova",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneering figure in Russian avant-garde art",
+      "Known for her distinctive style blending futurism, cubism, and primitivism"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1962
+  }
+]

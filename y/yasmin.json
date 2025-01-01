@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Yasmin Alibhai-Brown",
+    "givenNames": [
+      "Yasmin"
+    ],
+    "familyName": "Alibhai-Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasmin_Alibhai-Brown",
+    "occupation": "Journalist, Author",
+    "achievements": [
+      "Columnist for The Independent",
+      "Author of several books on race, identity and multiculturalism"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Yasmin Le Bon",
+    "givenNames": [
+      "Yasmin"
+    ],
+    "familyName": "Le Bon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasmin_Le_Bon",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "One of the original supermodels in the 1980s",
+      "Appeared on numerous magazine covers and fashion campaigns"
+    ],
+    "yearBorn": 1964
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Josef Mengele",
+    "givenNames": [
+      "Josef",
+      "Rudolf"
+    ],
+    "familyName": "Mengele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josef_Mengele",
+    "occupation": "Nazi Physician",
+    "achievements": [
+      "Conducted inhumane experiments on prisoners at Auschwitz concentration camp during the Holocaust"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Josef Fritzl",
+    "givenNames": [
+      "Josef"
+    ],
+    "familyName": "Fritzl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fritzl_case#Josef_Fritzl",
+    "occupation": "Builder",
+    "achievements": [
+      "Imprisoned and sexually abused his daughter for over two decades"
+    ],
+    "yearBorn": 1935
+  },
+  {
+    "fullName": "Josef Albers",
+    "givenNames": [
+      "Josef"
+    ],
+    "familyName": "Albers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josef_Albers",
+    "occupation": "Artist",
+    "achievements": [
+      "Pioneer of abstract art and color theory",
+      "Known for his series of paintings exploring the interaction of colors and shapes"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1976
+  }
+]

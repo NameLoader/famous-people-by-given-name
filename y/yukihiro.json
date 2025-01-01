@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Yukihiro Matsumoto",
+    "givenNames": [
+      "Yukihiro"
+    ],
+    "familyName": "Matsumoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yukihiro_Matsumoto",
+    "occupation": "Computer programmer",
+    "achievements": [
+      "Created the Ruby programming language",
+      "Advocate for open-source software"
+    ],
+    "yearBorn": 1968
+  }
+]

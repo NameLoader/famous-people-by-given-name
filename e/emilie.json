@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Emilie de Ravin",
+    "givenNames": [
+      "Emilie"
+    ],
+    "familyName": "de Ravin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilie_de_Ravin",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Lost' and 'Once Upon a Time'"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Emilie Autumn",
+    "givenNames": [
+      "Emilie"
+    ],
+    "familyName": "Autumn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilie_Autumn",
+    "occupation": "Singer-songwriter, violinist",
+    "achievements": [
+      "Known for theatrical performances and gothic musical style"
+    ],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Emilie Flöge",
+    "givenNames": [
+      "Emilie",
+      "Louise"
+    ],
+    "familyName": "Flöge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilie_Louise_Fl%C3%B6ge",
+    "occupation": "Fashion designer, entrepreneur",
+    "achievements": [
+      "Close friend and muse of Gustav Klimt",
+      "Ran a successful fashion salon in Vienna"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1952
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Marcus Aurelius",
+    "givenNames": [
+      "Marcus"
+    ],
+    "familyName": "Aurelius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "occupation": "Roman Emperor, Philosopher",
+    "achievements": [
+      "Stoic philosopher",
+      "Author of 'Meditations'",
+      "Last of the Five Good Emperors"
+    ],
+    "yearBorn": 121,
+    "yearDied": 180
+  },
+  {
+    "fullName": "Marcus Junius Brutus",
+    "givenNames": [
+      "Marcus",
+      "Junius"
+    ],
+    "familyName": "Brutus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+    "occupation": "Roman Senator, Politician",
+    "achievements": [
+      "Leader in the conspiracy to assassinate Julius Caesar"
+    ],
+    "yearBorn": 85,
+    "yearDied": 42
+  },
+  {
+    "fullName": "Marcus Tullius Cicero",
+    "givenNames": [
+      "Marcus",
+      "Tullius"
+    ],
+    "familyName": "Cicero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
+    "occupation": "Roman Statesman, Philosopher, Lawyer, Orator",
+    "achievements": [
+      "Considered one of Rome's greatest orators and prose stylists"
+    ],
+    "yearBorn": 106,
+    "yearDied": 43
+  },
+  {
+    "fullName": "Marcus Garvey",
+    "givenNames": [
+      "Marcus",
+      "Mosiah"
+    ],
+    "familyName": "Garvey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Garvey",
+    "occupation": "Jamaican Activist, Pan-Africanist",
+    "achievements": [
+      "Founded the Universal Negro Improvement Association and African Communities League"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1940
+  },
+  {
+    "fullName": "Marcus Rashford",
+    "givenNames": [
+      "Marcus"
+    ],
+    "familyName": "Rashford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Rashford",
+    "occupation": "Footballer",
+    "achievements": [
+      "Manchester United and England forward",
+      "Prominent campaigner against child poverty"
+    ],
+    "yearBorn": 1997
+  }
+]

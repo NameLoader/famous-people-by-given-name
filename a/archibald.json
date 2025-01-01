@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Archibald Campbell",
+    "givenNames": [
+      "Archibald"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Archibald_Campbell,_1st_Baronet",
+    "occupation": "Soldier",
+    "achievements": [
+      "Served as a Lieutenant-General in the British Army",
+      "Participated in the Napoleonic Wars and the War of 1812"
+    ],
+    "yearBorn": 1769,
+    "yearDied": 1843
+  },
+  {
+    "fullName": "Archibald MacLeish",
+    "givenNames": [
+      "Archibald"
+    ],
+    "familyName": "MacLeish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archibald_MacLeish",
+    "occupation": "Poet, playwright, and Librarian of Congress",
+    "achievements": [
+      "Won three Pulitzer Prizes for Poetry",
+      "Served as the Librarian of Congress from 1939 to 1944"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Archibald Primrose",
+    "givenNames": [
+      "Archibald"
+    ],
+    "familyName": "Primrose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the Prime Minister of the United Kingdom from 1894 to 1895"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1923
+  }
+]

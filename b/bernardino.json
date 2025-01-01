@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Bernardino Telesio",
+    "givenNames": [
+      "Bernardino"
+    ],
+    "familyName": "Telesio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardino_Telesio",
+    "occupation": "Philosopher, Natural Philosopher",
+    "achievements": [
+      "Pioneer of experimental philosophy",
+      "Advocate for the study of nature through observation and experimentation"
+    ],
+    "yearBorn": 1509,
+    "yearDied": 1588
+  },
+  {
+    "fullName": "Bernardino Rivadavia",
+    "givenNames": [
+      "Bernardino"
+    ],
+    "familyName": "Rivadavia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernardino_Rivadavia",
+    "occupation": "Politician, Lawyer, First President of Argentina",
+    "achievements": [
+      "Led Argentina's independence movement",
+      "Promoted liberal reforms and modernization",
+      "Established the foundations for a constitutional republic"
+    ],
+    "yearBorn": 1780,
+    "yearDied": 1845
+  }
+]

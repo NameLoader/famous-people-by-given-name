@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Barnaby Joyce",
+    "givenNames": [
+      "Barnaby",
+      "Thomas",
+      "Gerard"
+    ],
+    "familyName": "Joyce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barnaby_Joyce",
+    "occupation": "Politician",
+    "achievements": [
+      "Deputy Prime Minister of Australia (2016-2018)",
+      "Leader of the National Party of Australia (2016-2018)"
+    ],
+    "yearBorn": 1967
+  }
+]

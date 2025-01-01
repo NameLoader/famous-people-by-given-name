@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Rita Moreno",
+    "givenNames": [
+      "Rita"
+    ],
+    "familyName": "Moreno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rita_Moreno",
+    "occupation": "Actress, Singer, Dancer",
+    "achievements": [
+      "EGOT winner (Emmy, Grammy, Oscar, Tony)",
+      "First Latina to achieve EGOT status",
+      "Known for roles in West Side Story and The King and I"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Rita Ora",
+    "givenNames": [
+      "Rita",
+      "Sahatçiu"
+    ],
+    "familyName": "Ora",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rita_Ora",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Multiple UK chart-topping singles",
+      "Judge on The Voice UK and The X Factor",
+      "Acting roles in films like Fifty Shades of Grey"
+    ],
+    "yearBorn": 1990
+  }
+]

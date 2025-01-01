@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Félix Auger-Aliassime",
+    "givenNames": [
+      "Félix"
+    ],
+    "familyName": "Auger-Aliassime",
+    "wikipedia": "https://en.wikipedia.org/wiki/F%C3%A9lix_Auger-Aliassime",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Reached a career-high singles ranking of world No. 6",
+      "Won four ATP Tour titles"
+    ],
+    "yearBorn": 2001
+  },
+  {
+    "fullName": "Félix Vallotton",
+    "givenNames": [
+      "Félix",
+      "Édouard"
+    ],
+    "familyName": "Vallotton",
+    "wikipedia": "https://en.wikipedia.org/wiki/F%C3%A9lix_Vallotton",
+    "occupation": "Painter, printmaker, and writer",
+    "achievements": [
+      "Known for his distinctive woodcuts and paintings",
+      "Member of the Nabis group of Post-Impressionist artists"
+    ],
+    "yearBorn": 1865,
+    "yearDied": 1925
+  },
+  {
+    "fullName": "Félix Rodríguez de la Fuente",
+    "givenNames": [
+      "Félix",
+      "Samuel"
+    ],
+    "familyName": "Rodríguez de la Fuente",
+    "wikipedia": "https://en.wikipedia.org/wiki/F%C3%A9lix_Rodr%C3%ADguez_de_la_Fuente",
+    "occupation": "Naturalist, zoologist, and television presenter",
+    "achievements": [
+      "Known for his educational nature documentaries that brought awareness to wildlife conservation",
+      "His work helped inspire a generation of environmentalists in Spain and Latin America."
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1980
+  }
+]

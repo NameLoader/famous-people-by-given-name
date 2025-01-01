@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Eddie Murphy",
+    "givenNames": [
+      "Edward",
+      "Regan"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Murphy",
+    "occupation": "Actor, comedian",
+    "achievements": [
+      "Won a Golden Globe Award",
+      "Nominated for six Primetime Emmy Awards"
+    ],
+    "yearBorn": 1961
+  },
+  {
+    "fullName": "Eddie Vedder",
+    "givenNames": [
+      "Eddie",
+      "Jerome"
+    ],
+    "familyName": "Vedder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Vedder",
+    "occupation": "Singer, songwriter, musician",
+    "achievements": [
+      "Lead singer of Pearl Jam",
+      "Inducted into the Rock and Roll Hall of Fame with Pearl Jam"
+    ],
+    "yearBorn": 1964
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Isabella Rossellini",
+    "givenNames": [
+      "Isabella",
+      "Fiorella",
+      "Elettra",
+      "Giovanna"
+    ],
+    "familyName": "Rossellini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabella_Rossellini",
+    "occupation": "Actress, filmmaker, model",
+    "achievements": [
+      "Starred in films like 'Blue Velvet' and 'Death Becomes Her'",
+      "Became a successful fashion model for Lancôme"
+    ],
+    "yearBorn": 1952
+  }
+]

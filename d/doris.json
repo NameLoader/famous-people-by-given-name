@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Doris Day",
+    "givenNames": [
+      "Doris"
+    ],
+    "familyName": "Day",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doris_Day",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Hollywood icon",
+      "Popular singer with numerous hit songs",
+      "Animal welfare advocate"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Doris Lessing",
+    "givenNames": [
+      "Doris",
+      "May"
+    ],
+    "familyName": "Lessing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doris_Lessing",
+    "occupation": "Author, Nobel laureate",
+    "achievements": [
+      "Nobel Prize in Literature (2007)",
+      "Prolific writer known for works exploring themes of feminism and social justice"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Doris Duke",
+    "givenNames": [
+      "Doris"
+    ],
+    "familyName": "Duke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doris_Duke",
+    "occupation": "Heiress, philanthropist",
+    "achievements": [
+      "Wealthiest woman in the world at one time",
+      "Known for her lavish lifestyle and philanthropic endeavors"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1993
+  }
+]

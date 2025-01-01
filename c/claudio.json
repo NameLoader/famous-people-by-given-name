@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Claudio Monteverdi",
+    "givenNames": [
+      "Claudio",
+      "Giovanni",
+      "Antonio"
+    ],
+    "familyName": "Monteverdi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+    "occupation": "Composer",
+    "achievements": [
+      "Considered one of the founders of opera",
+      "Pioneer in the development of basso continuo"
+    ],
+    "yearBorn": 1567,
+    "yearDied": 1643
+  },
+  {
+    "fullName": "Claudio Abbado",
+    "givenNames": [
+      "Claudio"
+    ],
+    "familyName": "Abbado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Abbado",
+    "occupation": "Conductor",
+    "achievements": [
+      "Principal conductor of the Berlin Philharmonic Orchestra",
+      "Music director of La Scala opera house in Milan"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Claudio Ranieri",
+    "givenNames": [
+      "Claudio"
+    ],
+    "familyName": "Ranieri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Ranieri",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Led Leicester City to an improbable Premier League title in 2016"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Claudio Pizarro",
+    "givenNames": [
+      "Claudio",
+      "Miguel"
+    ],
+    "familyName": "Pizarro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Pizarro",
+    "occupation": "Footballer",
+    "achievements": [
+      "One of the most prolific goalscorers in Bundesliga history"
+    ],
+    "yearBorn": 1978
+  }
+]

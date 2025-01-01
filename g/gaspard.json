@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Gaspard Monge",
+    "givenNames": [
+      "Gaspard"
+    ],
+    "familyName": "Monge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaspard_Monge",
+    "occupation": "French mathematician and inventor",
+    "achievements": [
+      "Pioneer in descriptive geometry",
+      "Developed techniques for projecting three-dimensional objects onto two-dimensional surfaces",
+      "Contributed to the development of differential calculus and linear algebra"
+    ],
+    "yearBorn": 1746,
+    "yearDied": 1818
+  },
+  {
+    "fullName": "Gaspard Ulliel",
+    "givenNames": [
+      "Gaspard",
+      "Thomas"
+    ],
+    "familyName": "Ulliel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaspard_Ulliel",
+    "occupation": "French actor and model",
+    "achievements": [
+      "Won a César Award for Best Actor for his role in 'It's Only the End of the World'",
+      "Appeared in films such as 'Hannibal Rising', 'A Very Long Engagement', and 'The Transporter 3'"
+    ],
+    "yearBorn": 1984,
+    "yearDied": 2022
+  }
+]

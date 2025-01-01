@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Whitney Houston",
+    "givenNames": [
+      "Whitney",
+      "Elizabeth"
+    ],
+    "familyName": "Houston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Houston",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Best-selling music artist of all time",
+      "Won six Grammy Awards",
+      "Starred in films like 'The Bodyguard'"
+    ],
+    "yearBorn": 1963,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Whitney Wolfe Herd",
+    "givenNames": [
+      "Whitney"
+    ],
+    "familyName": "Wolfe Herd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd",
+    "occupation": "Entrepreneur",
+    "achievements": [
+      "Founder and CEO of Bumble",
+      "Youngest woman to take a company public in the US",
+      "Forbes's America's Richest Self-Made Women list"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Whitney Port",
+    "givenNames": [
+      "Whitney",
+      "Eve"
+    ],
+    "familyName": "Port",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whitney_Port",
+    "occupation": "Television personality, Fashion designer",
+    "achievements": [
+      "Star of MTV reality shows 'The Hills' and 'The City'",
+      "Launched her own fashion lines"
+    ],
+    "yearBorn": 1985
+  }
+]

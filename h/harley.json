@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Harley Quinn Smith",
+    "givenNames": [
+      "Harley",
+      "Quinn"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harley_Quinn_Smith",
+    "occupation": "Actress, podcaster",
+    "achievements": [
+      "Acted in Kevin Smith films like 'Jay and Silent Bob Strike Back' and 'Yoga Hosers'",
+      "Hosts the podcast 'Hollywood Babble-On'"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Harley Race",
+    "givenNames": [
+      "Harley",
+      "Leland"
+    ],
+    "familyName": "Race",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harley_Race",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "8-time NWA World Heavyweight Champion",
+      "WWE Hall of Famer",
+      "Known for his tough and brawling style"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2019
+  }
+]

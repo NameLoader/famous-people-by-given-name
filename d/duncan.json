@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "Duncan Jones",
+    "givenNames": [
+      "Duncan",
+      "Zowie",
+      "Haywood"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Jones",
+    "occupation": "Film director",
+    "achievements": [
+      "Directed the science fiction film Moon (2009)",
+      "Son of musician David Bowie"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Duncan MacLeod",
+    "givenNames": [
+      "Duncan"
+    ],
+    "familyName": "MacLeod",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duncan_MacLeod",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Highlander franchise"
+    ]
+  },
+  {
+    "fullName": "Duncan Sheik",
+    "givenNames": [
+      "Duncan"
+    ],
+    "familyName": "Sheik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Sheik",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Wrote and performed the musical Spring Awakening",
+      "Won a Tony Award for Best Original Score"
+    ],
+    "yearBorn": 1969
+  }
+]

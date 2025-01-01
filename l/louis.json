@@ -1,0 +1,51 @@
+[
+  {
+    "fullName": "Louis Pasteur",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Pasteur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "occupation": "Chemist, microbiologist",
+    "achievements": [
+      "Developed pasteurization",
+      "Pioneered germ theory of disease",
+      "Created vaccines for rabies and anthrax"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1895
+  },
+  {
+    "fullName": "Louis Armstrong",
+    "givenNames": [
+      "Louis",
+      "Daniel"
+    ],
+    "familyName": "Armstrong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+    "occupation": "Jazz musician, singer, trumpeter",
+    "achievements": [
+      "Influential figure in jazz history",
+      "Known for his virtuosity and improvisational skills",
+      "Popularized scat singing"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Louis XIV",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Bourbon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV",
+    "occupation": "King of France",
+    "achievements": [
+      "Longest-reigning monarch in European history",
+      "Known as the 'Sun King'",
+      "Oversaw expansion of French power and culture"
+    ],
+    "yearBorn": 1638,
+    "yearDied": 1715
+  }
+]

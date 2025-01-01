@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Amerigo Vespucci",
+    "givenNames": [
+      "Amerigo"
+    ],
+    "familyName": "Vespucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+    "occupation": "Explorer, Cartographer",
+    "achievements": [
+      "Explored South America",
+      "Realized the New World was a separate continent",
+      "America named after him"
+    ],
+    "yearBorn": 1454,
+    "yearDied": 1512
+  }
+]

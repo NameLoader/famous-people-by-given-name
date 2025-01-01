@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Mavis Staples",
+    "givenNames": [
+      "Mavis"
+    ],
+    "familyName": "Staples",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mavis_Staples",
+    "occupation": "Singer, musician, civil rights activist",
+    "achievements": [
+      "Grammy Award winner",
+      "Rock and Roll Hall of Fame inductee",
+      "Kennedy Center Honoree"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Mavis Gallant",
+    "givenNames": [
+      "Mavis",
+      "Leslie"
+    ],
+    "familyName": "Gallant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mavis_Gallant",
+    "occupation": "Writer",
+    "achievements": [
+      "Governor General's Award winner",
+      "Companion of the Order of Canada"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2014
+  }
+]

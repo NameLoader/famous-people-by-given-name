@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Naomi Campbell",
+    "givenNames": [
+      "Naomi",
+      "Elaine"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Campbell",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "One of the six original supermodels",
+      "First black model to appear on the cover of French Vogue"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Naomi Watts",
+    "givenNames": [
+      "Naomi",
+      "Ellen"
+    ],
+    "familyName": "Watts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Watts",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Nominated for two Academy Awards (Best Actress and Best Supporting Actress)",
+      "Known for roles in films like 'Mulholland Drive', '21 Grams', and 'The Impossible'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Naomi Wolf",
+    "givenNames": [
+      "Naomi",
+      "Rebekah"
+    ],
+    "familyName": "Wolf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Wolf",
+    "occupation": "Author, Journalist, Feminist",
+    "achievements": [
+      "Published 'The Beauty Myth', a groundbreaking work on feminist theory and societal beauty standards",
+      "Activist for women's rights and social justice"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Naomi Osaka",
+    "givenNames": [
+      "Naomi"
+    ],
+    "familyName": "Osaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naomi_Osaka",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "Four-time Grand Slam singles champion",
+      "Former World No. 1 tennis player"
+    ],
+    "yearBorn": 1997
+  }
+]

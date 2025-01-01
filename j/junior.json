@@ -1,0 +1,53 @@
+[
+  {
+    "fullName": "Junior Bridgeman",
+    "givenNames": [
+      "Junior",
+      "Ulysses",
+      "Lee"
+    ],
+    "familyName": "Bridgeman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Junior_Bridgeman",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA All-Star (1976)",
+      "Two-time NBA champion (1980, 1982)"
+    ],
+    "yearBorn": 1953
+  },
+  {
+    "fullName": "Junior Seau",
+    "givenNames": [
+      "Junior",
+      "Tiaina",
+      "Baul"
+    ],
+    "familyName": "Seau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Junior_Seau",
+    "occupation": "Football Player",
+    "achievements": [
+      "NFL Defensive Player of the Year (1994)",
+      "12-time Pro Bowl selection",
+      "Inducted into the Pro Football Hall of Fame (2015)"
+    ],
+    "yearBorn": 1969,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Junior Johnson",
+    "givenNames": [
+      "Junior",
+      "Robert",
+      "Glenn"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Junior_Johnson",
+    "occupation": "NASCAR Driver, Moonshiner",
+    "achievements": [
+      "50 NASCAR Cup Series wins",
+      "Member of the NASCAR Hall of Fame (2010)"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2018
+  }
+]

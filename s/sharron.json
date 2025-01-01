@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Sharron Davies",
+    "givenNames": [
+      "Sharron",
+      "Elizabeth"
+    ],
+    "familyName": "Davies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharron_Davies",
+    "occupation": "Swimmer, Television presenter",
+    "achievements": [
+      "Olympic medalist",
+      "World champion swimmer",
+      "Television sports commentator"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Sharron Angle",
+    "givenNames": [
+      "Sharron",
+      "Elaine"
+    ],
+    "familyName": "Angle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharron_Angle",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Republican U.S. Senate nominee for Nevada"
+    ],
+    "yearBorn": 1949
+  }
+]

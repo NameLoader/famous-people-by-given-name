@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Abel Tasman",
+    "givenNames": [
+      "Abel",
+      "Janszoon"
+    ],
+    "familyName": "Tasman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abel_Tasman",
+    "occupation": "Explorer",
+    "achievements": [
+      "First European to reach Tasmania (then Van Diemen's Land)",
+      "Explored the coasts of New Zealand and parts of Australia"
+    ],
+    "yearBorn": 1603,
+    "yearDied": 1659
+  }
+]

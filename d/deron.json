@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Deron Williams",
+    "givenNames": [
+      "Deron",
+      "Michael"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deron_Williams",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Three-time NBA All-Star",
+      "Two-time Olympic gold medalist",
+      "NBA Rookie of the Year (2006)"
+    ],
+    "yearBorn": 1984
+  }
+]

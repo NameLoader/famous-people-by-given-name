@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Carolyn Bessette-Kennedy",
+    "givenNames": [
+      "Carolyn",
+      "Jeanne"
+    ],
+    "familyName": "Bessette-Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_Bessette-Kennedy",
+    "occupation": "Public figure, fashion publicist",
+    "achievements": [
+      "Wife of John F. Kennedy Jr.",
+      "Known for her style and influence on fashion trends"
+    ],
+    "yearBorn": 1966,
+    "yearDied": 1999
+  },
+  {
+    "fullName": "Carolyn Shoemaker",
+    "givenNames": [
+      "Carolyn",
+      "Jean"
+    ],
+    "familyName": "Shoemaker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered over 30 comets and several hundred asteroids.",
+      "Recognized for her contributions to the field of planetary science."
+    ],
+    "yearBorn": 1929
+  }
+]

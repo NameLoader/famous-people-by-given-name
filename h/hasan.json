@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Hasan Minhaj",
+    "givenNames": [
+      "Hasan"
+    ],
+    "familyName": "Minhaj",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasan_Minhaj",
+    "occupation": "Comedian, writer, actor, political commentator",
+    "achievements": [
+      "Hosted the Netflix comedy special 'Homecoming King'",
+      "Hosted the Peabody Award-winning Netflix series 'Patriot Act with Hasan Minhaj'"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Hasan Salihamidžić",
+    "givenNames": [
+      "Hasan"
+    ],
+    "familyName": "Salihamidžić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasan_Salihamid%C5%BEi%C4%87",
+    "occupation": "Former professional footballer, sports director",
+    "achievements": [
+      "Won the UEFA Champions League with Bayern Munich in 2001",
+      "Played for the Bosnia and Herzegovina national team"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Hasan ibn Ali",
+    "givenNames": [
+      "Hasan"
+    ],
+    "familyName": "ibn Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+    "occupation": "Religious figure in Shia Islam",
+    "achievements": [
+      "Grandson of the Prophet Muhammad",
+      "Considered the second Imam by Shia Muslims"
+    ],
+    "yearBorn": 624,
+    "yearDied": 669
+  }
+]

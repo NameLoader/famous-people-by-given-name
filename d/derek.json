@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Derek Jeter",
+    "givenNames": [
+      "Derek",
+      "Sanderson"
+    ],
+    "familyName": "Jeter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jeter",
+    "occupation": "Baseball player",
+    "achievements": [
+      "5x World Series champion with the New York Yankees",
+      "14x All-Star",
+      "5x Gold Glove Award winner",
+      "inducted into the Baseball Hall of Fame in 2020"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Derek Trucks",
+    "givenNames": [
+      "Derek"
+    ],
+    "familyName": "Trucks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Trucks",
+    "occupation": "Guitarist",
+    "achievements": [
+      "Grammy Award winner for Best Contemporary Blues Album (twice)",
+      "Known for his slide guitar skills and blues-rock style"
+    ],
+    "yearBorn": 1979
+  }
+]

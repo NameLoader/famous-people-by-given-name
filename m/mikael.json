@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Mikael Agricola",
+    "givenNames": [
+      "Mikael"
+    ],
+    "familyName": "Agricola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikael_Agricola",
+    "occupation": "Finnish clergyman, humanist and writer.",
+    "achievements": [
+      "Considered the 'Father of Finnish Literature'",
+      "Translated the New Testament into Finnish"
+    ],
+    "yearBorn": 1510,
+    "yearDied": 1557
+  },
+  {
+    "fullName": "Mikael Lustig",
+    "givenNames": [
+      "Mikael"
+    ],
+    "familyName": "Lustig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikael_Lustig",
+    "occupation": "Swedish-Israeli professional footballer",
+    "achievements": [
+      "Played for the Swedish national team",
+      "Won the UEFA Champions League with Celtic FC in 2017"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Mikael Blomkvist",
+    "givenNames": [
+      "Mikael"
+    ],
+    "familyName": "Blomkvist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikael_Blomkvist",
+    "occupation": "Fictional character, journalist and investigator",
+    "achievements": [
+      "Protagonist of Stieg Larsson's Millennium trilogy"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Christa McAuliffe",
+    "givenNames": [
+      "Christa"
+    ],
+    "familyName": "McAuliffe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christa_McAuliffe",
+    "occupation": "Teacher, Astronaut",
+    "achievements": [
+      "First teacher selected for NASA's Teacher in Space program.",
+      "Tragically perished in the Space Shuttle Challenger disaster."
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Christa Wolf",
+    "givenNames": [
+      "Christa"
+    ],
+    "familyName": "Wolf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christa_Wolf",
+    "occupation": "Writer",
+    "achievements": [
+      "Prominent East German writer known for her novels and essays.",
+      "Author of the acclaimed novel 'Cassandra'."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2011
+  }
+]

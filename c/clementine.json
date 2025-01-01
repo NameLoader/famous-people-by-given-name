@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Clementine Churchill",
+    "givenNames": [
+      "Clementine"
+    ],
+    "familyName": "Churchill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clementine_Churchill",
+    "occupation": "Socialite, wife of Winston Churchill",
+    "achievements": [
+      "Supported her husband's political career",
+      "Known for her strength and resilience during World War II"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Clementine Hunter",
+    "givenNames": [
+      "Clementine"
+    ],
+    "familyName": "Hunter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clementine_Hunter",
+    "occupation": "Folk artist",
+    "achievements": [
+      "Created vibrant paintings depicting everyday life in the Louisiana countryside",
+      "Her work is celebrated for its unique style and cultural significance"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1982
+  }
+]

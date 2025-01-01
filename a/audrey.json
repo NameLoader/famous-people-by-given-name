@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Audrey Tautou",
+    "givenNames": [
+      "Audrey",
+      "Justine"
+    ],
+    "familyName": "Tautou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Tautou",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award for Best Actress",
+      "Known for roles in 'Amélie', 'Da Vinci Code'"
+    ],
+    "yearBorn": 1976
+  },
+  {
+    "fullName": "Audrey McDonald",
+    "givenNames": [
+      "Audra",
+      "Ann"
+    ],
+    "familyName": "McDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audra_McDonald",
+    "occupation": "Actress and Singer",
+    "achievements": [
+      "Six Tony Awards (most for any actor)",
+      "Grammy Award",
+      "Emmy Award nomination"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Audrey Meadows",
+    "givenNames": [
+      "Audrey"
+    ],
+    "familyName": "Meadows",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Meadows",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Alice Kramden on 'The Honeymooners'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1996
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Connor McDavid",
+    "givenNames": [
+      "Connor",
+      "Andrew"
+    ],
+    "familyName": "McDavid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Connor_McDavid",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "NHL MVP",
+      "Multiple Stanley Cup Champion"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Connor McGregor",
+    "givenNames": [
+      "Conor",
+      "Anthony"
+    ],
+    "familyName": "McGregor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Conor_McGregor",
+    "occupation": "Mixed martial artist, boxer",
+    "achievements": [
+      "UFC Featherweight Champion",
+      "UFC Lightweight Champion"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Connor Barth",
+    "givenNames": [
+      "Connor",
+      "Thomas"
+    ],
+    "familyName": "Barth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Connor_Barth",
+    "occupation": "American football placekicker",
+    "achievements": [
+      "NFL Career"
+    ],
+    "yearBorn": 1986
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Carlos Santana",
+    "givenNames": [
+      "Carlos",
+      "Humberto"
+    ],
+    "familyName": "Santana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Santana",
+    "occupation": "Guitarist, singer, songwriter",
+    "achievements": [
+      "Ten Grammy Awards",
+      "Three Latin Grammy Awards",
+      "Rock and Roll Hall of Fame inductee"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Carlos Slim Helú",
+    "givenNames": [
+      "Carlos"
+    ],
+    "familyName": "Slim Helú",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Slim",
+    "occupation": "Businessman, investor",
+    "achievements": [
+      "Ranked among the world's richest people for many years",
+      "Chairman and CEO of Grupo Carso"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Carlos Ruiz Zafón",
+    "givenNames": [
+      "Carlos"
+    ],
+    "familyName": "Ruiz Zafón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Ruiz_Zaf%C3%B3n",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author known for 'The Shadow of the Wind'"
+    ],
+    "yearBorn": 1964,
+    "yearDied": 2020
+  }
+]

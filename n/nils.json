@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Nils Liedholm",
+    "givenNames": [
+      "Nils",
+      "Erik"
+    ],
+    "familyName": "Liedholm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nils_Liedholm",
+    "occupation": "Footballer and manager",
+    "achievements": [
+      "Won the 1958 FIFA World Cup as a player with Sweden",
+      "Managed several Swedish clubs, including IFK Göteborg"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Nils Lofgren",
+    "givenNames": [
+      "Nils",
+      "Hilmer"
+    ],
+    "familyName": "Lofgren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nils_Lofgren",
+    "occupation": "Musician",
+    "achievements": [
+      "Known for his work as a guitarist and singer-songwriter",
+      "Performed with Bruce Springsteen's E Street Band"
+    ],
+    "yearBorn": 1951
+  }
+]

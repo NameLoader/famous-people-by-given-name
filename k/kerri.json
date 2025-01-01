@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Kerri Strug",
+    "givenNames": [
+      "Kerri",
+      "Allyson"
+    ],
+    "familyName": "Strug",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerri_Strug",
+    "occupation": "Gymnast",
+    "achievements": [
+      "Olympic gold medalist (team)",
+      "Known for her vault performance at the 1996 Summer Olympics"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Kerri Walsh Jennings",
+    "givenNames": [
+      "Kerri",
+      "Lee"
+    ],
+    "familyName": "Walsh Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerri_Walsh_Jennings",
+    "occupation": "Beach volleyball player",
+    "achievements": [
+      "Three-time Olympic gold medalist (beach volleyball)",
+      "Dominant force in beach volleyball for over a decade"
+    ],
+    "yearBorn": 1978
+  }
+]

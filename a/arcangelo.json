@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arcangelo Corelli",
+    "givenNames": [
+      "Arcangelo"
+    ],
+    "familyName": "Corelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+    "occupation": "Composer, violinist",
+    "achievements": [
+      "Baroque composer",
+      "Known for his concertos and sonatas"
+    ],
+    "yearBorn": 1653,
+    "yearDied": 1713
+  }
+]

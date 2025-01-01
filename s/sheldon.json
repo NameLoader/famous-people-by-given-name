@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Sheldon Lee Glashow",
+    "givenNames": [
+      "Sheldon",
+      "Lee"
+    ],
+    "familyName": "Glashow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sheldon_Glashow",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1979)",
+      "Developed the electroweak theory"
+    ],
+    "yearBorn": 1932
+  },
+  {
+    "fullName": "Sheldon Adelson",
+    "givenNames": [
+      "Sheldon",
+      "Gary"
+    ],
+    "familyName": "Adelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sheldon_Adelson",
+    "occupation": "Casino executive, philanthropist",
+    "achievements": [
+      "Founder of Las Vegas Sands Corporation",
+      "Major Republican donor"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Sheldon Cooper",
+    "givenNames": [
+      "Sheldon",
+      "Lee"
+    ],
+    "familyName": "Cooper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sheldon_Cooper",
+    "occupation": "Fictional theoretical physicist",
+    "achievements": [
+      "Main character in the television sitcom 'The Big Bang Theory'"
+    ]
+  }
+]

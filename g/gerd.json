@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gerd Müller",
+    "givenNames": [
+      "Gerhard",
+      "Gerd"
+    ],
+    "familyName": "Müller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerd_M%C3%BCller",
+    "occupation": "Footballer",
+    "achievements": [
+      "FIFA World Cup winner (1974)",
+      "European Championship winner (1972)",
+      "Bundesliga top scorer record holder"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Gerd Gigerenzer",
+    "givenNames": [
+      "Gerd"
+    ],
+    "familyName": "Gigerenzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerd_Gigerenzer",
+    "occupation": "Psychologist",
+    "achievements": [
+      "Pioneer in the field of cognitive psychology and decision-making",
+      "Author of influential books on heuristics and biases"
+    ],
+    "yearBorn": 1947
+  }
+]

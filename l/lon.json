@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Lon Chaney Sr.",
+    "givenNames": [
+      "Lon",
+      "Leonidas",
+      "Frank"
+    ],
+    "familyName": "Chaney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lon_Chaney",
+    "occupation": "Actor",
+    "achievements": [
+      "Known as 'The Man of a Thousand Faces'",
+      "Pioneered special makeup effects in horror films"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1930
+  }
+]

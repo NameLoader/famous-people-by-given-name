@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Dorothea Dix",
+    "givenNames": [
+      "Dorothea",
+      "Lynde"
+    ],
+    "familyName": "Dix",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Dix",
+    "occupation": "Social reformer and activist",
+    "achievements": [
+      "Advocate for the mentally ill",
+      "Instrumental in establishing numerous mental asylums in the United States"
+    ],
+    "yearBorn": 1802,
+    "yearDied": 1887
+  },
+  {
+    "fullName": "Dorothea Lange",
+    "givenNames": [
+      "Dorothea"
+    ],
+    "familyName": "Lange",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Lange",
+    "occupation": "Photographer and photojournalist",
+    "achievements": [
+      "Known for her poignant photographs of the Great Depression",
+      "Her work documented the struggles of migrant workers and helped raise awareness about their plight"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1965
+  },
+  {
+    "fullName": "Dorothea Puente",
+    "givenNames": [
+      "Dorothea",
+      "Helen"
+    ],
+    "familyName": "Puente",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Puente",
+    "occupation": "Serial killer",
+    "achievements": [],
+    "yearBorn": 1929,
+    "yearDied": 2011
+  }
+]

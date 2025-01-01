@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Logan Lerman",
+    "givenNames": [
+      "Logan",
+      "Wade"
+    ],
+    "familyName": "Lerman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Logan_Lerman",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Percy Jackson & the Olympians film series",
+      "Starred in films like The Perks of Being a Wallflower and Fury"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Logan Paul",
+    "givenNames": [
+      "Logan",
+      "Alexander"
+    ],
+    "familyName": "Paul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Logan_Paul",
+    "occupation": "YouTuber, Boxer",
+    "achievements": [
+      "One of the most popular YouTubers with over 23 million subscribers",
+      "Transitioned to professional boxing with exhibition bouts against Floyd Mayweather Jr. and KSI"
+    ],
+    "yearBorn": 1995
+  }
+]

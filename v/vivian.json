@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Vivian Maier",
+    "givenNames": [
+      "Vivian",
+      "Dorothy"
+    ],
+    "familyName": "Maier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivian_Maier",
+    "occupation": "Photographer, Nanny",
+    "achievements": [
+      "Known for her street photography",
+      "Her work remained undiscovered until the early 2000s"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Vivian Leigh",
+    "givenNames": [
+      "Vivien",
+      "Vivian"
+    ],
+    "familyName": "Leigh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vivien_Leigh",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress for 'Gone with the Wind'",
+      "Known for her roles in 'A Streetcar Named Desire' and 'Cleopatra'"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1967
+  }
+]

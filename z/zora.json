@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Zora Neale Hurston",
+    "givenNames": [
+      "Zora",
+      "Neale"
+    ],
+    "familyName": "Hurston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston",
+    "occupation": "Author, Anthropologist",
+    "achievements": [
+      "Key figure in the Harlem Renaissance",
+      "Celebrated for her novels, short stories, and anthropological works documenting African American folklore and culture"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1960
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Chelsea Clinton",
+    "givenNames": [
+      "Chelsea",
+      "Victoria"
+    ],
+    "familyName": "Clinton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chelsea_Clinton",
+    "occupation": "Author, Activist",
+    "achievements": [
+      "Daughter of former President Bill Clinton and former Secretary of State Hillary Clinton.",
+      "Author of several books, including 'It's Your World: Get Informed, Get Inspired & Get Going!' and 'The Book of Gutsy Women'."
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Chelsea Handler",
+    "givenNames": [
+      "Chelsea",
+      "Joy"
+    ],
+    "familyName": "Handler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chelsea_Handler",
+    "occupation": "Comedian, Talk Show Host, Author",
+    "achievements": [
+      "Hosted the late-night talk show 'Chelsea Lately' on E!",
+      "Authored several best-selling books, including 'My Horizontal Life: A Collection of One-Night Stands' and 'Uganda Be Kidding Me'."
+    ],
+    "yearBorn": 1975
+  }
+]

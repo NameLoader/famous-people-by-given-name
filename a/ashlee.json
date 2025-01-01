@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Ashlee Simpson",
+    "givenNames": [
+      "Ashlee",
+      "Ashley"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashlee_Simpson",
+    "occupation": "Singer, Actress, Fashion Designer",
+    "achievements": [
+      "Released platinum-selling albums 'Autobiography' and 'I Am Me'",
+      "Appeared in television shows like '7th Heaven' and 'Melrose Place'"
+    ],
+    "yearBorn": 1984
+  }
+]

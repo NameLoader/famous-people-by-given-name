@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Delphine Seyrig",
+    "givenNames": [
+      "Delphine",
+      "Claire",
+      "Beltiane"
+    ],
+    "familyName": "Seyrig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delphine_Seyrig",
+    "occupation": "Actress, filmmaker",
+    "achievements": [
+      "Known for her roles in films by Alain Resnais and Marguerite Duras.",
+      "Advocate for feminist cinema and women's rights."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Delphine Arnault",
+    "givenNames": [
+      "Delphine",
+      "Caroline",
+      "Marie"
+    ],
+    "familyName": "Arnault",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delphine_Arnault",
+    "occupation": "Businesswoman",
+    "achievements": [
+      "Executive Vice President of Louis Vuitton",
+      "Member of the board of directors of Dior and Moët Hennessy"
+    ],
+    "yearBorn": 1975
+  }
+]

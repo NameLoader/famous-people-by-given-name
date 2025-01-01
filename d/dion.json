@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Dion DiMucci",
+    "givenNames": [
+      "Dion",
+      "Francis"
+    ],
+    "familyName": "DiMucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dion_DiMucci",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Known for hits like \"Runaround Sue\" and \"The Wanderer\""
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Dion Waiters",
+    "givenNames": [
+      "Dion"
+    ],
+    "familyName": "Waiters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dion_Waiters",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA champion with the Miami Heat (2016)",
+      "Known for his scoring ability and confident playstyle"
+    ],
+    "yearBorn": 1991
+  }
+]

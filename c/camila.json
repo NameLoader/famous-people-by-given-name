@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Camila Cabello",
+    "givenNames": [
+      "Camila"
+    ],
+    "familyName": "Cabello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camila_Cabello",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award nominee",
+      "Multi-platinum selling artist"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Camila Giorgi",
+    "givenNames": [
+      "Camila"
+    ],
+    "familyName": "Giorgi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camila_Giorgi",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Reached a career-high ranking of world No. 26",
+      "Won two WTA singles titles"
+    ],
+    "yearBorn": 1991
+  }
+]

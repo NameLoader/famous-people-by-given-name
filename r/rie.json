@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Rie Miyazawa",
+    "givenNames": [
+      "Rie"
+    ],
+    "familyName": "Miyazawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rie_Miyazawa",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for roles in films like 'Tokyo Love Story' and 'Princess Raccoon'",
+      "Successful music career"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Rie Kugimiya",
+    "givenNames": [
+      "Rie"
+    ],
+    "familyName": "Kugimiya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rie_Kugimiya",
+    "occupation": "Voice Actress",
+    "achievements": [
+      "Known for voicing iconic anime characters like Alphonse Elric in 'Fullmetal Alchemist'",
+      "Award-winning voice actress"
+    ],
+    "yearBorn": 1979
+  }
+]

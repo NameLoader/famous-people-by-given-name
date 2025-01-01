@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Eiichi Negishi",
+    "givenNames": [
+      "Ei-ichi",
+      "Eiichi"
+    ],
+    "familyName": "Negishi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ei-ichi_Negishi",
+    "occupation": "Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (2010)",
+      "Known for his work on palladium-catalyzed cross-coupling reactions"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2021
+  }
+]

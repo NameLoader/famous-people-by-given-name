@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Italo Calvino",
+    "givenNames": [
+      "Italo"
+    ],
+    "familyName": "Calvino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Italo_Calvino",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Master of postmodern Italian literature",
+      "Known for works like 'If on a winter's night a traveler'",
+      "Won numerous literary awards"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 1985
+  }
+]

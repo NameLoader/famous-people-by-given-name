@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+    "givenNames": [
+      "Cristiano",
+      "Ronaldo",
+      "dos Santos"
+    ],
+    "familyName": "Aveiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Five-time Ballon d'Or winner",
+      "Five-time UEFA Champions League winner",
+      "European Championship winner with Portugal (2016)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Cristiano Piccini",
+    "givenNames": [
+      "Cristiano"
+    ],
+    "familyName": "Piccini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cristiano_Piccini",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Serie A winner with Juventus (2018-19)",
+      "Capped for the Italy national team"
+    ],
+    "yearBorn": 1992
+  }
+]

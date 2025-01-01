@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Jeffery Archer",
+    "givenNames": [
+      "Jeffrey",
+      "Howard"
+    ],
+    "familyName": "Archer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
+    "occupation": "Author, Politician",
+    "achievements": [
+      "Bestselling author of novels and short stories",
+      "Member of the House of Lords"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Jeffery Epstein",
+    "givenNames": [
+      "Jeffrey",
+      "Edward"
+    ],
+    "familyName": "Epstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+    "occupation": "Financier, convicted sex offender",
+    "achievements": [
+      "Managed finances for high-profile individuals"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Jeffery Wright",
+    "givenNames": [
+      "Jeffrey"
+    ],
+    "familyName": "Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Wright",
+    "occupation": "Actor",
+    "achievements": [
+      "Tony Award winner for his performance in 'Angels in America'",
+      "Starred in films like 'The Hunger Games' and 'Westworld'"
+    ],
+    "yearBorn": 1965
+  }
+]

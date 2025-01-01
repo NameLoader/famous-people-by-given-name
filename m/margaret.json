@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Margaret Thatcher",
+    "givenNames": [
+      "Margaret",
+      "Hilda"
+    ],
+    "familyName": "Thatcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+    "occupation": "Politician",
+    "achievements": [
+      "First female Prime Minister of the United Kingdom",
+      "Longest-serving British Prime Minister of the 20th century"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Margaret Atwood",
+    "givenNames": [
+      "Margaret",
+      "Eleanor"
+    ],
+    "familyName": "Atwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Atwood",
+    "occupation": "Writer",
+    "achievements": [
+      "Prolific author of novels, poetry, short stories, and essays",
+      "Known for works like 'The Handmaid's Tale', 'Alias Grace', and 'The Blind Assassin'"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Margaret Hamilton",
+    "givenNames": [
+      "Margaret",
+      "Elaine"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Led the team that developed onboard flight software for the Apollo missions",
+      "Pioneer in software engineering and credited with coining the term 'software engineering'"
+    ],
+    "yearBorn": 1936
+  },
+  {
+    "fullName": "Margaret Mead",
+    "givenNames": [
+      "Margaret"
+    ],
+    "familyName": "Mead",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mead",
+    "occupation": "Anthropologist",
+    "achievements": [
+      "Influential figure in cultural anthropology",
+      "Known for her studies of adolescence and gender roles in Samoa and other cultures"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1978
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Randal Kleiser",
+    "givenNames": [
+      "John",
+      "Randal"
+    ],
+    "familyName": "Kleiser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randal_Kleiser",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Directed films like Grease (1978), The Blue Lagoon (1980)",
+      "Won a Golden Globe Award nomination for Best Director - Motion Picture Musical or Comedy for Grease"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Randal Kolo Muani",
+    "givenNames": [
+      "Randal"
+    ],
+    "familyName": "Kolo Muani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randal_Kolo_Muani",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Plays as a forward for Eintracht Frankfurt and the France national team",
+      "Represented France at the 2022 FIFA World Cup"
+    ],
+    "yearBorn": 1998
+  }
+]

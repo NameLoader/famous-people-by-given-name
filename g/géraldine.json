@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Géraldine Chaplin",
+    "givenNames": [
+      "Geraldine",
+      "Leigh"
+    ],
+    "familyName": "Chaplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geraldine_Chaplin",
+    "occupation": "Actress",
+    "achievements": [
+      "Daughter of Charlie Chaplin",
+      "Starred in films such as 'Doctor Zhivago' and 'Nashville'"
+    ],
+    "yearBorn": 1944
+  },
+  {
+    "fullName": "Géraldine Somerville",
+    "givenNames": [
+      "Geraldine",
+      "Margaret"
+    ],
+    "familyName": "Somerville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geraldine_Somerville",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'The Last King of Scotland' and 'Harry Potter' film series"
+    ],
+    "yearBorn": 1967
+  }
+]

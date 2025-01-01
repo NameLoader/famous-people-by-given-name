@@ -1,0 +1,61 @@
+[
+  {
+    "fullName": "Mark Zuckerberg",
+    "givenNames": [
+      "Mark",
+      "Elliot"
+    ],
+    "familyName": "Zuckerberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "occupation": "Entrepreneur, Programmer",
+    "achievements": [
+      "Co-founded Facebook",
+      "One of the world's youngest billionaires"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Mark Hamill",
+    "givenNames": [
+      "Mark",
+      "Richard"
+    ],
+    "familyName": "Hamill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Hamill",
+    "occupation": "Actor, Voice Actor",
+    "achievements": [
+      "Played Luke Skywalker in the 'Star Wars' franchise",
+      "Acclaimed voice actor, notably voicing The Joker in various animated Batman projects"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Mark Ruffalo",
+    "givenNames": [
+      "Mark",
+      "Alan"
+    ],
+    "familyName": "Ruffalo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Ruffalo",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Zodiac', 'The Avengers', and 'Spotlight'"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Mark Cavendish",
+    "givenNames": [
+      "Mark",
+      "Simon"
+    ],
+    "familyName": "Cavendish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Cavendish",
+    "occupation": "Professional Cyclist",
+    "achievements": [
+      "34 Tour de France stage victories",
+      "World Champion in Road Race (2011)"
+    ],
+    "yearBorn": 1985
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Patrick Stewart",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+    "occupation": "Actor",
+    "achievements": [
+      "Star Trek role as Captain Jean-Luc Picard",
+      "Extensive stage work including Shakespearean roles"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Patrick Swayze",
+    "givenNames": [
+      "Patrick",
+      "Wayne"
+    ],
+    "familyName": "Swayze",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Swayze",
+    "occupation": "Actor and Dancer",
+    "achievements": [
+      "Starring roles in films like Dirty Dancing and Ghost",
+      "Successful career as a dancer before acting"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Patrick Mahomes",
+    "givenNames": [
+      "Patrick",
+      "Lavon"
+    ],
+    "familyName": "Mahomes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Mahomes",
+    "occupation": "NFL Quarterback",
+    "achievements": [
+      "Super Bowl Champion and MVP",
+      "Multiple NFL passing records"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Patrick Dempsey",
+    "givenNames": [
+      "Patrick",
+      "Galen"
+    ],
+    "familyName": "Dempsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Dempsey",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Dr. Derek Shepherd in Grey's Anatomy",
+      "Successful racing career"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Patrick Ewing",
+    "givenNames": [
+      "Patrick",
+      "Aloysius"
+    ],
+    "familyName": "Ewing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Ewing",
+    "occupation": "Basketball Player and Coach",
+    "achievements": [
+      "NBA Hall of Famer",
+      "Led the New York Knicks to multiple NBA Finals appearances"
+    ],
+    "yearBorn": 1962
+  }
+]

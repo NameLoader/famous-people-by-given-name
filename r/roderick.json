@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Roderick David Stewart",
+    "givenNames": [
+      "Roderick",
+      "David"
+    ],
+    "familyName": "Stewart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rod_Stewart",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Sold over 250 million records worldwide",
+      "Inducted into the Rock and Roll Hall of Fame"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Roderick Murchison",
+    "givenNames": [
+      "Roderick",
+      "Impey"
+    ],
+    "familyName": "Murchison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roderick_Murchison",
+    "occupation": "Geologist",
+    "achievements": [
+      "Pioneer in the study of stratigraphy and geological mapping",
+      "Named the Silurian period"
+    ],
+    "yearBorn": 1792,
+    "yearDied": 1871
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Francis Bacon",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Bacon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
+    "occupation": "Philosopher, statesman, scientist, jurist, orator, and author",
+    "achievements": [
+      "Developed the scientific method",
+      "Contributed to the fields of optics, astronomy, and medicine",
+      "Wrote influential essays and philosophical works"
+    ],
+    "yearBorn": 1561,
+    "yearDied": 1626
+  },
+  {
+    "fullName": "Francis Scott Key",
+    "givenNames": [
+      "Francis",
+      "Scott"
+    ],
+    "familyName": "Key",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Scott_Key",
+    "occupation": "Lawyer and poet",
+    "achievements": [
+      "Wrote the lyrics to \"The Star-Spangled Banner\""
+    ],
+    "yearBorn": 1779,
+    "yearDied": 1843
+  },
+  {
+    "fullName": "Francis Crick",
+    "givenNames": [
+      "Francis",
+      "Harry",
+      "Compton"
+    ],
+    "familyName": "Crick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crick",
+    "occupation": "Molecular biologist, biophysicist, and neuroscientist",
+    "achievements": [
+      "Co-discovered the structure of DNA with James Watson",
+      "Won the Nobel Prize in Physiology or Medicine in 1962"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Francis Ford Coppola",
+    "givenNames": [
+      "Francis",
+      "Ford"
+    ],
+    "familyName": "Coppola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Ford_Coppola",
+    "occupation": "Film director, screenwriter, and producer",
+    "achievements": [
+      "Directed iconic films such as \"The Godfather\" trilogy, \"Apocalypse Now\", and \"Bram Stoker's Dracula\""
+    ],
+    "yearBorn": 1939
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Royce Gracie",
+    "givenNames": [
+      "Royce"
+    ],
+    "familyName": "Gracie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Royce_Gracie",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "Pioneer of Brazilian Jiu-Jitsu in mixed martial arts",
+      "UFC Hall of Famer",
+      "Undefeated in his first 11 professional MMA fights"
+    ],
+    "yearBorn": 1966
+  }
+]

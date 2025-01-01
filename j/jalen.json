@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Jalen Green",
+    "givenNames": [
+      "Jalen",
+      "Romande"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jalen_Green",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Rookie of the Year (2022)",
+      "McDonald's All-American (2020)"
+    ],
+    "yearBorn": 2002
+  },
+  {
+    "fullName": "Jalen Hurts",
+    "givenNames": [
+      "Jalen",
+      "Alexander"
+    ],
+    "familyName": "Hurts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jalen_Hurts",
+    "occupation": "Football Player",
+    "achievements": [
+      "Super Bowl LVII appearance",
+      "Heisman Trophy finalist (2019)"
+    ],
+    "yearBorn": 1998
+  },
+  {
+    "fullName": "Jalen Ramsey",
+    "givenNames": [
+      "Jalen",
+      "Lattrel"
+    ],
+    "familyName": "Ramsey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jalen_Ramsey",
+    "occupation": "Football Player",
+    "achievements": [
+      "6× Pro Bowl selections",
+      "3× First-team All-Pro selections"
+    ],
+    "yearBorn": 1994
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Jenna Elfman",
+    "givenNames": [
+      "Jenna"
+    ],
+    "familyName": "Elfman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Elfman",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Dharma Montgomery in the sitcom 'Dharma & Greg'",
+      "Nominated for three Primetime Emmy Awards and a Golden Globe Award"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Jenna Jameson",
+    "givenNames": [
+      "Jenna",
+      "Marie"
+    ],
+    "familyName": "Jameson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Jameson",
+    "occupation": "Adult film actress, entrepreneur",
+    "achievements": [
+      "One of the most successful adult film actresses of all time",
+      "Authored several books and launched her own production company"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Jenna Ortega",
+    "givenNames": [
+      "Jenna",
+      "Marie"
+    ],
+    "familyName": "Ortega",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Ortega",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Wednesday', 'Scream' and 'You'",
+      "Nominated for several awards including MTV Movie & TV Awards and Imagen Awards"
+    ],
+    "yearBorn": 2002
+  }
+]

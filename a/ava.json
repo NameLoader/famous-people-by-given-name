@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ava Gardner",
+    "givenNames": [
+      "Ava",
+      "Lavinia"
+    ],
+    "familyName": "Gardner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ava_Gardner",
+    "occupation": "Actress",
+    "achievements": [
+      "One of Hollywood's most iconic actresses",
+      "Nominated for two Academy Awards"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Ava DuVernay",
+    "givenNames": [
+      "Ava",
+      "Marie"
+    ],
+    "familyName": "DuVernay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ava_DuVernay",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "First black woman to direct a film with a budget of over $100 million (Selma)",
+      "Nominated for an Academy Award and two Emmy Awards"
+    ],
+    "yearBorn": 1972
+  }
+]

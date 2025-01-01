@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Arnold Schwarzenegger",
+    "givenNames": [
+      "Arnold",
+      "Alois"
+    ],
+    "familyName": "Schwarzenegger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+    "occupation": "Actor, Bodybuilder, Politician",
+    "achievements": [
+      "Seven-time Mr. Olympia winner",
+      "Governor of California (2003-2011)",
+      "Starred in films like Terminator, Predator, and Conan the Barbarian"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Arnold Palmer",
+    "givenNames": [
+      "Arnold",
+      "Daniel"
+    ],
+    "familyName": "Palmer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Palmer",
+    "occupation": "Professional Golfer",
+    "achievements": [
+      "Won seven major championships",
+      "Pioneer of modern golf and popularized the sport",
+      "Named one of the 'greatest golfers of all time'"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Arnold Bennett",
+    "givenNames": [
+      "Arnold"
+    ],
+    "familyName": "Bennett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Bennett",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Known for novels depicting life in the English Midlands",
+      "Popular works include 'Clayhanger' and 'The Old Wives' Tale'"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1931
+  }
+]

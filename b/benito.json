@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "Benito Mussolini",
+    "givenNames": [
+      "Benito",
+      "Amilcare",
+      "Andrea"
+    ],
+    "familyName": "Mussolini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+    "occupation": "Politician, Dictator",
+    "achievements": [
+      "Founder of the National Fascist Party in Italy",
+      "Prime Minister of Italy from 1922 to 1943",
+      "Key figure in the rise of fascism in Europe"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Benito Juárez",
+    "givenNames": [
+      "Benito",
+      "Pablo"
+    ],
+    "familyName": "Juárez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez",
+    "occupation": "Lawyer, Politician, President of Mexico",
+    "achievements": [
+      "Led the liberal forces during the Reform War in Mexico",
+      "President of Mexico from 1858 to 1872",
+      "Known for his resistance to French intervention and his efforts to modernize Mexico"
+    ],
+    "yearBorn": 1806,
+    "yearDied": 1872
+  }
+]

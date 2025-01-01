@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Claudia Schiffer",
+    "givenNames": [
+      "Claudia",
+      "Maria"
+    ],
+    "familyName": "Schiffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Schiffer",
+    "occupation": "Model, actress",
+    "achievements": [
+      "One of the most successful models of the 1990s",
+      "Appeared on over 1000 magazine covers"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Claudia Kishi",
+    "givenNames": [
+      "Claudia"
+    ],
+    "familyName": "Kishi",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Baby-Sitters_Club#Claudia_Lynn_Kishi",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Popular character in the Baby-Sitters Club book series"
+    ]
+  },
+  {
+    "fullName": "Claudia Wells",
+    "givenNames": [
+      "Claudia"
+    ],
+    "familyName": "Wells",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Wells",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Jennifer Parker in 'Back to the Future'"
+    ],
+    "yearBorn": 1966
+  }
+]

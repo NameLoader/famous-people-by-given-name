@@ -1,0 +1,83 @@
+[
+  {
+    "fullName": "André Breton",
+    "givenNames": [
+      "André",
+      "Robert"
+    ],
+    "familyName": "Breton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Breton",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Founder of Surrealism",
+      "Author of the Surrealist Manifesto"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "André Gide",
+    "givenNames": [
+      "André",
+      "Paul",
+      "Guillaume"
+    ],
+    "familyName": "Gide",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide",
+    "occupation": "Writer, Nobel laureate",
+    "achievements": [
+      "Nobel Prize in Literature (1947)",
+      "Known for his exploration of themes like sexuality and morality"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "André Citroën",
+    "givenNames": [
+      "André",
+      "Gustave"
+    ],
+    "familyName": "Citroën",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Citro%C3%ABn",
+    "occupation": "Industrialist, Engineer",
+    "achievements": [
+      "Founded the Citroën car company",
+      "Pioneered innovative automotive designs"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1935
+  },
+  {
+    "fullName": "André Agassi",
+    "givenNames": [
+      "Andre",
+      "Kirk"
+    ],
+    "familyName": "Agassi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andre_Agassi",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "8-time Grand Slam singles champion",
+      "Former World No. 1"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "André Rieu",
+    "givenNames": [
+      "André",
+      "Léon",
+      "Marie",
+      "Nicolas"
+    ],
+    "familyName": "Rieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Rieu",
+    "occupation": "Violinist, Conductor",
+    "achievements": [
+      "Known for his performances of waltz music and classical crossover",
+      "Popular concert violinist"
+    ],
+    "yearBorn": 1949
+  }
+]

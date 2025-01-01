@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Homer Simpson",
+    "givenNames": [
+      "Homer",
+      "Jay"
+    ],
+    "familyName": "Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homer_Simpson",
+    "occupation": "Nuclear safety inspector",
+    "achievements": [
+      "Fictional character and protagonist of the animated sitcom The Simpsons.",
+      "Cultural icon recognized worldwide."
+    ]
+  }
+]

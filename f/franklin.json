@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Franklin D. Roosevelt",
+    "givenNames": [
+      "Franklin",
+      "Delano"
+    ],
+    "familyName": "Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+    "occupation": "Politician",
+    "achievements": [
+      "32nd President of the United States",
+      "Led the country through the Great Depression and World War II",
+      "Implemented the New Deal programs"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Franklin Pierce",
+    "givenNames": [
+      "Franklin"
+    ],
+    "familyName": "Pierce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+    "occupation": "Politician",
+    "achievements": [
+      "14th President of the United States",
+      "Signed the Kansas-Nebraska Act"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1869
+  }
+]

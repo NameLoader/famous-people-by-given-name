@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Rodrigo Díaz de Vivar",
+    "givenNames": [
+      "Rodrigo"
+    ],
+    "familyName": "Díaz de Vivar",
+    "wikipedia": "https://en.wikipedia.org/wiki/El_Cid",
+    "occupation": "Military leader, nobleman",
+    "achievements": [
+      "National hero of Spain known as 'El Cid'",
+      "Skilled military strategist and leader"
+    ],
+    "yearBorn": 1043,
+    "yearDied": 1099
+  },
+  {
+    "fullName": "Rodrigo Duterte",
+    "givenNames": [
+      "Rodrigo",
+      "Roa"
+    ],
+    "familyName": "Duterte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Duterte",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 16th President of the Philippines (2016-2022)",
+      "Known for his controversial War on Drugs policy"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Rodrigo Santoro",
+    "givenNames": [
+      "Rodrigo"
+    ],
+    "familyName": "Santoro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Santoro",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Love Actually', '300', and 'The Last Stand'",
+      "Starred in the HBO series 'Westworld'"
+    ],
+    "yearBorn": 1975
+  }
+]

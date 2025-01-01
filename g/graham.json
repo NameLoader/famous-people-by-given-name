@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Graham Bell",
+    "givenNames": [
+      "Alexander",
+      "Graham"
+    ],
+    "familyName": "Bell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+    "occupation": "Inventor, scientist",
+    "achievements": [
+      "Invented the telephone",
+      "Made significant contributions to audiology and deaf education"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Graham Greene",
+    "givenNames": [
+      "Graham",
+      "Henry"
+    ],
+    "familyName": "Greene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Greene",
+    "occupation": "Novelist, short story writer, playwright, critic",
+    "achievements": [
+      "Authored influential novels like 'The Power and the Glory' and 'Brighton Rock'",
+      "Known for his exploration of themes like faith, morality, and political intrigue"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1991
+  },
+  {
+    "fullName": "Graham Chapman",
+    "givenNames": [
+      "Graham"
+    ],
+    "familyName": "Chapman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Chapman",
+    "occupation": "Actor, comedian, writer",
+    "achievements": [
+      "Member of the Monty Python comedy troupe",
+      "Known for his surreal humor and iconic characters like Brian Cohen in 'Monty Python's Life of Brian'"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1989
+  }
+]

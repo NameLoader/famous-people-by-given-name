@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Severin Freund",
+    "givenNames": [
+      "Severin"
+    ],
+    "familyName": "Freund",
+    "wikipedia": "https://en.wikipedia.org/wiki/Severin_Freund",
+    "occupation": "Ski Jumper",
+    "achievements": [
+      "Olympic Champion (Team)",
+      "World Championship medalist",
+      "Multiple World Cup victories"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Severin Schwan",
+    "givenNames": [
+      "Severin",
+      "Anton"
+    ],
+    "familyName": "Schwan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Severin_Schwan",
+    "occupation": "CEO",
+    "achievements": [
+      "Led Roche Holding Ltd., a global pharmaceutical company"
+    ],
+    "yearBorn": 1969
+  }
+]

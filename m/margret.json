@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Margret Atwood",
+    "givenNames": [
+      "Margaret",
+      "Eleanor"
+    ],
+    "familyName": "Atwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Atwood",
+    "occupation": "Novelist, Poet, Essayist",
+    "achievements": [
+      "Booker Prize winner",
+      "Giller Prize winner",
+      "Known for dystopian novels like 'The Handmaid's Tale'"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Margret Thatcher",
+    "givenNames": [
+      "Margaret",
+      "Hilda"
+    ],
+    "familyName": "Thatcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+    "occupation": "Politician",
+    "achievements": [
+      "First female Prime Minister of the United Kingdom",
+      "Known for her conservative policies and leadership during the Falklands War"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2013
+  }
+]

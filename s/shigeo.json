@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Shigeo Shingo",
+    "givenNames": [
+      "Shigeo"
+    ],
+    "familyName": "Shingo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeo_Shingo",
+    "occupation": "Industrial engineer, author",
+    "achievements": [
+      "Developed the concept of 'Single Minute Exchange of Die' (SMED)",
+      "Pioneer in the Toyota Production System and lean manufacturing"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Shigeo Nagashima",
+    "givenNames": [
+      "Shigeo"
+    ],
+    "familyName": "Nagashima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeo_Nagashima",
+    "occupation": "Baseball player, manager",
+    "achievements": [
+      "Considered one of the greatest Japanese baseball players of all time",
+      "Led the Yomiuri Giants to multiple Japan Series titles"
+    ],
+    "yearBorn": 1936
+  }
+]

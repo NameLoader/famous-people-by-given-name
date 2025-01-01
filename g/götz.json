@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Götz George",
+    "givenNames": [
+      "Götz"
+    ],
+    "familyName": "George",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%B6tz_George",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in German films and television series.",
+      "Recipient of the Bavarian Film Award for Best Actor."
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Götz Aly",
+    "givenNames": [
+      "Götz",
+      "Haydar"
+    ],
+    "familyName": "Aly",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%B6tz_Aly",
+    "occupation": "Historian",
+    "achievements": [
+      "Specialist in the history of Nazi Germany and the Holocaust.",
+      "Authored influential books on forced labor and euthanasia during the Nazi regime."
+    ],
+    "yearBorn": 1947
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kip Thorne",
+    "givenNames": [
+      "Kip",
+      "Stephen"
+    ],
+    "familyName": "Thorne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kip_Thorne",
+    "occupation": "Theoretical physicist",
+    "achievements": [
+      "Nobel Prize in Physics (2017)",
+      "Contributions to the theory of black holes and gravitational waves"
+    ],
+    "yearBorn": 1940
+  }
+]

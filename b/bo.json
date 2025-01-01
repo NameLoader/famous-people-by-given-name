@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Bo Burnham",
+    "givenNames": [
+      "Bo",
+      "Robert",
+      "Pickering"
+    ],
+    "familyName": "Burnham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bo_Burnham",
+    "occupation": "Comedian, musician, filmmaker",
+    "achievements": [
+      "Created and starred in several acclaimed comedy specials on Netflix",
+      "Won a Grammy Award for his musical comedy album 'Inside (The Songs)'",
+      "Directed the coming-of-age film 'Eighth Grade'"
+    ],
+    "yearBorn": 1990
+  }
+]

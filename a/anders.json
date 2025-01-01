@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Anders Celsius",
+    "givenNames": [
+      "Anders"
+    ],
+    "familyName": "Celsius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anders_Celsius",
+    "occupation": "Astronomer, Physicist, Mathematician",
+    "achievements": [
+      "Developed the Celsius temperature scale.",
+      "Made significant contributions to astronomy and physics."
+    ],
+    "yearBorn": 1701,
+    "yearDied": 1744
+  },
+  {
+    "fullName": "Anders Behring Breivik",
+    "givenNames": [
+      "Anders",
+      "Behring"
+    ],
+    "familyName": "Breivik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anders_Behring_Breivik",
+    "occupation": "Terrorist",
+    "achievements": [],
+    "yearBorn": 1979
+  },
+  {
+    "fullName": "Anders Zorn",
+    "givenNames": [
+      "Anders",
+      "Leonard"
+    ],
+    "familyName": "Zorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anders_Zorn",
+    "occupation": "Painter, Sculptor",
+    "achievements": [
+      "Known for his expressive portraits and landscapes.",
+      "Considered one of Sweden's most important artists."
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1920
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Hayley Williams",
+    "givenNames": [
+      "Hayley",
+      "Nichole"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayley_Williams",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Lead vocalist of the band Paramore",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Hayley Kiyoko",
+    "givenNames": [
+      "Hayley"
+    ],
+    "familyName": "Kiyoko",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hayley_Kiyoko",
+    "occupation": "Singer, Songwriter, Actress",
+    "achievements": [
+      "Known for LGBTQ+ representation in her music",
+      "MTV Video Music Award nominee"
+    ],
+    "yearBorn": 1991
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Laure Manaudou",
+    "givenNames": [
+      "Laure"
+    ],
+    "familyName": "Manaudou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laure_Manaudou",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Four-time Olympic medalist",
+      "World Champion in multiple swimming events"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Laure Prouvost",
+    "givenNames": [
+      "Laure"
+    ],
+    "familyName": "Prouvost",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laure_Prouvost",
+    "occupation": "Artist",
+    "achievements": [
+      "Winner of the Turner Prize in 2013"
+    ],
+    "yearBorn": 1978
+  }
+]

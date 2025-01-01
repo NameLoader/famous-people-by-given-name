@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Emma Watson",
+    "givenNames": [
+      "Emma",
+      "Charlotte",
+      "Duerre"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Watson",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Known for her role as Hermione Granger in the Harry Potter film series",
+      "Advocate for gender equality and sustainable fashion"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Emma Stone",
+    "givenNames": [
+      "Emily",
+      "Jean",
+      "Emma"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Stone",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for Best Actress for her role in La La Land",
+      "Known for roles in films such as The Amazing Spider-Man, Easy A, and Birdman"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Emma Thompson",
+    "givenNames": [
+      "Emma"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Thompson",
+    "occupation": "Actress, screenwriter",
+    "achievements": [
+      "Academy Award winner for Best Actress for her role in Howards End",
+      "Known for roles in films such as Sense and Sensibility, Love Actually, and Nanny McPhee"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Emma Roberts",
+    "givenNames": [
+      "Emma",
+      "Rose"
+    ],
+    "familyName": "Roberts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Roberts",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films such as We're the Millers, American Horror Story, and Scream Queens"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Emma Bunton",
+    "givenNames": [
+      "Emma",
+      "Lee"
+    ],
+    "familyName": "Bunton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Bunton",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Member of the pop group Spice Girls",
+      "Successful solo music career and television presenter"
+    ],
+    "yearBorn": 1976
+  }
+]

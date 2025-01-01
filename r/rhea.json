@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Rhea Ripley",
+    "givenNames": [
+      "Rhea"
+    ],
+    "familyName": "Ripley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhea_Ripley",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "WWE Women's Tag Team Champion",
+      "NXT Women's Champion"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Rhea Perlman",
+    "givenNames": [
+      "Rhea",
+      "Jo"
+    ],
+    "familyName": "Perlman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhea_Perlman",
+    "occupation": "Actress",
+    "achievements": [
+      "Four-time Emmy Award winner for her role as Carla Tortelli on Cheers"
+    ],
+    "yearBorn": 1947
+  }
+]

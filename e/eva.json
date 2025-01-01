@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Eva Perón",
+    "givenNames": [
+      "Eva"
+    ],
+    "familyName": "Perón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eva_Per%C3%B3n",
+    "occupation": "Political figure, actress",
+    "achievements": [
+      "First Lady of Argentina from 1946 to 1952",
+      "Championed social welfare programs for the poor and working class",
+      "Became a symbol of female empowerment in Latin America"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Eva Green",
+    "givenNames": [
+      "Eva",
+      "Gaëlle"
+    ],
+    "familyName": "Green",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eva_Green",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films such as Casino Royale, The Dreamers, and Penny Dreadful"
+    ],
+    "yearBorn": 1980
+  }
+]

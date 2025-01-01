@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Ingmar Bergman",
+    "givenNames": [
+      "Ingmar",
+      "Ernst"
+    ],
+    "familyName": "Bergman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingmar_Bergman",
+    "occupation": "Film director, screenwriter, and playwright",
+    "achievements": [
+      "Considered one of the most important and influential filmmakers of all time.",
+      "Directed acclaimed films such as The Seventh Seal, Persona, and Wild Strawberries.",
+      "Won numerous awards including three Academy Awards and five Golden Globe Awards."
+    ],
+    "yearBorn": 1918,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Ingmar Johansson",
+    "givenNames": [
+      "Jens",
+      "Ingemar"
+    ],
+    "familyName": "Johansson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ingemar_Johansson",
+    "occupation": "Swedish boxer",
+    "achievements": [
+      "World heavyweight boxing champion from 1958 to 1960.",
+      "Known for his powerful punches and aggressive fighting style."
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2009
+  }
+]

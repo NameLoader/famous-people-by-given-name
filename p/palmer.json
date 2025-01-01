@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Palmer Hayden",
+    "givenNames": [
+      "Palmer",
+      "C"
+    ],
+    "familyName": "Hayden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palmer_Hayden",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his depictions of African American life and culture",
+      "His work is held in collections like the Metropolitan Museum of Art and the Smithsonian American Art Museum"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1973
+  },
+  {
+    "fullName": "Palmer Luckey",
+    "givenNames": [
+      "Palmer",
+      "Freeman"
+    ],
+    "familyName": "Luckey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Palmer_Luckey",
+    "occupation": "Entrepreneur, Engineer",
+    "achievements": [
+      "Founder of Oculus VR, acquired by Facebook in 2014 for $2 billion",
+      "Pioneer in virtual reality technology and its consumer adoption"
+    ],
+    "yearBorn": 1992
+  }
+]

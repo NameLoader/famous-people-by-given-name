@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Ella Fitzgerald",
+    "givenNames": [
+      "Ella",
+      "Jane"
+    ],
+    "familyName": "Fitzgerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald",
+    "occupation": "Jazz singer",
+    "achievements": [
+      "Considered one of the greatest jazz vocalists of all time",
+      "Won 13 Grammy Awards"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Ella Balinska",
+    "givenNames": [
+      "Ella"
+    ],
+    "familyName": "Balinska",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Balinska",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Charlie's Angels'"
+    ],
+    "yearBorn": 1996
+  }
+]

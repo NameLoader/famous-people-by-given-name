@@ -1,0 +1,46 @@
+[
+  {
+    "fullName": "Jodi Ann Kantor",
+    "givenNames": [
+      "Jodi",
+      "Ann"
+    ],
+    "familyName": "Kantor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jodi_Kantor",
+    "occupation": "Journalist",
+    "achievements": [
+      "Pulitzer Prize winner for her work on the New York Times reporting team that exposed widespread sexual harassment in Hollywood.",
+      "Author of several books, including 'The Yellow House' and 'We Are All Completely Beside Ourselves'."
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Jodi Lynn Picoult",
+    "givenNames": [
+      "Jodi",
+      "Lynn"
+    ],
+    "familyName": "Picoult",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jodi_Picoult",
+    "occupation": "Novelist",
+    "achievements": [
+      "Bestselling author known for her novels exploring complex ethical and social issues.",
+      "Published over 25 novels, many of which have been adapted into films and television shows."
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Jodi Benson",
+    "givenNames": [
+      "Jodi"
+    ],
+    "familyName": "Benson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jodi_Benson",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Voice of Ariel in Disney's animated film 'The Little Mermaid'.",
+      "Broadway actress with roles in productions such as 'Crazy for You' and 'The Pirates of Penzance'."
+    ],
+    "yearBorn": 1962
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Ferdinand Magellan",
+    "givenNames": [
+      "Ferdinand"
+    ],
+    "familyName": "Magellan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+    "occupation": "Explorer",
+    "achievements": [
+      "First circumnavigation of the globe (although he died during the voyage)",
+      "Discovery of the Strait of Magellan"
+    ],
+    "yearBorn": 1480,
+    "yearDied": 1521
+  },
+  {
+    "fullName": "Ferdinand Porsche",
+    "givenNames": [
+      "Ferdinand"
+    ],
+    "familyName": "Porsche",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "occupation": "Automotive engineer",
+    "achievements": [
+      "Founded the Porsche company",
+      "Designed iconic cars like the Volkswagen Beetle and Porsche 356"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "Ferdinand de Lesseps",
+    "givenNames": [
+      "Ferdinand",
+      "Marie"
+    ],
+    "familyName": "de Lesseps",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps",
+    "occupation": "Diplomat, entrepreneur",
+    "achievements": [
+      "Oversaw the construction of the Suez Canal"
+    ],
+    "yearBorn": 1805,
+    "yearDied": 1894
+  },
+  {
+    "fullName": "Ferdinand Marcos",
+    "givenNames": [
+      "Ferdinand",
+      "Emmanuel",
+      "Edralin"
+    ],
+    "familyName": "Marcos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_Marcos",
+    "occupation": "Politician",
+    "achievements": [
+      "President of the Philippines from 1965 to 1986",
+      "Known for both his authoritarian rule and infrastructure development"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 1989
+  }
+]

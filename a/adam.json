@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Adam Sandler",
+    "givenNames": [
+      "Adam",
+      "Richard"
+    ],
+    "familyName": "Sandler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Sandler",
+    "occupation": "Actor, comedian, filmmaker",
+    "achievements": [
+      "Starred in numerous successful comedy films",
+      "Won multiple MTV Movie Awards and Teen Choice Awards"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Adam Driver",
+    "givenNames": [
+      "Adam",
+      "Douglas"
+    ],
+    "familyName": "Driver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for Academy Award for Best Actor",
+      "Known for roles in 'Star Wars' franchise and 'Marriage Story'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Adam Rippon",
+    "givenNames": [
+      "Adam",
+      "Richard"
+    ],
+    "familyName": "Rippon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Rippon",
+    "occupation": "Figure skater",
+    "achievements": [
+      "Olympic bronze medalist in figure skating",
+      "First openly gay American athlete to win a medal at the Winter Olympics"
+    ],
+    "yearBorn": 1989
+  }
+]

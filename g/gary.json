@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Gary Oldman",
+    "givenNames": [
+      "Gary",
+      "Leonard"
+    ],
+    "familyName": "Oldman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Oldman",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Known for roles in films like 'Darkest Hour', 'The Harry Potter series'",
+      "'Tinker Tailor Soldier Spy'"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Gary Lineker",
+    "givenNames": [
+      "Gary",
+      "Winston"
+    ],
+    "familyName": "Lineker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Lineker",
+    "occupation": "Footballer, Sports Presenter",
+    "achievements": [
+      "England international footballer",
+      "Won the Golden Boot at the 1986 World Cup"
+    ],
+    "yearBorn": 1960
+  }
+]

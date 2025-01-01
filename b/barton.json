@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Barton Fink",
+    "givenNames": [
+      "Barton"
+    ],
+    "familyName": "Fink",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barton_Fink",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Subject of the Coen brothers' dark comedy film Barton Fink (1991)"
+    ]
+  },
+  {
+    "fullName": "Barton Gellman",
+    "givenNames": [
+      "Barton",
+      "David"
+    ],
+    "familyName": "Gellman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barton_Gellman",
+    "occupation": "Journalist",
+    "achievements": [
+      "Pulitzer Prize winner for his reporting on the National Security Agency's surveillance programs",
+      "Author of several books on national security and intelligence"
+    ],
+    "yearBorn": 1960
+  }
+]

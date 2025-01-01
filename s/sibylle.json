@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Sibylle Bergemann",
+    "givenNames": [
+      "Sibylle"
+    ],
+    "familyName": "Bergemann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sibylle_Bergemann",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for her documentary photography of Germany in the postwar era.",
+      "Her work has been exhibited internationally and is held in major museum collections."
+    ],
+    "yearBorn": 1941
+  },
+  {
+    "fullName": "Sibylle Baier",
+    "givenNames": [
+      "Sibylle"
+    ],
+    "familyName": "Baier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sibylle_Baier",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Known for her self-recorded and released album 'Colour Green' in 1970.",
+      "Her music gained cult status and renewed interest in the 2000s."
+    ],
+    "yearBorn": 1945
+  }
+]

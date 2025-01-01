@@ -1,0 +1,62 @@
+[
+  {
+    "fullName": "Floyd Mayweather Jr.",
+    "givenNames": [
+      "Floyd",
+      "Joy",
+      "Jr."
+    ],
+    "familyName": "Mayweather",
+    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "Undefeated professional boxing record",
+      "Multiple world championships in five weight classes"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Floyd Landis",
+    "givenNames": [
+      "Floyd"
+    ],
+    "familyName": "Landis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Landis",
+    "occupation": "Former professional cyclist",
+    "achievements": [
+      "Winner of the 2006 Tour de France (later stripped due to doping)",
+      "Stage race victories including the Tour of California and Critérium du Dauphiné"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Floyd Patterson",
+    "givenNames": [
+      "Floyd"
+    ],
+    "familyName": "Patterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Patterson",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "First boxer to regain the World Heavyweight title",
+      "Olympic gold medalist (1952)"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Floyd Gottfredson",
+    "givenNames": [
+      "Floyd"
+    ],
+    "familyName": "Gottfredson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Gottfredson",
+    "occupation": "Comic strip artist",
+    "achievements": [
+      "Known for his work on the Mickey Mouse comic strip",
+      "Created many iconic Mickey Mouse characters and storylines"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1986
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Rodger Waters",
+    "givenNames": [
+      "George",
+      "Roger"
+    ],
+    "familyName": "Waters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Waters",
+    "occupation": "Musician, Singer-Songwriter",
+    "achievements": [
+      "Founding member of Pink Floyd",
+      "Successful solo career"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Rodger Federer",
+    "givenNames": [
+      "Roger"
+    ],
+    "familyName": "Federer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Federer",
+    "occupation": "Professional Tennis Player",
+    "achievements": [
+      "20 Grand Slam singles titles",
+      "Former World No. 1"
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Ezekiel Elliott",
+    "givenNames": [
+      "Ezekiel",
+      "Elijah"
+    ],
+    "familyName": "Elliott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezekiel_Elliott",
+    "occupation": "American football player",
+    "achievements": [
+      "3× Pro Bowl selection",
+      "2016 NFL Offensive Rookie of the Year",
+      "NFL rushing champion (2016)"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Ezekiel Ansah",
+    "givenNames": [
+      "Ezekiel",
+      "Nana"
+    ],
+    "familyName": "Ansah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezekiel_Ansah",
+    "occupation": "American football player",
+    "achievements": [
+      "2× Pro Bowl selection",
+      "First-round draft pick (2013)"
+    ],
+    "yearBorn": 1989
+  }
+]

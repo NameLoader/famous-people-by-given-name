@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Caroline Herschel",
+    "givenNames": [
+      "Caroline",
+      "Lucretia"
+    ],
+    "familyName": "Herschel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Herschel",
+    "occupation": "Astronomer",
+    "achievements": [
+      "Discovered eight comets",
+      "Catalogued over 2,500 nebulae and star clusters"
+    ],
+    "yearBorn": 1750,
+    "yearDied": 1848
+  },
+  {
+    "fullName": "Caroline Kennedy",
+    "givenNames": [
+      "Caroline",
+      "Bouvier"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Kennedy",
+    "occupation": "Diplomat, author, lawyer",
+    "achievements": [
+      "Served as U.S. Ambassador to Japan (2013-2017)",
+      "Authored several books on history and law"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Caroline Wozniacki",
+    "givenNames": [
+      "Caroline"
+    ],
+    "familyName": "Wozniacki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Wozniacki",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Former World No. 1",
+      "Won the 2018 Australian Open"
+    ],
+    "yearBorn": 1990
+  }
+]

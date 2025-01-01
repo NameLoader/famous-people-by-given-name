@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Karin Slaughter",
+    "givenNames": [
+      "Karin"
+    ],
+    "familyName": "Slaughter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karin_Slaughter",
+    "occupation": "Author",
+    "achievements": [
+      "New York Times bestselling author",
+      "Known for her crime fiction novels"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Karin Krog",
+    "givenNames": [
+      "Karin"
+    ],
+    "familyName": "Krog",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karin_Krog",
+    "occupation": "Jazz vocalist",
+    "achievements": [
+      "Acclaimed Norwegian jazz singer",
+      "Known for her improvisational skills and unique vocal style"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Karin Dreijer",
+    "givenNames": [
+      "Karin",
+      "Elisabeth"
+    ],
+    "familyName": "Dreijer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karin_Dreijer",
+    "occupation": "Electronic musician, singer-songwriter",
+    "achievements": [
+      "Member of the electronic music duo The Knife",
+      "Known for their experimental and avant-garde sound"
+    ],
+    "yearBorn": 1975
+  }
+]

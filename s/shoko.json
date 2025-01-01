@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Shoko Asahara",
+    "givenNames": [
+      "Shoko"
+    ],
+    "familyName": "Asahara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shoko_Asahara",
+    "occupation": "Cult leader",
+    "achievements": [
+      "Founded the Aum Shinrikyo cult",
+      "Masterminded the sarin gas attack on the Tokyo subway in 1995"
+    ],
+    "yearBorn": 1955,
+    "yearDied": 2018
+  }
+]

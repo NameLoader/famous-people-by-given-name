@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Stephan Hawking",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Hawking",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "occupation": "Physicist, Cosmologist",
+    "achievements": [
+      "Breakthroughs in understanding black holes and the universe",
+      "Author of 'A Brief History of Time'",
+      "Popularized science for a wide audience"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
+  }
+]

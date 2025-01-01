@@ -1,0 +1,43 @@
+[
+  {
+    "fullName": "Spencer Tracy",
+    "givenNames": [
+      "Spencer",
+      "Bonaventure"
+    ],
+    "familyName": "Tracy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Tracy",
+    "occupation": "Actor",
+    "achievements": [
+      "Two-time Academy Award winner",
+      "Star of numerous classic films"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Spencer Chamberlain",
+    "givenNames": [
+      "Spencer"
+    ],
+    "familyName": "Chamberlain",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Chamberlain",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead vocalist of the band Underoath"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Spencer Reid",
+    "givenNames": [
+      "Spencer"
+    ],
+    "familyName": "Reid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Reid",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Genius-level intellect on the television show Criminal Minds"
+    ]
+  }
+]

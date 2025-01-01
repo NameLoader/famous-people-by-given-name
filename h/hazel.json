@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Hazel Grace Lancaster",
+    "givenNames": [
+      "Hazel",
+      "Grace"
+    ],
+    "familyName": "Lancaster",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the novel 'The Fault in Our Stars' by John Green"
+    ]
+  },
+  {
+    "fullName": "Hazel McCallion",
+    "givenNames": [
+      "Hazel",
+      "Mary",
+      "Muriel"
+    ],
+    "familyName": "McCallion",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazel_McCallion",
+    "occupation": "Politician",
+    "achievements": [
+      "Longest-serving mayor in Canadian history (Mississauga)",
+      "Officer of the Order of Canada"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2023
+  },
+  {
+    "fullName": "Hazel Henderson",
+    "givenNames": [
+      "Jean",
+      "Hazel"
+    ],
+    "familyName": "Henderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazel_Henderson",
+    "occupation": "Author, futurist, and environmental activist",
+    "achievements": [
+      "Pioneer in the field of sustainable development",
+      "Authored books like 'Creating Alternative Futures' and 'Ethical Markets'"
+    ],
+    "yearBorn": 1933
+  }
+]

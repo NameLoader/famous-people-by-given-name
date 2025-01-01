@@ -1,0 +1,15 @@
+[
+  {
+    "fullName": "Atticus Finch",
+    "givenNames": [
+      "Atticus"
+    ],
+    "familyName": "Finch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Atticus_Finch",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Harper Lee's novel 'To Kill a Mockingbird'",
+      "Symbol of justice and integrity"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Fisher Stevens",
+    "givenNames": [
+      "Fisher"
+    ],
+    "familyName": "Stevens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fisher_Stevens",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Academy Award for Best Documentary Feature for 'The Cove'",
+      "Emmy Award for Outstanding Documentary Filmmaking for 'Before the Flood'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Fisher Ames",
+    "givenNames": [
+      "Fisher"
+    ],
+    "familyName": "Ames",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fisher_Ames",
+    "occupation": "Politician",
+    "achievements": [
+      "United States Representative from Massachusetts",
+      "Authored the Alien and Sedition Acts"
+    ],
+    "yearBorn": 1758,
+    "yearDied": 1808
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Malik Beasley",
+    "givenNames": [
+      "Malik",
+      "JonMikal"
+    ],
+    "familyName": "Beasley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malik_Beasley",
+    "occupation": "American basketball player",
+    "achievements": [
+      "NBA player"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Malik Monk",
+    "givenNames": [
+      "Malik",
+      "Ahmad"
+    ],
+    "familyName": "Monk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malik_Monk",
+    "occupation": "American basketball player",
+    "achievements": [
+      "NBA player"
+    ],
+    "yearBorn": 1998
+  }
+]

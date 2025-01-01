@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Willie Mays",
+    "givenNames": [
+      "Willie",
+      "Howard"
+    ],
+    "familyName": "Mays",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Mays",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "24-time All-Star",
+      "Two-time National League Most Valuable Player",
+      "12-time Gold Glove Award winner"
+    ],
+    "yearBorn": 1931
+  },
+  {
+    "fullName": "Willie Nelson",
+    "givenNames": [
+      "Willie",
+      "Hugh"
+    ],
+    "familyName": "Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Nelson",
+    "occupation": "Singer-songwriter, musician, author",
+    "achievements": [
+      "Won 10 Grammy Awards",
+      "Inducted into the Country Music Hall of Fame",
+      "Known for his distinctive singing voice and guitar playing style"
+    ],
+    "yearBorn": 1933
+  },
+  {
+    "fullName": "Willie Sutton",
+    "givenNames": [
+      "William",
+      "Francis"
+    ],
+    "familyName": "Sutton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willie_Sutton",
+    "occupation": "Bank robber",
+    "achievements": [
+      "Known for his numerous bank robberies in the United States during the early to mid-20th century"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1980
+  }
+]

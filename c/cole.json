@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Cole Sprouse",
+    "givenNames": [
+      "Cole",
+      "Mitchell"
+    ],
+    "familyName": "Sprouse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cole_Sprouse",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in Disney Channel's 'The Suite Life of Zack & Cody' and its spin-off 'The Suite Life on Deck'",
+      "Starred in the CW series 'Riverdale'"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Cole Porter",
+    "givenNames": [
+      "Cole",
+      "Albert"
+    ],
+    "familyName": "Porter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cole_Porter",
+    "occupation": "Composer and Songwriter",
+    "achievements": [
+      "Wrote iconic songs like 'Night and Day', 'Anything Goes', and 'I Get a Kick Out of You'",
+      "Considered one of the greatest American songwriters of the 20th century"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1964
+  }
+]

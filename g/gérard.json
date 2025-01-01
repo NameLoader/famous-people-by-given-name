@@ -1,0 +1,64 @@
+[
+  {
+    "fullName": "Gérard Depardieu",
+    "givenNames": [
+      "Gérard",
+      "Xavier",
+      "Marcel"
+    ],
+    "familyName": "Depardieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Depardieu",
+    "occupation": "Actor",
+    "achievements": [
+      "César Award winner (Best Actor)",
+      "Internationally acclaimed film star"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Gérard Houllier",
+    "givenNames": [
+      "Gérard",
+      "Paul",
+      "Francis"
+    ],
+    "familyName": "Houllier",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Houllier",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Won the UEFA Cup, FA Cup and League Cup with Liverpool FC",
+      "Managed the French national team"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Gérard Philipe",
+    "givenNames": [
+      "Gérard"
+    ],
+    "familyName": "Philipe",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Philipe",
+    "occupation": "Actor",
+    "achievements": [
+      "One of the most celebrated French actors of his generation",
+      "Known for roles in films like 'Les Mains sales' and 'Le Diable au corps'"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1959
+  },
+  {
+    "fullName": "Gérard Lenorman",
+    "givenNames": [
+      "Gérard"
+    ],
+    "familyName": "Lenorman",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Lenorman",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Popular French singer with hits like 'La Mandragore'",
+      "Known for his romantic ballads and distinctive voice"
+    ],
+    "yearBorn": 1945
+  }
+]

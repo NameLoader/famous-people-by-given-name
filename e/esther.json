@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Esther Forbes",
+    "givenNames": [
+      "Esther",
+      "Louise"
+    ],
+    "familyName": "Forbes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Forbes",
+    "occupation": "Author",
+    "achievements": [
+      "Pulitzer Prize for Biography",
+      "Known for historical novels and biographies"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Esther Dyson",
+    "givenNames": [
+      "Esther"
+    ],
+    "familyName": "Dyson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Dyson",
+    "occupation": "Technology investor, writer, and commentator",
+    "achievements": [
+      "Pioneer in the field of digital technology",
+      "Advocate for open access to information"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Esther Perel",
+    "givenNames": [
+      "Esther"
+    ],
+    "familyName": "Perel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Perel",
+    "occupation": "Psychotherapist and author",
+    "achievements": [
+      "Internationally recognized expert on relationships and sexuality",
+      "Author of bestselling books such as 'Mating in Captivity' and 'The State of Affairs'"
+    ]
+  }
+]

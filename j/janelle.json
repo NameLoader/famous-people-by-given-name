@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Janelle Monáe",
+    "givenNames": [
+      "Janelle",
+      "Monáe"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Grammy Award nominations",
+      "Acclaimed albums including 'The ArchAndroid' and 'Dirty Computer'",
+      "Roles in films like 'Hidden Figures' and 'Moonlight'"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Janelle Pierzina",
+    "givenNames": [
+      "Janelle",
+      "Marie"
+    ],
+    "familyName": "Pierzina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janelle_Pierzina",
+    "occupation": "Reality television personality",
+    "achievements": [
+      "Appeared on multiple seasons of 'Big Brother'",
+      "Known for her strategic gameplay and strong social connections"
+    ],
+    "yearBorn": 1980
+  }
+]

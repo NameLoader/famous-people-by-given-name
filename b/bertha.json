@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Bertha von Suttner",
+    "givenNames": [
+      "Bertha",
+      "Sophie",
+      "Felicitas"
+    ],
+    "familyName": "von Suttner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertha_von_Suttner",
+    "occupation": "Novelist, Pacifist",
+    "achievements": [
+      "Nobel Peace Prize laureate (1905)",
+      "Author of the anti-war novel 'Lay Down Your Arms'"
+    ],
+    "yearBorn": 1843,
+    "yearDied": 1914
+  },
+  {
+    "fullName": "Bertha Mason",
+    "givenNames": [
+      "Bertha",
+      "Antoinetta"
+    ],
+    "familyName": "Mason",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bertha_Mason",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "The 'madwoman in the attic' from Charlotte Brontë's novel 'Jane Eyre'"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Rosanna Arquette",
+    "givenNames": [
+      "Rosanna",
+      "Lisa"
+    ],
+    "familyName": "Arquette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosanna_Arquette",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for a Golden Globe Award for her role in Desperately Seeking Susan (1985)",
+      "Appeared in numerous films including Pulp Fiction, The Executioner's Song, and Crash Course"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Rosanna Davison",
+    "givenNames": [
+      "Rosanna",
+      "Diane"
+    ],
+    "familyName": "Davison",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosanna_Davison",
+    "occupation": "Model, singer, actress",
+    "achievements": [
+      "Miss World 2003",
+      "Released a successful pop album in Ireland"
+    ],
+    "yearBorn": 1984
+  }
+]

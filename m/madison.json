@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Madison Cawthorn",
+    "givenNames": [
+      "Madison",
+      "David"
+    ],
+    "familyName": "Cawthorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Cawthorn",
+    "occupation": "Politician",
+    "achievements": [
+      "Represented North Carolina's 11th congressional district from 2021 to 2023"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Madison Beer",
+    "givenNames": [
+      "Madison",
+      "Elle"
+    ],
+    "familyName": "Beer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Beer",
+    "occupation": "Singer, Songwriter, Model",
+    "achievements": [
+      "Gained initial fame through Justin Bieber's discovery on YouTube",
+      "Released successful singles and albums"
+    ],
+    "yearBorn": 1999
+  }
+]

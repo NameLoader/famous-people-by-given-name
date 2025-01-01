@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Hubert Humphrey",
+    "givenNames": [
+      "Hubert",
+      "Horatio"
+    ],
+    "familyName": "Humphrey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hubert_Humphrey",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the 38th Vice President of the United States (1965-1969)",
+      "Longtime U.S. Senator from Minnesota",
+      "Championed civil rights and social welfare programs"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1978
+  },
+  {
+    "fullName": "Hubert Reeves",
+    "givenNames": [
+      "Hubert"
+    ],
+    "familyName": "Reeves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hubert_Reeves",
+    "occupation": "Astrophysicist, Author",
+    "achievements": [
+      "Pioneer in the field of astrophysics and cosmology",
+      "Popularized science through his writing and public speaking"
+    ],
+    "yearBorn": 1932
+  }
+]

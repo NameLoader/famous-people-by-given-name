@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Reinhard Selten",
+    "givenNames": [
+      "Reinhard",
+      "Justus",
+      "Reginald"
+    ],
+    "familyName": "Selten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Selten",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (1994)",
+      "Known for contributions to game theory"
+    ],
+    "yearBorn": 1930
+  },
+  {
+    "fullName": "Reinhard Heydrich",
+    "givenNames": [
+      "Reinhard",
+      "Tristan",
+      "Eugen"
+    ],
+    "familyName": "Heydrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Heydrich",
+    "occupation": "Nazi official",
+    "achievements": [
+      "Head of the Reich Main Security Office (RSHA)",
+      "Key architect of the Holocaust"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1942
+  },
+  {
+    "fullName": "Reinhard Bonnke",
+    "givenNames": [
+      "Reinhard"
+    ],
+    "familyName": "Bonnke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Bonnke",
+    "occupation": "Evangelist",
+    "achievements": [
+      "Known for large-scale evangelistic crusades in Africa"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 2019
+  }
+]

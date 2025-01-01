@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Brooks Robinson",
+    "givenNames": [
+      "Brooks",
+      "Calbert"
+    ],
+    "familyName": "Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooks_Robinson",
+    "occupation": "Baseball player",
+    "achievements": [
+      "18-time MLB All-Star",
+      "16-time Gold Glove Award winner",
+      "World Series champion (1966, 1970)"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Brooks Koepka",
+    "givenNames": [
+      "Brooks"
+    ],
+    "familyName": "Koepka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooks_Koepka",
+    "occupation": "Golfer",
+    "achievements": [
+      "4-time major champion (2 US Opens, 2 PGA Championships)",
+      "World Golf Rankings number one"
+    ],
+    "yearBorn": 1990
+  }
+]

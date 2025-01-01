@@ -1,0 +1,77 @@
+[
+  {
+    "fullName": "Glenn Gould",
+    "givenNames": [
+      "Glenn",
+      "Herbert"
+    ],
+    "familyName": "Gould",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Gould",
+    "occupation": "Pianist, Composer, Conductor",
+    "achievements": [
+      "Acclaimed for his innovative interpretations of Bach's music",
+      "Known for his eccentricities and perfectionism"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Glenn Close",
+    "givenNames": [
+      "Glenn"
+    ],
+    "familyName": "Close",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Close",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for eight Academy Awards and won three Tony Awards and three Emmy Awards.",
+      "Known for roles in films like 'Fatal Attraction', 'Dangerous Liaisons' and 'Albert Nobbs'"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Glenn Frey",
+    "givenNames": [
+      "Glenn",
+      "Lewis"
+    ],
+    "familyName": "Frey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Frey",
+    "occupation": "Musician, Songwriter",
+    "achievements": [
+      "Co-founded the Eagles, one of the best-selling music groups of all time.",
+      "Wrote and performed iconic hits like 'Hotel California' and 'Take It Easy'"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Glenn McGrath",
+    "givenNames": [
+      "Glenn",
+      "Donald"
+    ],
+    "familyName": "McGrath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_McGrath",
+    "occupation": "Cricketer",
+    "achievements": [
+      "One of the greatest fast bowlers in cricket history.",
+      "Took over 560 Test wickets for Australia"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Glenn Hoddle",
+    "givenNames": [
+      "Glenn"
+    ],
+    "familyName": "Hoddle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Hoddle",
+    "occupation": "Footballer, Manager",
+    "achievements": [
+      "Star midfielder for Tottenham Hotspur and England national team.",
+      "Managed several English clubs including Chelsea and Tottenham"
+    ],
+    "yearBorn": 1957
+  }
+]

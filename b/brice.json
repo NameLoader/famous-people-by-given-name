@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Brice Marden",
+    "givenNames": [
+      "Brice",
+      "Nicholas"
+    ],
+    "familyName": "Marden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brice_Marden",
+    "occupation": "Artist",
+    "achievements": [
+      "Abstract Expressionist painter known for his minimalist and geometric style.",
+      "Works are in major museum collections worldwide."
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Brice Johnson",
+    "givenNames": [
+      "Brice"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brice_Johnson",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Played college basketball for the University of North Carolina.",
+      "Selected in the second round of the 2016 NBA draft by the Los Angeles Clippers."
+    ],
+    "yearBorn": 1994
+  }
+]

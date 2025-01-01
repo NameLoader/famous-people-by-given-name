@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Marissa Mayer",
+    "givenNames": [
+      "Marissa",
+      "Ann"
+    ],
+    "familyName": "Mayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marissa_Mayer",
+    "occupation": "Computer scientist, businesswoman",
+    "achievements": [
+      "Former President and CEO of Yahoo!",
+      "Vice President of Product Management at Google"
+    ],
+    "yearBorn": 1975
+  }
+]

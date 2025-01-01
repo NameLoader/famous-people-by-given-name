@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Natalie Portman",
+    "givenNames": [
+      "Natalie"
+    ],
+    "familyName": "Portman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Portman",
+    "occupation": "Actress, Director, Producer",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Golden Globe Award for Best Actress – Motion Picture Drama",
+      "Known for roles in films like Black Swan, V for Vendetta, and Star Wars: Episode I – The Phantom Menace"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Natalie Merchant",
+    "givenNames": [
+      "Natalie",
+      "Anne"
+    ],
+    "familyName": "Merchant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Merchant",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Former lead singer of the band 10,000 Maniacs",
+      "Successful solo career with albums like 'Tigerlily' and 'Ophelia'",
+      "Known for her distinctive voice and socially conscious lyrics"
+    ],
+    "yearBorn": 1963
+  }
+]

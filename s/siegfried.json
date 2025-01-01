@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Siegfried Sassoon",
+    "givenNames": [
+      "Siegfried",
+      "Loraine"
+    ],
+    "familyName": "Sassoon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siegfried_Sassoon",
+    "occupation": "Poet, soldier",
+    "achievements": [
+      "Wrote about the horrors of World War I",
+      "Became a vocal critic of the war effort"
+    ],
+    "yearBorn": 1886,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Siegfried Wagner",
+    "givenNames": [
+      "Siegfried"
+    ],
+    "familyName": "Wagner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siegfried_Wagner",
+    "occupation": "Composer, conductor",
+    "achievements": [
+      "Son of composer Richard Wagner",
+      "Completed his father's opera 'Parsifal'"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Siegfried Lenz",
+    "givenNames": [
+      "Siegfried"
+    ],
+    "familyName": "Lenz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Siegfried_Lenz",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "Recipient of the prestigious Georg Büchner Prize",
+      "Known for his novels exploring social and political themes"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2014
+  }
+]

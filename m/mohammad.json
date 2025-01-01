@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Mohammad Reza Pahlavi",
+    "givenNames": [
+      "Mohammad",
+      "Reza"
+    ],
+    "familyName": "Pahlavi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
+    "occupation": "Shah of Iran",
+    "achievements": [
+      "Last Shah of Iran before the Iranian Revolution",
+      "Implemented modernization and industrialization programs"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Mohammad Ali Jinnah",
+    "givenNames": [
+      "Muhammad",
+      "Ali"
+    ],
+    "familyName": "Jinnah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
+    "occupation": "Founder of Pakistan",
+    "achievements": [
+      "Led the Pakistan Movement for independence from British India",
+      "First Governor-General of Pakistan"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1948
+  },
+  {
+    "fullName": "Mohammad Mossadegh",
+    "givenNames": [
+      "Mohammad"
+    ],
+    "familyName": "Mossadegh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Mosaddegh",
+    "occupation": "Prime Minister of Iran",
+    "achievements": [
+      "Nationalized the Iranian oil industry",
+      "Popular figure in Iranian history"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1967
+  }
+]

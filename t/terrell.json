@@ -1,0 +1,55 @@
+[
+  {
+    "fullName": "Terrell Owens",
+    "givenNames": [
+      "Terrell",
+      "Eldorado"
+    ],
+    "familyName": "Owens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrell_Owens",
+    "occupation": "American Football Player",
+    "achievements": [
+      "6× Pro Bowl selection",
+      "5× First-team All-Pro selection",
+      "NFL receiving yards leader (2001)",
+      "NFL receptions leader (2001)"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Terrell Davis",
+    "givenNames": [
+      "Terrell",
+      "Lamar"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrell_Davis",
+    "occupation": "American Football Player",
+    "achievements": [
+      "3× Pro Bowl selection",
+      "3× First-team All-Pro selection",
+      "Super Bowl XXXII MVP",
+      "NFL rushing yards leader (1998)",
+      "Inducted into the Pro Football Hall of Fame (2017)"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Terrell Suggs",
+    "givenNames": [
+      "Terrell",
+      "Raymonn"
+    ],
+    "familyName": "Suggs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terrell_Suggs",
+    "occupation": "American Football Player",
+    "achievements": [
+      "7× Pro Bowl selection",
+      "3× First-team All-Pro selection",
+      "Super Bowl XLVII champion",
+      "NFL Defensive Rookie of the Year (2003)",
+      "NFL sacks leader (2011)"
+    ],
+    "yearBorn": 1982
+  }
+]

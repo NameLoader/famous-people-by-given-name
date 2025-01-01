@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Chaim Weizmann",
+    "givenNames": [
+      "Chaim",
+      "Azriel"
+    ],
+    "familyName": "Weizmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaim_Weizmann",
+    "occupation": "Scientist, Zionist leader, and first President of Israel",
+    "achievements": [
+      "Developed the acetone-butanol fermentation process during World War I.",
+      "Played a key role in the establishment of the State of Israel."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Chaim Soutine",
+    "givenNames": [
+      "Chaïm"
+    ],
+    "familyName": "Soutine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cha%C3%AFm_Soutine",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his expressive and emotional paintings.",
+      "Influenced the development of Expressionism."
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1943
+  },
+  {
+    "fullName": "Chaim Potok",
+    "givenNames": [
+      "Chaim"
+    ],
+    "familyName": "Potok",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaim_Potok",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote novels exploring themes of Jewish identity and faith.",
+      "Known for his books 'The Chosen' and 'The Promise'."
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2002
+  }
+]

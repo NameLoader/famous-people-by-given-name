@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Joanne Rowling",
+    "givenNames": [
+      "Joanne"
+    ],
+    "familyName": "Rowling",
+    "wikipedia": "https://en.wikipedia.org/wiki/J._K._Rowling",
+    "occupation": "Author",
+    "achievements": [
+      "Creator of the Harry Potter book series",
+      "Best-selling novelist of all time"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Joanne Woodward",
+    "givenNames": [
+      "Joanne"
+    ],
+    "familyName": "Woodward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joanne_Woodward",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (1957)",
+      "Known for roles in films like 'The Three Faces of Eve'"
+    ],
+    "yearBorn": 1930
+  }
+]

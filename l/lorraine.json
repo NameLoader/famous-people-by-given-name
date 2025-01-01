@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Lorraine Bracco",
+    "givenNames": [
+      "Lorraine"
+    ],
+    "familyName": "Bracco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorraine_Bracco",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Supporting Actress for her role in Goodfellas (1990)",
+      "Emmy Award nomination for Outstanding Lead Actress in a Drama Series for her role in The Sopranos (1999-2007)"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Lorraine Kelly",
+    "givenNames": [
+      "Lorraine"
+    ],
+    "familyName": "Kelly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorraine_Kelly",
+    "occupation": "Television presenter",
+    "achievements": [
+      "Long-standing host of breakfast television shows in the UK, including GMTV and Lorraine."
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Lorraine Hansberry",
+    "givenNames": [
+      "Lorraine",
+      "Vivian"
+    ],
+    "familyName": "Hansberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorraine_Hansberry",
+    "occupation": "Playwright and author",
+    "achievements": [
+      "First African-American female playwright to have a play performed on Broadway (A Raisin in the Sun, 1959)",
+      "Received the New York Drama Critics' Circle Award for Best Play for A Raisin in the Sun"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1965
+  }
+]

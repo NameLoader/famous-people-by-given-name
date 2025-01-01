@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Jeri Ellsworth",
+    "givenNames": [
+      "Jeri",
+      "Janet"
+    ],
+    "familyName": "Ellsworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeri_Ellsworth",
+    "occupation": "Engineer, entrepreneur",
+    "achievements": [
+      "Developed the Commodore VIC-20 emulator Vice",
+      "Co-founded the chip design company Technical Innovations",
+      "Featured on the reality television series 'Spark' and 'The Pitch'",
+      "Known for her work in open-source hardware and software"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Jeri Ryan",
+    "givenNames": [
+      "Jeri",
+      "Lynn"
+    ],
+    "familyName": "Ryan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeri_Ryan",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Seven of Nine in 'Star Trek: Voyager'",
+      "Appeared in numerous other television series and films including 'The O.C.' and 'Body Shots'"
+    ],
+    "yearBorn": 1968
+  }
+]

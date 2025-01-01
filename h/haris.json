@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Haris Seferovic",
+    "givenNames": [
+      "Haris"
+    ],
+    "familyName": "Seferovic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haris_Seferovic",
+    "occupation": "Footballer",
+    "achievements": [
+      "Swiss national team striker",
+      "Played for Benfica"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Haris Rauf",
+    "givenNames": [
+      "Haris"
+    ],
+    "familyName": "Rauf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haris_Rauf",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Pakistan national cricket team fast bowler"
+    ],
+    "yearBorn": 1993
+  }
+]

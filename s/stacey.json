@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Stacey Abrams",
+    "givenNames": [
+      "Stacey",
+      "Yvonne"
+    ],
+    "familyName": "Abrams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacey_Abrams",
+    "occupation": "Politician, Lawyer, Author",
+    "achievements": [
+      "Minority Leader of the Georgia House of Representatives",
+      "Voting rights activist",
+      "Author of several novels and non-fiction books"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Stacey Dash",
+    "givenNames": [
+      "Stacey",
+      "Lauretta"
+    ],
+    "familyName": "Dash",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacey_Dash",
+    "occupation": "Actress, Talk Show Host",
+    "achievements": [
+      "Known for roles in movies like 'Clueless' and 'Renaissance Man'",
+      "Appeared on the Fox News Channel as a commentator"
+    ],
+    "yearBorn": 1966
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "fullName": "Harold Godwinson",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Godwinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "occupation": "King of England",
+    "achievements": [
+      "Last Anglo-Saxon king of England",
+      "Defeated the Norwegians at the Battle of Stamford Bridge"
+    ],
+    "yearBorn": 1022,
+    "yearDied": 1066
+  },
+  {
+    "fullName": "Harold Macmillan",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Macmillan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Macmillan",
+    "occupation": "Prime Minister of the United Kingdom",
+    "achievements": [
+      "Led the Conservative Party to victory in the 1959 general election",
+      "Oversaw a period of economic growth and prosperity in Britain"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Harold Pinter",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Pinter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Pinter",
+    "occupation": "Playwright, poet, actor, director",
+    "achievements": [
+      "Nobel Prize in Literature (2005)",
+      "Known for his minimalist and absurdist plays"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Harold Abrahams",
+    "givenNames": [
+      "Harold",
+      "Maurice"
+    ],
+    "familyName": "Abrahams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Abrahams",
+    "occupation": "Athlete, Olympic gold medalist",
+    "achievements": [
+      "Won the 100 meters at the 1924 Summer Olympics",
+      "Subject of the film 'Chariots of Fire'"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1978
+  }
+]

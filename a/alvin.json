@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Alvin Ailey",
+    "givenNames": [
+      "Alvin",
+      "Jr."
+    ],
+    "familyName": "Ailey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_Ailey",
+    "occupation": "Choreographer and dancer",
+    "achievements": [
+      "Founded the Alvin Ailey American Dance Theater",
+      "Created renowned dance works like 'Revelations'"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Alvin York",
+    "givenNames": [
+      "Alvin",
+      "Cullum"
+    ],
+    "familyName": "York",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_York",
+    "occupation": "Soldier",
+    "achievements": [
+      "Recipient of the Medal of Honor for his heroism in World War I"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Alvin Hansen",
+    "givenNames": [
+      "Alvin",
+      "Harvey"
+    ],
+    "familyName": "Hansen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_Hansen",
+    "occupation": "Economist",
+    "achievements": [
+      "Known for his contributions to Keynesian economics",
+      "Developed the concept of 'secular stagnation'"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1975
+  }
+]

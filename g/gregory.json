@@ -1,0 +1,72 @@
+[
+  {
+    "fullName": "Gregory Peck",
+    "givenNames": [
+      "Eldred",
+      "Gregory"
+    ],
+    "familyName": "Peck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Peck",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor for To Kill a Mockingbird",
+      "American Film Institute Life Achievement Award"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Gregory House",
+    "givenNames": [
+      "Gregory"
+    ],
+    "familyName": "House",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_House",
+    "occupation": "Fictional Character (Doctor)",
+    "achievements": [
+      "Protagonist of the television series House, M.D."
+    ]
+  },
+  {
+    "fullName": "Gregory Maguire",
+    "givenNames": [
+      "Gregory"
+    ],
+    "familyName": "Maguire",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Maguire",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the novel Wicked, which inspired the Broadway musical of the same name"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Gregory Bateson",
+    "givenNames": [
+      "Gregory"
+    ],
+    "familyName": "Bateson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Bateson",
+    "occupation": "Anthropologist, Social Scientist",
+    "achievements": [
+      "Pioneer in the field of cybernetics and systems theory",
+      "Influential figure in communication studies and anthropology"
+    ],
+    "yearBorn": 1904,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Gregory Rabassa",
+    "givenNames": [
+      "Gregory"
+    ],
+    "familyName": "Rabassa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Rabassa",
+    "occupation": "Translator",
+    "achievements": [
+      "Translated works by Latin American authors such as Jorge Luis Borges and Gabriel García Márquez"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 2016
+  }
+]

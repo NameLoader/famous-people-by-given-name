@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Günther Grass",
+    "givenNames": [
+      "Günther",
+      "Wilhelm"
+    ],
+    "familyName": "Grass",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnter_Grass",
+    "occupation": "Writer, sculptor, playwright",
+    "achievements": [
+      "Nobel Prize in Literature (1999)",
+      "Known for novels like 'The Tin Drum' and 'Dog Years'"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2016
+  }
+]

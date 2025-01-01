@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Hilary Mantel",
+    "givenNames": [
+      "Hilary",
+      "Mary"
+    ],
+    "familyName": "Mantel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilary_Mantel",
+    "occupation": "Author",
+    "achievements": [
+      "Twice winner of the Man Booker Prize for 'Wolf Hall' (2009) and 'Bring Up the Bodies' (2012)",
+      "Known for historical fiction set in Tudor England"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Hilary Swank",
+    "givenNames": [
+      "Hilary",
+      "Ann"
+    ],
+    "familyName": "Swank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilary_Swank",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for Best Actress for 'Boys Don't Cry' (1999) and 'Million Dollar Baby' (2004)"
+    ],
+    "yearBorn": 1974
+  }
+]

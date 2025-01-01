@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Eduard Shevardnadze",
+    "givenNames": [
+      "Eduard"
+    ],
+    "familyName": "Shevardnadze",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze",
+    "occupation": "Politician",
+    "achievements": [
+      "Last Foreign Minister of the Soviet Union",
+      "President of Georgia (1995-2003)"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Eduard Mörike",
+    "givenNames": [
+      "Eduard",
+      "Friedrich"
+    ],
+    "familyName": "Mörike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduard_M%C3%B6rike",
+    "occupation": "Poet, novelist, dramatist",
+    "achievements": [
+      "One of the most important German lyric poets of the 19th century",
+      "Known for his romantic and sentimental poems"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1875
+  },
+  {
+    "fullName": "Eduard Hanslick",
+    "givenNames": [
+      "Eduard"
+    ],
+    "familyName": "Hanslick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduard_Hanslick",
+    "occupation": "Music critic, philosopher",
+    "achievements": [
+      "Championed the idea of 'absolute music'",
+      "Influential figure in the development of music criticism"
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1904
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Daren McGavin",
+    "givenNames": [
+      "Darren"
+    ],
+    "familyName": "McGavin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_McGavin",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in Kolchak: The Night Stalker, A Christmas Story, and Nightmare on Elm Street"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2006
+  },
+  {
+    "fullName": "Daren Kagasoff",
+    "givenNames": [
+      "Daren",
+      "Maxwell"
+    ],
+    "familyName": "Kagasoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daren_Kagasoff",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role in the television series The Secret Life of the American Teenager"
+    ],
+    "yearBorn": 1987
+  }
+]

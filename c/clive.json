@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Clive Staples Lewis",
+    "givenNames": [
+      "Clive",
+      "Staples"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "occupation": "Writer, Academic",
+    "achievements": [
+      "Author of The Chronicles of Narnia series",
+      "Prominent Christian apologist",
+      "Professor of Medieval and Renaissance Literature at Oxford University"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1963
+  },
+  {
+    "fullName": "Clive Barker",
+    "givenNames": [
+      "Clive"
+    ],
+    "familyName": "Barker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clive_Barker",
+    "occupation": "Writer, Film director",
+    "achievements": [
+      "Created the Hellraiser franchise",
+      "Prolific horror writer known for his dark and imaginative works",
+      "Acclaimed for his novels Imajica and The Books of Blood"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Clive Owen",
+    "givenNames": [
+      "Clive"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clive_Owen",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for his role in Closer",
+      "Known for roles in films like Children of Men, Sin City, and The Bourne Identity"
+    ],
+    "yearBorn": 1964
+  }
+]

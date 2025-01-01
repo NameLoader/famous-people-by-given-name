@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Niklaus Wirth",
+    "givenNames": [
+      "Niklaus",
+      "Emil"
+    ],
+    "familyName": "Wirth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niklaus_Wirth",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Developed the programming languages Pascal and Modula",
+      "Pioneer in compiler design and software engineering"
+    ],
+    "yearBorn": 1934
+  }
+]

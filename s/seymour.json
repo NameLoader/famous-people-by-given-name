@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Seymour Cray",
+    "givenNames": [
+      "Seymour",
+      "Roger"
+    ],
+    "familyName": "Cray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seymour_Cray",
+    "occupation": "Computer scientist, engineer",
+    "achievements": [
+      "Developed the Cray-1 supercomputer, one of the first commercially successful supercomputers",
+      "Pioneered vector processing and parallel computing techniques"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1996
+  }
+]
