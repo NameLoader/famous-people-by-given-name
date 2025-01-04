@@ -31,8 +31,7 @@
   {
     "fullName": "Laurent Gbagbo",
     "givenNames": [
-      "Laurent",
-      "Koudou"
+      "Laurent"
     ],
     "familyName": "Gbagbo",
     "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Gbagbo",
@@ -42,5 +41,48 @@
       "Convicted by the International Criminal Court for crimes against humanity."
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Laurent Fabius",
+    "givenNames": [
+      "Laurent"
+    ],
+    "familyName": "Fabius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Fabius",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of France (1984-1986)",
+      "Minister of Foreign Affairs (2012-2016)"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Laurent Koscielny",
+    "givenNames": [
+      "Laurent"
+    ],
+    "familyName": "Koscielny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent_Koscielny",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FA Cup with Arsenal (2014, 2017)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Laurent Kabila",
+    "givenNames": [
+      "Laurent",
+      "Désiré"
+    ],
+    "familyName": "Kabila",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila",
+    "occupation": "Politician",
+    "achievements": [
+      "President of the Democratic Republic of Congo (1997-2001)",
+      "Led the rebellion that ousted Mobutu Sese Seko"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2001
   }
 ]

@@ -43,5 +43,20 @@
     ],
     "yearBorn": 1943,
     "yearDied": 2012
+  },
+  {
+    "fullName": "Lucio Fulci",
+    "givenNames": [
+      "Lucio"
+    ],
+    "familyName": "Fulci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucio_Fulci",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Known for his horror films, particularly those in the giallo and zombie subgenres",
+      "Directed cult classics like 'Zombie' and 'City of the Living Dead'"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1996
   }
 ]

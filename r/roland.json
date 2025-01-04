@@ -40,5 +40,23 @@
       "Known for blockbuster disaster films such as Independence Day and The Day After Tomorrow"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Roland Garros",
+    "givenNames": [
+      "Eugène",
+      "Adrien",
+      "Roland",
+      "Georges"
+    ],
+    "familyName": "Garros",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roland_Garros_(aviator)",
+    "occupation": "Aviator, World War I fighter pilot",
+    "achievements": [
+      "Pioneer in aviation, first man to fly across the Mediterranean Sea",
+      "The French Open tennis tournament is named after him"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1918
   }
 ]

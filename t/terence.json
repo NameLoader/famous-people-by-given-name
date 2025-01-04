@@ -27,5 +27,34 @@
       "Known for his comedic roles and action sequences"
     ],
     "yearBorn": 1939
+  },
+  {
+    "fullName": "Terence Stamp",
+    "givenNames": [
+      "Terence",
+      "Henry"
+    ],
+    "familyName": "Stamp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_Stamp",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Billy Budd', 'Superman' and 'The Limey'"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Terence McKenna",
+    "givenNames": [
+      "Terence",
+      "Kemp"
+    ],
+    "familyName": "McKenna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terence_McKenna",
+    "occupation": "Writer, Lecturer, Ethnobotanist",
+    "achievements": [
+      "Advocate for psychedelic exploration and its potential for personal and societal transformation"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2000
   }
 ]

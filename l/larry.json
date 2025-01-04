@@ -14,5 +14,36 @@
       "3-time NBA Most Valuable Player"
     ],
     "yearBorn": 1956
+  },
+  {
+    "fullName": "Larry King",
+    "givenNames": [
+      "Larry"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_King",
+    "occupation": "Television and radio host",
+    "achievements": [
+      "Hosted CNN's Larry King Live for 25 years",
+      "Interviewed thousands of notable figures",
+      "Won multiple Peabody Awards and Emmy Awards"
+    ],
+    "yearBorn": 1933,
+    "yearDied": 2021
+  },
+  {
+    "fullName": "Larry Page",
+    "givenNames": [
+      "Lawrence",
+      "Edward"
+    ],
+    "familyName": "Page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Page",
+    "occupation": "Internet entrepreneur",
+    "achievements": [
+      "Co-founder of Google",
+      "Pioneer in search engine technology"
+    ],
+    "yearBorn": 1973
   }
 ]

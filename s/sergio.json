@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1952,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Sergio Mendes",
+    "givenNames": [
+      "Sergio",
+      "Santos"
+    ],
+    "familyName": "Mendes",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes",
+    "occupation": "Musician, composer",
+    "achievements": [
+      "Known for his bossa nova music and collaborations with artists like Brasil '66",
+      "Won Grammy Awards for his albums 'Herb Alpert Presents Sergio Mendes' and 'Sergio Mendes'"
+    ],
+    "yearBorn": 1941
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "Phyllis Schlafly",
     "givenNames": [
-      "Phyllis"
+      "Phyllis",
+      "Stewart"
     ],
     "familyName": "Schlafly",
     "wikipedia": "https://en.wikipedia.org/wiki/Phyllis_Schlafly",
@@ -33,8 +34,7 @@
   {
     "fullName": "Phyllis Wheatley",
     "givenNames": [
-      "Phillis",
-      "Phyllis"
+      "Phillis"
     ],
     "familyName": "Wheatley",
     "wikipedia": "https://en.wikipedia.org/wiki/Phillis_Wheatley",
@@ -45,5 +45,21 @@
     ],
     "yearBorn": 1753,
     "yearDied": 1784
+  },
+  {
+    "fullName": "Phyllis Hyman",
+    "givenNames": [
+      "Phyllis",
+      "Linda"
+    ],
+    "familyName": "Hyman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phyllis_Hyman",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Renowned for her powerful vocals and soulful style",
+      "Recorded several hit songs including 'You Know How to Love Me'"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 1995
   }
 ]

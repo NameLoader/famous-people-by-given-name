@@ -2,8 +2,8 @@
   {
     "fullName": "Diane Sawyer",
     "givenNames": [
-      "Lila",
-      "Diane"
+      "Diane",
+      "Lila"
     ],
     "familyName": "Sawyer",
     "wikipedia": "https://en.wikipedia.org/wiki/Diane_Sawyer",
@@ -16,6 +16,20 @@
     "yearBorn": 1945
   },
   {
+    "fullName": "Diane Keaton",
+    "givenNames": [
+      "Diane"
+    ],
+    "familyName": "Keaton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Keaton",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (Annie Hall)",
+      "Golden Globe Award for Best Actress – Motion Picture Musical or Comedy (Reds)"
+    ],
+    "yearBorn": 1946
+  },
+  {
     "fullName": "Diane Lane",
     "givenNames": [
       "Diane"
@@ -24,8 +38,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Diane_Lane",
     "occupation": "Actress",
     "achievements": [
-      "Nominated for Academy Awards and Golden Globe Awards",
-      "Starred in films like Unfaithful, The Perfect Storm, and Man of Steel"
+      "Academy Award nomination for Best Actress (Unfaithful)",
+      "Two Golden Globe nominations"
     ],
     "yearBorn": 1965
   }

@@ -13,5 +13,19 @@
       "Star of '30 Rock' and 'The Last O.G.'"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Tracy Chapman",
+    "givenNames": [
+      "Tracy"
+    ],
+    "familyName": "Chapman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tracy_Chapman",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Won four Grammy Awards",
+      "Known for her socially conscious lyrics and acoustic folk sound"
+    ],
+    "yearBorn": 1963
   }
 ]

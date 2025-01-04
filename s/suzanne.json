@@ -27,5 +27,35 @@
       "Hit song 'Luka' reached number one on the Billboard charts"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Suzanne Somers",
+    "givenNames": [
+      "Suzanne",
+      "Marie"
+    ],
+    "familyName": "Somers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Somers",
+    "occupation": "Actress, author, businesswoman",
+    "achievements": [
+      "Known for her role in the sitcom 'Three's Company'",
+      "Successful author and entrepreneur"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "Suzanne Pleshette",
+    "givenNames": [
+      "Suzanne"
+    ],
+    "familyName": "Pleshette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzanne_Pleshette",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the TV series 'The Bob Newhart Show'",
+      "Appeared in films like 'Rome Adventure' and 'The Getaway'"
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2008
   }
 ]

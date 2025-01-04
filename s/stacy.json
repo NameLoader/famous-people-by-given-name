@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Stacy Abrams",
-    "givenNames": [
-      "Stacey",
-      "Yvonne"
-    ],
-    "familyName": "Abrams",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stacey_Abrams",
-    "occupation": "Politician, lawyer, voting rights activist",
-    "achievements": [
-      "First African-American woman to be a major party nominee for Governor of Georgia",
-      "Founder of Fair Fight Action, a voting rights organization"
-    ],
-    "yearBorn": 1973
-  },
-  {
     "fullName": "Stacy Keibler",
     "givenNames": [
       "Stacy",
@@ -28,5 +13,20 @@
       "Appeared in films and television shows such as 'Dancing with the Stars'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Stacy Abrams",
+    "givenNames": [
+      "Stacey",
+      "Yvonne"
+    ],
+    "familyName": "Abrams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stacey_Abrams",
+    "occupation": "Politician, lawyer, voting rights activist",
+    "achievements": [
+      "First African-American woman to be nominated for governor by a major party in the United States",
+      "Founder of Fair Fight Action, a voting rights organization"
+    ],
+    "yearBorn": 1973
   }
 ]

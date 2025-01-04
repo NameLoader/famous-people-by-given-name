@@ -73,5 +73,17 @@
       "Led the New York Knicks to multiple NBA Finals appearances"
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Patrick Bateman",
+    "givenNames": [
+      "Patrick"
+    ],
+    "familyName": "Bateman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Bateman",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Bret Easton Ellis's novel 'American Psycho'"
+    ]
   }
 ]

@@ -11,5 +11,19 @@
       "Creator of the popular manga series Attack on Titan"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Hajime Moriyasu",
+    "givenNames": [
+      "Hajime"
+    ],
+    "familyName": "Moriyasu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hajime_Moriyasu",
+    "occupation": "Football manager",
+    "achievements": [
+      "Former professional footballer",
+      "Manager of the Japan national football team"
+    ],
+    "yearBorn": 1968
   }
 ]

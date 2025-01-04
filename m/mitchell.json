@@ -1,18 +1,5 @@
 [
   {
-    "fullName": "Mitchell Rapp",
-    "givenNames": [
-      "Mitch"
-    ],
-    "familyName": "Rapp",
-    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_Rapp",
-    "occupation": "Fictional Character",
-    "achievements": [
-      "Protagonist of the Mitch Rapp series by Vince Flynn and Kyle Mills.",
-      "CIA counterterrorism operative known for his ruthlessness and efficiency."
-    ]
-  },
-  {
     "fullName": "Mitchell Trubisky",
     "givenNames": [
       "Mitchell",
@@ -41,5 +28,20 @@
       "Super Bowl LIV champion with the Chiefs."
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Mitchell Santner",
+    "givenNames": [
+      "Mitchell",
+      "Josef"
+    ],
+    "familyName": "Santner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitchell_Santner",
+    "occupation": "Cricketer",
+    "achievements": [
+      "New Zealand international cricketer",
+      "Known for his left-arm spin bowling and aggressive batting"
+    ],
+    "yearBorn": 1992
   }
 ]

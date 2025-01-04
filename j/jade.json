@@ -17,21 +17,6 @@
     "yearDied": 2009
   },
   {
-    "fullName": "Jade Puget",
-    "givenNames": [
-      "Jade",
-      "Errol"
-    ],
-    "familyName": "Puget",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Puget",
-    "occupation": "Musician",
-    "achievements": [
-      "Lead guitarist for the rock band AFI",
-      "Contributed to numerous AFI albums"
-    ],
-    "yearBorn": 1977
-  },
-  {
     "fullName": "Jade Bird",
     "givenNames": [
       "Jade",
@@ -44,5 +29,21 @@
       "Released critically acclaimed debut album 'Jade Bird' in 2019"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Jade Jagger",
+    "givenNames": [
+      "Jade",
+      "Sheena",
+      "Jezebel"
+    ],
+    "familyName": "Jagger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jade_Jagger",
+    "occupation": "Model, Jewelry Designer",
+    "achievements": [
+      "Daughter of Mick Jagger and Bianca Jagger",
+      "Successful jewelry designer with her own brand"
+    ],
+    "yearBorn": 1971
   }
 ]

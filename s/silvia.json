@@ -12,5 +12,18 @@
       "Author of cookbooks focusing on Italian cuisine"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Silvia Federici",
+    "givenNames": [
+      "Silvia"
+    ],
+    "familyName": "Federici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvia_Federici",
+    "occupation": "Feminist scholar, Activist",
+    "achievements": [
+      "Prominent scholar in the fields of feminism and social reproduction.",
+      "Author of influential works on witchcraft, capitalism, and women's history."
+    ]
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "fullName": "Kathy Ireland",
+    "givenNames": [
+      "Kathleen",
+      "Marie"
+    ],
+    "familyName": "Ireland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Ireland",
+    "occupation": "Model, actress, entrepreneur",
+    "achievements": [
+      "One of the original supermodels of the 1980s and 1990s"
+    ],
+    "yearBorn": 1963
+  },
+  {
     "fullName": "Kathy Bates",
     "givenNames": [
       "Kathleen",
@@ -9,25 +23,23 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Bates",
     "occupation": "Actress",
     "achievements": [
-      "Academy Award for Best Actress (Misery)",
-      "Two Emmy Awards",
-      "Tony Award"
+      "Academy Award for Best Actress for her role in Misery",
+      "Emmy Award and Golden Globe Award for her role in the television series Harry's Law"
     ],
     "yearBorn": 1948
   },
   {
     "fullName": "Kathy Griffin",
     "givenNames": [
-      "Kathy",
       "Kathleen",
       "Mary"
     ],
     "familyName": "Griffin",
     "wikipedia": "https://en.wikipedia.org/wiki/Kathy_Griffin",
-    "occupation": "Comedian, actress, television host",
+    "occupation": "Comedian, actress, and television host",
     "achievements": [
-      "Two Primetime Emmy Awards",
-      "Grammy Award nomination"
+      "Won two Primetime Emmy Awards for Outstanding Reality Program for her Bravo show Kathy Griffin: My Life on the D-List",
+      "Known for her stand-up comedy routines and controversial remarks"
     ],
     "yearBorn": 1960
   }

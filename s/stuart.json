@@ -18,7 +18,9 @@
   {
     "fullName": "Stuart Sutcliffe",
     "givenNames": [
-      "Stuart"
+      "Stuart",
+      "Fergusson",
+      "Victor"
     ],
     "familyName": "Sutcliffe",
     "wikipedia": "https://en.wikipedia.org/wiki/Stuart_Sutcliffe",
@@ -44,5 +46,18 @@
       "Known for his New Romantic style and hit songs like 'Stand and Deliver'"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Stuart Murdoch",
+    "givenNames": [
+      "Stuart",
+      "Lee"
+    ],
+    "familyName": "Murdoch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stuart_Murdoch_(musician)",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Frontman of the Scottish indie pop band Belle and Sebastian"
+    ]
   }
 ]

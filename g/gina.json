@@ -29,5 +29,35 @@
       "Advocate for diversity and representation in Hollywood."
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Gina Gershon",
+    "givenNames": [
+      "Gina",
+      "L."
+    ],
+    "familyName": "Gershon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gina_Gershon",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'Bound' and 'Showgirls'",
+      "Won a Primetime Emmy Award for her role in the television movie 'The Staircase'"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Gina Carano",
+    "givenNames": [
+      "Gina",
+      "Joy"
+    ],
+    "familyName": "Carano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gina_Carano",
+    "occupation": "Actress, former mixed martial artist",
+    "achievements": [
+      "First American woman to win a Strikeforce championship",
+      "Appeared in films like 'Haywire' and 'Deadpool'"
+    ],
+    "yearBorn": 1982
   }
 ]

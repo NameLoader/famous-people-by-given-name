@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1733,
     "yearDied": 1815
+  },
+  {
+    "fullName": "Carsten Maschmeyer",
+    "givenNames": [
+      "Carsten",
+      "Jens"
+    ],
+    "familyName": "Maschmeyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carsten_Maschmeyer",
+    "occupation": "German entrepreneur and investor",
+    "achievements": [
+      "Founder of numerous successful companies",
+      "Known for his investments in technology and real estate"
+    ],
+    "yearBorn": 1959
   }
 ]

@@ -44,5 +44,20 @@
     ],
     "yearBorn": 1906,
     "yearDied": 1997
+  },
+  {
+    "fullName": "Victor Davis Hanson",
+    "givenNames": [
+      "Victor",
+      "Davis"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Davis_Hanson",
+    "occupation": "Historian, Classicist, Military Historian",
+    "achievements": [
+      "Author of numerous books on ancient warfare and classical history",
+      "Frequent commentator on politics and current events"
+    ],
+    "yearBorn": 1953
   }
 ]

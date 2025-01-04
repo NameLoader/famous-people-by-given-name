@@ -13,5 +13,21 @@
       "Known for roles in films such as 'The Wolf of Wall Street', 'Suicide Squad', and 'I, Tonya'"
     ],
     "yearBorn": 1990
+  },
+  {
+    "fullName": "Margot Fonteyn",
+    "givenNames": [
+      "Margot"
+    ],
+    "familyName": "Fonteyn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margot_Fonteyn",
+    "occupation": "Ballet dancer",
+    "achievements": [
+      "Prima Ballerina of the Royal Ballet",
+      "Known for her partnership with Rudolf Nureyev",
+      "Considered one of the greatest ballerinas of the 20th century"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1991
   }
 ]

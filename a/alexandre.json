@@ -27,5 +27,36 @@
     ],
     "yearBorn": 1832,
     "yearDied": 1923
+  },
+  {
+    "fullName": "Alexandre Pushkin",
+    "givenNames": [
+      "Alexander",
+      "Sergeyevich"
+    ],
+    "familyName": "Pushkin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+    "occupation": "Poet, Novelist, Dramatist",
+    "achievements": [
+      "Considered the founder of modern Russian literature.",
+      "Known for his lyrical poetry and masterpiece novel 'Eugene Onegin'."
+    ],
+    "yearBorn": 1799,
+    "yearDied": 1837
+  },
+  {
+    "fullName": "Alexandre Lacazette",
+    "givenNames": [
+      "Alexandre",
+      "Armand"
+    ],
+    "familyName": "Lacazette",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandre_Lacazette",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Arsenal and Lyon.",
+      "Known for his clinical finishing and creative playmaking."
+    ],
+    "yearBorn": 1991
   }
 ]

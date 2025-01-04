@@ -46,5 +46,21 @@
     ],
     "yearBorn": 1865,
     "yearDied": 1911
+  },
+  {
+    "fullName": "Valentin Rasputin",
+    "givenNames": [
+      "Valentin",
+      "Grigoryevich"
+    ],
+    "familyName": "Rasputin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Rasputin",
+    "occupation": "Writer",
+    "achievements": [
+      "Soviet and Russian writer.",
+      "Known for his novels and short stories about rural life in Siberia."
+    ],
+    "yearBorn": 1937,
+    "yearDied": 2015
   }
 ]

@@ -13,5 +13,17 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1918
+  },
+  {
+    "fullName": "Anastasia Steele",
+    "givenNames": [
+      "Anastasia"
+    ],
+    "familyName": "Steele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey_(film)",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the Fifty Shades trilogy by E L James"
+    ]
   }
 ]

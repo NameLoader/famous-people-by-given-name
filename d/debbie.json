@@ -1,0 +1,36 @@
+[
+  {
+    "fullName": "Debbie Reynolds",
+    "givenNames": [
+      "Debbie",
+      "Mary",
+      "Frances"
+    ],
+    "familyName": "Reynolds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debbie_Reynolds",
+    "occupation": "Actress, singer, dancer",
+    "achievements": [
+      "Nominated for an Academy Award for Best Actress for her role in 'Singin' in the Rain'",
+      "Starred in numerous films and television shows throughout her career",
+      "Received a Lifetime Achievement Award from the Screen Actors Guild"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "Debbie Gibson",
+    "givenNames": [
+      "Deborah",
+      "Ann"
+    ],
+    "familyName": "Gibson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debbie_Gibson",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Became a teen idol in the late 1980s with hits like 'Only in My Dreams' and 'Foolish Beat'",
+      "Wrote, produced, and performed most of her own music",
+      "Appeared in Broadway musicals and television shows"
+    ],
+    "yearBorn": 1970
+  }
+]

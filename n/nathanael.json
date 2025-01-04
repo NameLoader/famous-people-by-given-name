@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Nathanael Greene",
+    "givenNames": [
+      "Nathanael"
+    ],
+    "familyName": "Greene",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathanael_Greene",
+    "occupation": "Military general",
+    "achievements": [
+      "Instrumental in the American Revolutionary War",
+      "Known for his strategic brilliance and leadership"
+    ],
+    "yearBorn": 1742,
+    "yearDied": 1786
+  },
+  {
+    "fullName": "Nathanael West",
+    "givenNames": [
+      "Nathanael"
+    ],
+    "familyName": "West",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathanael_West",
+    "occupation": "Novelist, screenwriter",
+    "achievements": [
+      "Author of satirical novels like 'Miss Lonelyhearts' and 'The Day of the Locust'",
+      "Known for his dark humor and exploration of American alienation"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1940
+  }
+]

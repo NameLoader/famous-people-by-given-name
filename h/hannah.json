@@ -38,5 +38,20 @@
       "Known for her role as Cece Parekh in the sitcom 'New Girl'"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Hannah Hart",
+    "givenNames": [
+      "Hannah",
+      "Maud"
+    ],
+    "familyName": "Hart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Hart",
+    "occupation": "Comedian, YouTuber, actress",
+    "achievements": [
+      "Known for her comedic YouTube series 'My Drunk Kitchen'",
+      "Author and television personality"
+    ],
+    "yearBorn": 1986
   }
 ]

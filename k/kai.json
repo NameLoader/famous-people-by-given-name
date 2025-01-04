@@ -26,5 +26,33 @@
       "Mr. Olympia runner-up (2012, 2013, 2014)"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Kai Havertz",
+    "givenNames": [
+      "Kai",
+      "Lukas"
+    ],
+    "familyName": "Havertz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Havertz",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "UEFA Champions League winner (2021)",
+      "FIFA Club World Cup winner (2021)"
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Kai Ryssdal",
+    "givenNames": [
+      "Kai"
+    ],
+    "familyName": "Ryssdal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Ryssdal",
+    "occupation": "Journalist and radio host",
+    "achievements": [
+      "Host of Marketplace on American Public Media"
+    ],
+    "yearBorn": 1963
   }
 ]

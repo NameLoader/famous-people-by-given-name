@@ -12,5 +12,19 @@
       "Directed critically acclaimed anime films such as Love & Pop and Shiki-Jitsu"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Hideaki Itsuno",
+    "givenNames": [
+      "Hideaki"
+    ],
+    "familyName": "Itsuno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideaki_Itsuno",
+    "occupation": "Video game director",
+    "achievements": [
+      "Directed the Devil May Cry series",
+      "Directed Dragon's Dogma and its sequel"
+    ],
+    "yearBorn": 1971
   }
 ]

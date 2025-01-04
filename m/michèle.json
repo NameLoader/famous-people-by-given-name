@@ -3,7 +3,8 @@
     "fullName": "Michèle Bachelet",
     "givenNames": [
       "Michèle",
-      "Verónica Michelle"
+      "Verónica",
+      "Michelle"
     ],
     "familyName": "Bachelet",
     "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Bachelet",
@@ -13,5 +14,24 @@
       "Executive Director of UN Women"
     ],
     "yearBorn": 1951
+  },
+  {
+    "fullName": "Michèle Alliot-Marie",
+    "givenNames": [
+      "Michèle",
+      "Yvette",
+      "Marie-Thérèse",
+      "Jeanne",
+      "Honorine"
+    ],
+    "familyName": "Alliot-Marie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mich%C3%A8le_Alliot-Marie",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Minister of Defence of France",
+      "Minister of Interior and Decentralisation",
+      "Mayor of Nice"
+    ],
+    "yearBorn": 1946
   }
 ]

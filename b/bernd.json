@@ -39,5 +39,20 @@
       "Won eight European Tour titles"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Bernd Becher",
+    "givenNames": [
+      "Bernd"
+    ],
+    "familyName": "Becher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernd_and_Hilla_Becher",
+    "occupation": "Photographer",
+    "achievements": [
+      "German conceptual photographer",
+      "Known for his photographic series documenting industrial architecture"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2007
   }
 ]

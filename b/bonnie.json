@@ -42,5 +42,21 @@
       "Released her own debut album 'Bombastic' in 2014"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Bonnie Parker",
+    "givenNames": [
+      "Bonnie",
+      "Elizabeth"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bonnie_and_Clyde#Bonnie_Parker",
+    "occupation": "Outlaw",
+    "achievements": [
+      "Notorious figure in the Great Depression era alongside Clyde Barrow.",
+      "Known for their string of robberies and murders."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1934
   }
 ]

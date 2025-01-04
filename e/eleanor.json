@@ -11,5 +11,20 @@
       "Won the Man Booker Prize for her novel 'The Luminaries' at age 28, making her the youngest winner ever."
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Eleanor Roosevelt",
+    "givenNames": [
+      "Eleanor"
+    ],
+    "familyName": "Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+    "occupation": "Human rights activist, diplomat, and First Lady of the United States",
+    "achievements": [
+      "Chair of the UN Commission on Human Rights",
+      "Championed social justice causes, including civil rights and women's rights"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1962
   }
 ]

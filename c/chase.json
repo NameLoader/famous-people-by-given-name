@@ -44,5 +44,18 @@
       "World Series Champion (2008)"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Chase Rice",
+    "givenNames": [
+      "Chase"
+    ],
+    "familyName": "Rice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chase_Rice",
+    "occupation": "Country Music Singer",
+    "achievements": [
+      "Billboard Top Country Albums chart hits"
+    ],
+    "yearBorn": 1986
   }
 ]

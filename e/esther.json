@@ -41,5 +41,52 @@
       "Internationally recognized expert on relationships and sexuality",
       "Author of bestselling books such as 'Mating in Captivity' and 'The State of Affairs'"
     ]
+  },
+  {
+    "fullName": "Esther Rolle",
+    "givenNames": [
+      "Esther",
+      "Elizabeth"
+    ],
+    "familyName": "Rolle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Rolle",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Florida Evans in the sitcom 'Good Times'.",
+      "Awarded a Primetime Emmy Award nomination for Outstanding Lead Actress in a Comedy Series."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Esther Williams",
+    "givenNames": [
+      "Esther",
+      "Jane"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_Williams",
+    "occupation": "Actress and competitive swimmer",
+    "achievements": [
+      "Starred in numerous MGM musical films featuring elaborate swimming sequences.",
+      "Won three national championships in swimming and competed in the 1936 Olympics."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2013
+  },
+  {
+    "fullName": "Esther McVey",
+    "givenNames": [
+      "Esther",
+      "Louise"
+    ],
+    "familyName": "McVey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esther_McVey",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Secretary of State for Work and Pensions",
+      "Member of Parliament for Tatton"
+    ],
+    "yearBorn": 1967
   }
 ]

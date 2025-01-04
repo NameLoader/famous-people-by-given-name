@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Kim Kardashian",
+    "givenNames": [
+      "Kimberly",
+      "Noel"
+    ],
+    "familyName": "Kardashian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Kardashian",
+    "occupation": "Media personality, businesswoman",
+    "achievements": [
+      "Reality television star on 'Keeping Up with the Kardashians'",
+      "Successful entrepreneur with various businesses including SKIMS and KKW Beauty"
+    ],
+    "yearBorn": 1980
+  }
+]

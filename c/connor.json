@@ -1,5 +1,47 @@
 [
   {
+    "fullName": "Connor Barth",
+    "givenNames": [
+      "Connor",
+      "Thomas"
+    ],
+    "familyName": "Barth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Connor_Barth",
+    "occupation": "American football placekicker",
+    "achievements": [
+      "NFL Career"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Connor Wickham",
+    "givenNames": [
+      "Connor",
+      "Neil",
+      "Ralph"
+    ],
+    "familyName": "Wickham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Connor_Wickham",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Sunderland, Crystal Palace, and Ipswich Town among other clubs"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Connor Paolo",
+    "givenNames": [
+      "Connor"
+    ],
+    "familyName": "Paolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Connor_Paolo",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in 'Gossip Girl' and 'Stake Land'"
+    ],
+    "yearBorn": 1990
+  },
+  {
     "fullName": "Connor McDavid",
     "givenNames": [
       "Connor",
@@ -9,8 +51,9 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Connor_McDavid",
     "occupation": "Ice hockey player",
     "achievements": [
-      "NHL MVP",
-      "Multiple Stanley Cup Champion"
+      "NHL Hart Trophy winner (2017, 2021)",
+      "Multiple NHL scoring titles",
+      "Considered one of the best hockey players in the world"
     ],
     "yearBorn": 1997
   },
@@ -24,23 +67,9 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Conor_McGregor",
     "occupation": "Mixed martial artist, boxer",
     "achievements": [
-      "UFC Featherweight Champion",
-      "UFC Lightweight Champion"
+      "Former UFC Featherweight and Lightweight Champion",
+      "First fighter to hold titles in two weight classes simultaneously in the UFC"
     ],
     "yearBorn": 1988
-  },
-  {
-    "fullName": "Connor Barth",
-    "givenNames": [
-      "Connor",
-      "Thomas"
-    ],
-    "familyName": "Barth",
-    "wikipedia": "https://en.wikipedia.org/wiki/Connor_Barth",
-    "occupation": "American football placekicker",
-    "achievements": [
-      "NFL Career"
-    ],
-    "yearBorn": 1986
   }
 ]

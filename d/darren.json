@@ -41,5 +41,20 @@
       "Won an Emmy Award and a Golden Globe Award for his performance in The Assassination of Gianni Versace: American Crime Story"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Darren Clarke",
+    "givenNames": [
+      "Darren",
+      "Christopher"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darren_Clarke",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "Won the 2011 Open Championship.",
+      "Represented Europe in five Ryder Cups."
+    ],
+    "yearBorn": 1968
   }
 ]

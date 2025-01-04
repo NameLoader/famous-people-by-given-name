@@ -2,8 +2,7 @@
   {
     "fullName": "Ernesto Guevara",
     "givenNames": [
-      "Ernesto",
-      "Che"
+      "Ernesto"
     ],
     "familyName": "Guevara",
     "wikipedia": "https://en.wikipedia.org/wiki/Che_Guevara",
@@ -29,5 +28,20 @@
     ],
     "yearBorn": 1911,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Ernesto Miranda",
+    "givenNames": [
+      "Ernesto",
+      "Arturo"
+    ],
+    "familyName": "Miranda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernesto_Miranda",
+    "occupation": "Individual involved in landmark legal case",
+    "achievements": [
+      "His case led to the establishment of Miranda rights, informing individuals of their right to remain silent and have an attorney present during police interrogations"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 1976
   }
 ]

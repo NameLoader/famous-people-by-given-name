@@ -1,15 +1,29 @@
 [
   {
-    "fullName": "Noriko Hidaka",
+    "fullName": "Noriko Sakai",
     "givenNames": [
       "Noriko"
     ],
-    "familyName": "Hidaka",
-    "wikipedia": "https://en.wikipedia.org/wiki/Noriko_Hidaka",
-    "occupation": "Voice actress, singer",
+    "familyName": "Sakai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noriko_Sakai",
+    "occupation": "Actress, singer",
     "achievements": [
-      "Known for voicing iconic anime characters like Kiki in Kiki's Delivery Service and Rei Ayanami in Neon Genesis Evangelion."
+      "Known for her roles in Japanese dramas and films.",
+      "Popular idol singer in the 1990s."
     ],
-    "yearBorn": 1967
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Noriko Ogawa",
+    "givenNames": [
+      "Noriko"
+    ],
+    "familyName": "Ogawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noriko_Ogawa_(pianist)",
+    "occupation": "Pianist",
+    "achievements": [
+      "Internationally acclaimed classical pianist.",
+      "Performed with major orchestras worldwide."
+    ]
   }
 ]

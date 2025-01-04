@@ -46,17 +46,47 @@
     "yearBorn": 1946
   },
   {
-    "fullName": "Eugene Kaspersky",
+    "fullName": "Eugene V. Debs",
     "givenNames": [
-      "Yevgeny",
-      "Valentinovich"
+      "Eugene",
+      "Victor"
     ],
-    "familyName": "Kaspersky",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Kaspersky",
-    "occupation": "Computer Security Entrepreneur",
+    "familyName": "Debs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_V._Debs",
+    "occupation": "Labor Leader, Socialist Politician",
     "achievements": [
-      "Founder and CEO of Kaspersky Lab"
+      "Founded the American Railway Union",
+      "Five-time Socialist Party of America presidential candidate"
     ],
-    "yearBorn": 1965
+    "yearBorn": 1855,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Eugene Fama",
+    "givenNames": [
+      "Eugene",
+      "Francis"
+    ],
+    "familyName": "Fama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Fama",
+    "occupation": "Economist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Eugene Ionesco",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Ionesco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
+    "occupation": "Playwright, Novelist, Essayist",
+    "achievements": [
+      "Pioneer of absurdist theatre"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
   }
 ]

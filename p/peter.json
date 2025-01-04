@@ -61,5 +61,36 @@
       "Primetime Emmy Award winner"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Peter Gabriel",
+    "givenNames": [
+      "Peter",
+      "Brian"
+    ],
+    "familyName": "Gabriel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Gabriel",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Founding member of the progressive rock band Genesis",
+      "Successful solo career with hits like 'Sledgehammer' and 'In Your Eyes'",
+      "Innovative use of world music influences in his work"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Peter Jackson",
+    "givenNames": [
+      "Peter",
+      "Robert"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Jackson",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Directed the Lord of the Rings and The Hobbit film trilogies",
+      "Known for his innovative use of special effects and large-scale productions"
+    ],
+    "yearBorn": 1961
   }
 ]

@@ -58,5 +58,20 @@
       "Known for her passionate performances and championing of new music"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Nicola Adams",
+    "givenNames": [
+      "Nicola",
+      "Virginia"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Adams",
+    "occupation": "Boxer",
+    "achievements": [
+      "Double Olympic gold medalist",
+      "First openly LGBT+ person to win an Olympic boxing gold medal"
+    ],
+    "yearBorn": 1982
   }
 ]

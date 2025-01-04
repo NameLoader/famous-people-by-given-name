@@ -10,5 +10,33 @@
     "achievements": [
       "New Zealand indie pop band known for their dreamy sound and introspective lyrics."
     ]
+  },
+  {
+    "fullName": "Yumi Stynes",
+    "givenNames": [
+      "Yumi",
+      "Tasma"
+    ],
+    "familyName": "Stynes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yumi_Stynes",
+    "occupation": "Television and radio presenter, author",
+    "achievements": [
+      "Known for her work on Australian television shows like 'The Circle' and 'Good News Week'."
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Yumi Matsutoya",
+    "givenNames": [
+      "Yumi"
+    ],
+    "familyName": "Matsutoya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yumi_Matsutoya",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "One of Japan's most successful and influential singer-songwriters",
+      "Known for her distinctive vocals and introspective lyrics"
+    ],
+    "yearBorn": 1954
   }
 ]

@@ -30,5 +30,22 @@
     ],
     "yearBorn": 1899,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Alfred Lord Tennyson",
+    "givenNames": [
+      "Alfred",
+      "Lord"
+    ],
+    "familyName": "Tennyson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson",
+    "occupation": "Poet",
+    "achievements": [
+      "Poet Laureate of the United Kingdom",
+      "Wrote famous poems like 'The Charge of the Light Brigade' and 'In Memoriam A.H.H.'",
+      "Master of Victorian poetry"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1892
   }
 ]

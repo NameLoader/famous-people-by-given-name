@@ -27,5 +27,20 @@
       "Known for roles in films like 'Carrie' and 'The Hustler'"
     ],
     "yearBorn": 1932
+  },
+  {
+    "fullName": "Piper Kerman",
+    "givenNames": [
+      "Piper",
+      "Eressea"
+    ],
+    "familyName": "Kerman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Piper_Kerman",
+    "occupation": "Author, Activist",
+    "achievements": [
+      "Wrote the memoir Orange Is the New Black, which inspired the Netflix series of the same name",
+      "Advocates for criminal justice reform"
+    ],
+    "yearBorn": 1970
   }
 ]

@@ -44,5 +44,19 @@
       "Known for his volatile temperament and culinary innovation"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Marco Pantani",
+    "givenNames": [
+      "Marco"
+    ],
+    "familyName": "Pantani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Pantani",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Winner of the Giro d'Italia and Tour de France in 1998"
+    ],
+    "yearBorn": 1970,
+    "yearDied": 2004
   }
 ]

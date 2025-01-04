@@ -42,5 +42,34 @@
       "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Limited or Anthology Series or Movie for her role in The White Lotus."
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Jennifer Hudson",
+    "givenNames": [
+      "Jennifer",
+      "Kate"
+    ],
+    "familyName": "Hudson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Hudson",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actress in Dreamgirls",
+      "Successful music career with Grammy Awards and platinum-selling albums"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Jennifer Garner",
+    "givenNames": [
+      "Jennifer",
+      "Anne"
+    ],
+    "familyName": "Garner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Garner",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Alias, 13 Going on 30, Juno, and Daredevil"
+    ],
+    "yearBorn": 1972
   }
 ]

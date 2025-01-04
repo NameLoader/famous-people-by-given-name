@@ -46,6 +46,21 @@
     "yearBorn": 1969
   },
   {
+    "fullName": "Timothy Olyphant",
+    "givenNames": [
+      "Timothy",
+      "David"
+    ],
+    "familyName": "Olyphant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Olyphant",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in 'Deadwood', 'Justified', and 'The Santa Clarita Diet'",
+      "Has appeared in numerous films"
+    ],
+    "yearBorn": 1968
+  },
+  {
     "fullName": "Timothy Chalamet",
     "givenNames": [
       "Timothée",
@@ -55,8 +70,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet",
     "occupation": "Actor",
     "achievements": [
-      "Nominated for an Academy Award for his role in 'Call Me by Your Name'",
-      "Known for roles in films like 'Dune', 'Little Women', and 'Beautiful Boy'"
+      "Academy Award nominee for Best Actor for his role in Call Me by Your Name",
+      "Starred in other acclaimed films like Lady Bird, Dune, and Little Women"
     ],
     "yearBorn": 1995
   }

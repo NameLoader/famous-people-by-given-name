@@ -26,5 +26,19 @@
     ],
     "yearBorn": 1459,
     "yearDied": 1537
+  },
+  {
+    "fullName": "Lorenzo Lotto",
+    "givenNames": [
+      "Lorenzo"
+    ],
+    "familyName": "Lotto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lorenzo_Lotto",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his distinctive style and use of vibrant colors."
+    ],
+    "yearBorn": 1480,
+    "yearDied": 1556
   }
 ]

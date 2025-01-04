@@ -28,5 +28,21 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1916
+  },
+  {
+    "fullName": "Umberto Giordano",
+    "givenNames": [
+      "Umberto",
+      "Menotti",
+      "Maria"
+    ],
+    "familyName": "Giordano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Umberto_Giordano",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed popular operas including *Andrea Chénier* and *Siberia*"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1945
   }
 ]

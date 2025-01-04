@@ -28,19 +28,5 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2017
-  },
-  {
-    "fullName": "Jeanne Dixon",
-    "givenNames": [
-      "Jeane"
-    ],
-    "familyName": "Dixon",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jeane_Dixon",
-    "occupation": "Psychic, astrologer",
-    "achievements": [
-      "Gained fame for her predictions, some of which were widely publicized"
-    ],
-    "yearBorn": 1904,
-    "yearDied": 1997
   }
 ]

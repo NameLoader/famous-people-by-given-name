@@ -28,5 +28,20 @@
       "Grammy Award winner"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Corey Haim",
+    "givenNames": [
+      "Corey",
+      "Ian"
+    ],
+    "familyName": "Haim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corey_Haim",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films like 'The Lost Boys', 'License to Drive', and 'Lucas'"
+    ],
+    "yearBorn": 1971,
+    "yearDied": 2010
   }
 ]

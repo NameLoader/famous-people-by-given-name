@@ -29,5 +29,19 @@
       "Won 20 Grammy Awards"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Bruce Willis",
+    "givenNames": [
+      "Bruce"
+    ],
+    "familyName": "Willis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Willis",
+    "occupation": "Actor, Producer",
+    "achievements": [
+      "Golden Globe Award winner",
+      "Starred in films like 'Die Hard' and 'Pulp Fiction'"
+    ],
+    "yearBorn": 1955
   }
 ]

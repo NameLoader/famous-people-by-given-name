@@ -12,5 +12,45 @@
       "Won the Vezina Trophy as the league's best goaltender in 2011."
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Kari Wahlgren",
+    "givenNames": [
+      "Kari"
+    ],
+    "familyName": "Wahlgren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kari_Wahlgren",
+    "occupation": "Voice Actress",
+    "achievements": [
+      "Voiced numerous characters in animated series and video games, including Haruhi Suzumiya in 'The Melancholy of Haruhi Suzumiya', Jessica Rabbit in 'Who Framed Roger Rabbit' (video game), and Starfire in 'Teen Titans'"
+    ],
+    "yearBorn": 1977
+  },
+  {
+    "fullName": "Kari Matchett",
+    "givenNames": [
+      "Kari"
+    ],
+    "familyName": "Matchett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kari_Matchett",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in TV series like '24', 'Invasion', and 'Covert Affairs'"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Kari Byron",
+    "givenNames": [
+      "Kari",
+      "Elizabeth"
+    ],
+    "familyName": "Byron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kari_Byron",
+    "occupation": "TV Personality, Special Effects Expert",
+    "achievements": [
+      "Host of the Discovery Channel show 'MythBusters'"
+    ],
+    "yearBorn": 1974
   }
 ]

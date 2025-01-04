@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1913,
     "yearDied": 2000
+  },
+  {
+    "fullName": "Eiji Yoshikawa",
+    "givenNames": [
+      "Eiji"
+    ],
+    "familyName": "Yoshikawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eiji_Yoshikawa",
+    "occupation": "Novelist",
+    "achievements": [
+      "Wrote the epic historical novel series 'Taiko Ki'",
+      "Known for his meticulous research and vivid portrayal of Japanese history"
+    ],
+    "yearBorn": 1894,
+    "yearDied": 1962
+  },
+  {
+    "fullName": "Eiji Tsuburaya",
+    "givenNames": [
+      "Eiji"
+    ],
+    "familyName": "Tsuburaya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eiji_Tsuburaya",
+    "occupation": "Film director, special effects artist",
+    "achievements": [
+      "Pioneer of tokusatsu (live-action special effects) genre in Japan",
+      "Created iconic kaiju series like 'Godzilla' and 'Ultraman'"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1973
   }
 ]

@@ -2,8 +2,8 @@
   {
     "fullName": "Riley Keough",
     "givenNames": [
-      "Danielle",
-      "Riley"
+      "Riley",
+      "Danielle"
     ],
     "familyName": "Keough",
     "wikipedia": "https://en.wikipedia.org/wiki/Riley_Keough",
@@ -40,5 +40,18 @@
       "Known for his darkly comedic style"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Riley Smith",
+    "givenNames": [
+      "Riley"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riley_Smith",
+    "occupation": "Actor, musician",
+    "achievements": [
+      "Known for roles in TV series like 'True Blood' and '90210'"
+    ],
+    "yearBorn": 1978
   }
 ]

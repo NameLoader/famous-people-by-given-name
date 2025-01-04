@@ -13,5 +13,17 @@
       "Has appeared in numerous television series including 'Boston Legal' and 'Lost in Space'"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Parker Lewis",
+    "givenNames": [
+      "Parker"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Parker_Lewis_Can%27t_Lose",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Title character of the popular 1990s television series 'Parker Lewis Can't Lose'"
+    ]
   }
 ]

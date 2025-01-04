@@ -43,5 +43,19 @@
       "Co-founder of Flickr"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Stewart Brand",
+    "givenNames": [
+      "Stewart"
+    ],
+    "familyName": "Brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Brand",
+    "occupation": "Author, Environmental Activist",
+    "achievements": [
+      "Published the Whole Earth Catalog",
+      "Advocate for sustainability and environmentalism"
+    ],
+    "yearBorn": 1938
   }
 ]

@@ -57,5 +57,19 @@
       "One of the most prolific goalscorers in Bundesliga history"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Claudio Marchisio",
+    "givenNames": [
+      "Claudio"
+    ],
+    "familyName": "Marchisio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Marchisio",
+    "occupation": "Football player",
+    "achievements": [
+      "Won seven Serie A titles and four Coppa Italia titles with Juventus.",
+      "Represented Italy in two FIFA World Cups and the UEFA European Championship."
+    ],
+    "yearBorn": 1986
   }
 ]

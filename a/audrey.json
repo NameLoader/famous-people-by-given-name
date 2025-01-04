@@ -15,22 +15,6 @@
     "yearBorn": 1976
   },
   {
-    "fullName": "Audrey McDonald",
-    "givenNames": [
-      "Audra",
-      "Ann"
-    ],
-    "familyName": "McDonald",
-    "wikipedia": "https://en.wikipedia.org/wiki/Audra_McDonald",
-    "occupation": "Actress and Singer",
-    "achievements": [
-      "Six Tony Awards (most for any actor)",
-      "Grammy Award",
-      "Emmy Award nomination"
-    ],
-    "yearBorn": 1970
-  },
-  {
     "fullName": "Audrey Meadows",
     "givenNames": [
       "Audrey"
@@ -43,5 +27,36 @@
     ],
     "yearBorn": 1922,
     "yearDied": 1996
+  },
+  {
+    "fullName": "Audrey Hepburn",
+    "givenNames": [
+      "Audrey",
+      "Kathleen"
+    ],
+    "familyName": "Hepburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Hepburn",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Tony Award",
+      "Grammy Award",
+      "UNICEF Goodwill Ambassador"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Audrey Landers",
+    "givenNames": [
+      "Audrey"
+    ],
+    "familyName": "Landers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audrey_Landers",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for role in Dallas"
+    ],
+    "yearBorn": 1953
   }
 ]

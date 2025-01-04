@@ -42,5 +42,20 @@
     ],
     "yearBorn": 1869,
     "yearDied": 1964
+  },
+  {
+    "fullName": "Emilio Colombo",
+    "givenNames": [
+      "Emilio"
+    ],
+    "familyName": "Colombo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emilio_Colombo",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Italy from 1970 to 1972",
+      "Held various ministerial positions throughout his career"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2013
   }
 ]

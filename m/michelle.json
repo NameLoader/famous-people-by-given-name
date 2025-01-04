@@ -18,8 +18,7 @@
   {
     "fullName": "Michelle Yeoh",
     "givenNames": [
-      "Michelle",
-      "Choo Kheng"
+      "Michelle"
     ],
     "familyName": "Yeoh",
     "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Yeoh",
@@ -60,5 +59,33 @@
       "Nine-time US Champion"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Michelle Branch",
+    "givenNames": [
+      "Michelle",
+      "Jacquet"
+    ],
+    "familyName": "Branch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Branch",
+    "occupation": "Singer-songwriter, Guitarist",
+    "achievements": [
+      "Grammy Award winner for Best Pop Collaboration with Vocals (The Game of Love)"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Michelle Wie West",
+    "givenNames": [
+      "Michelle",
+      "Sung"
+    ],
+    "familyName": "Wie West",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Wie_West",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "Five-time LPGA Tour winner"
+    ],
+    "yearBorn": 1989
   }
 ]

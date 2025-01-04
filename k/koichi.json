@@ -26,5 +26,18 @@
       "Popular narrator for documentaries and television programs"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Koichi Tanaka",
+    "givenNames": [
+      "Koichi"
+    ],
+    "familyName": "Tanaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Tanaka",
+    "occupation": "Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (2002) for his work on mass spectrometry"
+    ],
+    "yearBorn": 1959
   }
 ]

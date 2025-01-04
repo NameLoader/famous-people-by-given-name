@@ -28,5 +28,20 @@
       "Academy Award winner for Best Actress for 'Boys Don't Cry' (1999) and 'Million Dollar Baby' (2004)"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Hilary Duff",
+    "givenNames": [
+      "Hilary",
+      "Erhard"
+    ],
+    "familyName": "Duff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hilary_Duff",
+    "occupation": "Actress, Singer, Songwriter",
+    "achievements": [
+      "Known for her roles in Disney Channel series 'Lizzie McGuire' and films like 'A Cinderella Story'",
+      "Successful music career with hit singles such as 'Come Clean' and 'So Yesterday'"
+    ],
+    "yearBorn": 1987
   }
 ]

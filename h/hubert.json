@@ -29,5 +29,24 @@
       "Popularized science through his writing and public speaking"
     ],
     "yearBorn": 1932
+  },
+  {
+    "fullName": "Hubert de Givenchy",
+    "givenNames": [
+      "Hubert",
+      "James",
+      "Marcel",
+      "Taffin"
+    ],
+    "familyName": "Givenchy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hubert_de_Givenchy",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Founded the House of Givenchy fashion label",
+      "Designed costumes for Audrey Hepburn in films like 'Breakfast at Tiffany's' and 'Sabrina'",
+      "Received the Legion d'Honneur"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2018
   }
 ]

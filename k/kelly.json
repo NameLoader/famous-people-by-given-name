@@ -44,5 +44,22 @@
       "Widely regarded as the greatest surfer of all time"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Kelly Osbourne",
+    "givenNames": [
+      "Kelly",
+      "Michelle",
+      "Lee"
+    ],
+    "familyName": "Osbourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kelly_Osbourne",
+    "occupation": "Singer, actress, television personality",
+    "achievements": [
+      "Starred in the MTV reality show The Osbournes",
+      "Released several albums",
+      "Appeared on various television shows"
+    ],
+    "yearBorn": 1984
   }
 ]

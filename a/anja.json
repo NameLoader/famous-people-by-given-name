@@ -27,5 +27,19 @@
     ],
     "yearBorn": 1965,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Anja Karliczek",
+    "givenNames": [
+      "Anja",
+      "Maria-Antonia"
+    ],
+    "familyName": "Karliczek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anja_Karliczek",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as the Federal Minister of Education and Research in Germany from 2018 to 2021"
+    ],
+    "yearBorn": 1971
   }
 ]

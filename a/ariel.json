@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Ariel Winter",
+    "givenNames": [
+      "Ariel"
+    ],
+    "familyName": "Winter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ariel_Winter",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Alex Dunphy on the sitcom 'Modern Family'",
+      "Voice actress in animated films and TV shows"
+    ],
+    "yearBorn": 1998
   }
 ]

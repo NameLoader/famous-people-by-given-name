@@ -19,7 +19,8 @@
     "fullName": "Russell T. Davies",
     "givenNames": [
       "Russell",
-      "Stephen"
+      "Stephen",
+      "T"
     ],
     "familyName": "Davies",
     "wikipedia": "https://en.wikipedia.org/wiki/Russell_T_Davies",
@@ -45,5 +46,36 @@
       "Film and television producer"
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "Russell Crowe",
+    "givenNames": [
+      "Russell",
+      "Ira"
+    ],
+    "familyName": "Crowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Crowe",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Academy Award for Best Actor (Gladiator)",
+      "Known for roles in Gladiator, A Beautiful Mind, Master and Commander: The Far Side of the World"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Russell Brand",
+    "givenNames": [
+      "Russell",
+      "Edward"
+    ],
+    "familyName": "Brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Russell_Brand",
+    "occupation": "Comedian, Actor, Author, Presenter",
+    "achievements": [
+      "Stand-up comedy career",
+      "Film roles in Forgetting Sarah Marshall, Get Him to the Greek",
+      "Advocacy for social and political issues"
+    ],
+    "yearBorn": 1975
   }
 ]

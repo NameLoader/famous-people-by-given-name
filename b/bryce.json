@@ -45,5 +45,19 @@
     ],
     "yearBorn": 1923,
     "yearDied": 2004
+  },
+  {
+    "fullName": "Bryce Love",
+    "givenNames": [
+      "Bryce"
+    ],
+    "familyName": "Love",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryce_Love",
+    "occupation": "Professional football player",
+    "achievements": [
+      "Heisman Trophy finalist in 2017",
+      "Played for the Stanford Cardinal and Seattle Seahawks"
+    ],
+    "yearBorn": 1997
   }
 ]

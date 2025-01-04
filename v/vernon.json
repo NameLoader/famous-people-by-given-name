@@ -44,5 +44,20 @@
       "Won a Super Bowl XLVII with the San Francisco 49ers."
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Vernon Kay",
+    "givenNames": [
+      "Vernon",
+      "Charles"
+    ],
+    "familyName": "Kay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vernon_Kay",
+    "occupation": "Television presenter, radio DJ",
+    "achievements": [
+      "Hosted numerous television shows in the UK, including 'Family Fortunes' and 'T4'",
+      "Presented radio shows on BBC Radio 1 and Smooth Radio"
+    ],
+    "yearBorn": 1974
   }
 ]

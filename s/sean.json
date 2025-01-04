@@ -44,5 +44,19 @@
       "Founded Bad Boy Records"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Sean Astin",
+    "givenNames": [
+      "Sean",
+      "Patrick"
+    ],
+    "familyName": "Astin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sean_Astin",
+    "occupation": "Actor, director, producer",
+    "achievements": [
+      "Known for roles in The Goonies, Rudy, and Lord of the Rings trilogy"
+    ],
+    "yearBorn": 1971
   }
 ]

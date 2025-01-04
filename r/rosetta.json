@@ -11,5 +11,20 @@
       "A granodiorite stele inscribed with a decree issued at Memphis, Egypt in 196 BC on behalf of King Ptolemy V.",
       "Key to deciphering hieroglyphs due to its inscription in three scripts: Ancient Egyptian hieroglyphs, Demotic script, and Ancient Greek."
     ]
+  },
+  {
+    "fullName": "Rosetta Tharpe",
+    "givenNames": [
+      "Rosetta"
+    ],
+    "familyName": "Tharpe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe",
+    "occupation": "Gospel singer and guitarist",
+    "achievements": [
+      "Known as 'the Godmother of Rock and Roll'",
+      "Pioneer in bringing electric guitar to gospel music"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1973
   }
 ]

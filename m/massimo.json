@@ -39,5 +39,34 @@
       "Head of the Magliana Band"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Massimo Dutti",
+    "givenNames": [
+      "Massimo"
+    ],
+    "familyName": "Dutti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massimo_Dutti",
+    "occupation": "Fashion brand",
+    "achievements": [
+      "Spanish clothing and accessories retailer owned by Inditex",
+      "Known for its sophisticated and stylish designs",
+      "Offers a wide range of products for men, women, and children"
+    ]
+  },
+  {
+    "fullName": "Massimo Ambrosini",
+    "givenNames": [
+      "Massimo"
+    ],
+    "familyName": "Ambrosini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massimo_Ambrosini",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played as a midfielder for various Italian clubs, including AC Milan and Fiorentina",
+      "Won the Serie A title with AC Milan in 2004",
+      "Represented Italy at the international level"
+    ],
+    "yearBorn": 1977
   }
 ]

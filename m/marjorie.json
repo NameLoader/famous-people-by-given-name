@@ -30,5 +30,17 @@
     ],
     "yearBorn": 1896,
     "yearDied": 1953
+  },
+  {
+    "fullName": "Marjorie Morningstar",
+    "givenNames": [
+      "Marjorie"
+    ],
+    "familyName": "Morningstar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marjorie_Morningstar_(novel)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Herman Wouk's 1955 novel 'Marjorie Morningstar'"
+    ]
   }
 ]

@@ -18,9 +18,9 @@
   {
     "fullName": "Wilfried Zaha",
     "givenNames": [
-      "Dazet",
       "Wilfried",
-      "Armel"
+      "Armel",
+      "Dazet"
     ],
     "familyName": "Zaha",
     "wikipedia": "https://en.wikipedia.org/wiki/Wilfried_Zaha",
@@ -30,5 +30,20 @@
       "Ivory Coast International"
     ],
     "yearBorn": 1992
+  },
+  {
+    "fullName": "Wilfried Bony",
+    "givenNames": [
+      "Wilfried",
+      "Guemiand"
+    ],
+    "familyName": "Bony",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilfried_Bony",
+    "occupation": "Footballer",
+    "achievements": [
+      "Ivory Coast international",
+      "Premier League player"
+    ],
+    "yearBorn": 1988
   }
 ]

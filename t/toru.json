@@ -1,14 +1,45 @@
 [
   {
-    "fullName": "Toru Iwatani",
+    "fullName": "Toru Takemitsu",
     "givenNames": [
       "Tōru"
     ],
+    "familyName": "Takemitsu",
+    "wikipedia": "https://en.wikipedia.org/wiki/T%C5%8Dru_Takemitsu",
+    "occupation": "Composer",
+    "achievements": [
+      "Won the Academy Award for Best Original Score for the film Ran (1985).",
+      "Known for his innovative and experimental approach to composition.",
+      "Bridged traditional Japanese music with Western classical music."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Toru Dutt",
+    "givenNames": [
+      "Toru"
+    ],
+    "familyName": "Dutt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toru_Dutt",
+    "occupation": "Poet and Translator",
+    "achievements": [
+      "Considered one of the pioneers of Indo-Anglian literature.",
+      "Known for her lyrical poetry and translations from French and Sanskrit."
+    ],
+    "yearBorn": 1856,
+    "yearDied": 1873
+  },
+  {
+    "fullName": "Toru Iwatani",
+    "givenNames": [
+      "Toru"
+    ],
     "familyName": "Iwatani",
     "wikipedia": "https://en.wikipedia.org/wiki/T%C5%8Dru_Iwatani",
-    "occupation": "Video game designer",
+    "occupation": "Video Game Designer",
     "achievements": [
-      "Created the iconic arcade game Pac-Man"
+      "Creator of the iconic arcade game Pac-Man (1980)."
     ],
     "yearBorn": 1955
   }

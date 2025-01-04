@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1923,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Nadine Velazquez",
+    "givenNames": [
+      "Nadine",
+      "E."
+    ],
+    "familyName": "Velazquez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadine_Velazquez",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Known for roles in 'My Name Is Earl' and 'Flight'"
+    ],
+    "yearBorn": 1978
   }
 ]

@@ -43,5 +43,19 @@
     ],
     "yearBorn": 1912,
     "yearDied": 1985
+  },
+  {
+    "fullName": "Axel Voss",
+    "givenNames": [
+      "Axel"
+    ],
+    "familyName": "Voss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_Voss",
+    "occupation": "Politician",
+    "achievements": [
+      "German politician and Member of the European Parliament (MEP)",
+      "Member of the Christian Democratic Union (CDU)"
+    ],
+    "yearBorn": 1962
   }
 ]

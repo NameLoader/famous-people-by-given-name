@@ -42,5 +42,38 @@
       "Championed diversity and representation in comics"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Gail Goodrich",
+    "givenNames": [
+      "Gail",
+      "Charles"
+    ],
+    "familyName": "Goodrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gail_Goodrich",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (1972)",
+      "9x NBA All-Star",
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Gail Zappa",
+    "givenNames": [
+      "Gail",
+      "Adelaide"
+    ],
+    "familyName": "Zappa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gail_Zappa",
+    "occupation": "Musician, businesswoman",
+    "achievements": [
+      "Managed the Zappa Family Trust",
+      "Released posthumous Frank Zappa works",
+      "Advocate for artists' rights"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 2015
   }
 ]

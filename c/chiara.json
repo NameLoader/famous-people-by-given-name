@@ -13,5 +13,36 @@
       "Named by Forbes as one of the top-earning influencers"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Chiara Mastroianni",
+    "givenNames": [
+      "Chiara",
+      "Charlotte"
+    ],
+    "familyName": "Mastroianni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiara_Mastroianni",
+    "occupation": "Actress",
+    "achievements": [
+      "Daughter of acclaimed actor Marcello Mastroianni.",
+      "Starred in films like 'A Monkey's Tale' and 'The Son's Room'."
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Chiara Lubich",
+    "givenNames": [
+      "Chiara",
+      "Silvia"
+    ],
+    "familyName": "Lubich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chiara_Lubich",
+    "occupation": "Catholic activist, founder of the Focolare Movement",
+    "achievements": [
+      "Promoted unity and interreligious dialogue.",
+      "Received numerous awards for her humanitarian work."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2008
   }
 ]

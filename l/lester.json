@@ -28,5 +28,38 @@
       "First African-American to solo anchor a weekday network nightly newscast"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Lester Bangs",
+    "givenNames": [
+      "Leslie",
+      "Conway",
+      "Lester"
+    ],
+    "familyName": "Bangs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Bangs",
+    "occupation": "Music Journalist, Critic",
+    "achievements": [
+      "Pioneering voice in punk and rock criticism",
+      "Authored influential books like 'Psychotic Reactions and Carburetor Dung'"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Lester Young",
+    "givenNames": [
+      "Lester",
+      "Willis"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Young",
+    "occupation": "Jazz Saxophonist, Composer",
+    "achievements": [
+      "Influential tenor saxophonist known for his lyrical style",
+      "Collaborated with Count Basie and Billie Holiday"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1959
   }
 ]

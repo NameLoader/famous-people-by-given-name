@@ -11,5 +11,20 @@
       "Member of the classical crossover trio Il Volo"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Ignazio Silone",
+    "givenNames": [
+      "Ignazio"
+    ],
+    "familyName": "Silone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ignazio_Silone",
+    "occupation": "Writer",
+    "achievements": [
+      "Prominent Italian novelist and essayist.",
+      "Known for his works exploring themes of social justice and political oppression."
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1978
   }
 ]

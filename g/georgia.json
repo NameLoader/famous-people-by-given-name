@@ -15,5 +15,21 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1986
+  },
+  {
+    "fullName": "Georgia May Jagger",
+    "givenNames": [
+      "Georgia",
+      "May",
+      "Ayeesha"
+    ],
+    "familyName": "Jagger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgia_May_Jagger",
+    "occupation": "Model",
+    "achievements": [
+      "Daughter of Mick Jagger and Jerry Hall",
+      "Successful modeling career for brands like Chanel and Rimmel"
+    ],
+    "yearBorn": 1992
   }
 ]

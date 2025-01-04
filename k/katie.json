@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Katie Ledecky",
+    "givenNames": [
+      "Kathleen",
+      "Genevieve"
+    ],
+    "familyName": "Ledecky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katie_Ledecky",
+    "occupation": "Swimmer",
+    "achievements": [
+      "5-time Olympic gold medalist",
+      "15-time world champion",
+      "Holds world records in multiple freestyle events"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Katie Holmes",
+    "givenNames": [
+      "Kate",
+      "Noelle"
+    ],
+    "familyName": "Holmes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katie_Holmes",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Dawson's Creek, Batman Begins, and other films and television shows"
+    ],
+    "yearBorn": 1978
+  }
+]

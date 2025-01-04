@@ -55,5 +55,18 @@
       "Directed episodes of the HBO series 'Gomorrah'"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Stefano Boeri",
+    "givenNames": [
+      "Stefano"
+    ],
+    "familyName": "Boeri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefano_Boeri",
+    "occupation": "Architect",
+    "achievements": [
+      "Known for his vertical forests and sustainable architecture designs"
+    ],
+    "yearBorn": 1956
   }
 ]

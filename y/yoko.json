@@ -13,5 +13,32 @@
       "Peace activism"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Yoko Shimomura",
+    "givenNames": [
+      "Yoko"
+    ],
+    "familyName": "Shimomura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Shimomura",
+    "occupation": "Video game composer",
+    "achievements": [
+      "Composer for notable video game franchises including Kingdom Hearts, Final Fantasy, and Street Fighter"
+    ]
+  },
+  {
+    "fullName": "Yoko Tawada",
+    "givenNames": [
+      "Yōko"
+    ],
+    "familyName": "Tawada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoko_Tawada",
+    "occupation": "Writer",
+    "achievements": [
+      "Japanese-German novelist and essayist.",
+      "Winner of the prestigious Akutagawa Prize for her novel 'The Bridegroom Was a Dog'.",
+      "Known for her surreal and experimental writing style."
+    ],
+    "yearBorn": 1960
   }
 ]

@@ -45,5 +45,19 @@
       "Key figure in the Brazilian Concrete poetry movement"
     ],
     "yearBorn": 1931
+  },
+  {
+    "fullName": "Augusto Boal",
+    "givenNames": [
+      "Augusto"
+    ],
+    "familyName": "Boal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augusto_Boal",
+    "occupation": "Theatre director, actor, and theorist",
+    "achievements": [
+      "Developed the Theatre of the Oppressed movement"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2009
   }
 ]

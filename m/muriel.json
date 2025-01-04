@@ -30,5 +30,21 @@
     ],
     "yearBorn": 1913,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Muriel Box",
+    "givenNames": [
+      "Violette",
+      "Muriel"
+    ],
+    "familyName": "Box",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muriel_Box",
+    "occupation": "Screenwriter and film director",
+    "achievements": [
+      "Known for her collaborations with husband Sydney Box on films like 'The Seventh Veil' and 'The Clouded Yellow'",
+      "Won the BAFTA Award for Best British Film for 'The Small Back Room'"
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1991
   }
 ]

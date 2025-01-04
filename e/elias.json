@@ -43,5 +43,35 @@
     ],
     "yearBorn": 1740,
     "yearDied": 1821
+  },
+  {
+    "fullName": "Elias Ashmole",
+    "givenNames": [
+      "Elias"
+    ],
+    "familyName": "Ashmole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_Ashmole",
+    "occupation": "Antiquarian, Alchemist, Scholar",
+    "achievements": [
+      "Founder of the Ashmolean Museum in Oxford",
+      "Studied alchemy and contributed to early scientific thought"
+    ],
+    "yearBorn": 1617,
+    "yearDied": 1692
+  },
+  {
+    "fullName": "Elias James Corey",
+    "givenNames": [
+      "Elias",
+      "James"
+    ],
+    "familyName": "Corey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elias_James_Corey",
+    "occupation": "Chemist, Nobel Prize laureate",
+    "achievements": [
+      "Nobel Prize in Chemistry (1990)",
+      "Pioneered retrosynthetic analysis, a powerful method for planning organic synthesis"
+    ],
+    "yearBorn": 1928
   }
 ]

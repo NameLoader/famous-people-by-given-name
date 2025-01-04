@@ -54,5 +54,21 @@
       "Bestselling author known for novels such as 'Kane and Abel' and 'The Clifton Chronicles'"
     ],
     "yearBorn": 1940
+  },
+  {
+    "fullName": "Jeffrey Bezos",
+    "givenNames": [
+      "Jeffrey",
+      "Preston"
+    ],
+    "familyName": "Bezos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+    "occupation": "Entrepreneur, Business Magnate",
+    "achievements": [
+      "Founder of Amazon",
+      "Founder of Blue Origin",
+      "One of the wealthiest individuals in history"
+    ],
+    "yearBorn": 1964
   }
 ]

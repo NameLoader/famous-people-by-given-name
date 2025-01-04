@@ -1,21 +1,5 @@
 [
   {
-    "fullName": "Michel Foucault",
-    "givenNames": [
-      "Paul-Michel"
-    ],
-    "familyName": "Foucault",
-    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Foucault",
-    "occupation": "Philosopher, historian, social theorist",
-    "achievements": [
-      "Developed influential theories on power, knowledge, and discourse",
-      "Wrote key works such as 'Madness and Civilization' and 'Discipline and Punish'",
-      "Critiqued institutions like prisons, mental hospitals, and schools"
-    ],
-    "yearBorn": 1926,
-    "yearDied": 1984
-  },
-  {
     "fullName": "Michel Platini",
     "givenNames": [
       "Michel",
@@ -30,5 +14,20 @@
       "Served as president of UEFA from 2007 to 2015"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Michel Foucault",
+    "givenNames": [
+      "Paul-Michel"
+    ],
+    "familyName": "Foucault",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Foucault",
+    "occupation": "Philosopher, Historian, Social Theorist",
+    "achievements": [
+      "Developed theories of power and discourse",
+      "Authored influential works like 'Madness and Civilization' and 'Discipline and Punish'"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 1984
   }
 ]

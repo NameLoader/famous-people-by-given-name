@@ -1,18 +1,5 @@
 [
   {
-    "fullName": "Alison Brie",
-    "givenNames": [
-      "Alison"
-    ],
-    "familyName": "Brie",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Brie",
-    "occupation": "Actress",
-    "achievements": [
-      "Known for roles in 'Community', 'Mad Men', and 'GLOW'"
-    ],
-    "yearBorn": 1982
-  },
-  {
     "fullName": "Alison Bechdel",
     "givenNames": [
       "Alison"
@@ -39,5 +26,46 @@
       "Known for roles in 'Abigail's Party', 'Gavin & Stacey'"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Alison Brie",
+    "givenNames": [
+      "Alison"
+    ],
+    "familyName": "Brie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Brie",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Community', 'Mad Men', and 'GLOW'"
+    ],
+    "yearBorn": 1982
+  },
+  {
+    "fullName": "Alison Krauss",
+    "givenNames": [
+      "Alison",
+      "Maria"
+    ],
+    "familyName": "Krauss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Krauss",
+    "occupation": "Singer, musician, songwriter",
+    "achievements": [
+      "27-time Grammy Award winner",
+      "Known for bluegrass music"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Alison Weir",
+    "givenNames": [
+      "Alison"
+    ],
+    "familyName": "Weir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alison_Weir",
+    "occupation": "Historian, author",
+    "achievements": [
+      "Authored numerous bestselling historical books on British monarchs"
+    ],
+    "yearBorn": 1951
   }
 ]

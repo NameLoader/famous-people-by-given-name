@@ -14,5 +14,48 @@
     ],
     "yearBorn": 1916,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Françoise Sagan",
+    "givenNames": [
+      "Françoise"
+    ],
+    "familyName": "Sagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Sagan",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Known for her novels exploring themes of love, disillusionment, and existentialism.",
+      "Authored the acclaimed novel \"Bonjour Tristesse\" at a young age."
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2004
+  },
+  {
+    "fullName": "Françoise Barré-Sinoussi",
+    "givenNames": [
+      "Françoise"
+    ],
+    "familyName": "Barré-Sinoussi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi",
+    "occupation": "Virologist",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 2008 for her co-discovery of the human immunodeficiency virus (HIV)."
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Françoise Gilot",
+    "givenNames": [
+      "Françoise",
+      "Gaime"
+    ],
+    "familyName": "Gilot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_Gilot",
+    "occupation": "Painter, Author",
+    "achievements": [
+      "Long-term partner and muse of Pablo Picasso",
+      "Celebrated for her own abstract expressionist paintings"
+    ],
+    "yearBorn": 1921
   }
 ]

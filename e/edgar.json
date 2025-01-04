@@ -63,5 +63,38 @@
       "Directed films such as 'Shaun of the Dead', 'Hot Fuzz', and 'Baby Driver'"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Edgar Rice Burroughs",
+    "givenNames": [
+      "Edgar",
+      "Rice"
+    ],
+    "familyName": "Burroughs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs",
+    "occupation": "Author",
+    "achievements": [
+      "Creator of Tarzan and John Carter of Mars",
+      "Popularized adventure fiction with exotic settings",
+      "Prolific writer who influenced generations of readers"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1945
+  },
+  {
+    "fullName": "Edgar Cayce",
+    "givenNames": [
+      "Edgar"
+    ],
+    "familyName": "Cayce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Cayce",
+    "occupation": "Psychic, Mystic",
+    "achievements": [
+      "Known for his alleged psychic readings and healing abilities",
+      "Founded the Association for Research and Enlightenment (A.R.E.)",
+      "Influential figure in the New Age movement"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1945
   }
 ]

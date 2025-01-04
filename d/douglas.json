@@ -30,5 +30,50 @@
     ],
     "yearBorn": 1883,
     "yearDied": 1939
+  },
+  {
+    "fullName": "Douglas Hofstadter",
+    "givenNames": [
+      "Douglas",
+      "Richard"
+    ],
+    "familyName": "Hofstadter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Hofstadter",
+    "occupation": "Cognitive scientist, Professor",
+    "achievements": [
+      "Pulitzer Prize winner for Gödel, Escher, Bach: An Eternal Golden Braid"
+    ],
+    "yearBorn": 1945
+  },
+  {
+    "fullName": "Douglas Fairbanks Jr.",
+    "givenNames": [
+      "Douglas",
+      "Elton"
+    ],
+    "familyName": "Fairbanks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks_Jr.",
+    "occupation": "Actor",
+    "achievements": [
+      "Leading man in Hollywood during the 1930s and 40s",
+      "Served in the US Navy during World War II"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 2000
+  },
+  {
+    "fullName": "Douglas Emhoff",
+    "givenNames": [
+      "Douglas",
+      "Craig"
+    ],
+    "familyName": "Emhoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doug_Emhoff",
+    "occupation": "Lawyer",
+    "achievements": [
+      "First Second Gentleman of the United States",
+      "Husband of Vice President Kamala Harris"
+    ],
+    "yearBorn": 1964
   }
 ]

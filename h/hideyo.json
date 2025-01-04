@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Hideyo Noguchi",
+    "givenNames": [
+      "Hideyo",
+      "Seisaku"
+    ],
+    "familyName": "Noguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hideyo_Noguchi",
+    "occupation": "Bacteriologist, Pathologist",
+    "achievements": [
+      "Pioneering research on syphilis, yellow fever, and Rocky Mountain spotted fever",
+      "Discovery of the causative agent of meningopneumonia in rabbits"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1928
+  }
+]

@@ -27,5 +27,35 @@
       "Won eight Daytime Emmy Awards for her role as Victoria Lord"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Erika Alexander",
+    "givenNames": [
+      "Erika",
+      "Rose"
+    ],
+    "familyName": "Alexander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erika_Alexander",
+    "occupation": "Actress, Producer",
+    "achievements": [
+      "Known for her role as Maxine Shaw on the television series Living Single",
+      "Appeared in films such as The Cosby Show and He Got Game"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Erika Sánchez",
+    "givenNames": [
+      "Erika",
+      "L"
+    ],
+    "familyName": "Sánchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erika_S%C3%A1nchez",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Author of the novel 'I'm Not Your Perfect Mexican Daughter'",
+      "Recipient of the Pura Belpré Award"
+    ],
+    "yearBorn": 1984
   }
 ]

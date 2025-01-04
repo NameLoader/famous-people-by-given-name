@@ -13,5 +13,20 @@
       "Actress in films like 'The People vs. Larry Flynt'"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Courtney Barnett",
+    "givenNames": [
+      "Courtney",
+      "Melba"
+    ],
+    "familyName": "Barnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Courtney_Barnett",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Known for her indie rock and lo-fi sound",
+      "Nominated for multiple ARIA Music Awards"
+    ],
+    "yearBorn": 1987
   }
 ]

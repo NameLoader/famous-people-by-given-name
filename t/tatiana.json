@@ -25,5 +25,19 @@
       "Reached a career-high ranking of No. 12 in the world"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Tatiana Navka",
+    "givenNames": [
+      "Tatiana",
+      "Aleksandrovna"
+    ],
+    "familyName": "Navka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatiana_Navka",
+    "occupation": "Russian figure skater and Olympic champion",
+    "achievements": [
+      "Won the gold medal in ice dancing at the 2006 Winter Olympics with partner Roman Kostomarov"
+    ],
+    "yearBorn": 1975
   }
 ]

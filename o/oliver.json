@@ -57,5 +57,17 @@
       "Known for his controversial and politically charged films"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Oliver Twist",
+    "givenNames": [
+      "Oliver"
+    ],
+    "familyName": "Twist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Twist_(character)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Charles Dickens' novel 'Oliver Twist'"
+    ]
   }
 ]

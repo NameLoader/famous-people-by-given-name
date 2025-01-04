@@ -43,5 +43,34 @@
     ],
     "yearBorn": 1957,
     "yearDied": 2019
+  },
+  {
+    "fullName": "Sara Gilbert",
+    "givenNames": [
+      "Sara"
+    ],
+    "familyName": "Gilbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Gilbert",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Known for her role as Darlene Conner on the sitcom Roseanne",
+      "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series for her role in The Conners"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Sara Ali Khan",
+    "givenNames": [
+      "Sara",
+      "Ali"
+    ],
+    "familyName": "Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Ali_Khan",
+    "occupation": "Actress",
+    "achievements": [
+      "Recipient of the Filmfare Award for Best Female Debut",
+      "Known for her roles in films like 'Kedarnath' and 'Simmba'"
+    ],
+    "yearBorn": 1995
   }
 ]

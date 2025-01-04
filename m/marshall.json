@@ -15,18 +15,19 @@
     "yearBorn": 1972
   },
   {
-    "fullName": "Marshall Thurman Pinchot",
+    "fullName": "Marshall Thurgood Marshall",
     "givenNames": [
-      "Gifford"
+      "Thurgood"
     ],
-    "familyName": "Pinchot",
-    "wikipedia": "https://en.wikipedia.org/wiki/Gifford_Pinchot",
-    "occupation": "Forester, conservationist, politician",
+    "familyName": "Marshall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
+    "occupation": "Lawyer, judge",
     "achievements": [
-      "First Chief of the United States Forest Service",
-      "Advocate for conservation and sustainable forestry practices"
+      "First African American Supreme Court Justice",
+      "Led the NAACP Legal Defense and Educational Fund",
+      "Won Brown v. Board of Education case"
     ],
-    "yearBorn": 1865,
-    "yearDied": 1946
+    "yearBorn": 1908,
+    "yearDied": 1993
   }
 ]

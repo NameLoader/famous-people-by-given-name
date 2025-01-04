@@ -27,5 +27,20 @@
       "Former UFC Women's Strawweight Champion."
     ],
     "yearBorn": 1992
+  },
+  {
+    "fullName": "Rose McGowan",
+    "givenNames": [
+      "Rose",
+      "Rósa Arianna"
+    ],
+    "familyName": "McGowan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_McGowan",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Known for her role in the television series Charmed.",
+      "Prominent figure in the #MeToo movement."
+    ],
+    "yearBorn": 1973
   }
 ]

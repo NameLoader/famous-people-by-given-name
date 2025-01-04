@@ -26,5 +26,19 @@
     ],
     "yearBorn": 1837,
     "yearDied": 1903
+  },
+  {
+    "fullName": "Alois Brunner",
+    "givenNames": [
+      "Alois"
+    ],
+    "familyName": "Brunner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alois_Brunner",
+    "occupation": "Nazi SS officer",
+    "achievements": [
+      "Convicted of war crimes in absentia"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2010
   }
 ]

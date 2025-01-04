@@ -44,5 +44,20 @@
       "Won numerous Emmy Awards and a Grammy Award."
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Rachel Weisz",
+    "givenNames": [
+      "Rachel",
+      "Hannah"
+    ],
+    "familyName": "Weisz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Weisz",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award winner for Best Supporting Actress in The Constant Gardener.",
+      "Known for roles in The Mummy, About a Boy, and The Favourite."
+    ],
+    "yearBorn": 1970
   }
 ]

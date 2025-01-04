@@ -58,5 +58,31 @@
       "Successful fashion and beauty brand"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Jessica Parker",
+    "givenNames": [
+      "Sarah",
+      "Jessica"
+    ],
+    "familyName": "Parker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Jessica_Parker",
+    "occupation": "Actress, producer",
+    "achievements": [],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Jessica Ennis-Hill",
+    "givenNames": [
+      "Jessica"
+    ],
+    "familyName": "Ennis-Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Ennis-Hill",
+    "occupation": "Athlete",
+    "achievements": [
+      "Olympic gold medalist (heptathlon)",
+      "World Champion (heptathlon)"
+    ],
+    "yearBorn": 1986
   }
 ]

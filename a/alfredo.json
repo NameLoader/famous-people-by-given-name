@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1927,
     "yearDied": 1999
+  },
+  {
+    "fullName": "Alfredo Di Stéfano",
+    "givenNames": [
+      "Alfredo"
+    ],
+    "familyName": "Di Stéfano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano",
+    "occupation": "Footballer",
+    "achievements": [
+      "Considered one of the greatest footballers of all time",
+      "Won five consecutive European Cups with Real Madrid",
+      "Two-time Ballon d'Or winner"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2014
   }
 ]

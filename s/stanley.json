@@ -15,18 +15,6 @@
     "yearDied": 1999
   },
   {
-    "fullName": "Stanley Ipkiss",
-    "givenNames": [
-      "Stanley"
-    ],
-    "familyName": "Ipkiss",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Mask_(1994_film)",
-    "occupation": "Fictional Character",
-    "achievements": [
-      "Protagonist of the 1994 superhero comedy film \"The Mask\""
-    ]
-  },
-  {
     "fullName": "Stanley Milgram",
     "givenNames": [
       "Stanley"
@@ -39,5 +27,19 @@
     ],
     "yearBorn": 1933,
     "yearDied": 1984
+  },
+  {
+    "fullName": "Stanley Tucci",
+    "givenNames": [
+      "Stanley"
+    ],
+    "familyName": "Tucci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Tucci",
+    "occupation": "Actor, filmmaker",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actor in 'The Lovely Bones'",
+      "Known for his versatility and roles in films such as 'Big Night', 'Julie & Julia', and the 'Hunger Games' franchise"
+    ],
+    "yearBorn": 1960
   }
 ]

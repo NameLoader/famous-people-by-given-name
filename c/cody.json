@@ -43,5 +43,20 @@
       "Multiple number-one hits on the Billboard Country Airplay chart",
       "Grammy Award nominee"
     ]
+  },
+  {
+    "fullName": "Cody Rhodes",
+    "givenNames": [
+      "Cody",
+      "Garrett"
+    ],
+    "familyName": "Rhodes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cody_Rhodes",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Former AEW TNT Champion",
+      "Part of the Rhodes family wrestling dynasty"
+    ],
+    "yearBorn": 1985
   }
 ]

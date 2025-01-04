@@ -13,5 +13,36 @@
       "Won awards for her acting performances"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Agata Kornhauser-Duda",
+    "givenNames": [
+      "Agata"
+    ],
+    "familyName": "Kornhauser-Duda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agata_Kornhauser-Duda",
+    "occupation": "First Lady of Poland",
+    "achievements": [
+      "Wife of Andrzej Duda, the President of Poland.",
+      "Active in charitable work and social initiatives."
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Agata Christie",
+    "givenNames": [
+      "Agatha",
+      "Mary",
+      "Clarissa"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agatha_Christie",
+    "occupation": "Writer",
+    "achievements": [
+      "Best-selling fiction writer of all time.",
+      "Known for her detective novels featuring Hercule Poirot and Miss Marple."
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1976
   }
 ]

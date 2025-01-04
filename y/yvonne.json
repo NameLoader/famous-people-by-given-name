@@ -41,5 +41,20 @@
       "Starred in numerous Nollywood and Ghallywood films"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Yvonne Strahovski",
+    "givenNames": [
+      "Yvonne",
+      "Jaqueline"
+    ],
+    "familyName": "Strahovski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_Strahovski",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in the TV series \"Chuck\" and \"The Handmaid's Tale\"",
+      "Nominated for several awards including Primetime Emmy Awards"
+    ],
+    "yearBorn": 1982
   }
 ]

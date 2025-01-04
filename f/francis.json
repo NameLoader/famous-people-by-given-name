@@ -60,5 +60,50 @@
       "Directed iconic films such as \"The Godfather\" trilogy, \"Apocalypse Now\", and \"Bram Stoker's Dracula\""
     ],
     "yearBorn": 1939
+  },
+  {
+    "fullName": "Francis Drake",
+    "givenNames": [
+      "Francis"
+    ],
+    "familyName": "Drake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Drake",
+    "occupation": "Explorer, privateer, admiral",
+    "achievements": [
+      "Circumnavigated the globe",
+      "Led raids against Spanish ships and colonies"
+    ],
+    "yearBorn": 1540,
+    "yearDied": 1596
+  },
+  {
+    "fullName": "Francis Collins",
+    "givenNames": [
+      "Francis",
+      "Sellers"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Collins",
+    "occupation": "Geneticist, physician",
+    "achievements": [
+      "Led the Human Genome Project",
+      "Served as Director of the National Institutes of Health"
+    ],
+    "yearBorn": 1950
+  },
+  {
+    "fullName": "Francis Fukuyama",
+    "givenNames": [
+      "Francis",
+      "Yoshihiro"
+    ],
+    "familyName": "Fukuyama",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Fukuyama",
+    "occupation": "Political scientist, philosopher",
+    "achievements": [
+      "Authored influential works on the end of history and political order",
+      "Prominent commentator on international relations"
+    ],
+    "yearBorn": 1952
   }
 ]

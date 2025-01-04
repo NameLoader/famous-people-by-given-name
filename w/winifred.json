@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Winifred Holtby",
+    "givenNames": [
+      "Winifred"
+    ],
+    "familyName": "Holtby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Winifred_Holtby",
+    "occupation": "Novelist, journalist, biographer",
+    "achievements": [
+      "Authored acclaimed novels like 'South Riding' and 'The Land of the Lost'.",
+      "Known for her insightful social commentary and feminist perspectives."
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1935
   }
 ]

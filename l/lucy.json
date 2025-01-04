@@ -15,21 +15,6 @@
     "yearBorn": 1968
   },
   {
-    "fullName": "Lucy Lawless",
-    "givenNames": [
-      "Lucille",
-      "Frances"
-    ],
-    "familyName": "Lawless",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Lawless",
-    "occupation": "Actress and singer",
-    "achievements": [
-      "Known for her role as Xena in the television series 'Xena: Warrior Princess'",
-      "Appeared in other shows such as 'Battlestar Galactica' and 'Spartacus'"
-    ],
-    "yearBorn": 1968
-  },
-  {
     "fullName": "Lucy Maud Montgomery",
     "givenNames": [
       "Lucy",
@@ -44,5 +29,19 @@
     ],
     "yearBorn": 1874,
     "yearDied": 1942
+  },
+  {
+    "fullName": "Lucy Stone",
+    "givenNames": [
+      "Lucy"
+    ],
+    "familyName": "Stone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Stone",
+    "occupation": "Suffragist",
+    "achievements": [
+      "Early advocate for women's rights"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1893
   }
 ]

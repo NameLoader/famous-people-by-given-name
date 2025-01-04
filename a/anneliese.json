@@ -2,8 +2,9 @@
   {
     "fullName": "Anneliese Michel",
     "givenNames": [
-      "Anneliese",
-      "Anna Elisabeth"
+      "Anna",
+      "Elisabeth",
+      "Anneliese"
     ],
     "familyName": "Michel",
     "wikipedia": "https://en.wikipedia.org/wiki/Anneliese_Michel",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1952,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Anneliese van der Pol",
+    "givenNames": [
+      "Anneliese",
+      "Louise"
+    ],
+    "familyName": "van der Pol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anneliese_van_der_Pol",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Known for her role as Chelsea Daniels in the Disney Channel series 'That's So Raven'",
+      "Performed on Broadway in productions such as 'Beauty and the Beast'"
+    ],
+    "yearBorn": 1985
   }
 ]

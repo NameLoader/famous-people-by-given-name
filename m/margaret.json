@@ -59,5 +59,36 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1978
+  },
+  {
+    "fullName": "Margaret Sanger",
+    "givenNames": [
+      "Margaret",
+      "Higgins"
+    ],
+    "familyName": "Sanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Sanger",
+    "occupation": "Activist, Nurse",
+    "achievements": [
+      "Pioneer of the birth control movement",
+      "Founded Planned Parenthood"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Margaret Mitchell",
+    "givenNames": [
+      "Margaret",
+      "Munnerlyn"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mitchell",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of Gone with the Wind"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1949
   }
 ]

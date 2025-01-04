@@ -73,5 +73,35 @@
     "achievements": [
       "Founded Kenneth Cole Productions, a fashion and footwear company"
     ]
+  },
+  {
+    "fullName": "Kenneth E. Iverson",
+    "givenNames": [
+      "Kenneth",
+      "Eugene"
+    ],
+    "familyName": "Iverson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_E._Iverson",
+    "occupation": "Computer Scientist",
+    "achievements": [
+      "Created the APL programming language"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2014
+  },
+  {
+    "fullName": "Kenneth Koch",
+    "givenNames": [
+      "Kenneth",
+      "Jay"
+    ],
+    "familyName": "Koch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Koch",
+    "occupation": "Poet",
+    "achievements": [
+      "Prominent figure in the New York School of Poets"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 2002
   }
 ]

@@ -29,17 +29,5 @@
     ],
     "yearBorn": 1900,
     "yearDied": 1998
-  },
-  {
-    "fullName": "Julien Donkey-Boy",
-    "givenNames": [
-      "Julien"
-    ],
-    "familyName": "Donkey-Boy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Julien_Donkey-Boy",
-    "occupation": "Fictional Character",
-    "achievements": [
-      "Protagonist of the Harmony Korine film 'Julien Donkey-Boy'"
-    ]
   }
 ]

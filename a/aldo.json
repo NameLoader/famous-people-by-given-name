@@ -45,5 +45,20 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Aldo Rossi",
+    "givenNames": [
+      "Aldo"
+    ],
+    "familyName": "Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_Rossi",
+    "occupation": "Architect, Designer",
+    "achievements": [
+      "Won the Pritzker Prize in architecture (1990).",
+      "Known for his Rationalist architectural style."
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1997
   }
 ]

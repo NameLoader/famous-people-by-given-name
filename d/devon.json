@@ -15,18 +15,6 @@
     "yearBorn": 1982
   },
   {
-    "fullName": "Devon Rex",
-    "givenNames": [
-      "Devon"
-    ],
-    "familyName": "Rex",
-    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Rex",
-    "occupation": "Cat Breed",
-    "achievements": [
-      "Unique curly-coated breed of cat"
-    ]
-  },
-  {
     "fullName": "Devon Still",
     "givenNames": [
       "Devon",
@@ -39,5 +27,20 @@
       "Played defensive tackle for the Cincinnati Bengals and Houston Texans"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Devon Sawa",
+    "givenNames": [
+      "Devon",
+      "Edward"
+    ],
+    "familyName": "Sawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Sawa",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Idle Hands' and 'Final Destination'",
+      "Appeared in the television series 'Nikita'"
+    ],
+    "yearBorn": 1978
   }
 ]

@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1940,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Sue Sylvester",
+    "givenNames": [
+      "Sue",
+      "Susan"
+    ],
+    "familyName": "Sylvester",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sue_Sylvester",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Cheerleading coach on the television show 'Glee'",
+      "Known for her sharp wit and demanding personality"
+    ]
   }
 ]

@@ -41,5 +41,20 @@
       "Pioneer in Mixed Martial Arts Promotion"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Dana Reeve",
+    "givenNames": [
+      "Dana"
+    ],
+    "familyName": "Reeve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dana_Reeve",
+    "occupation": "Actress, advocate",
+    "achievements": [
+      "Wife of actor Christopher Reeve",
+      "Founded the Christopher & Dana Reeve Foundation to support spinal cord injury research and care"
+    ],
+    "yearBorn": 1961,
+    "yearDied": 2006
   }
 ]

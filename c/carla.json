@@ -12,5 +12,19 @@
       "Known for her versatility in both comedic and dramatic roles"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Carla Bruni",
+    "givenNames": [
+      "Carla"
+    ],
+    "familyName": "Bruni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carla_Bruni",
+    "occupation": "Singer, songwriter, model, actress",
+    "achievements": [
+      "Former First Lady of France (2007-2012)",
+      "Successful modeling career with brands like Versace and Guess"
+    ],
+    "yearBorn": 1967
   }
 ]

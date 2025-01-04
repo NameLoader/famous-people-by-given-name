@@ -66,18 +66,18 @@
     "yearDied": 1985
   },
   {
-    "fullName": "Simone Martini",
+    "fullName": "Simone Veil",
     "givenNames": [
       "Simone"
     ],
-    "familyName": "Martini",
-    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Martini",
-    "occupation": "Painter",
+    "familyName": "Veil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simone_Veil",
+    "occupation": "Politician, Holocaust Survivor",
     "achievements": [
-      "One of the most important Sienese painters of the early Renaissance",
-      "Known for his elegant style and innovative use of perspective"
+      "First female President of the European Parliament",
+      "Advocate for women's rights and abortion legalization in France"
     ],
-    "yearBorn": 1284,
-    "yearDied": 1344
+    "yearBorn": 1927,
+    "yearDied": 2017
   }
 ]

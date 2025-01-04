@@ -29,5 +29,34 @@
     ],
     "yearBorn": 1958,
     "yearDied": 1989
+  },
+  {
+    "fullName": "Gaetano Mosca",
+    "givenNames": [
+      "Gaetano"
+    ],
+    "familyName": "Mosca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaetano_Mosca",
+    "occupation": "Sociologist, Political Scientist",
+    "achievements": [
+      "Developed theories on political power and the nature of ruling classes.",
+      "Influential figure in Italian social thought."
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1947
+  },
+  {
+    "fullName": "Gaetano Pesce",
+    "givenNames": [
+      "Gaetano"
+    ],
+    "familyName": "Pesce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaetano_Pesce",
+    "occupation": "Architect, Designer",
+    "achievements": [
+      "Known for his innovative and experimental furniture designs",
+      "Created iconic pieces like the 'Up5' armchair and the 'Golgotha' table"
+    ],
+    "yearBorn": 1939
   }
 ]

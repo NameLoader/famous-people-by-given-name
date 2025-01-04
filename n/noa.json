@@ -12,5 +12,20 @@
       "Won multiple awards in Israel including Singer of the Year"
     ],
     "yearBorn": 2001
+  },
+  {
+    "fullName": "Noa Tishby",
+    "givenNames": [
+      "Noa",
+      "Tohar"
+    ],
+    "familyName": "Tishby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noa_Tishby",
+    "occupation": "Actress, Producer, Activist",
+    "achievements": [
+      "Starred in Israeli and American film and television productions",
+      "Advocate for Israel-US relations"
+    ],
+    "yearBorn": 1975
   }
 ]

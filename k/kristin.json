@@ -29,5 +29,34 @@
       "Known for roles in films like 'The English Patient', 'Four Weddings and a Funeral', and 'Gosford Park'"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Kristin Kreuk",
+    "givenNames": [
+      "Kristin",
+      "Laura"
+    ],
+    "familyName": "Kreuk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristin_Kreuk",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in 'Smallville' and 'Beauty and the Beast'"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Kristin Cavallari",
+    "givenNames": [
+      "Kristin",
+      "Elizabeth"
+    ],
+    "familyName": "Cavallari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristin_Cavallari",
+    "occupation": "Reality TV personality, Actress, Fashion Designer",
+    "achievements": [
+      "Known for her appearances on 'Laguna Beach: The Real Orange County' and 'The Hills'",
+      "Founded the jewelry line Uncommon James"
+    ],
+    "yearBorn": 1987
   }
 ]

@@ -64,5 +64,19 @@
       "Author of influential books on bankruptcy and economic policy"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Elizabeth Olsen",
+    "givenNames": [
+      "Elizabeth",
+      "Chase"
+    ],
+    "familyName": "Olsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Olsen",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in independent films and Marvel Cinematic Universe"
+    ],
+    "yearBorn": 1989
   }
 ]

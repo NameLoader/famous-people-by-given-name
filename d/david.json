@@ -31,5 +31,35 @@
       "Global icon and fashion influencer"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "David Letterman",
+    "givenNames": [
+      "David",
+      "Michael"
+    ],
+    "familyName": "Letterman",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Letterman",
+    "occupation": "Television Host, Comedian",
+    "achievements": [
+      "Hosted late-night talk shows for over three decades",
+      "Known for his irreverent humor and iconic interviews",
+      "Won multiple Emmy Awards"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "David Copperfield",
+    "givenNames": [
+      "David"
+    ],
+    "familyName": "Copperfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Copperfield_(illusionist)",
+    "occupation": "Magician, Illusionist",
+    "achievements": [
+      "Performed some of the most famous and elaborate illusions in history",
+      "Known for his grand stage shows and captivating performances"
+    ],
+    "yearBorn": 1956
   }
 ]

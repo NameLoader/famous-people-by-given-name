@@ -39,5 +39,20 @@
       "Known for appearances on 'The Only Way Is Essex' and other reality TV shows"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Gemma Ward",
+    "givenNames": [
+      "Gemma",
+      "Louise"
+    ],
+    "familyName": "Ward",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Ward",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "One of the most successful Australian models of all time",
+      "Appeared in campaigns for brands like Prada and Chanel"
+    ],
+    "yearBorn": 1987
   }
 ]

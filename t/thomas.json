@@ -74,5 +74,35 @@
     ],
     "yearBorn": 1478,
     "yearDied": 1535
+  },
+  {
+    "fullName": "Thomas Cromwell",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Cromwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cromwell",
+    "occupation": "Politician, Statesman",
+    "achievements": [
+      "Chief Minister to King Henry VIII",
+      "Orchestrated the English Reformation"
+    ],
+    "yearBorn": 1485,
+    "yearDied": 1540
+  },
+  {
+    "fullName": "Thomas Mann",
+    "givenNames": [
+      "Thomas"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Mann",
+    "occupation": "Novelist, Short Story Writer, Essayist",
+    "achievements": [
+      "Nobel Prize in Literature (1929)",
+      "Wrote acclaimed novels like 'Buddenbrooks', 'The Magic Mountain' and 'Doctor Faustus'"
+    ],
+    "yearBorn": 1875,
+    "yearDied": 1955
   }
 ]

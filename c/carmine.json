@@ -27,5 +27,19 @@
       "Known for his role as Detective Danny Messer in the CBS crime drama CSI: NY."
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Carmine Appice",
+    "givenNames": [
+      "Carmine"
+    ],
+    "familyName": "Appice",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmine_Appice",
+    "occupation": "Drummer, musician",
+    "achievements": [
+      "Known for his work with Vanilla Fudge and Cactus",
+      "Influential hard rock drummer"
+    ],
+    "yearBorn": 1946
   }
 ]

@@ -27,19 +27,17 @@
     "yearBorn": 1984
   },
   {
-    "fullName": "Alessio Rastrelli",
+    "fullName": "Alessio Cerci",
     "givenNames": [
-      "Francesco",
-      "Bartolomeo"
+      "Alessio"
     ],
-    "familyName": "Rastrelli",
-    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Bartolomeo_Rastrelli",
-    "occupation": "Architect",
+    "familyName": "Cerci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessio_Cerci",
+    "occupation": "Footballer",
     "achievements": [
-      "Designed numerous palaces and buildings in Russia during the reign of Empress Elizabeth Petrovna",
-      "Known for his Baroque style"
+      "Won the Coppa Italia with Fiorentina in 2007",
+      "Played for prominent Italian clubs like AC Milan and Roma"
     ],
-    "yearBorn": 1700,
-    "yearDied": 1771
+    "yearBorn": 1987
   }
 ]

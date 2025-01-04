@@ -45,18 +45,20 @@
     "yearBorn": 1993
   },
   {
-    "fullName": "Saint Dominic de Guzmán",
+    "fullName": "Dominic Monaghan",
     "givenNames": [
-      "Dominic"
+      "Dominic",
+      "Bernard",
+      "Patrick",
+      "Luke"
     ],
-    "familyName": "de Guzmán",
-    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Dominic",
-    "occupation": "Priest, Founder of the Dominican Order",
+    "familyName": "Monaghan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Monaghan",
+    "occupation": "Actor",
     "achievements": [
-      "Known for his preaching and missionary work",
-      "Founded the Order of Preachers (Dominicans) to combat heresy"
+      "Known for roles in Lord of the Rings trilogy and Lost",
+      "Won Saturn Award for Best Supporting Actor on Television"
     ],
-    "yearBorn": 1170,
-    "yearDied": 1221
+    "yearBorn": 1976
   }
 ]

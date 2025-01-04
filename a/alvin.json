@@ -45,5 +45,20 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1975
+  },
+  {
+    "fullName": "Alvin Plantinga",
+    "givenNames": [
+      "Alvin",
+      "Carl"
+    ],
+    "familyName": "Plantinga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alvin_Plantinga",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Prominent figure in contemporary philosophy of religion",
+      "Known for his work on epistemology and theism"
+    ],
+    "yearBorn": 1932
   }
 ]

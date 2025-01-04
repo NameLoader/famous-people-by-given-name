@@ -31,21 +31,6 @@
     "yearBorn": 1947
   },
   {
-    "fullName": "Stephen Spielberg",
-    "givenNames": [
-      "Steven",
-      "Allan"
-    ],
-    "familyName": "Spielberg",
-    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Spielberg",
-    "occupation": "Film Director, Producer",
-    "achievements": [
-      "Acclaimed director of blockbuster films like 'Jaws', 'E.T.', and 'Jurassic Park'",
-      "Winner of multiple Academy Awards"
-    ],
-    "yearBorn": 1946
-  },
-  {
     "fullName": "Stephen Colbert",
     "givenNames": [
       "Stephen",
@@ -63,8 +48,8 @@
   {
     "fullName": "Stephen Curry",
     "givenNames": [
-      "Wardell",
-      "Stephen"
+      "Stephen",
+      "Wardell"
     ],
     "familyName": "Curry",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Curry",
@@ -75,5 +60,20 @@
       "Considered one of the greatest shooters in basketball history"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Stephen Spielberg",
+    "givenNames": [
+      "Steven",
+      "Allan"
+    ],
+    "familyName": "Spielberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed iconic films like 'Jaws', 'E.T.', and 'Schindler's List'",
+      "Won multiple Academy Awards"
+    ],
+    "yearBorn": 1946
   }
 ]

@@ -29,5 +29,19 @@
       "Won multiple German Bundesliga titles"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Sven Kramer",
+    "givenNames": [
+      "Sven"
+    ],
+    "familyName": "Kramer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sven_Kramer",
+    "occupation": "Speed skater",
+    "achievements": [
+      "Four-time Olympic gold medalist in speed skating",
+      "Holds multiple world records in long-distance speed skating"
+    ],
+    "yearBorn": 1986
   }
 ]

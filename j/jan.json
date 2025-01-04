@@ -27,5 +27,20 @@
       "Olympic gold medalist in road cycling (2000)"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Jan Troell",
+    "givenNames": [
+      "Jan",
+      "Gustaf"
+    ],
+    "familyName": "Troell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Troell",
+    "occupation": "Film Director",
+    "achievements": [
+      "Directed critically acclaimed films like 'The Emigrants' and 'The New Land'.",
+      "Known for his realistic portrayals of Swedish history and culture."
+    ],
+    "yearBorn": 1931
   }
 ]

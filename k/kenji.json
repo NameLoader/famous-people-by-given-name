@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1898,
     "yearDied": 1956
+  },
+  {
+    "fullName": "Kenji Miyazawa",
+    "givenNames": [
+      "Kenji"
+    ],
+    "familyName": "Miyazawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenji_Miyazawa",
+    "occupation": "Poet, author",
+    "achievements": [
+      "Known for his whimsical and philosophical works.",
+      "His most famous novel is 'Night on the Galactic Railroad'."
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1933
   }
 ]

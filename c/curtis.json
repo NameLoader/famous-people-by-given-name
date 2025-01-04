@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1942,
     "yearDied": 1999
+  },
+  {
+    "fullName": "Curtis Sittenfeld",
+    "givenNames": [
+      "Elizabeth",
+      "Curtis"
+    ],
+    "familyName": "Sittenfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld",
+    "occupation": "Novelist",
+    "achievements": [
+      "New York Times bestselling author",
+      "Known for her insightful portrayals of female characters"
+    ],
+    "yearBorn": 1976
   }
 ]

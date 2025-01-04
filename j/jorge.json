@@ -44,5 +44,20 @@
       "Managed Sevilla FC and Argentina national team."
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Jorge Mendes",
+    "givenNames": [
+      "Jorge",
+      "Paulo",
+      "Agostinho"
+    ],
+    "familyName": "Mendes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Mendes",
+    "occupation": "Football Agent",
+    "achievements": [
+      "Considered one of the most powerful and influential figures in world football",
+      "Represents some of the biggest stars in the sport, including Cristiano Ronaldo"
+    ]
   }
 ]

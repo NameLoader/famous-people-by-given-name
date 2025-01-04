@@ -43,5 +43,20 @@
       "Considered one of the greatest goalkeepers of all time"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Edwin Chadwick",
+    "givenNames": [
+      "Edwin"
+    ],
+    "familyName": "Chadwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Chadwick",
+    "occupation": "Social reformer, Civil servant",
+    "achievements": [
+      "Instrumental in passing the Public Health Act of 1848",
+      "Improved sanitation and public health conditions in England"
+    ],
+    "yearBorn": 1800,
+    "yearDied": 1890
   }
 ]

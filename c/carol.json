@@ -44,5 +44,36 @@
       "Presented various other television programs"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Carol King",
+    "givenNames": [
+      "Carole",
+      "Carol"
+    ],
+    "familyName": "King",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carole_King",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Prolific songwriter known for hits like 'You've Got a Friend'",
+      "Won multiple Grammy Awards and inducted into the Rock & Roll Hall of Fame"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Carol Shields",
+    "givenNames": [
+      "Carol",
+      "Ann"
+    ],
+    "familyName": "Shields",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Shields",
+    "occupation": "Author",
+    "achievements": [
+      "Pulitzer Prize for Fiction",
+      "Governor General's Award"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2003
   }
 ]

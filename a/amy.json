@@ -59,5 +59,21 @@
       "Won six Grammy Awards and numerous Dove Awards"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Amy Tan",
+    "givenNames": [
+      "Amy",
+      "Ruth"
+    ],
+    "familyName": "Tan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Tan",
+    "occupation": "Novelist, Short Story Writer",
+    "achievements": [
+      "Bestselling author of 'The Joy Luck Club'",
+      "Her novels explore themes of Chinese-American identity and family relationships",
+      "Recipient of numerous literary awards"
+    ],
+    "yearBorn": 1952
   }
 ]

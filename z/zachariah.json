@@ -1,12 +1,27 @@
 [
   {
+    "fullName": "Zachariah Chandler",
+    "givenNames": [
+      "Zachariah"
+    ],
+    "familyName": "Chandler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zachariah_Chandler",
+    "occupation": "Politician, Lawyer",
+    "achievements": [
+      "Served as U.S. Senator from Michigan",
+      "Secretary of the Interior under President Grant"
+    ],
+    "yearBorn": 1813,
+    "yearDied": 1879
+  },
+  {
     "fullName": "Zachariah Taylor",
     "givenNames": [
       "Zachary"
     ],
     "familyName": "Taylor",
     "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
-    "occupation": "Military Officer, Politician",
+    "occupation": "Military Officer and Politician",
     "achievements": [
       "12th President of the United States"
     ],

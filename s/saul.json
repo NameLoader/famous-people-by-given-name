@@ -40,5 +40,21 @@
     ],
     "yearBorn": 1914,
     "yearDied": 1999
+  },
+  {
+    "fullName": "Saul Alinsky",
+    "givenNames": [
+      "Saul",
+      "David"
+    ],
+    "familyName": "Alinsky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saul_Alinsky",
+    "occupation": "Community Organizer and Writer",
+    "achievements": [
+      "Developed the concept of community organizing",
+      "Authored influential books on social change and activism"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1972
   }
 ]

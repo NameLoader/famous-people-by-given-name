@@ -29,5 +29,22 @@
       "Dedicated to sharing her story and promoting tolerance."
     ],
     "yearBorn": 1924
+  },
+  {
+    "fullName": "Gerda Lerner",
+    "givenNames": [
+      "Gerda",
+      "Hedwig"
+    ],
+    "familyName": "Lerner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerda_Lerner",
+    "occupation": "Historian, feminist scholar",
+    "achievements": [
+      "Founded the field of women's history",
+      "Authored influential books on women and social change",
+      "Professor emerita at the University of Wisconsin-Madison"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2013
   }
 ]

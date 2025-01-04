@@ -45,5 +45,20 @@
       "Advocate for social justice and women's rights"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Quentin Blake",
+    "givenNames": [
+      "Quentin",
+      "Saxby"
+    ],
+    "familyName": "Blake",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Blake",
+    "occupation": "Illustrator, author",
+    "achievements": [
+      "Illustrator for Roald Dahl's books",
+      "Recipient of the Hans Christian Andersen Award"
+    ],
+    "yearBorn": 1932
   }
 ]

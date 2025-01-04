@@ -13,5 +13,18 @@
     ],
     "yearBorn": 1940,
     "yearDied": 1977
+  },
+  {
+    "fullName": "Gudrun Sjödén",
+    "givenNames": [
+      "Gudrun"
+    ],
+    "familyName": "Sjödén",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gudrun_Sj%C3%B6d%C3%A9n",
+    "occupation": "Swedish fashion designer and entrepreneur",
+    "achievements": [
+      "Founded her eponymous fashion brand"
+    ],
+    "yearBorn": 1941
   }
 ]

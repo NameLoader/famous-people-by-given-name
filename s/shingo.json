@@ -13,5 +13,19 @@
       "Known for his technical wrestling skills and high-flying maneuvers"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Shingo Kunieda",
+    "givenNames": [
+      "Shingo"
+    ],
+    "familyName": "Kunieda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shingo_Kunieda",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Won 28 Grand Slam wheelchair singles titles",
+      "Ranked world No. 1 in wheelchair tennis for over a decade"
+    ],
+    "yearBorn": 1984
   }
 ]

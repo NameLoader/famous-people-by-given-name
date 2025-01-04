@@ -49,21 +49,6 @@
     "yearDied": 1935
   },
   {
-    "fullName": "André Agassi",
-    "givenNames": [
-      "Andre",
-      "Kirk"
-    ],
-    "familyName": "Agassi",
-    "wikipedia": "https://en.wikipedia.org/wiki/Andre_Agassi",
-    "occupation": "Tennis Player",
-    "achievements": [
-      "8-time Grand Slam singles champion",
-      "Former World No. 1"
-    ],
-    "yearBorn": 1970
-  },
-  {
     "fullName": "André Rieu",
     "givenNames": [
       "André",
@@ -79,5 +64,36 @@
       "Popular concert violinist"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "André Previn",
+    "givenNames": [
+      "André",
+      "George"
+    ],
+    "familyName": "Previn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn",
+    "occupation": "Composer, conductor, pianist",
+    "achievements": [
+      "Won four Academy Awards for his film scores",
+      "Conducted major orchestras worldwide"
+    ],
+    "yearBorn": 1929,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "André Agassi",
+    "givenNames": [
+      "Andre",
+      "Kirk"
+    ],
+    "familyName": "Agassi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andre_Agassi",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Won eight Grand Slam singles titles",
+      "Former world No. 1"
+    ],
+    "yearBorn": 1970
   }
 ]

@@ -2,7 +2,9 @@
   {
     "fullName": "Perry Como",
     "givenNames": [
-      "Perry"
+      "Perry",
+      "Pierino",
+      "Ronald"
     ],
     "familyName": "Como",
     "wikipedia": "https://en.wikipedia.org/wiki/Perry_Como",
@@ -26,5 +28,19 @@
     "achievements": [
       "Protagonist of a long-running series of novels, short stories, and television shows"
     ]
+  },
+  {
+    "fullName": "Perry Farrell",
+    "givenNames": [
+      "Perry"
+    ],
+    "familyName": "Farrell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perry_Farrell",
+    "occupation": "Musician, singer-songwriter",
+    "achievements": [
+      "Founding member of the bands Jane's Addiction and Porno for Pyros",
+      "Known for his flamboyant stage presence and experimental music style"
+    ],
+    "yearBorn": 1959
   }
 ]

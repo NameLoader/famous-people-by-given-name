@@ -3,7 +3,7 @@
     "fullName": "Susan B. Anthony",
     "givenNames": [
       "Susan",
-      "B"
+      "B."
     ],
     "familyName": "Anthony",
     "wikipedia": "https://en.wikipedia.org/wiki/Susan_B._Anthony",
@@ -64,5 +64,20 @@
       "First African-American woman to hold both positions"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Susan Boyle",
+    "givenNames": [
+      "Susan",
+      "Magdalane"
+    ],
+    "familyName": "Boyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susan_Boyle",
+    "occupation": "Singer",
+    "achievements": [
+      "Rose to fame after appearing on Britain's Got Talent in 2009",
+      "Known for her powerful voice and inspirational story"
+    ],
+    "yearBorn": 1961
   }
 ]

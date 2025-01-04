@@ -41,5 +41,21 @@
     ],
     "yearBorn": 1888,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Josef Hofmann",
+    "givenNames": [
+      "Josef",
+      "Casimir"
+    ],
+    "familyName": "Hofmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josef_Hofmann",
+    "occupation": "Pianist, composer, conductor",
+    "achievements": [
+      "Considered one of the greatest pianists of his generation",
+      "Toured extensively throughout Europe and North America"
+    ],
+    "yearBorn": 1876,
+    "yearDied": 1957
   }
 ]

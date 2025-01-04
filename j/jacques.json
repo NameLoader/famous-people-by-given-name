@@ -58,5 +58,21 @@
     ],
     "yearBorn": 1819,
     "yearDied": 1880
+  },
+  {
+    "fullName": "Jacques Chirac",
+    "givenNames": [
+      "Jacques",
+      "René"
+    ],
+    "familyName": "Chirac",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Chirac",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France (1995-2007)",
+      "Mayor of Paris (1977-1995)"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2019
   }
 ]

@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "Jared Leto",
+    "givenNames": [
+      "Jared",
+      "Joseph"
+    ],
+    "familyName": "Leto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jared_Leto",
+    "occupation": "Actor, Musician",
+    "achievements": [
+      "Academy Award for Best Supporting Actor (Dallas Buyers Club)",
+      "Grammy Award for Best Rock Album (30 Seconds to Mars)"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Jared Kushner",
+    "givenNames": [
+      "Jared",
+      "Corey"
+    ],
+    "familyName": "Kushner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jared_Kushner",
+    "occupation": "Real Estate Developer, Businessman, Politician",
+    "achievements": [
+      "Senior Advisor to President Donald Trump",
+      "Publisher of The New York Observer"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Jared Diamond",
+    "givenNames": [
+      "Jared",
+      "Mason"
+    ],
+    "familyName": "Diamond",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jared_Diamond",
+    "occupation": "Geographer, Historian, Ornithologist, Author",
+    "achievements": [
+      "Pulitzer Prize for General Nonfiction (Guns, Germs, and Steel)",
+      "National Medal of Science"
+    ],
+    "yearBorn": 1937
+  }
+]

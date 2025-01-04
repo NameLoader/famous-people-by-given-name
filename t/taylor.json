@@ -43,5 +43,20 @@
       "Known for his role as Lieutenant Kelly Severide in the television series Chicago Fire"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Taylor Momsen",
+    "givenNames": [
+      "Taylor",
+      "Michel"
+    ],
+    "familyName": "Momsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Momsen",
+    "occupation": "Actress, Singer, Songwriter",
+    "achievements": [
+      "Known for her role as Jenny Humphrey in the television series Gossip Girl",
+      "Frontwoman of the rock band The Pretty Reckless"
+    ],
+    "yearBorn": 1993
   }
 ]

@@ -11,5 +11,19 @@
       "Convicted of the murder and sexual assault of four young girls in Japan during the late 1980s."
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Tsutomu Yamaguchi",
+    "givenNames": [
+      "Tsutomu"
+    ],
+    "familyName": "Yamaguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi",
+    "occupation": "Engineer, Hibakusha",
+    "achievements": [
+      "Sole confirmed survivor of both the Hiroshima and Nagasaki atomic bombings."
+    ],
+    "yearBorn": 1916,
+    "yearDied": 2010
   }
 ]

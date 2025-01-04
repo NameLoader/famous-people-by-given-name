@@ -29,20 +29,5 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1979
-  },
-  {
-    "fullName": "Emmett Smith",
-    "givenNames": [
-      "Emmitt",
-      "James"
-    ],
-    "familyName": "Smith",
-    "wikipedia": "https://en.wikipedia.org/wiki/Emmitt_Smith",
-    "occupation": "Professional Football Player",
-    "achievements": [
-      "Retired NFL Running Back for the Dallas Cowboys.",
-      "Holds numerous NFL records including rushing yards and touchdowns."
-    ],
-    "yearBorn": 1969
   }
 ]

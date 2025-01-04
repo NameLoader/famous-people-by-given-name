@@ -12,5 +12,19 @@
       "Known for her outspoken personality and activism."
     ],
     "yearBorn": 1956
+  },
+  {
+    "fullName": "Ilona Massey",
+    "givenNames": [
+      "Ilona"
+    ],
+    "familyName": "Massey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilona_Massey",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Appeared in Broadway musicals and Hollywood films"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1974
   }
 ]

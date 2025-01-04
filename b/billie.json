@@ -31,5 +31,21 @@
       "Advocated for gender equality in sports"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Billie Holiday",
+    "givenNames": [
+      "Billie"
+    ],
+    "familyName": "Holiday",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billie_Holiday",
+    "occupation": "Jazz and swing music vocalist",
+    "achievements": [
+      "Highly influential jazz singer known for her unique vocal style",
+      "Posthumously inducted into the Grammy Hall of Fame",
+      "Recipient of the Grammy Lifetime Achievement Award"
+    ],
+    "yearBorn": 1915,
+    "yearDied": 1959
   }
 ]

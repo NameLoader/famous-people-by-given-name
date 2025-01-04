@@ -30,5 +30,19 @@
     ],
     "yearBorn": 1947,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Norma Kamali",
+    "givenNames": [
+      "Norma"
+    ],
+    "familyName": "Kamali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norma_Kamali",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Known for her innovative and athletic-inspired designs",
+      "Popularized the sleeping bag coat in the 1980s"
+    ],
+    "yearBorn": 1945
   }
 ]

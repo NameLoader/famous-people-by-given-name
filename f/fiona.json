@@ -27,5 +27,19 @@
       "Known for roles in Harry Potter films and Killing Eve"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Fiona Bruce",
+    "givenNames": [
+      "Fiona",
+      "Elizabeth"
+    ],
+    "familyName": "Bruce",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fiona_Bruce",
+    "occupation": "Journalist and newsreader",
+    "achievements": [
+      "Presenter of BBC News at Ten and Question Time"
+    ],
+    "yearBorn": 1964
   }
 ]

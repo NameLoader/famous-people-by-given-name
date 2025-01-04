@@ -29,5 +29,18 @@
       "Appeared in films such as 'Walk the Line' and '3:10 to Yuma'"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Dallas Clayton",
+    "givenNames": [
+      "Dallas"
+    ],
+    "familyName": "Clayton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Clayton",
+    "occupation": "Author, Illustrator, Speaker",
+    "achievements": [
+      "Known for his inspirational children's books and motivational speaking engagements.",
+      "Published multiple bestselling books including 'An Awesome Book!'"
+    ]
   }
 ]

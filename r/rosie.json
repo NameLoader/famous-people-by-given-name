@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Rosie O'Donnell",
-    "givenNames": [
-      "Roseann"
-    ],
-    "familyName": "O'Donnell",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rosie_O%27Donnell",
-    "occupation": "Comedian, actress, television personality",
-    "achievements": [
-      "Hosted The Rosie O'Donnell Show",
-      "Starred in films such as A League of Their Own and Sleepless in Seattle",
-      "Advocate for LGBTQ+ rights"
-    ],
-    "yearBorn": 1962
-  },
-  {
     "fullName": "Rosie Huntington-Whiteley",
     "givenNames": [
       "Rosie",
@@ -28,5 +13,21 @@
       "Appeared in films such as Transformers: Dark of the Moon and Mad Max: Fury Road"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Rosie O'Donnell",
+    "givenNames": [
+      "Roseann",
+      "Rosie"
+    ],
+    "familyName": "O'Donnell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosie_O%27Donnell",
+    "occupation": "Comedian, actress, television personality, author",
+    "achievements": [
+      "Won multiple Daytime Emmy Awards for her talk show 'The Rosie O'Donnell Show'",
+      "Appeared in films like 'A League of Their Own' and 'Sleepless in Seattle'",
+      "Advocates for LGBTQ+ rights"
+    ],
+    "yearBorn": 1962
   }
 ]

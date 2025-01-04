@@ -28,5 +28,19 @@
       "Former Mayor of San Francisco"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Dianne Kruger",
+    "givenNames": [
+      "Diane"
+    ],
+    "familyName": "Kruger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Kruger",
+    "occupation": "Actress and former model",
+    "achievements": [
+      "Known for roles in films like 'Troy', 'Inglourious Basterds'",
+      "Cannes Film Festival Best Actress Award (2004)"
+    ],
+    "yearBorn": 1976
   }
 ]

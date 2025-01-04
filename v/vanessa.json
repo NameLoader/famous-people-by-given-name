@@ -29,5 +29,35 @@
       "Tony Award nomination"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Vanessa Paradis",
+    "givenNames": [
+      "Vanessa",
+      "Chantal"
+    ],
+    "familyName": "Paradis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanessa_Paradis",
+    "occupation": "Singer, actress, model",
+    "achievements": [
+      "Became a successful singer at age 14 with the hit song \"Joe le taxi\"",
+      "Starred in films like \"No Fear, No Die\" and \"Girl on the Bridge\""
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Vanessa Hudgens",
+    "givenNames": [
+      "Vanessa",
+      "Anne"
+    ],
+    "familyName": "Hudgens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vanessa_Hudgens",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "Rose to fame in the \"High School Musical\" film series",
+      "Starred in films like \"Spring Breakers\" and \"Tick, Tick... Boom!\""
+    ],
+    "yearBorn": 1988
   }
 ]

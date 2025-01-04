@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1935,
     "yearDied": 2021
+  },
+  {
+    "fullName": "Eiichi Shibusawa",
+    "givenNames": [
+      "Eiichi"
+    ],
+    "familyName": "Shibusawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shibusawa_Eiichi",
+    "occupation": "Businessman, Economist",
+    "achievements": [
+      "Known as the 'Father of Japanese Capitalism'",
+      "Founded numerous banks and companies including The First National Bank of Japan",
+      "Contributed to modernization and industrialization of Meiji era Japan"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1931
   }
 ]

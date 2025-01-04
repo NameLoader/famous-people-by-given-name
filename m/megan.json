@@ -14,5 +14,36 @@
       "Advocate for LGBTQ+ rights and gender equality"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Megan Fox",
+    "givenNames": [
+      "Megan",
+      "Denise"
+    ],
+    "familyName": "Fox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megan_Fox",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like Transformers and Jennifer's Body",
+      "Considered a sex symbol"
+    ],
+    "yearBorn": 1986
+  },
+  {
+    "fullName": "Megan Thee Stallion",
+    "givenNames": [
+      "Megan",
+      "Jovon",
+      "Ruth"
+    ],
+    "familyName": "Pete",
+    "wikipedia": "https://en.wikipedia.org/wiki/Megan_Thee_Stallion",
+    "occupation": "Rapper, singer, songwriter",
+    "achievements": [
+      "Won three Grammy Awards",
+      "Known for empowering lyrics and performances"
+    ],
+    "yearBorn": 1995
   }
 ]

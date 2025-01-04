@@ -3,7 +3,7 @@
     "fullName": "Léon Blum",
     "givenNames": [
       "Léon",
-      "André"
+      "André Léon"
     ],
     "familyName": "Blum",
     "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9on_Blum",
@@ -19,8 +19,7 @@
     "fullName": "Léon Foucault",
     "givenNames": [
       "Léon",
-      "Jean",
-      "Bernard"
+      "Jean Bernard"
     ],
     "familyName": "Foucault",
     "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9on_Foucault",
@@ -33,19 +32,19 @@
     "yearDied": 1868
   },
   {
-    "fullName": "Léon Tolstoi",
+    "fullName": "Léon Gambetta",
     "givenNames": [
-      "Lev",
-      "Nikolaevich"
+      "Léon"
     ],
-    "familyName": "Tolstoy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
-    "occupation": "Writer",
+    "familyName": "Gambetta",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9on_Gambetta",
+    "occupation": "Politician",
     "achievements": [
-      "Authored literary classics like War and Peace and Anna Karenina",
-      "Philosopher and social reformer"
+      "Prominent figure in the French Third Republic",
+      "Key role in the defense of Paris during the Franco-Prussian War",
+      "Advocate for republican values and democratic reforms"
     ],
-    "yearBorn": 1828,
-    "yearDied": 1910
+    "yearBorn": 1838,
+    "yearDied": 1882
   }
 ]

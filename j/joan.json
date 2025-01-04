@@ -42,5 +42,21 @@
     ],
     "yearBorn": 1933,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Joan Baez",
+    "givenNames": [
+      "Joan",
+      "Chandos"
+    ],
+    "familyName": "Baez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joan_Baez",
+    "occupation": "Singer, Songwriter, Activist",
+    "achievements": [
+      "Prominent figure in the folk music revival of the 1960s.",
+      "Known for her powerful vocals and socially conscious lyrics.",
+      "Active in civil rights and anti-war movements."
+    ],
+    "yearBorn": 1941
   }
 ]

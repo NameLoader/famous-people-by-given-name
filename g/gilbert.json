@@ -45,5 +45,36 @@
     ],
     "yearBorn": 1875,
     "yearDied": 1946
+  },
+  {
+    "fullName": "Gilbert Keith Chesterton",
+    "givenNames": [
+      "Gilbert",
+      "Keith"
+    ],
+    "familyName": "Chesterton",
+    "wikipedia": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+    "occupation": "Writer, Philosopher, Theologian",
+    "achievements": [
+      "Prolific author of novels, essays, poems, and plays.",
+      "Known for his wit, paradoxes, and defense of traditional values."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1936
+  },
+  {
+    "fullName": "Gilbert Stuart",
+    "givenNames": [
+      "Gilbert"
+    ],
+    "familyName": "Stuart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Stuart",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his portraits of George Washington, including the iconic Lansdowne portrait",
+      "Influential figure in American portraiture during the late 18th and early 19th centuries"
+    ],
+    "yearBorn": 1755,
+    "yearDied": 1828
   }
 ]

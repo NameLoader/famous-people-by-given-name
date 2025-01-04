@@ -13,31 +13,6 @@
     "yearBorn": 1969
   },
   {
-    "fullName": "Jack Nicholson",
-    "givenNames": [
-      "John",
-      "Joseph"
-    ],
-    "familyName": "Nicholson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Nicholson",
-    "occupation": "Actor, Filmmaker",
-    "achievements": [],
-    "yearBorn": 1937
-  },
-  {
-    "fullName": "Jack Welch",
-    "givenNames": [
-      "John",
-      "Francis"
-    ],
-    "familyName": "Welch",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Welch",
-    "occupation": "Business Executive",
-    "achievements": [],
-    "yearBorn": 1935,
-    "yearDied": 2020
-  },
-  {
     "fullName": "Jack Dorsey",
     "givenNames": [
       "Jack",

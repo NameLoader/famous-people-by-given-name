@@ -14,5 +14,38 @@
       "Home Secretary (2010-2016)"
     ],
     "yearBorn": 1956
+  },
+  {
+    "fullName": "Theresa Teng",
+    "givenNames": [
+      "Li-chun",
+      "Teresa"
+    ],
+    "familyName": "Teng",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Teng",
+    "occupation": "Singer",
+    "achievements": [
+      "One of the most popular singers in Asia during the 1970s and 1980s",
+      "Known for her clear vocals and romantic ballads"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 1982
+  },
+  {
+    "fullName": "Theresa Hak Kyung Cha",
+    "givenNames": [
+      "Theresa",
+      "Hak",
+      "Kyung"
+    ],
+    "familyName": "Cha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theresa_Hak_Kyung_Cha",
+    "occupation": "Poet, novelist, and performance artist",
+    "achievements": [
+      "Known for her experimental works that explored themes of language, identity, and colonialism",
+      "Author of the influential novel 'Dictee'"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 1982
   }
 ]

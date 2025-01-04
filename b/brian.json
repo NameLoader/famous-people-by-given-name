@@ -12,5 +12,67 @@
       "Co-founder and primary songwriter of The Beach Boys"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Brian May",
+    "givenNames": [
+      "Brian",
+      "Harold"
+    ],
+    "familyName": "May",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_May",
+    "occupation": "Musician, Astrophysicist",
+    "achievements": [
+      "Lead guitarist of the rock band Queen",
+      "PhD in astrophysics from Imperial College London",
+      "Knighted for services to music and charity"
+    ],
+    "yearBorn": 1947
+  },
+  {
+    "fullName": "Brian Cox",
+    "givenNames": [
+      "Brian",
+      "Edward"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Cox_(physicist)",
+    "occupation": "Particle physicist, Science communicator",
+    "achievements": [
+      "Professor of particle physics at the University of Manchester",
+      "Presenter of popular science documentaries for the BBC"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Brian Eno",
+    "givenNames": [
+      "Brian",
+      "Peter",
+      "George"
+    ],
+    "familyName": "Eno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Eno",
+    "occupation": "Musician, Composer, Producer",
+    "achievements": [
+      "Pioneer of ambient music",
+      "Collaborated with numerous artists including David Bowie and U2",
+      "Influential figure in the development of electronic music"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Brian Blessed",
+    "givenNames": [
+      "Brian"
+    ],
+    "familyName": "Blessed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Blessed",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his booming voice and Shakespearean roles",
+      "Appeared in numerous films and television series including Flash Gordon and Blackadder"
+    ],
+    "yearBorn": 1936
   }
 ]

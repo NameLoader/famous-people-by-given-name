@@ -1,19 +1,17 @@
 [
   {
-    "fullName": "Stephan Hawking",
+    "fullName": "Stephan Pastis",
     "givenNames": [
-      "Stephen",
-      "William"
+      "Stephan",
+      "Thomas"
     ],
-    "familyName": "Hawking",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
-    "occupation": "Physicist, Cosmologist",
+    "familyName": "Pastis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephan_Pastis",
+    "occupation": "Cartoonist, author",
     "achievements": [
-      "Breakthroughs in understanding black holes and the universe",
-      "Author of 'A Brief History of Time'",
-      "Popularized science for a wide audience"
+      "Created the comic strip 'Pearls Before Swine'",
+      "Authored several novels and children's books"
     ],
-    "yearBorn": 1942,
-    "yearDied": 2018
+    "yearBorn": 1972
   }
 ]

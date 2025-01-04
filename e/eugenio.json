@@ -44,5 +44,20 @@
     ],
     "yearBorn": 1896,
     "yearDied": 1981
+  },
+  {
+    "fullName": "Eugenio Scalfari",
+    "givenNames": [
+      "Eugenio"
+    ],
+    "familyName": "Scalfari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Scalfari",
+    "occupation": "Journalist and writer",
+    "achievements": [
+      "Co-founder of the Italian newspaper La Repubblica",
+      "Known for his insightful interviews with political figures"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2022
   }
 ]

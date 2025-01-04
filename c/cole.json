@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1964
+  },
+  {
+    "fullName": "Cole Hamels",
+    "givenNames": [
+      "Colbert",
+      "Michael"
+    ],
+    "familyName": "Hamels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cole_Hamels",
+    "occupation": "Professional Baseball Player",
+    "achievements": [
+      "World Series Champion with the Philadelphia Phillies (2008)",
+      "Four-time MLB All-Star"
+    ],
+    "yearBorn": 1983
   }
 ]

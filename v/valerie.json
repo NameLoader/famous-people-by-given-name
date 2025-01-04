@@ -15,17 +15,48 @@
     "yearBorn": 1960
   },
   {
-    "fullName": "Valerie Plame Wilson",
+    "fullName": "Valerie Plame",
     "givenNames": [
       "Valerie",
       "Elise"
     ],
-    "familyName": "Plame Wilson",
+    "familyName": "Plame",
     "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Plame",
-    "occupation": "Former CIA operative",
+    "occupation": "Former CIA Officer",
     "achievements": [
-      "Became known for the Valerie Plame affair, a political scandal involving the leak of her identity as a covert CIA officer"
+      "Became a prominent figure in the CIA leak scandal of 2003"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Valerie Harper",
+    "givenNames": [
+      "Valerie",
+      "Kathryn"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Harper",
+    "occupation": "Actress",
+    "achievements": [
+      "Won four Emmy Awards and a Golden Globe Award for her role as Rhoda Morgenstern in The Mary Tyler Moore Show and Rhoda",
+      "Had a successful stage career"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Valerie Jarrett",
+    "givenNames": [
+      "Valerie",
+      "June"
+    ],
+    "familyName": "Jarrett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Jarrett",
+    "occupation": "Political advisor, attorney",
+    "achievements": [
+      "Served as Senior Advisor to President Barack Obama from 2009 to 2017",
+      "Was the longest-serving senior advisor to a president in modern history"
+    ],
+    "yearBorn": 1956
   }
 ]

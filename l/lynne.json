@@ -12,5 +12,20 @@
       "Acclaimed for films like 'Ratcatcher', 'Morvern Callar', and 'We Need to Talk About Kevin'."
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Lynne Cheney",
+    "givenNames": [
+      "Lynne",
+      "Ann"
+    ],
+    "familyName": "Cheney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynne_Cheney",
+    "occupation": "Former Second Lady of the United States",
+    "achievements": [
+      "Served as Second Lady from 2001 to 2009 during her husband Dick Cheney's vice presidency.",
+      "Author and advocate for education reform."
+    ],
+    "yearBorn": 1941
   }
 ]

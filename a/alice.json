@@ -61,5 +61,20 @@
       "Known for her evocative and realistic portrayals of small-town life"
     ],
     "yearBorn": 1931
+  },
+  {
+    "fullName": "Alice Liddell Hargreaves",
+    "givenNames": [
+      "Alice",
+      "Pleasance"
+    ],
+    "familyName": "Hargreaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Liddell",
+    "occupation": "Inspiration for Alice in Wonderland",
+    "achievements": [
+      "Subject of Lewis Carroll's famous novels 'Alice's Adventures in Wonderland' and 'Through the Looking-Glass'"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1934
   }
 ]

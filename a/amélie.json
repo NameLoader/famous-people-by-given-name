@@ -10,5 +10,19 @@
     "achievements": [
       "Protagonist of the French romantic comedy film 'Amélie'"
     ]
+  },
+  {
+    "fullName": "Amélie Lens",
+    "givenNames": [
+      "Amelie"
+    ],
+    "familyName": "Lens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelie_Lens",
+    "occupation": "DJ and Producer",
+    "achievements": [
+      "Ranked among the top DJs in the world by DJ Mag",
+      "Known for her techno music and energetic live performances"
+    ],
+    "yearBorn": 1990
   }
 ]

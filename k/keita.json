@@ -12,5 +12,18 @@
       "Represented the Senegal national team."
     ],
     "yearBorn": 1995
+  },
+  {
+    "fullName": "Keita Takahashi",
+    "givenNames": [
+      "Keita"
+    ],
+    "familyName": "Takahashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keita_Takahashi",
+    "occupation": "Game designer",
+    "achievements": [
+      "Created the game Katamari Damacy"
+    ],
+    "yearBorn": 1975
   }
 ]

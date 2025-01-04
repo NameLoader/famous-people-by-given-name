@@ -12,5 +12,31 @@
       "Former World Blitz Champion and French Chess Champion."
     ],
     "yearBorn": 1991
+  },
+  {
+    "fullName": "Maxime Gonalons",
+    "givenNames": [
+      "Maxime"
+    ],
+    "familyName": "Gonalons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxime_Gonalons",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Olympique Lyonnais and FC Barcelona"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Maxime Talbot",
+    "givenNames": [
+      "Maxime"
+    ],
+    "familyName": "Talbot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maxime_Talbot",
+    "occupation": "Ice hockey player",
+    "achievements": [
+      "Won the Stanley Cup with the Pittsburgh Penguins in 2009"
+    ],
+    "yearBorn": 1984
   }
 ]

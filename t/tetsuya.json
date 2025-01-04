@@ -28,5 +28,19 @@
       "Known for his distinctive art style and complex narratives"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Tetsuya Naito",
+    "givenNames": [
+      "Tetsuya"
+    ],
+    "familyName": "Naito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tetsuya_Naito",
+    "occupation": "Professional wrestler",
+    "achievements": [
+      "Former IWGP Heavyweight Champion and Intercontinental Champion in New Japan Pro-Wrestling",
+      "Known for his charismatic personality and unique wrestling style"
+    ],
+    "yearBorn": 1982
   }
 ]

@@ -2,8 +2,7 @@
   {
     "fullName": "Alexis Bledel",
     "givenNames": [
-      "Alexis",
-      "Kimberly"
+      "Alexis"
     ],
     "familyName": "Bledel",
     "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Bledel",
@@ -28,5 +27,35 @@
       "Investor in numerous startups"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Alexis Carrel",
+    "givenNames": [
+      "Alexis"
+    ],
+    "familyName": "Carrel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_Carrel",
+    "occupation": "Surgeon, Biologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1912)",
+      "Pioneer in vascular surgery and organ transplantation"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1944
+  },
+  {
+    "fullName": "Alexis Sanchez",
+    "givenNames": [
+      "Alexis",
+      "Alejandro"
+    ],
+    "familyName": "Sanchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez",
+    "occupation": "Professional Footballer",
+    "achievements": [
+      "Chilean national team captain",
+      "Multiple league titles in Italy, Spain and England"
+    ],
+    "yearBorn": 1988
   }
 ]

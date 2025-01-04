@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Doreen Lawrence",
+    "givenNames": [
+      "Doreen",
+      "Delceita"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doreen_Lawrence",
+    "occupation": "Campaigner",
+    "achievements": [
+      "Campaigned for justice for her son Stephen Lawrence, who was murdered in a racist attack in 1993",
+      "Advocate for racial equality and social justice"
+    ]
+  },
+  {
+    "fullName": "Doreen Massey",
+    "givenNames": [
+      "Doreen",
+      "Barbara"
+    ],
+    "familyName": "Massey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doreen_Massey_(geographer)",
+    "occupation": "Geographer",
+    "achievements": [
+      "Pioneering figure in human geography.",
+      "Known for her work on spatial analysis and social justice."
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2016
+  }
+]

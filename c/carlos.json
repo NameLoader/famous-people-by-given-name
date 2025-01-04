@@ -42,5 +42,19 @@
     ],
     "yearBorn": 1964,
     "yearDied": 2020
+  },
+  {
+    "fullName": "Carlos Ghosn",
+    "givenNames": [
+      "Carlos"
+    ],
+    "familyName": "Ghosn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Ghosn",
+    "occupation": "Business Executive",
+    "achievements": [
+      "Former CEO of Nissan and Renault",
+      "Known for his turnaround strategies in the automotive industry"
+    ],
+    "yearBorn": 1954
   }
 ]

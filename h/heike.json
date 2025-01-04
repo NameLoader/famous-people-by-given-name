@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1853,
     "yearDied": 1926
+  },
+  {
+    "fullName": "Heike Makatsch",
+    "givenNames": [
+      "Heike"
+    ],
+    "familyName": "Makatsch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heike_Makatsch",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films like 'Love Actually' and 'Resident Evil'",
+      "Established career in both German and English-language productions"
+    ],
+    "yearBorn": 1971
   }
 ]

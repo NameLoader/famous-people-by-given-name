@@ -8,19 +8,24 @@
     "familyName": "Jenner",
     "wikipedia": "https://en.wikipedia.org/wiki/Caitlyn_Jenner",
     "occupation": "Television personality, former Olympic athlete",
-    "achievements": [],
+    "achievements": [
+      "Olympic gold medalist in the decathlon (1976)",
+      "Advocate for transgender rights"
+    ],
     "yearBorn": 1949
   },
   {
-    "fullName": "Caitlin Moran",
+    "fullName": "Caitlin Doughty",
     "givenNames": [
-      "Catherine",
-      "Elizabeth"
+      "Caitlin",
+      "Marie"
     ],
-    "familyName": "Moran",
-    "wikipedia": "https://en.wikipedia.org/wiki/Caitlin_Moran",
-    "occupation": "Journalist, author, columnist",
-    "achievements": [],
-    "yearBorn": 1975
+    "familyName": "Doughty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caitlin_Doughty",
+    "occupation": "Mortician, author, YouTuber",
+    "achievements": [
+      "Founder of The Order of the Good Death",
+      "Author of books on death and dying, including 'Smoke Gets in Your Eyes'"
+    ]
   }
 ]

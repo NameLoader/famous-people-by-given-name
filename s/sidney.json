@@ -44,5 +44,22 @@
     ],
     "yearBorn": 1917,
     "yearDied": 2007
+  },
+  {
+    "fullName": "Sidney Bechet",
+    "givenNames": [
+      "Sidney",
+      "Joseph"
+    ],
+    "familyName": "Bechet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Bechet",
+    "occupation": "Jazz saxophonist, clarinetist, and composer",
+    "achievements": [
+      "Pioneer of jazz clarinet playing",
+      "Influential figure in the development of Dixieland and swing music",
+      "Inducted into the DownBeat Jazz Hall of Fame in 1960"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1959
   }
 ]

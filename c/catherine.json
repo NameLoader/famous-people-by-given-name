@@ -43,5 +43,19 @@
       "Known for her roles in SCTV, Home Alone, and Schitt's Creek"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Catherine Zeta-Jones",
+    "givenNames": [
+      "Catherine"
+    ],
+    "familyName": "Zeta-Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Zeta-Jones",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Supporting Actress (Chicago)",
+      "Tony Award for Best Actress in a Musical (A Little Night Music)"
+    ],
+    "yearBorn": 1969
   }
 ]

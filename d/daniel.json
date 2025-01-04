@@ -73,5 +73,36 @@
     ],
     "yearBorn": 1734,
     "yearDied": 1820
+  },
+  {
+    "fullName": "Daniel Webster",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Webster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Webster",
+    "occupation": "Statesman, Lawyer, Orator",
+    "achievements": [
+      "Prominent figure in American politics during the early 19th century.",
+      "Served as Secretary of State and a U.S. Senator.",
+      "Renowned for his powerful oratory skills."
+    ],
+    "yearBorn": 1782,
+    "yearDied": 1852
+  },
+  {
+    "fullName": "Daniel Defoe",
+    "givenNames": [
+      "Daniel"
+    ],
+    "familyName": "Defoe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Defoe",
+    "occupation": "Writer, Journalist",
+    "achievements": [
+      "Author of the novel *Robinson Crusoe*.",
+      "Considered one of the founders of the English novel."
+    ],
+    "yearBorn": 1660,
+    "yearDied": 1731
   }
 ]

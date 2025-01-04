@@ -11,5 +11,19 @@
       "Known for her roles in films like 'The Chronicles of Riddick' and the television series 'Upload'."
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Alexa Grasso",
+    "givenNames": [
+      "Alexa",
+      "Karen"
+    ],
+    "familyName": "Grasso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexa_Grasso",
+    "occupation": "Mixed Martial Artist",
+    "achievements": [
+      "Former UFC Women's Strawweight Champion"
+    ],
+    "yearBorn": 1993
   }
 ]

@@ -42,5 +42,18 @@
       "First woman appointed to the Supreme Court of the United States"
     ],
     "yearBorn": 1930
+  },
+  {
+    "fullName": "Sandra Cisneros",
+    "givenNames": [
+      "Sandra"
+    ],
+    "familyName": "Cisneros",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Cisneros",
+    "occupation": "Novelist, Poet, Essayist",
+    "achievements": [
+      "National Book Award finalist for The House on Mango Street"
+    ],
+    "yearBorn": 1954
   }
 ]

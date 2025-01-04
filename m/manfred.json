@@ -30,5 +30,19 @@
     ],
     "yearBorn": 1927,
     "yearDied": 2019
+  },
+  {
+    "fullName": "Manfred Mann",
+    "givenNames": [
+      "Manfred"
+    ],
+    "familyName": "Mann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_Mann",
+    "occupation": "Musician",
+    "achievements": [
+      "Led the Manfred Mann Band",
+      "Known for hits like 'Do Wah Diddy Diddy'"
+    ],
+    "yearBorn": 1940
   }
 ]

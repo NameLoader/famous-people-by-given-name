@@ -28,5 +28,19 @@
       "Prominent theologian and author."
     ],
     "yearBorn": 1950
+  },
+  {
+    "fullName": "Rowan Blanchard",
+    "givenNames": [
+      "Rowan"
+    ],
+    "familyName": "Blanchard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rowan_Blanchard",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Known for her roles in films and television series like 'Girl Meets World' and 'The Goldfinch'",
+      "Vocal advocate for social justice issues"
+    ],
+    "yearBorn": 2001
   }
 ]

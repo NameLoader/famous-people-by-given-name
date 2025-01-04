@@ -42,5 +42,19 @@
       "Four-time presidential candidate advocating for political reform"
     ],
     "yearBorn": 1934
+  },
+  {
+    "fullName": "Ralph Macchio",
+    "givenNames": [
+      "Ralph",
+      "George"
+    ],
+    "familyName": "Macchio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Macchio",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Daniel LaRusso in 'The Karate Kid' franchise"
+    ],
+    "yearBorn": 1961
   }
 ]

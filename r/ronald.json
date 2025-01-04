@@ -28,5 +28,32 @@
       "Managed several top football clubs including Barcelona and Netherlands national team"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Ronald Colman",
+    "givenNames": [
+      "Ronald",
+      "Charles"
+    ],
+    "familyName": "Colman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Colman",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (A Double Life)"
+    ],
+    "yearBorn": 1891,
+    "yearDied": 1958
+  },
+  {
+    "fullName": "Ronald McDonald",
+    "givenNames": [
+      "Ronald"
+    ],
+    "familyName": "McDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_McDonald",
+    "occupation": "Fictional character, mascot",
+    "achievements": [
+      "Global brand ambassador for McDonald's"
+    ]
   }
 ]

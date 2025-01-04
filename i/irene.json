@@ -1,19 +1,5 @@
 [
   {
-    "fullName": "Irene Joliot-Curie",
-    "givenNames": [
-      "Irène"
-    ],
-    "familyName": "Joliot-Curie",
-    "wikipedia": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
-    "occupation": "Chemist, Physicist",
-    "achievements": [
-      "Nobel Prize in Chemistry (1935) for the discovery of artificial radioactivity"
-    ],
-    "yearBorn": 1897,
-    "yearDied": 1956
-  },
-  {
     "fullName": "Irene Dunne",
     "givenNames": [
       "Irene"
@@ -52,5 +38,21 @@
     "achievements": [
       "Sherlock Holmes' only love interest in Sir Arthur Conan Doyle's stories"
     ]
+  },
+  {
+    "fullName": "Irene Joliot-Curie",
+    "givenNames": [
+      "Irène"
+    ],
+    "familyName": "Joliot-Curie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+    "occupation": "Physicist, Chemist",
+    "achievements": [
+      "Nobel Prize in Chemistry (1935)",
+      "Pioneer in the field of radioactivity",
+      "Daughter of Marie and Pierre Curie"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1956
   }
 ]

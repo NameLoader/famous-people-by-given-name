@@ -45,5 +45,36 @@
     ],
     "yearBorn": 1939,
     "yearDied": 1993
+  },
+  {
+    "fullName": "Yuri Petrovich Andropov",
+    "givenNames": [
+      "Yuri",
+      "Petrovich"
+    ],
+    "familyName": "Andropov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Andropov",
+    "occupation": "Soviet politician",
+    "achievements": [
+      "General Secretary of the Communist Party of the Soviet Union from 1982 to 1984",
+      "Chairman of the KGB from 1967 to 1982"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1984
+  },
+  {
+    "fullName": "Yuri Alexeyevich Shatunov",
+    "givenNames": [
+      "Yuriy",
+      "Yuri"
+    ],
+    "familyName": "Shatunov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuri_Shatunov",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Lead singer of the popular Soviet boy band Laskovy Mai"
+    ],
+    "yearBorn": 1973,
+    "yearDied": 2022
   }
 ]

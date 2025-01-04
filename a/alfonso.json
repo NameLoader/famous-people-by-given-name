@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Alfonso Cuarón",
+    "givenNames": [
+      "Alfonso",
+      "Tiberio"
+    ],
+    "familyName": "Cuarón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n",
+    "occupation": "Film director",
+    "achievements": [
+      "Directed acclaimed films such as 'Gravity', 'Children of Men', and 'Y Tu Mamá También'.",
+      "Won multiple Academy Awards, including Best Director for 'Gravity'."
+    ],
+    "yearBorn": 1961
+  }
+]

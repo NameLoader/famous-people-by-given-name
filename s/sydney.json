@@ -1,37 +1,5 @@
 [
   {
-    "fullName": "Sydney Poitier",
-    "givenNames": [
-      "Sidney"
-    ],
-    "familyName": "Poitier",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Poitier",
-    "occupation": "Actor, Director",
-    "achievements": [
-      "First Black actor to win the Academy Award for Best Actor",
-      "Knighted by Queen Elizabeth II in 1974",
-      "Ambassador of the Bahamas"
-    ],
-    "yearBorn": 1927,
-    "yearDied": 2022
-  },
-  {
-    "fullName": "Sydney Crosby",
-    "givenNames": [
-      "Sidney",
-      "Patrick"
-    ],
-    "familyName": "Crosby",
-    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Crosby",
-    "occupation": "Ice Hockey Player",
-    "achievements": [
-      "Three-time Stanley Cup champion with the Pittsburgh Penguins",
-      "Two-time Olympic gold medalist with Canada",
-      "Considered one of the greatest hockey players of all time"
-    ],
-    "yearBorn": 1987
-  },
-  {
     "fullName": "Sydney Sweeney",
     "givenNames": [
       "Sydney"
@@ -44,5 +12,21 @@
       "Nominated for two Primetime Emmy Awards"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Sydney Poitier",
+    "givenNames": [
+      "Sidney"
+    ],
+    "familyName": "Poitier",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidney_Poitier",
+    "occupation": "Actor, Director, Diplomat",
+    "achievements": [
+      "First Bahamian and first Black actor to win the Academy Award for Best Actor",
+      "Knighted by Queen Elizabeth II",
+      "Ambassador of The Bahamas to Japan"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2022
   }
 ]

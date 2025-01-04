@@ -1,22 +1,5 @@
 [
   {
-    "fullName": "Mathias Corvinus",
-    "givenNames": [
-      "Matthias",
-      "Mátyás"
-    ],
-    "familyName": "Corvinus",
-    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Corvinus",
-    "occupation": "King of Hungary and Croatia",
-    "achievements": [
-      "Considered one of the greatest Hungarian monarchs.",
-      "Patron of the arts and sciences.",
-      "Expanded Hungary's territory and influence."
-    ],
-    "yearBorn": 1443,
-    "yearDied": 1490
-  },
-  {
     "fullName": "Mathias Sindelar",
     "givenNames": [
       "Matthias",
@@ -44,5 +27,41 @@
       "Gained notoriety for flying a Cessna aircraft into Red Square in Moscow in 1987."
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Mathias Corvinus",
+    "givenNames": [
+      "Mathias",
+      "Matthias",
+      "Mátyás",
+      "Matia",
+      "Matei",
+      "Matija",
+      "Matijaš",
+      "Matej",
+      "Matyáš"
+    ],
+    "familyName": "Corvinus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Corvinus",
+    "occupation": "King of Hungary and Croatia",
+    "achievements": [
+      "Led a successful military campaign against the Ottoman Empire",
+      "Patronized art and learning during his reign"
+    ],
+    "yearBorn": 1443,
+    "yearDied": 1490
+  },
+  {
+    "fullName": "Mathias Schweighöfer",
+    "givenNames": [
+      "Matthias"
+    ],
+    "familyName": "Schweighöfer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Schweigh%C3%B6fer",
+    "occupation": "Actor, director, screenwriter, and producer",
+    "achievements": [
+      "Known for roles in films like 'Inglourious Basterds' and 'Valkyrie'",
+      "Won numerous awards for his acting and directing work"
+    ]
   }
 ]

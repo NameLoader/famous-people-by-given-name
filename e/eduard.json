@@ -44,5 +44,37 @@
     ],
     "yearBorn": 1825,
     "yearDied": 1904
+  },
+  {
+    "fullName": "Eduard Khil",
+    "givenNames": [
+      "Eduard",
+      "Anatolyevich"
+    ],
+    "familyName": "Khil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduard_Khil",
+    "occupation": "Singer",
+    "achievements": [
+      "Known for his distinctive baritone voice",
+      "Popularized the song 'I Am Glad Because I'm Finally Going Home'"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Eduard Limonov",
+    "givenNames": [
+      "Eduard",
+      "Veniaminovich"
+    ],
+    "familyName": "Limonov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eduard_Limonov",
+    "occupation": "Writer, Politician",
+    "achievements": [
+      "Prolific author of novels, essays, and political commentary",
+      "Founded the National Bolshevik Party in Russia"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 2020
   }
 ]

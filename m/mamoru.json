@@ -23,5 +23,18 @@
       "Directed acclaimed animated films like 'Wolf Children', 'Summer Wars', and 'The Girl Who Leapt Through Time'."
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Mamoru Miyano",
+    "givenNames": [
+      "Mamoru"
+    ],
+    "familyName": "Miyano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mamoru_Miyano",
+    "occupation": "Voice Actor, Singer",
+    "achievements": [
+      "Voiced popular anime characters like Light Yagami in Death Note, Riku in Kingdom Hearts"
+    ],
+    "yearBorn": 1983
   }
 ]

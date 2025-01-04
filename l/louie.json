@@ -2,8 +2,7 @@
   {
     "fullName": "Louie Dampier",
     "givenNames": [
-      "Louis",
-      "Louie"
+      "Louis"
     ],
     "familyName": "Dampier",
     "wikipedia": "https://en.wikipedia.org/wiki/Louie_Dampier",
@@ -13,5 +12,20 @@
       "Led the Kentucky Colonels to the ABA Championship in 1975"
     ],
     "yearBorn": 1944
+  },
+  {
+    "fullName": "Louie Gohmert",
+    "givenNames": [
+      "Louis",
+      "Buller",
+      "Jr."
+    ],
+    "familyName": "Gohmert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louie_Gohmert",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for Texas's 1st congressional district"
+    ],
+    "yearBorn": 1953
   }
 ]

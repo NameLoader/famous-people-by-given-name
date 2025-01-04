@@ -46,5 +46,21 @@
     ],
     "yearBorn": 1789,
     "yearDied": 1883
+  },
+  {
+    "fullName": "Josiah Strong",
+    "givenNames": [
+      "Josiah"
+    ],
+    "familyName": "Strong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Strong",
+    "occupation": "Clergyman, author",
+    "achievements": [
+      "Promoted the idea of American exceptionalism and overseas expansion",
+      "Author of 'Our Country: Its Possible Future and Its Present Crisis'",
+      "Influential figure in the Protestant missionary movement"
+    ],
+    "yearBorn": 1847,
+    "yearDied": 1916
   }
 ]

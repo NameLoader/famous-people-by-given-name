@@ -17,21 +17,6 @@
     "yearBorn": 1953
   },
   {
-    "fullName": "Isabelle Allende",
-    "givenNames": [
-      "Isabel",
-      "Angelica"
-    ],
-    "familyName": "Allende",
-    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Allende",
-    "occupation": "Writer",
-    "achievements": [
-      "Bestselling author known for her magical realism novels such as 'The House of the Spirits'",
-      "Recipient of numerous literary awards including the Chilean National Literature Prize"
-    ],
-    "yearBorn": 1942
-  },
-  {
     "fullName": "Isabelle Adjani",
     "givenNames": [
       "Isabelle",
@@ -45,5 +30,20 @@
       "Known for her roles in films like 'The Story of Adele H.' and 'Camille Claudel'"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Isabelle Allende",
+    "givenNames": [
+      "Isabel",
+      "Angelica"
+    ],
+    "familyName": "Allende",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Allende",
+    "occupation": "Writer",
+    "achievements": [
+      "One of the most widely read authors in the world",
+      "Presidential Medal of Freedom recipient"
+    ],
+    "yearBorn": 1942
   }
 ]

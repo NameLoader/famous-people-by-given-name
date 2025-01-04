@@ -30,5 +30,50 @@
     ],
     "yearBorn": 1888,
     "yearDied": 1954
+  },
+  {
+    "fullName": "Heinz Rühmann",
+    "givenNames": [
+      "Heinz",
+      "Heinrich Wilhelm"
+    ],
+    "familyName": "Rühmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz_R%C3%BChmann",
+    "occupation": "Actor",
+    "achievements": [
+      "Popular German film star during the Weimar Republic and Nazi eras",
+      "Known for comedic roles"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Heinz Kohut",
+    "givenNames": [
+      "Heinz"
+    ],
+    "familyName": "Kohut",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz_Kohut",
+    "occupation": "Psychoanalyst",
+    "achievements": [
+      "Developed Self Psychology",
+      "Influential figure in psychoanalytic theory and practice"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Heinz Harald Frentzen",
+    "givenNames": [
+      "Heinz-Harald"
+    ],
+    "familyName": "Frentzen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heinz-Harald_Frentzen",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Formula One race winner",
+      "DTM champion"
+    ],
+    "yearBorn": 1967
   }
 ]

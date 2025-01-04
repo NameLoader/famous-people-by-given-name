@@ -30,5 +30,35 @@
     ],
     "yearBorn": 1891,
     "yearDied": 1937
+  },
+  {
+    "fullName": "Antonio Conte",
+    "givenNames": [
+      "Antonio"
+    ],
+    "familyName": "Conte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_Conte",
+    "occupation": "Football Manager, Former Player",
+    "achievements": [
+      "Won multiple league titles as a manager in Italy and England",
+      "Led Chelsea to the Premier League title in 2017",
+      "Known for his tactical acumen and intense coaching style"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Antonio Gaudí",
+    "givenNames": [
+      "Antoni"
+    ],
+    "familyName": "Gaudí",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+    "occupation": "Architect",
+    "achievements": [
+      "Pioneer of Catalan Modernism",
+      "Designed iconic buildings in Barcelona like Sagrada Família and Park Güell"
+    ],
+    "yearBorn": 1852,
+    "yearDied": 1926
   }
 ]

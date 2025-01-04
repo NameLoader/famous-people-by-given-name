@@ -28,5 +28,18 @@
       "Winner of the Libris Literature Prize"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Renate Reinsve",
+    "givenNames": [
+      "Renate"
+    ],
+    "familyName": "Reinsve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renate_Reinsve",
+    "occupation": "Actress",
+    "achievements": [
+      "Won the Cannes Film Festival award for Best Actress for her role in \"The Worst Person in the World\""
+    ],
+    "yearBorn": 1987
   }
 ]

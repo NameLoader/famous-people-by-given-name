@@ -57,5 +57,23 @@
       "Inducted into the Canadian Music Hall of Fame"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Gordon Parks",
+    "givenNames": [
+      "Gordon",
+      "Roger",
+      "Alexander",
+      "Buchanan"
+    ],
+    "familyName": "Parks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Parks",
+    "occupation": "Photographer, filmmaker, writer, and composer",
+    "achievements": [
+      "First African American photographer for Life magazine",
+      "Directed the film 'Shaft'"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 2006
   }
 ]

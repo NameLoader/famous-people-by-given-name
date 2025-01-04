@@ -12,5 +12,19 @@
       "Appeared in other TV shows and films including 'House M.D.', 'The West Wing', and 'Transformers'"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Keiko Abe",
+    "givenNames": [
+      "Keiko"
+    ],
+    "familyName": "Abe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keiko_Abe",
+    "occupation": "Composer, Percussionist",
+    "achievements": [
+      "Pioneer of contemporary marimba music",
+      "Composed numerous solo and ensemble works for percussion instruments"
+    ],
+    "yearBorn": 1937
   }
 ]

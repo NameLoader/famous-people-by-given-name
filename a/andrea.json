@@ -70,5 +70,19 @@
     ],
     "yearBorn": 1946,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Andrea Del Boca",
+    "givenNames": [
+      "Andrea"
+    ],
+    "familyName": "Del Boca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrea_del_Boca",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for telenovelas such as 'Celeste' and 'La extraña dama'",
+      "Popular Argentine actress with a career spanning several decades"
+    ],
+    "yearBorn": 1965
   }
 ]

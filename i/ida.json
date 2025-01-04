@@ -28,5 +28,22 @@
     ],
     "yearBorn": 1847,
     "yearDied": 1907
+  },
+  {
+    "fullName": "Ida B. Wells-Barnett",
+    "givenNames": [
+      "Ida",
+      "Bell"
+    ],
+    "familyName": "Wells-Barnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+    "occupation": "Journalist, activist, suffragist",
+    "achievements": [
+      "Led an anti-lynching crusade in the United States",
+      "Co-founded the NAACP",
+      "Early advocate for women's suffrage"
+    ],
+    "yearBorn": 1862,
+    "yearDied": 1931
   }
 ]

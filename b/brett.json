@@ -42,5 +42,36 @@
       "CMA Award Winner"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Brett Hull",
+    "givenNames": [
+      "Brett",
+      "Andrew"
+    ],
+    "familyName": "Hull",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brett_Hull",
+    "occupation": "Former NHL Player",
+    "achievements": [
+      "Stanley Cup Champion (x2)",
+      "Hart Memorial Trophy Winner",
+      "NHL's all-time leading scorer among right wingers"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Brett Easton Ellis",
+    "givenNames": [
+      "Bret",
+      "Easton"
+    ],
+    "familyName": "Ellis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bret_Easton_Ellis",
+    "occupation": "Novelist, Screenwriter",
+    "achievements": [
+      "Author of controversial novels such as 'American Psycho' and 'Less Than Zero'",
+      "Screenwriter for films like 'Rules of Attraction'"
+    ],
+    "yearBorn": 1964
   }
 ]

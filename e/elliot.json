@@ -17,9 +17,7 @@
     "fullName": "Elliot Smith",
     "givenNames": [
       "Elliot",
-      "Elliott",
-      "Steven",
-      "Paul"
+      "Elliott"
     ],
     "familyName": "Smith",
     "wikipedia": "https://en.wikipedia.org/wiki/Elliott_Smith",
@@ -30,20 +28,5 @@
     ],
     "yearBorn": 1969,
     "yearDied": 2003
-  },
-  {
-    "fullName": "Elliot Ness",
-    "givenNames": [
-      "Eliot"
-    ],
-    "familyName": "Ness",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eliot_Ness",
-    "occupation": "Law Enforcement Officer",
-    "achievements": [
-      "Famous for his role in bringing down Al Capone's Chicago Outfit during Prohibition",
-      "Led the Untouchables, a team of incorruptible federal agents"
-    ],
-    "yearBorn": 1903,
-    "yearDied": 1957
   }
 ]

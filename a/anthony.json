@@ -59,5 +59,21 @@
       "8× NBA All-Star"
     ],
     "yearBorn": 1993
+  },
+  {
+    "fullName": "Anthony Joshua",
+    "givenNames": [
+      "Anthony",
+      "Oluwafemi",
+      "Olaseni"
+    ],
+    "familyName": "Joshua",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Joshua",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Two-time unified world heavyweight champion",
+      "Olympic gold medalist (2012)"
+    ],
+    "yearBorn": 1989
   }
 ]

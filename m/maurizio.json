@@ -26,5 +26,19 @@
       "Winner of multiple Grammy Awards"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Maurizio Cattelan",
+    "givenNames": [
+      "Maurizio"
+    ],
+    "familyName": "Cattelan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurizio_Cattelan",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for provocative and conceptual art.",
+      "Created works such as 'Comedian' (a banana duct-taped to a wall)."
+    ],
+    "yearBorn": 1960
   }
 ]

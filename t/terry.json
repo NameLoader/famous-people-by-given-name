@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Terry Crews",
+    "givenNames": [
+      "Terry",
+      "Alan"
+    ],
+    "familyName": "Crews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Crews",
+    "occupation": "Actor, comedian, former professional football player",
+    "achievements": [
+      "Starred in films like 'White Chicks' and 'Deadpool 2'",
+      "Hosted the game show 'America's Got Talent'"
+    ],
+    "yearBorn": 1968
+  },
+  {
+    "fullName": "Terry Gilliam",
+    "givenNames": [
+      "Terrence",
+      "Vance"
+    ],
+    "familyName": "Gilliam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Gilliam",
+    "occupation": "Film director, screenwriter, animator",
+    "achievements": [
+      "Member of the Monty Python comedy troupe",
+      "Directed films like 'Brazil' and 'Fear and Loathing in Las Vegas'"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Terry Pratchett",
+    "givenNames": [
+      "Terence",
+      "David",
+      "John"
+    ],
+    "familyName": "Pratchett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Pratchett",
+    "occupation": "Author",
+    "achievements": [
+      "Created the Discworld fantasy series",
+      "Won numerous literary awards"
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2015
+  }
+]

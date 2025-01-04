@@ -18,7 +18,7 @@
   {
     "fullName": "Natalia Lafourcade",
     "givenNames": [
-      "Natalia"
+      "María Natalia"
     ],
     "familyName": "Lafourcade",
     "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Lafourcade",
@@ -43,5 +43,19 @@
       "Founded the Naked Heart Foundation to help children in Russia"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Natalia Ginzburg",
+    "givenNames": [
+      "Natalia"
+    ],
+    "familyName": "Ginzburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalia_Ginzburg",
+    "occupation": "Writer",
+    "achievements": [
+      "Won the Strega Prize for her novel Lessico Famigliare (Family Lexicon)"
+    ],
+    "yearBorn": 1916,
+    "yearDied": 1991
   }
 ]

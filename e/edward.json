@@ -56,5 +56,60 @@
       "Known for roles in films like 'Fight Club,' 'American History X,' and 'Birdman'"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Edward Jenner",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Jenner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Jenner",
+    "occupation": "Physician and Scientist",
+    "achievements": [
+      "Pioneer of vaccinology",
+      "Developed the smallpox vaccine"
+    ],
+    "yearBorn": 1749,
+    "yearDied": 1823
+  },
+  {
+    "fullName": "Edward Teach",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "Teach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blackbeard",
+    "occupation": "Pirate",
+    "achievements": [
+      "Became one of the most infamous pirates in history"
+    ],
+    "yearBorn": 1680,
+    "yearDied": 1718
+  },
+  {
+    "fullName": "Edward IV",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "York",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_IV",
+    "occupation": "King of England",
+    "achievements": [
+      "Won the Wars of the Roses"
+    ],
+    "yearBorn": 1442,
+    "yearDied": 1483
+  },
+  {
+    "fullName": "Edward V",
+    "givenNames": [
+      "Edward"
+    ],
+    "familyName": "York",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_V",
+    "occupation": "King of England (disputed)",
+    "achievements": [],
+    "yearBorn": 1470,
+    "yearDied": 1483
   }
 ]

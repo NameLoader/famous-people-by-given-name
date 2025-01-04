@@ -11,5 +11,31 @@
       "Creator of the popular manga series Sailor Moon"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Naoko Mori",
+    "givenNames": [
+      "Naoko"
+    ],
+    "familyName": "Mori",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naoko_Mori",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in British television series such as 'Absolutely Fabulous' and 'Doctor Who'"
+    ]
+  },
+  {
+    "fullName": "Naoko Takahashi",
+    "givenNames": [
+      "Naoko"
+    ],
+    "familyName": "Takahashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naoko_Takahashi",
+    "occupation": "Marathon runner",
+    "achievements": [
+      "Olympic gold medalist in the marathon (2000)",
+      "World Champion in the marathon (2001)"
+    ],
+    "yearBorn": 1972
   }
 ]

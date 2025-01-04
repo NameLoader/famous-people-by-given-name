@@ -43,5 +43,35 @@
     ],
     "yearBorn": 1484,
     "yearDied": 1531
+  },
+  {
+    "fullName": "Ulrich Mühe",
+    "givenNames": [
+      "Ulrich"
+    ],
+    "familyName": "Mühe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulrich_M%C3%BChe",
+    "occupation": "Actor",
+    "achievements": [
+      "Played the lead role in the acclaimed film 'The Lives of Others'",
+      "Known for his portrayal of complex and conflicted characters"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2007
+  },
+  {
+    "fullName": "Ulrich Seidl",
+    "givenNames": [
+      "Ulrich",
+      "Maria"
+    ],
+    "familyName": "Seidl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulrich_Seidl",
+    "occupation": "Film director",
+    "achievements": [
+      "Known for his controversial and thought-provoking films",
+      "Won numerous awards for his work"
+    ],
+    "yearBorn": 1952
   }
 ]

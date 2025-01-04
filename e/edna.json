@@ -43,5 +43,36 @@
     "achievements": [
       "Iconic character in Pixar films"
     ]
+  },
+  {
+    "fullName": "Edna Ferber",
+    "givenNames": [
+      "Edna"
+    ],
+    "familyName": "Ferber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edna_Ferber",
+    "occupation": "Novelist, playwright",
+    "achievements": [
+      "Pulitzer Prize for Fiction (1925)",
+      "Known for novels like 'So Big', 'Show Boat' and 'Giant'"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1968
+  },
+  {
+    "fullName": "Edna Manley",
+    "givenNames": [
+      "Edna",
+      "Swithenbank"
+    ],
+    "familyName": "Manley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edna_Manley",
+    "occupation": "Artist, sculptor",
+    "achievements": [
+      "Pioneer of modern Jamaican art",
+      "Known for her sculptures inspired by the human form and Jamaican culture"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1987
   }
 ]

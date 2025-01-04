@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1915,
     "yearDied": 2021
+  },
+  {
+    "fullName": "Beverly Garland",
+    "givenNames": [
+      "Beverly",
+      "Lucy"
+    ],
+    "familyName": "Garland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beverly_Garland",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in the TV series 'My Three Sons'",
+      "Known for her roles in Westerns and film noir"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2008
   }
 ]

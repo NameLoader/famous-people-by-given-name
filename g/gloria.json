@@ -44,5 +44,38 @@
       "Won a Grammy Award for her hit song 'I Will Survive'"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Gloria Estefan",
+    "givenNames": [
+      "Gloria",
+      "María",
+      "Milagrosa"
+    ],
+    "familyName": "Estefan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Estefan",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "International music star",
+      "Known for hits like 'Conga' and 'Get on Your Feet'",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Gloria Vanderbilt",
+    "givenNames": [
+      "Gloria",
+      "Laura"
+    ],
+    "familyName": "Vanderbilt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Vanderbilt",
+    "occupation": "Fashion designer, artist, heiress",
+    "achievements": [
+      "Known for her denim jeans line",
+      "Successful author and memoirist"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2019
   }
 ]

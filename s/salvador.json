@@ -31,5 +31,19 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Salvador Sánchez Cerén",
+    "givenNames": [
+      "Salvador"
+    ],
+    "familyName": "Sánchez Cerén",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvador_S%C3%A1nchez_Cer%C3%A9n",
+    "occupation": "Politician",
+    "achievements": [
+      "Former President of El Salvador (2014-2019)",
+      "Member of the Farabundo Martí National Liberation Front (FMLN)"
+    ],
+    "yearBorn": 1945
   }
 ]

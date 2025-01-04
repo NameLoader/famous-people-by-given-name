@@ -47,5 +47,20 @@
       "Serie A top scorer (twice)"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Gabriel Jesus",
+    "givenNames": [
+      "Gabriel",
+      "Fernando"
+    ],
+    "familyName": "Jesus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_Jesus",
+    "occupation": "Professional footballer",
+    "achievements": [
+      "Won the Premier League with Manchester City (2018, 2019)",
+      "Key player for the Brazil national team"
+    ],
+    "yearBorn": 1997
   }
 ]

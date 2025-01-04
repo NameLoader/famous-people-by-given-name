@@ -27,5 +27,20 @@
       "Appeared in films like 'Drop Dead Gorgeous' and 'The Family Man'"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Amber Rose",
+    "givenNames": [
+      "Amber",
+      "Levonchuck"
+    ],
+    "familyName": "Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amber_Rose",
+    "occupation": "Model, TV Personality, Actress",
+    "achievements": [
+      "Known for her appearances in music videos and magazines",
+      "Advocate for body positivity and female empowerment"
+    ],
+    "yearBorn": 1983
   }
 ]

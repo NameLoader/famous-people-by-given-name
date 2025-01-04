@@ -27,5 +27,19 @@
       "Leader of the Labor Party"
     ],
     "yearBorn": 1952
+  },
+  {
+    "fullName": "Amir Taheri",
+    "givenNames": [
+      "Amir"
+    ],
+    "familyName": "Taheri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amir_Taheri",
+    "occupation": "Iranian journalist and author",
+    "achievements": [
+      "Author of several books on Middle Eastern politics and Islam",
+      "Contributed to publications like The Wall Street Journal and The Washington Times"
+    ],
+    "yearBorn": 1942
   }
 ]

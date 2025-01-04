@@ -27,5 +27,20 @@
     ],
     "yearBorn": 1913,
     "yearDied": 2000
+  },
+  {
+    "fullName": "Loretta Devine",
+    "givenNames": [
+      "Loretta"
+    ],
+    "familyName": "Devine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Loretta_Devine",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Primetime Emmy Award for her role in the TV movie 'Waiting to Exhale'",
+      "Nominated for Tony Awards for her stage performances",
+      "Appeared in numerous films and television shows including 'Dreamgirls', 'Grey's Anatomy', and 'The Carmichael Show'"
+    ],
+    "yearBorn": 1949
   }
 ]

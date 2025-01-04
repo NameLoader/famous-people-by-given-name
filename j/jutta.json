@@ -12,5 +12,20 @@
       "Advocate for human rights and democracy"
     ],
     "yearBorn": 1932
+  },
+  {
+    "fullName": "Jutta Hipp",
+    "givenNames": [
+      "Jutta"
+    ],
+    "familyName": "Hipp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jutta_Hipp",
+    "occupation": "Jazz pianist and composer",
+    "achievements": [
+      "Recorded several acclaimed jazz albums.",
+      "Collaborated with renowned musicians like Miles Davis and Zoot Sims."
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2003
   }
 ]

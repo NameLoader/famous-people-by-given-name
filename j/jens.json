@@ -27,5 +27,34 @@
       "Played for the German national team"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Jens Lekman",
+    "givenNames": [
+      "Jens",
+      "Martin"
+    ],
+    "familyName": "Lekman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jens_Lekman",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Critically acclaimed indie folk musician",
+      "Known for his melancholic lyrics and lo-fi sound"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Jens Pulver",
+    "givenNames": [
+      "Jens",
+      "Johnnie"
+    ],
+    "familyName": "Pulver",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jens_Pulver",
+    "occupation": "Mixed martial artist",
+    "achievements": [
+      "First UFC Lightweight Champion"
+    ],
+    "yearBorn": 1974
   }
 ]

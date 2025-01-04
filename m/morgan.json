@@ -38,5 +38,19 @@
       "Known for his documentary films, including 'Super Size Me'"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Morgan Wootten",
+    "givenNames": [
+      "Morgan",
+      "Bayard"
+    ],
+    "familyName": "Wootten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Wootten",
+    "occupation": "Basketball Coach",
+    "achievements": [
+      "Naismith Memorial Basketball Hall of Fame inductee"
+    ],
+    "yearBorn": 1931
   }
 ]

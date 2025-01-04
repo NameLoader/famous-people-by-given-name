@@ -12,5 +12,34 @@
       "Co-founder of YouTube"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Chad Michael Murray",
+    "givenNames": [
+      "Chad",
+      "Michael"
+    ],
+    "familyName": "Murray",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad_Michael_Murray",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in One Tree Hill and Freaky Friday"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Chad Kroeger",
+    "givenNames": [
+      "Chad",
+      "Robert"
+    ],
+    "familyName": "Kroeger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad_Kroeger",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Lead vocalist of Nickelback",
+      "Multiple Juno Award wins"
+    ],
+    "yearBorn": 1974
   }
 ]

@@ -12,5 +12,32 @@
       "Represented the Norwegian national team"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Steffen Peters",
+    "givenNames": [
+      "Steffen"
+    ],
+    "familyName": "Peters",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steffen_Peters",
+    "occupation": "Dressage rider",
+    "achievements": [
+      "Multiple Olympic medalist.",
+      "World Equestrian Games champion."
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Steffen Tigges",
+    "givenNames": [
+      "Steffen"
+    ],
+    "familyName": "Tigges",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steffen_Tigges",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a forward for 1. FC Köln."
+    ],
+    "yearBorn": 1998
   }
 ]

@@ -26,5 +26,35 @@
       "Renowned interpreter of contemporary music"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Dawn Wells",
+    "givenNames": [
+      "Dawn",
+      "Elberta"
+    ],
+    "familyName": "Wells",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dawn_Wells",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Mary Ann Summers on the sitcom Gilligan's Island"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2020
+  },
+  {
+    "fullName": "Dawn French",
+    "givenNames": [
+      "Dawn",
+      "Roma"
+    ],
+    "familyName": "French",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dawn_French",
+    "occupation": "Comedian, Actress, Writer",
+    "achievements": [
+      "Known for her comedic partnership with Jennifer Saunders in French and Saunders",
+      "Starred in the sitcom The Vicar of Dibley"
+    ],
+    "yearBorn": 1957
   }
 ]

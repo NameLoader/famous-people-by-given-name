@@ -1,0 +1,29 @@
+[
+  {
+    "fullName": "Angelika Kirchschlager",
+    "givenNames": [
+      "Angelika"
+    ],
+    "familyName": "Kirchschlager",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelika_Kirchschlager",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Internationally acclaimed mezzo-soprano",
+      "Performed in major opera houses worldwide"
+    ]
+  },
+  {
+    "fullName": "Angelika Huston",
+    "givenNames": [
+      "Anjelica"
+    ],
+    "familyName": "Huston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anjelica_Huston",
+    "occupation": "Actress, Director",
+    "achievements": [
+      "Academy Award for Best Supporting Actress",
+      "Golden Globe Awards"
+    ],
+    "yearBorn": 1951
+  }
+]

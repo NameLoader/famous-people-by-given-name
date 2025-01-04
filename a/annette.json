@@ -29,5 +29,18 @@
     ],
     "yearBorn": 1942,
     "yearDied": 2013
+  },
+  {
+    "fullName": "Annette Hegerty",
+    "givenNames": [
+      "Anne",
+      "Solway"
+    ],
+    "familyName": "Hegerty",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Hegerty",
+    "occupation": "Quizzer, Television Personality",
+    "achievements": [
+      "Chaser on the British game show 'The Chase'"
+    ]
   }
 ]

@@ -12,5 +12,21 @@
       "Known for her research on autism and dyslexia"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Uta Hagen",
+    "givenNames": [
+      "Uta",
+      "Thyra"
+    ],
+    "familyName": "Hagen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uta_Hagen",
+    "occupation": "Actress, Acting Teacher",
+    "achievements": [
+      "Considered one of the greatest acting teachers of the 20th century.",
+      "Known for her influential book 'Respect for Acting'."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2004
   }
 ]

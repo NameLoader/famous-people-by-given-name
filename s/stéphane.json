@@ -42,5 +42,19 @@
       "Specialist in totalitarian regimes and the history of communism"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Stéphane Rousseau",
+    "givenNames": [
+      "Stéphane"
+    ],
+    "familyName": "Rousseau",
+    "wikipedia": "https://en.wikipedia.org/wiki/St%C3%A9phane_Rousseau",
+    "occupation": "Actor, comedian, and screenwriter",
+    "achievements": [
+      "Popular figure in Quebec cinema and television.",
+      "Known for his comedic roles and improvisational skills."
+    ],
+    "yearBorn": 1965
   }
 ]

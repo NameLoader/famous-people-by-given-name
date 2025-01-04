@@ -43,5 +43,20 @@
       "Won 13 Premier League titles and 2 Champions League titles with Manchester United"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Ryan Seacrest",
+    "givenNames": [
+      "Ryan",
+      "John"
+    ],
+    "familyName": "Seacrest",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Seacrest",
+    "occupation": "Television and Radio Host, Producer",
+    "achievements": [
+      "Host of American Idol and other television programs",
+      "Successful radio host and producer"
+    ],
+    "yearBorn": 1974
   }
 ]

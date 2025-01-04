@@ -1,15 +1,17 @@
 [
   {
-    "fullName": "Yuki Tabata",
+    "fullName": "Yuki Kawauchi",
     "givenNames": [
+      "Yuki",
       "Yūki"
     ],
-    "familyName": "Tabata",
-    "wikipedia": "https://en.wikipedia.org/wiki/Y%C5%ABki_Tabata",
-    "occupation": "Manga Artist",
+    "familyName": "Kawauchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuki_Kawauchi",
+    "occupation": "Marathon runner",
     "achievements": [
-      "Creator of the manga series Black Clover"
+      "Winner of the 2018 Boston Marathon",
+      "Two-time winner of the Hokkaido Marathon"
     ],
-    "yearBorn": 1984
+    "yearBorn": 1987
   }
 ]

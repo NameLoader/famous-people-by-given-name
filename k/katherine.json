@@ -1,25 +1,8 @@
 [
   {
-    "fullName": "Katherine Hepburn",
-    "givenNames": [
-      "Katharine",
-      "Houghton"
-    ],
-    "familyName": "Hepburn",
-    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
-    "occupation": "Actress",
-    "achievements": [
-      "Won a record four Academy Awards for Best Actress",
-      "Known for her independent spirit and unconventional roles"
-    ],
-    "yearBorn": 1907,
-    "yearDied": 2003
-  },
-  {
     "fullName": "Katherine Johnson",
     "givenNames": [
-      "Katherine",
-      "Creola"
+      "Katherine"
     ],
     "familyName": "Johnson",
     "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Johnson",
@@ -46,5 +29,51 @@
     ],
     "yearBorn": 1890,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Katherine Mansfield",
+    "givenNames": [
+      "Katherine"
+    ],
+    "familyName": "Mansfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Mansfield",
+    "occupation": "Short story writer",
+    "achievements": [
+      "Known for her modernist short stories exploring themes of love, loss, and identity"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1923
+  },
+  {
+    "fullName": "Katherine Parr",
+    "givenNames": [
+      "Katherine",
+      "Catherine"
+    ],
+    "familyName": "Parr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Parr",
+    "occupation": "Queen Consort of England",
+    "achievements": [
+      "Sixth and final wife of King Henry VIII",
+      "Author and influential figure during the English Reformation"
+    ],
+    "yearBorn": 1512,
+    "yearDied": 1548
+  },
+  {
+    "fullName": "Katherine Hepburn",
+    "givenNames": [
+      "Katharine",
+      "Houghton"
+    ],
+    "familyName": "Hepburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a record four Academy Awards for Best Actress",
+      "Known for her independent spirit and strong female roles"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2003
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Lia Thomas",
+    "givenNames": [
+      "Lia",
+      "Catherine"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lia_Thomas",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Won the NCAA Division I Women's 500-yard freestyle championship in 2022",
+      "Became a prominent figure in the debate surrounding transgender athletes in sports"
+    ],
+    "yearBorn": 1999
+  }
+]

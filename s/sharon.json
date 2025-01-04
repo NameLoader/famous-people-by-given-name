@@ -42,5 +42,50 @@
       "Nominated for numerous Emmy Awards and Primetime Emmy Awards"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Sharon Osbourne",
+    "givenNames": [
+      "Sharon",
+      "Rachel"
+    ],
+    "familyName": "Osbourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Osbourne",
+    "occupation": "Television personality, music manager",
+    "achievements": [
+      "Judge on 'The X Factor'",
+      "Co-host of 'The Talk'"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Sharon Salzberg",
+    "givenNames": [
+      "Sharon"
+    ],
+    "familyName": "Salzberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Salzberg",
+    "occupation": "Meditation teacher, author",
+    "achievements": [
+      "Pioneer in bringing mindfulness meditation to the West",
+      "Author of several best-selling books on meditation"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Sharon Tate",
+    "givenNames": [
+      "Sharon",
+      "Marie"
+    ],
+    "familyName": "Tate",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Tate",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Starred in films like 'Valley of the Dolls' and 'Eye of the Devil'",
+      "Became a symbol of innocence lost due to her tragic murder by the Manson Family"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1969
   }
 ]

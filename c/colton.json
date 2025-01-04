@@ -28,5 +28,20 @@
       "Appeared in Arrow and The Grinder"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Colton Dixon",
+    "givenNames": [
+      "Colton",
+      "Michael"
+    ],
+    "familyName": "Dixon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colton_Dixon",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Finished seventh on the eleventh season of American Idol",
+      "Released multiple successful Christian rock albums"
+    ],
+    "yearBorn": 1991
   }
 ]

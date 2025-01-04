@@ -1,5 +1,18 @@
 [
   {
+    "fullName": "Anya Kamenetz",
+    "givenNames": [
+      "Anya"
+    ],
+    "familyName": "Kamenetz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Kamenetz",
+    "occupation": "Journalist, author",
+    "achievements": [
+      "NPR correspondent",
+      "Author of several books on education and technology"
+    ]
+  },
+  {
     "fullName": "Anya Taylor-Joy",
     "givenNames": [
       "Anya-Josephine",
@@ -15,16 +28,16 @@
     "yearBorn": 1996
   },
   {
-    "fullName": "Anya Kamenetz",
+    "fullName": "Anya Chalotra",
     "givenNames": [
       "Anya"
     ],
-    "familyName": "Kamenetz",
-    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Kamenetz",
-    "occupation": "Journalist, author",
+    "familyName": "Chalotra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anya_Chalotra",
+    "occupation": "Actress",
     "achievements": [
-      "NPR correspondent",
-      "Author of several books on education and technology"
-    ]
+      "Known for her role as Yennefer of Vengerberg in the Netflix series The Witcher"
+    ],
+    "yearBorn": 1996
   }
 ]

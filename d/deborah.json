@@ -2,7 +2,8 @@
   {
     "fullName": "Deborah Kerr",
     "givenNames": [
-      "Deborah"
+      "Deborah",
+      "Jane"
     ],
     "familyName": "Kerr",
     "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Kerr",
@@ -43,5 +44,48 @@
       "Punk and New Wave icon"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Deborah Sampson",
+    "givenNames": [
+      "Deborah"
+    ],
+    "familyName": "Sampson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Sampson",
+    "occupation": "Soldier, Patriot",
+    "achievements": [
+      "Disguised herself as a man to fight in the American Revolutionary War"
+    ],
+    "yearBorn": 1760,
+    "yearDied": 1827
+  },
+  {
+    "fullName": "Deborah Norville",
+    "givenNames": [
+      "Deborah",
+      "Anne"
+    ],
+    "familyName": "Norville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Norville",
+    "occupation": "Television journalist and anchor",
+    "achievements": [
+      "Anchor of 'Inside Edition'",
+      "Former co-anchor of 'Today'"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Deborah Cox",
+    "givenNames": [
+      "Deborah"
+    ],
+    "familyName": "Cox",
+    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Cox",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Known for hits such as 'Nobody's Supposed to Be Here', 'We Can't Be Friends'",
+      "Broadway performer"
+    ],
+    "yearBorn": 1974
   }
 ]

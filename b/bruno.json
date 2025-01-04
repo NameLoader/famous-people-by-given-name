@@ -30,5 +30,47 @@
     ],
     "yearBorn": 1911,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Bruno Ganz",
+    "givenNames": [
+      "Bruno"
+    ],
+    "familyName": "Ganz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Ganz",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Wings of Desire' and 'Downfall'"
+    ],
+    "yearBorn": 1941,
+    "yearDied": 2019
+  },
+  {
+    "fullName": "Bruno Schulz",
+    "givenNames": [
+      "Bruno"
+    ],
+    "familyName": "Schulz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Schulz",
+    "occupation": "Writer, artist",
+    "achievements": [
+      "Acclaimed for his surreal short stories and literary style"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1942
+  },
+  {
+    "fullName": "Bruno Bauer",
+    "givenNames": [
+      "Bruno"
+    ],
+    "familyName": "Bauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bruno_Bauer",
+    "occupation": "Theologian, philosopher",
+    "achievements": [
+      "Critical analysis of the Bible and Christian theology"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1882
   }
 ]

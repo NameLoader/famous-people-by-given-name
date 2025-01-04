@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1950,
     "yearDied": 2008
+  },
+  {
+    "fullName": "Jörg Pilawa",
+    "givenNames": [
+      "Jörg",
+      "Michael"
+    ],
+    "familyName": "Pilawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B6rg_Pilawa",
+    "occupation": "Television presenter",
+    "achievements": [
+      "Popular German TV host known for quiz shows and entertainment programs"
+    ],
+    "yearBorn": 1965
   }
 ]

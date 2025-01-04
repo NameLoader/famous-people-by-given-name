@@ -12,5 +12,20 @@
       "Founded Venture Communications, a successful marketing firm",
       "Authored several bestselling books on business and leadership"
     ]
+  },
+  {
+    "fullName": "Arlene Francis",
+    "givenNames": [
+      "Arlene"
+    ],
+    "familyName": "Francis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arlene_Francis",
+    "occupation": "Actress, television personality",
+    "achievements": [
+      "Panelist on the game show 'What's My Line?'",
+      "Host of the daytime talk show 'Arlene Francis Show'"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2001
   }
 ]

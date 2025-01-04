@@ -46,5 +46,19 @@
     ],
     "yearBorn": 1828,
     "yearDied": 1906
+  },
+  {
+    "fullName": "Josephine Cochrane",
+    "givenNames": [
+      "Josephine"
+    ],
+    "familyName": "Cochrane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Cochrane",
+    "occupation": "Inventor",
+    "achievements": [
+      "Invented the first commercially successful dishwasher"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1913
   }
 ]

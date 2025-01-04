@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1932,
     "yearDied": 2006
+  },
+  {
+    "fullName": "Earl Lloyd",
+    "givenNames": [
+      "Earl",
+      "Francis"
+    ],
+    "familyName": "Lloyd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Earl_Lloyd",
+    "occupation": "Basketball player",
+    "achievements": [
+      "First African-American to play in the NBA",
+      "NBA Champion (1955)"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2015
   }
 ]

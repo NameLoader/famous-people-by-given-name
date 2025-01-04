@@ -27,5 +27,34 @@
       "Won several awards for her acting performances in Bollywood films"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Jacqueline du Pré",
+    "givenNames": [
+      "Jacqueline",
+      "Mary"
+    ],
+    "familyName": "du Pré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_du_Pr%C3%A9",
+    "occupation": "Cellist",
+    "achievements": [
+      "Renowned cellist known for her expressive style and virtuosity"
+    ],
+    "yearBorn": 1945,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Jacqueline Woodson",
+    "givenNames": [
+      "Jacqueline"
+    ],
+    "familyName": "Woodson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Woodson",
+    "occupation": "Author",
+    "achievements": [
+      "National Book Award winner for 'Brown Girl Dreaming'",
+      "Writes books for young adults and children"
+    ],
+    "yearBorn": 1963
   }
 ]

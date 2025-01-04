@@ -43,5 +43,19 @@
     ],
     "yearBorn": 1713,
     "yearDied": 1768
+  },
+  {
+    "fullName": "Laurence Freedman",
+    "givenNames": [
+      "Lawrence",
+      "David"
+    ],
+    "familyName": "Freedman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Freedman",
+    "occupation": "Political scientist",
+    "achievements": [
+      "Professor emeritus at King's College London",
+      "Expert on international relations and nuclear proliferation"
+    ]
   }
 ]

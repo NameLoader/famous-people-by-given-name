@@ -17,17 +17,32 @@
     "yearBorn": 1965
   },
   {
+    "fullName": "Damien Echols",
+    "givenNames": [
+      "Damien",
+      "Wayne"
+    ],
+    "familyName": "Echols",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Echols",
+    "occupation": "Writer, Artist",
+    "achievements": [
+      "One of the West Memphis Three, wrongfully convicted of murder and later released",
+      "Author of several books about his experience and spiritual practices"
+    ],
+    "yearBorn": 1974
+  },
+  {
     "fullName": "Damien Lewis",
     "givenNames": [
       "Damian",
-      "Watcyn"
+      "Damien"
     ],
     "familyName": "Lewis",
     "wikipedia": "https://en.wikipedia.org/wiki/Damian_Lewis",
     "occupation": "Actor",
     "achievements": [
-      "Won a Primetime Emmy Award and a Golden Globe Award for his role as Nicholas Brody in the Showtime series Homeland",
-      "Known for roles in films like 'Band of Brothers', 'Ocean's Twelve', and 'Robin Hood'"
+      "Won a Primetime Emmy Award for his role in 'Homeland'",
+      "Known for roles in films such as 'Band of Brothers' and 'Ocean's Twelve'"
     ],
     "yearBorn": 1971
   }

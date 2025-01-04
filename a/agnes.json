@@ -48,5 +48,22 @@
     ],
     "yearBorn": 1900,
     "yearDied": 1974
+  },
+  {
+    "fullName": "Agnes Varda",
+    "givenNames": [
+      "Agnes",
+      "Arlette"
+    ],
+    "familyName": "Varda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Pioneer of the French New Wave movement",
+      "First woman to receive an honorary Oscar",
+      "Known for films like 'Cléo from 5 to 7' and 'Vagabond'"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2019
   }
 ]

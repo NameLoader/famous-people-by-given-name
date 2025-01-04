@@ -44,5 +44,20 @@
     ],
     "yearBorn": 1754,
     "yearDied": 1828
+  },
+  {
+    "fullName": "Vincenzo Scamozzi",
+    "givenNames": [
+      "Vincenzo"
+    ],
+    "familyName": "Scamozzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Scamozzi",
+    "occupation": "Architect",
+    "achievements": [
+      "Influential figure in Palladian architecture.",
+      "Known for designing the Teatro Olimpico in Vicenza."
+    ],
+    "yearBorn": 1548,
+    "yearDied": 1616
   }
 ]

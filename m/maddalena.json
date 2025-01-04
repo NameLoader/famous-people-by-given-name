@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1544,
     "yearDied": 1590
+  },
+  {
+    "fullName": "Maria Maddalena de' Medici",
+    "givenNames": [
+      "Maria",
+      "Maddalena"
+    ],
+    "familyName": "Medici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Maddalena_de%27_Medici",
+    "occupation": "Noblewoman, Duchess of Modena",
+    "achievements": [
+      "Known for her piety and charitable work",
+      "Patron of the arts and sciences"
+    ],
+    "yearBorn": 1600,
+    "yearDied": 1633
   }
 ]

@@ -31,5 +31,22 @@
       "Pritzker Architecture Prize winner"
     ],
     "yearBorn": 1929
+  },
+  {
+    "fullName": "Frank Zappa",
+    "givenNames": [
+      "Frank",
+      "Vincent"
+    ],
+    "familyName": "Zappa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Zappa",
+    "occupation": "Musician, composer",
+    "achievements": [
+      "Experimental rock musician and composer known for his complex arrangements and satirical lyrics",
+      "Led the band The Mothers of Invention",
+      "Prolific artist with a vast discography"
+    ],
+    "yearBorn": 1940,
+    "yearDied": 1993
   }
 ]

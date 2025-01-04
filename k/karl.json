@@ -16,24 +16,6 @@
     "yearDied": 1883
   },
   {
-    "fullName": "Karl Friedrich Gauss",
-    "givenNames": [
-      "Johann",
-      "Carl",
-      "Friedrich"
-    ],
-    "familyName": "Gauss",
-    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
-    "occupation": "Mathematician, astronomer, physicist",
-    "achievements": [
-      "Known as the 'Prince of Mathematicians'",
-      "Made significant contributions to number theory, algebra, statistics, analysis, differential geometry, geodesy, geophysics, electrostatics, astronomy, and optics",
-      "Developed the Gaussian distribution"
-    ],
-    "yearBorn": 1777,
-    "yearDied": 1855
-  },
-  {
     "fullName": "Karl Popper",
     "givenNames": [
       "Karl",

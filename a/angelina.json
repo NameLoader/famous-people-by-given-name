@@ -25,5 +25,19 @@
     "achievements": [
       "Protagonist of a popular children's book series"
     ]
+  },
+  {
+    "fullName": "Angelina Pivarnick",
+    "givenNames": [
+      "Angelina",
+      "Marie"
+    ],
+    "familyName": "Pivarnick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelina_Pivarnick",
+    "occupation": "Television personality",
+    "achievements": [
+      "Cast member of MTV's Jersey Shore"
+    ],
+    "yearBorn": 1986
   }
 ]

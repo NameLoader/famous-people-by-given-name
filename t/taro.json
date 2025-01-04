@@ -13,5 +13,20 @@
       "Member of the House of Representatives since 1996"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Taro Okamoto",
+    "givenNames": [
+      "Taro"
+    ],
+    "familyName": "Okamoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tar%C5%8D_Okamoto",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for avant-garde sculptures and paintings",
+      "Created the iconic 'Myth of Tomorrow' mural at the Shibuya Station in Tokyo"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1996
   }
 ]

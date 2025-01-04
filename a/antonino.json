@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Antonino Cannavacciuolo",
+    "givenNames": [
+      "Antonino"
+    ],
+    "familyName": "Cannavacciuolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonino_Cannavacciuolo",
+    "occupation": "Chef",
+    "achievements": [
+      "Michelin-starred chef",
+      "Television personality known for his appearances on Italian cooking shows"
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Antonino Scalia",
+    "givenNames": [
+      "Antonin",
+      "Gregory"
+    ],
+    "familyName": "Scalia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonin_Scalia",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "Known for his originalist interpretation of the Constitution",
+      "Influential conservative voice on the Supreme Court"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 2016
+  }
+]

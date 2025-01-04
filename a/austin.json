@@ -30,13 +30,27 @@
   {
     "fullName": "Austin Powers",
     "givenNames": [
+      "Austin",
+      "Danger"
+    ],
+    "familyName": "Powers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Austin_Powers_(character)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the comedic spy film franchise 'Austin Powers'"
+    ]
+  },
+  {
+    "fullName": "Austin Powers",
+    "givenNames": [
       "Austin"
     ],
     "familyName": "Powers",
     "wikipedia": "https://en.wikipedia.org/wiki/Austin_Powers",
     "occupation": "Fictional Character",
     "achievements": [
-      "Protagonist of the comedic spy film franchise 'Austin Powers'"
+      "Created by Mike Myers",
+      "Iconic spy parody character from the 'Austin Powers' film trilogy"
     ]
   }
 ]

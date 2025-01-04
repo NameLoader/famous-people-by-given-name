@@ -2,9 +2,7 @@
   {
     "fullName": "Stephanie Beatriz",
     "givenNames": [
-      "Stephanie",
-      "Bischoff",
-      "Alvizuri"
+      "Stephanie"
     ],
     "familyName": "Beatriz",
     "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Beatriz",
@@ -14,19 +12,6 @@
       "Voice actress for Mirabel Madrigal in Disney's animated film 'Encanto'"
     ],
     "yearBorn": 1981
-  },
-  {
-    "fullName": "Stephanie Meyer",
-    "givenNames": [
-      "Stephenie"
-    ],
-    "familyName": "Meyer",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stephenie_Meyer",
-    "occupation": "Author",
-    "achievements": [
-      "Best known for the 'Twilight' saga, a series of vampire romance novels that became a global phenomenon"
-    ],
-    "yearBorn": 1973
   },
   {
     "fullName": "Stephanie McMahon",
@@ -42,5 +27,32 @@
       "Former wrestler and multiple-time WWE Women's Champion"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Stephanie Meyer",
+    "givenNames": [
+      "Stephenie"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephenie_Meyer",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for the 'Twilight' series of vampire romance novels"
+    ],
+    "yearBorn": 1973
+  },
+  {
+    "fullName": "Stephanie Davis",
+    "givenNames": [
+      "Stephanie",
+      "Ann"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Davis_(actress)",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known for her role as Sinead O'Connor in the soap opera 'Hollyoaks'"
+    ],
+    "yearBorn": 1993
   }
 ]

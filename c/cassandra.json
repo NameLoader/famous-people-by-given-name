@@ -12,5 +12,32 @@
       "Known for her unique vocal style and eclectic musical influences"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Cassandra Peterson",
+    "givenNames": [
+      "Cassandra",
+      "Gay"
+    ],
+    "familyName": "Peterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassandra_Peterson",
+    "occupation": "Actress, comedian",
+    "achievements": [
+      "Known for portraying Elvira, Mistress of the Dark"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Cassandra Clare",
+    "givenNames": [
+      "Cassandra"
+    ],
+    "familyName": "Clare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cassandra_Clare",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of the Mortal Instruments series and other fantasy novels"
+    ],
+    "yearBorn": 1973
   }
 ]

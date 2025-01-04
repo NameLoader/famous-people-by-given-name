@@ -13,5 +13,51 @@
       "Activism on social justice issues"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Sophia Loren",
+    "givenNames": [
+      "Sophia"
+    ],
+    "familyName": "Loren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophia_Loren",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress",
+      "Multiple Golden Globe Awards",
+      "Recipient of the Legion of Honour"
+    ],
+    "yearBorn": 1934
+  },
+  {
+    "fullName": "Sophia Amoruso",
+    "givenNames": [
+      "Sophia",
+      "Christina"
+    ],
+    "familyName": "Amoruso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sophia_Amoruso",
+    "occupation": "Entrepreneur and Author",
+    "achievements": [
+      "Founder of the online fashion retailer Nasty Gal",
+      "Author of the bestselling book '#GIRLBOSS'"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Sophia Coppola",
+    "givenNames": [
+      "Sophia",
+      "Sofia"
+    ],
+    "familyName": "Coppola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia_Coppola",
+    "occupation": "Film Director",
+    "achievements": [
+      "Academy Award for Best Original Screenplay (Lost in Translation)",
+      "Golden Globe Awards",
+      "Cannes Film Festival Jury Prize (The Virgin Suicides)"
+    ],
+    "yearBorn": 1971
   }
 ]

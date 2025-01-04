@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2023
+  },
+  {
+    "fullName": "Nino Manfredi",
+    "givenNames": [
+      "Nino",
+      "Saturnino"
+    ],
+    "familyName": "Manfredi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nino_Manfredi",
+    "occupation": "Actor, Director, Screenwriter",
+    "achievements": [
+      "Starred in over 100 films",
+      "Known for his comedic roles and collaborations with Italian director Federico Fellini"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2004
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "fullName": "Alma Powell",
-    "givenNames": [
-      "Alma",
-      "Vivian"
-    ],
-    "familyName": "Powell",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Powell",
-    "occupation": "Philanthropist, Chairwoman of the America's Promise Alliance",
-    "achievements": [
-      "Wife of former Secretary of State Colin Powell"
-    ],
-    "yearBorn": 1937
-  },
-  {
     "fullName": "Alma Cogan",
     "givenNames": [
       "Alma",
@@ -27,5 +13,53 @@
     ],
     "yearBorn": 1932,
     "yearDied": 1978
+  },
+  {
+    "fullName": "Alma Mahler-Werfel",
+    "givenNames": [
+      "Alma",
+      "Margaretha",
+      "Maria"
+    ],
+    "familyName": "Mahler-Werfel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Mahler",
+    "occupation": "Socialite, composer",
+    "achievements": [
+      "Wife of composer Gustav Mahler",
+      "Married to writer Franz Werfel",
+      "Patron of the arts"
+    ],
+    "yearBorn": 1879,
+    "yearDied": 1964
+  },
+  {
+    "fullName": "Alma Powell",
+    "givenNames": [
+      "Alma",
+      "Vivian"
+    ],
+    "familyName": "Powell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Powell",
+    "occupation": "Philanthropist",
+    "achievements": [
+      "Wife of former U.S. Secretary of State Colin Powell",
+      "Chair of America's Promise Alliance"
+    ],
+    "yearBorn": 1937
+  },
+  {
+    "fullName": "Alma Adams",
+    "givenNames": [
+      "Alma",
+      "Shealey"
+    ],
+    "familyName": "Adams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alma_Adams",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Representative for North Carolina's 12th congressional district",
+      "First African American woman elected to the U.S. Congress from North Carolina"
+    ],
+    "yearBorn": 1946
   }
 ]

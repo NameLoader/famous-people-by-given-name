@@ -27,5 +27,30 @@
       "Known for postmodern architectural designs like the Vanna Venturi House"
     ],
     "yearBorn": 1931
+  },
+  {
+    "fullName": "Denise Austin",
+    "givenNames": [
+      "Denise"
+    ],
+    "familyName": "Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denise_Austin",
+    "occupation": "Fitness instructor, author",
+    "achievements": [],
+    "yearBorn": 1957
+  },
+  {
+    "fullName": "Denise Lewis",
+    "givenNames": [
+      "Denise",
+      "Rosemarie"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denise_Lewis",
+    "occupation": "Athlete (heptathlete)",
+    "achievements": [
+      "Olympic gold medalist"
+    ],
+    "yearBorn": 1972
   }
 ]

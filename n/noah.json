@@ -43,5 +43,19 @@
       "Appeared in television series such as 'The Fosters'"
     ],
     "yearBorn": 1996
+  },
+  {
+    "fullName": "Noah Jupe",
+    "givenNames": [
+      "Noah"
+    ],
+    "familyName": "Jupe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noah_Jupe",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in films like 'A Quiet Place' and 'Honey Boy'",
+      "Received critical acclaim for his performances"
+    ],
+    "yearBorn": 2005
   }
 ]

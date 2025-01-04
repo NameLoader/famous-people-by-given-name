@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Dora Maar",
+    "givenNames": [
+      "Henriette",
+      "Theodora",
+      "Dora"
+    ],
+    "familyName": "Maar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dora_Maar",
+    "occupation": "Painter, photographer, poet",
+    "achievements": [
+      "Known for her Surrealist photography and paintings.",
+      "Muse and collaborator of Pablo Picasso."
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1997
+  }
+]

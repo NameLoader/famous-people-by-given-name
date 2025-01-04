@@ -2,8 +2,7 @@
   {
     "fullName": "Simon Peter",
     "givenNames": [
-      "Simon",
-      "Shimon"
+      "Simon"
     ],
     "familyName": "Peter",
     "wikipedia": "https://en.wikipedia.org/wiki/Saint_Peter",
@@ -43,5 +42,37 @@
       "Successful collaborator with Edgar Wright"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Simon Bolivar",
+    "givenNames": [
+      "Simón",
+      "José",
+      "Antonio"
+    ],
+    "familyName": "Bolivar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+    "occupation": "Military and political leader",
+    "achievements": [
+      "Led the independence movements in Venezuela, Colombia, Ecuador, Peru, and Bolivia",
+      "Considered one of the most important figures in Latin American history"
+    ],
+    "yearBorn": 1783,
+    "yearDied": 1830
+  },
+  {
+    "fullName": "Simon Wiesenthal",
+    "givenNames": [
+      "Simon"
+    ],
+    "familyName": "Wiesenthal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Wiesenthal",
+    "occupation": "Holocaust survivor, Nazi hunter",
+    "achievements": [
+      "Helped bring over 1,100 Nazi war criminals to justice.",
+      "Established the Jewish Documentation Center in Vienna."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2005
   }
 ]

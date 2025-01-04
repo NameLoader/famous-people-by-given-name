@@ -27,5 +27,18 @@
       "Known for her intricate plots and unsettling atmosphere"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Livia Soprano",
+    "givenNames": [
+      "Livia"
+    ],
+    "familyName": "Soprano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Livia_Soprano",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Central character in the HBO television series The Sopranos.",
+      "Known for her complex and often manipulative personality."
+    ]
   }
 ]

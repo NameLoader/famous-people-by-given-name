@@ -21,25 +21,26 @@
     ],
     "familyName": "Page",
     "wikipedia": "https://en.wikipedia.org/wiki/Elliot_Page",
-    "occupation": "Actor, producer",
+    "occupation": "Actor",
     "achievements": [
-      "Known for roles in films like 'Juno' and 'Inception'",
-      "Prominent LGBTQ+ advocate"
+      "Known for roles in films like \"Juno\", \"Inception\", and the \"X-Men\" franchise.",
+      "Publicly came out as transgender in 2020, becoming a prominent advocate for LGBTQ+ rights."
     ],
     "yearBorn": 1987
   },
   {
-    "fullName": "Elliott Ness",
+    "fullName": "Elliott Gould",
     "givenNames": [
-      "Eliot"
+      "Elliott"
     ],
-    "familyName": "Ness",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eliot_Ness",
-    "occupation": "Prohibition agent",
+    "familyName": "Gould",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elliott_Gould",
+    "occupation": "Actor",
     "achievements": [
-      "Famous for leading a team of agents that brought down notorious gangster Al Capone."
+      "Academy Award-nominated for his role in \"Bob & Carol & Ted & Alice\".",
+      "Starred in numerous films and television shows, including \"M*A*S*H\" and \"Ocean's Eleven\".",
+      "Known for his distinctive voice and comedic timing."
     ],
-    "yearBorn": 1903,
-    "yearDied": 1957
+    "yearBorn": 1938
   }
 ]

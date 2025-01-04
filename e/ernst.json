@@ -17,10 +17,7 @@
   {
     "fullName": "Ernst Mach",
     "givenNames": [
-      "Ernst",
-      "Waldfried",
-      "Josef",
-      "Wenzel"
+      "Ernst"
     ],
     "familyName": "Mach",
     "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Mach",
@@ -62,5 +59,21 @@
     ],
     "yearBorn": 1904,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Ernst Bloch",
+    "givenNames": [
+      "Ernst",
+      "Simon"
+    ],
+    "familyName": "Bloch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Bloch",
+    "occupation": "Philosopher, Marxist Theorist",
+    "achievements": [
+      "Developed a distinctive blend of Marxism and Hegelian philosophy",
+      "Influential figure in critical theory and utopian thought"
+    ],
+    "yearBorn": 1885,
+    "yearDied": 1977
   }
 ]

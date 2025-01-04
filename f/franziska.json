@@ -26,5 +26,19 @@
       "Federal Minister for Family Affairs, Senior Citizens, Women and Youth"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Franziska Preuss",
+    "givenNames": [
+      "Franziska"
+    ],
+    "familyName": "Preuss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franziska_Preu%C3%9F",
+    "occupation": "Biathlon athlete",
+    "achievements": [
+      "Olympic medalist",
+      "World Champion"
+    ],
+    "yearBorn": 1994
   }
 ]

@@ -3,7 +3,8 @@
     "fullName": "Marvin Gaye",
     "givenNames": [
       "Marvin",
-      "Pentz"
+      "Pentz",
+      "Jr."
     ],
     "familyName": "Gaye",
     "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
@@ -47,5 +48,21 @@
     ],
     "yearBorn": 1927,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Marvin Hamlisch",
+    "givenNames": [
+      "Marvin",
+      "Frederick"
+    ],
+    "familyName": "Hamlisch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Hamlisch",
+    "occupation": "Composer, conductor",
+    "achievements": [
+      "Won three Oscars for his work on the film scores for 'The Sting,' 'Way We Were,' and 'Sophie's Choice'",
+      "Composed the Broadway musical 'A Chorus Line'"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2012
   }
 ]

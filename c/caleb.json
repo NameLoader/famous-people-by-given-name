@@ -38,5 +38,62 @@
       "Nominated for an Academy Award for Best Supporting Actor for his role in 'Three Billboards Outside Ebbing, Missouri'"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Caleb Plant",
+    "givenNames": [
+      "Caleb",
+      "Hunter"
+    ],
+    "familyName": "Plant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Plant",
+    "occupation": "Professional Boxer",
+    "achievements": [
+      "Former IBF super middleweight champion"
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Caleb Johnson",
+    "givenNames": [
+      "Caleb",
+      "Perry"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Johnson",
+    "occupation": "Singer, Musician",
+    "achievements": [
+      "Winner of the thirteenth season of American Idol"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Caleb Bradham",
+    "givenNames": [
+      "Caleb",
+      "Davis"
+    ],
+    "familyName": "Bradham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Bradham",
+    "occupation": "Pharmacist, Inventor",
+    "achievements": [
+      "Created the soft drink Pepsi-Cola"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1934
+  },
+  {
+    "fullName": "Caleb Williams",
+    "givenNames": [
+      "Caleb",
+      "Sequan"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Williams",
+    "occupation": "College football quarterback",
+    "achievements": [
+      "Heisman Trophy winner in 2022"
+    ],
+    "yearBorn": 2002
   }
 ]

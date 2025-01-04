@@ -54,5 +54,51 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2015
+  },
+  {
+    "fullName": "Adrian Peterson",
+    "givenNames": [
+      "Adrian",
+      "Lewis"
+    ],
+    "familyName": "Peterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Peterson",
+    "occupation": "American football player",
+    "achievements": [
+      "NFL MVP (2012)",
+      "7x Pro Bowl selection",
+      "4x First-team All-Pro"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Adrian Belew",
+    "givenNames": [
+      "Adrian",
+      "Robert",
+      "Steven"
+    ],
+    "familyName": "Belew",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrian_Belew",
+    "occupation": "Musician, composer, singer-songwriter",
+    "achievements": [
+      "Guitarist for King Crimson",
+      "Solo career with acclaimed experimental albums"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Adrian Brody",
+    "givenNames": [
+      "Adrien",
+      "Nicholas"
+    ],
+    "familyName": "Brody",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adrien_Brody",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (The Pianist)"
+    ],
+    "yearBorn": 1973
   }
 ]

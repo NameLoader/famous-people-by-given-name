@@ -17,8 +17,8 @@
   {
     "fullName": "Damon Runyon",
     "givenNames": [
-      "Alfred",
-      "Damon"
+      "Damon",
+      "Alfred"
     ],
     "familyName": "Runyon",
     "wikipedia": "https://en.wikipedia.org/wiki/Damon_Runyon",
@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1884,
     "yearDied": 1946
+  },
+  {
+    "fullName": "Damon Wayans",
+    "givenNames": [
+      "Damon",
+      "Kyle"
+    ],
+    "familyName": "Wayans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damon_Wayans",
+    "occupation": "Actor, Comedian, Writer",
+    "achievements": [
+      "Starred in the sitcom 'In Living Color'",
+      "Appeared in films like 'Major Payne' and 'My Wife and Kids'"
+    ],
+    "yearBorn": 1960
   }
 ]

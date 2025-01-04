@@ -30,5 +30,22 @@
       "Legendary striker for Juventus"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Alessandro Manzoni",
+    "givenNames": [
+      "Alessandro",
+      "Francesco",
+      "Tommaso",
+      "Antonio"
+    ],
+    "familyName": "Manzoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+    "occupation": "Writer, Poet",
+    "achievements": [
+      "Authored the novel 'The Betrothed', a masterpiece of Italian literature"
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1873
   }
 ]

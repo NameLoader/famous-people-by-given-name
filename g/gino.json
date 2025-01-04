@@ -9,10 +9,26 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gino_D%27Acampo",
     "occupation": "Chef, television personality",
     "achievements": [
-      "Won 'I'm a Celebrity...Get Me Out of Here!' in 2009",
-      "Hosted numerous cooking shows including 'Gino's Italian Escape'",
-      "Opened several successful restaurants"
+      "Celebrity chef on British television",
+      "Winner of 'I'm a Celebrity...Get Me Out of Here!' (2009)",
+      "Author of several cookbooks"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Gino Bartali",
+    "givenNames": [
+      "Gino"
+    ],
+    "familyName": "Bartali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gino_Bartali",
+    "occupation": "Professional cyclist",
+    "achievements": [
+      "Three-time winner of the Giro d'Italia",
+      "Winner of the Tour de France (1936)",
+      "Helped Jews escape Nazi persecution during World War II"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2000
   }
 ]

@@ -23,5 +23,20 @@
     "achievements": [
       "Popular crossbow-wielding survivor in the TV series The Walking Dead"
     ]
+  },
+  {
+    "fullName": "Daryl Strawberry",
+    "givenNames": [
+      "Darryl",
+      "Eugene"
+    ],
+    "familyName": "Strawberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darryl_Strawberry",
+    "occupation": "Former Major League Baseball player",
+    "achievements": [
+      "Eight-time All-Star",
+      "World Series champion with the New York Mets and New York Yankees"
+    ],
+    "yearBorn": 1962
   }
 ]

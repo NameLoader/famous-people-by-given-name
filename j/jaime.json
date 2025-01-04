@@ -27,5 +27,20 @@
       "One of the main protagonists in George R.R. Martin's fantasy series 'A Song of Ice and Fire'",
       "Known for his complex character arc and skilled swordsmanship"
     ]
+  },
+  {
+    "fullName": "Jaime Pressly",
+    "givenNames": [
+      "Jaime",
+      "Elizabeth"
+    ],
+    "familyName": "Pressly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaime_Pressly",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series for her role as Joy Turner in the sitcom 'My Name Is Earl'.",
+      "Known for roles in films like 'Not Another Teen Movie' and TV shows like 'Mom'."
+    ],
+    "yearBorn": 1977
   }
 ]

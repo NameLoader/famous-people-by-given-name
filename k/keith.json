@@ -43,5 +43,20 @@
     ],
     "yearBorn": 1958,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Keith Olbermann",
+    "givenNames": [
+      "Keith",
+      "Theodore"
+    ],
+    "familyName": "Olbermann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Olbermann",
+    "occupation": "Sportscaster, political commentator",
+    "achievements": [
+      "Hosted ESPN's SportsCenter",
+      "Hosted MSNBC's Countdown with Keith Olbermann"
+    ],
+    "yearBorn": 1959
   }
 ]

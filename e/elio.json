@@ -27,5 +27,20 @@
       "First Belgian Prime Minister of Italian origin"
     ],
     "yearBorn": 1951
+  },
+  {
+    "fullName": "Elio Vittorini",
+    "givenNames": [
+      "Elio"
+    ],
+    "familyName": "Vittorini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elio_Vittorini",
+    "occupation": "Writer, novelist",
+    "achievements": [
+      "Key figure in Italian neorealism",
+      "Known for novels like 'Conversazione in Sicilia' and 'Uomini e no'"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1966
   }
 ]

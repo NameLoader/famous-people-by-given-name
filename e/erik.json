@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Erik the Red",
-    "givenNames": [
-      "Erik"
-    ],
-    "familyName": "Thorvaldsson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Erik_the_Red",
-    "occupation": "Viking explorer and chieftain",
-    "achievements": [
-      "Founded the Norse settlement at Brattahlid in Greenland",
-      "Explored parts of North America (Vinland)"
-    ],
-    "yearBorn": 950,
-    "yearDied": 1003
-  },
-  {
     "fullName": "Erik Erikson",
     "givenNames": [
       "Erik",
@@ -57,6 +42,34 @@
     "achievements": [
       "Head coach of the Miami Heat",
       "Won two NBA Championships (2012, 2013)"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Erik the Red",
+    "givenNames": [
+      "Erik"
+    ],
+    "familyName": "Thorvaldsson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_the_Red",
+    "occupation": "Norse explorer and settler",
+    "achievements": [
+      "Founded the first Norse settlement in Greenland"
+    ],
+    "yearBorn": 950,
+    "yearDied": 1003
+  },
+  {
+    "fullName": "Erik ten Hag",
+    "givenNames": [
+      "Erik"
+    ],
+    "familyName": "ten Hag",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erik_ten_Hag",
+    "occupation": "Football Manager",
+    "achievements": [
+      "Won multiple Eredivisie titles and KNVB Cups with Ajax",
+      "Current manager of Manchester United"
     ],
     "yearBorn": 1970
   }

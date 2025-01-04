@@ -29,5 +29,33 @@
       "Recognized for her contributions to the field of planetary science."
     ],
     "yearBorn": 1929
+  },
+  {
+    "fullName": "Carolyn Goodman",
+    "givenNames": [
+      "Carolyn"
+    ],
+    "familyName": "Goodman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_Goodman",
+    "occupation": "Politician",
+    "achievements": [
+      "Mayor of Las Vegas since 2011",
+      "Advocate for economic development and downtown revitalization"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Carolyn Myss",
+    "givenNames": [
+      "Caroline"
+    ],
+    "familyName": "Myss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_Myss",
+    "occupation": "Author, medical intuitive",
+    "achievements": [
+      "Published several bestselling books on spirituality and healing",
+      "Known for her work on energy medicine and archetypes"
+    ],
+    "yearBorn": 1950
   }
 ]

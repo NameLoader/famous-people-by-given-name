@@ -28,5 +28,19 @@
     ],
     "yearBorn": 1934,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Udo Dirkschneider",
+    "givenNames": [
+      "Udo"
+    ],
+    "familyName": "Dirkschneider",
+    "wikipedia": "https://en.wikipedia.org/wiki/Udo_Dirkschneider",
+    "occupation": "Heavy metal vocalist",
+    "achievements": [
+      "Known for his powerful vocal range and distinctive style.",
+      "Fronted the influential heavy metal band Accept."
+    ],
+    "yearBorn": 1952
   }
 ]

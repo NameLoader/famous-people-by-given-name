@@ -1,18 +1,16 @@
 [
   {
-    "fullName": "Elisabetta I of England",
+    "fullName": "Elisabetta Canalis",
     "givenNames": [
-      "Elizabeth"
+      "Elisabetta"
     ],
-    "familyName": "Tudor",
-    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
-    "occupation": "Queen of England and Ireland",
+    "familyName": "Canalis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elisabetta_Canalis",
+    "occupation": "Actress, model, and television presenter",
     "achievements": [
-      "Led England during a period of great prosperity and cultural achievement known as the Elizabethan era",
-      "Defeated the Spanish Armada",
-      "Established the Church of England"
+      "Known for her roles in Italian films and television shows",
+      "Appeared in the American reality series 'Dancing with the Stars'"
     ],
-    "yearBorn": 1533,
-    "yearDied": 1603
+    "yearBorn": 1978
   }
 ]

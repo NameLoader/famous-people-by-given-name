@@ -42,5 +42,33 @@
       "Nominated for several awards including MTV Movie & TV Awards and Imagen Awards"
     ],
     "yearBorn": 2002
+  },
+  {
+    "fullName": "Jenna Dewan",
+    "givenNames": [
+      "Jenna",
+      "Lee"
+    ],
+    "familyName": "Dewan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Dewan",
+    "occupation": "Actress, Dancer",
+    "achievements": [
+      "Starred in the film 'Step Up'",
+      "Hosted the reality show 'World of Dance'"
+    ],
+    "yearBorn": 1980
+  },
+  {
+    "fullName": "Jenna Fischer",
+    "givenNames": [
+      "Jenna"
+    ],
+    "familyName": "Fischer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Fischer",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Pam Beesly in the sitcom 'The Office'"
+    ],
+    "yearBorn": 1974
   }
 ]

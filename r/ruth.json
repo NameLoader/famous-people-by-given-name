@@ -46,5 +46,19 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1948
+  },
+  {
+    "fullName": "Ruth Negga",
+    "givenNames": [
+      "Ruth"
+    ],
+    "familyName": "Negga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Negga",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award nomination for Best Actress (Loving)",
+      "Known for roles in ' Preacher', 'Passing', and 'Agents of S.H.I.E.L.D.'"
+    ],
+    "yearBorn": 1982
   }
 ]

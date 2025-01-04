@@ -27,5 +27,20 @@
       "Known for her versatility and powerful voice."
     ],
     "yearBorn": 1931
+  },
+  {
+    "fullName": "Caterina de' Medici",
+    "givenNames": [
+      "Caterina"
+    ],
+    "familyName": "de' Medici",
+    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_de%27_Medici",
+    "occupation": "Queen consort of France",
+    "achievements": [
+      "Played a significant role in the French Wars of Religion.",
+      "Known for her political maneuvering and ambition."
+    ],
+    "yearBorn": 1519,
+    "yearDied": 1589
   }
 ]

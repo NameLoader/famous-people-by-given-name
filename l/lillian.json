@@ -47,5 +47,20 @@
     ],
     "yearBorn": 1878,
     "yearDied": 1972
+  },
+  {
+    "fullName": "Lillian Randolph",
+    "givenNames": [
+      "Lillian"
+    ],
+    "familyName": "Randolph",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillian_Randolph",
+    "occupation": "Actress, singer",
+    "achievements": [
+      "First Black woman to have her own radio show",
+      "Notable voice actress in animation and cartoons"
+    ],
+    "yearBorn": 1888,
+    "yearDied": 1980
   }
 ]

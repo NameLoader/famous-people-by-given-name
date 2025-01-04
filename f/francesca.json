@@ -28,5 +28,21 @@
       "Reached a career-high ranking of world No. 4."
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Francesca Cabrini",
+    "givenNames": [
+      "Francesca",
+      "Xavier"
+    ],
+    "familyName": "Cabrini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini",
+    "occupation": "Catholic nun, Missionary",
+    "achievements": [
+      "Founded the Missionary Sisters of the Sacred Heart",
+      "Dedicated her life to helping Italian immigrants in the United States and South America"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1917
   }
 ]

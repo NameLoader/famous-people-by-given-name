@@ -42,5 +42,18 @@
       "Successful competitor in touring car racing"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Norbert Lammert",
+    "givenNames": [
+      "Norbert"
+    ],
+    "familyName": "Lammert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norbert_Lammert",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as President of the Bundestag (German parliament) from 2005 to 2017"
+    ],
+    "yearBorn": 1948
   }
 ]

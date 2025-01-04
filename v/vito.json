@@ -38,5 +38,19 @@
     ],
     "yearBorn": 1946,
     "yearDied": 2013
+  },
+  {
+    "fullName": "Vito Acconci",
+    "givenNames": [
+      "Vito"
+    ],
+    "familyName": "Acconci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vito_Acconci",
+    "occupation": "American performance artist, poet, and architect",
+    "achievements": [
+      "Known for his controversial and experimental works",
+      "Pioneer in conceptual art and body art"
+    ],
+    "yearBorn": 1940
   }
 ]

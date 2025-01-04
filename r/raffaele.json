@@ -1,17 +1,15 @@
 [
   {
-    "fullName": "Raffaele Esposito",
+    "fullName": "Raffaele Sollecito",
     "givenNames": [
       "Raffaele"
     ],
-    "familyName": "Esposito",
-    "wikipedia": "https://en.wikipedia.org/wiki/Raffaele_Esposito",
-    "occupation": "Pizzaiolo",
+    "familyName": "Sollecito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Meredith_Kercher",
+    "occupation": "Former student",
     "achievements": [
-      "Created the Margherita pizza in Naples",
-      "Honored by Queen Margherita of Savoy"
+      "Gained international notoriety as one of the defendants in the Meredith Kercher murder trial."
     ],
-    "yearBorn": 1845,
-    "yearDied": 1912
+    "yearBorn": 1984
   }
 ]

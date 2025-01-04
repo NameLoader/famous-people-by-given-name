@@ -13,16 +13,30 @@
     "yearBorn": 1976
   },
   {
+    "fullName": "Giovanna Ralli",
+    "givenNames": [
+      "Giovanna"
+    ],
+    "familyName": "Ralli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanna_Ralli",
+    "occupation": "Actress",
+    "achievements": [
+      "Won the David di Donatello for Best Actress in 1962 for her role in 'La ciociara'",
+      "Appeared in numerous Italian and international films throughout her career"
+    ],
+    "yearBorn": 1935
+  },
+  {
     "fullName": "Giovanna Ewbank",
     "givenNames": [
       "Giovanna"
     ],
     "familyName": "Ewbank",
     "wikipedia": "https://en.wikipedia.org/wiki/Giovanna_Ewbank",
-    "occupation": "Actress, Presenter",
+    "occupation": "Actress, Television presenter",
     "achievements": [
-      "Hosted several Brazilian television programs",
-      "Known for her activism and philanthropy"
+      "Hosted the Brazilian version of 'MasterChef Junior'",
+      "Known for roles in telenovelas like 'Aquarela do Brasil'"
     ],
     "yearBorn": 1986
   }

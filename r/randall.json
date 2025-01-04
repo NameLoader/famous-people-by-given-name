@@ -29,6 +29,18 @@
     "yearBorn": 1963
   },
   {
+    "fullName": "Randall McMurphy",
+    "givenNames": [
+      "Randle"
+    ],
+    "familyName": "McMurphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(play)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of Ken Kesey's novel 'One Flew Over the Cuckoo's Nest'"
+    ]
+  },
+  {
     "fullName": "Randall Stephenson",
     "givenNames": [
       "Randall",
@@ -36,10 +48,26 @@
     ],
     "familyName": "Stephenson",
     "wikipedia": "https://en.wikipedia.org/wiki/Randall_L._Stephenson",
-    "occupation": "Business executive",
+    "occupation": "Business Executive",
     "achievements": [
-      "Former CEO of AT&T Inc."
+      "Former CEO of AT&T Inc.",
+      "Led the company through major acquisitions and transformations"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Randall Cobb",
+    "givenNames": [
+      "Randall",
+      "Ladonald"
+    ],
+    "familyName": "Cobb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randall_Cobb_(American_football)",
+    "occupation": "Professional Football Player",
+    "achievements": [
+      "Wide receiver for the Green Bay Packers and other NFL teams",
+      "Super Bowl XLV champion"
+    ],
+    "yearBorn": 1990
   }
 ]

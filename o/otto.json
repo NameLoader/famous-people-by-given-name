@@ -17,7 +17,9 @@
   {
     "fullName": "Otto Dix",
     "givenNames": [
-      "Otto"
+      "Otto",
+      "Wilhelm",
+      "Heinrich"
     ],
     "familyName": "Dix",
     "wikipedia": "https://en.wikipedia.org/wiki/Otto_Dix",
@@ -45,5 +47,21 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1945
+  },
+  {
+    "fullName": "Otto Preminger",
+    "givenNames": [
+      "Otto",
+      "Ludwig"
+    ],
+    "familyName": "Preminger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Preminger",
+    "occupation": "Film Director, Producer",
+    "achievements": [
+      "Directed critically acclaimed films such as 'Anatomy of a Murder', 'Laura' and 'The Cardinal'.",
+      "Known for his uncompromising style and attention to detail."
+    ],
+    "yearBorn": 1905,
+    "yearDied": 1986
   }
 ]

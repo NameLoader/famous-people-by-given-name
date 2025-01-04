@@ -3,7 +3,7 @@
     "fullName": "Casey Affleck",
     "givenNames": [
       "Casey",
-      "Caleb Casey McGuire"
+      "Caleb"
     ],
     "familyName": "Affleck",
     "wikipedia": "https://en.wikipedia.org/wiki/Casey_Affleck",
@@ -13,5 +13,22 @@
       "Golden Globe Award for Best Actor – Motion Picture Drama (Manchester by the Sea)"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Casey Stengel",
+    "givenNames": [
+      "Charles",
+      "Dillon",
+      "Casey"
+    ],
+    "familyName": "Stengel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Casey_Stengel",
+    "occupation": "Baseball manager, player",
+    "achievements": [
+      "World Series Champion as Manager (New York Yankees)",
+      "National League pennant winner as manager (Brooklyn Dodgers)"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1975
   }
 ]

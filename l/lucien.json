@@ -41,5 +41,37 @@
     ],
     "yearBorn": 1857,
     "yearDied": 1939
+  },
+  {
+    "fullName": "Lucien Febvre",
+    "givenNames": [
+      "Lucien",
+      "Paul",
+      "Victor"
+    ],
+    "familyName": "Febvre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_Febvre",
+    "occupation": "Historian",
+    "achievements": [
+      "Pioneer of the Annales School of historiography",
+      "Authored influential works on social and economic history"
+    ],
+    "yearBorn": 1878,
+    "yearDied": 1952
+  },
+  {
+    "fullName": "Lucien Goldmann",
+    "givenNames": [
+      "Lucien"
+    ],
+    "familyName": "Goldmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucien_Goldmann",
+    "occupation": "Philosopher, sociologist",
+    "achievements": [
+      "Developed the concept of 'genetic structuralism'",
+      "Influential figure in Marxist and humanist thought"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1970
   }
 ]

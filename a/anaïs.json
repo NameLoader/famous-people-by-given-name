@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Anaïs Nin",
+    "givenNames": [
+      "Anaïs",
+      "Angela"
+    ],
+    "familyName": "Nin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin",
+    "occupation": "Writer, diarist",
+    "achievements": [
+      "Known for her erotic and confessional writings.",
+      "Published numerous diaries and novels."
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1977
+  },
+  {
+    "fullName": "Anaïs Mitchell",
+    "givenNames": [
+      "Anaïs"
+    ],
+    "familyName": "Mitchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Mitchell",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Grammy Award winner for Best Folk Album.",
+      "Known for her folk opera 'Hadestown'."
+    ],
+    "yearBorn": 1981
+  }
+]

@@ -20,7 +20,7 @@
     "fullName": "Friedrich Schiller",
     "givenNames": [
       "Friedrich",
-      "Johann Christoph Friedrich"
+      "Johann Christoph"
     ],
     "familyName": "Schiller",
     "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
@@ -65,5 +65,19 @@
     ],
     "yearBorn": 1820,
     "yearDied": 1895
+  },
+  {
+    "fullName": "Friedrich Ebert",
+    "givenNames": [
+      "Friedrich"
+    ],
+    "familyName": "Ebert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Ebert",
+    "occupation": "Politician",
+    "achievements": [
+      "First President of the Weimar Republic (Germany)."
+    ],
+    "yearBorn": 1871,
+    "yearDied": 1925
   }
 ]

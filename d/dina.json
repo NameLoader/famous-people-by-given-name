@@ -2,6 +2,9 @@
   {
     "fullName": "Dina Lohan",
     "givenNames": [
+      "Donata",
+      "Melina",
+      "Nicolette",
       "Dina"
     ],
     "familyName": "Lohan",
@@ -27,5 +30,21 @@
     ],
     "yearBorn": 1923,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Dina Asher-Smith",
+    "givenNames": [
+      "Geraldina",
+      "Rachel"
+    ],
+    "familyName": "Asher-Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dina_Asher-Smith",
+    "occupation": "Athlete",
+    "achievements": [
+      "British record holder in the 100 meters and 200 meters",
+      "World Champion in the 200 meters",
+      "Olympic medalist"
+    ],
+    "yearBorn": 1995
   }
 ]

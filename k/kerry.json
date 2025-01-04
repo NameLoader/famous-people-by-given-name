@@ -46,5 +46,19 @@
       "Philanthropist"
     ],
     "yearBorn": 1940
+  },
+  {
+    "fullName": "Kerry Katona",
+    "givenNames": [
+      "Kerry"
+    ],
+    "familyName": "Katona",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kerry_Katona",
+    "occupation": "Singer, television personality",
+    "achievements": [
+      "Won the third series of I'm a Celebrity...Get Me Out of Here!",
+      "Member of the girl group Atomic Kitten"
+    ],
+    "yearBorn": 1980
   }
 ]

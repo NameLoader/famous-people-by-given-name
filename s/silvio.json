@@ -40,5 +40,34 @@
     "achievements": [
       "Consigliere to Tony Soprano in the HBO series 'The Sopranos'"
     ]
+  },
+  {
+    "fullName": "Silvio Piola",
+    "givenNames": [
+      "Silvio"
+    ],
+    "familyName": "Piola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvio_Piola",
+    "occupation": "Footballer",
+    "achievements": [
+      "Italian football legend",
+      "Top goalscorer in Serie A history for many years"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1996
+  },
+  {
+    "fullName": "Silvio Rodríguez",
+    "givenNames": [
+      "Silvio"
+    ],
+    "familyName": "Rodríguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silvio_Rodr%C3%ADguez",
+    "occupation": "Singer-songwriter, Guitarist",
+    "achievements": [
+      "Prominent figure in Cuban nueva trova music",
+      "Known for politically charged lyrics"
+    ],
+    "yearBorn": 1946
   }
 ]

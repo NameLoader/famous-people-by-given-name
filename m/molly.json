@@ -17,8 +17,7 @@
     "fullName": "Molly Ivins",
     "givenNames": [
       "Molly",
-      "Mary",
-      "Tyler"
+      "Mary Tyler"
     ],
     "familyName": "Ivins",
     "wikipedia": "https://en.wikipedia.org/wiki/Molly_Ivins",
@@ -29,5 +28,20 @@
     ],
     "yearBorn": 1944,
     "yearDied": 2007
+  },
+  {
+    "fullName": "Molly Ringwald",
+    "givenNames": [
+      "Molly",
+      "Kathleen"
+    ],
+    "familyName": "Ringwald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Molly_Ringwald",
+    "occupation": "Actress, author",
+    "achievements": [
+      "Star of iconic 1980s films like 'Sixteen Candles,' 'The Breakfast Club,' and 'Pretty in Pink'",
+      "Published several novels"
+    ],
+    "yearBorn": 1968
   }
 ]

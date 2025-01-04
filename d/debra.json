@@ -40,5 +40,33 @@
     ],
     "yearBorn": 1933,
     "yearDied": 2013
+  },
+  {
+    "fullName": "Debra Lee",
+    "givenNames": [
+      "Debra",
+      "L"
+    ],
+    "familyName": "Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debra_L._Lee",
+    "occupation": "Business executive",
+    "achievements": [
+      "Former chairman and chief executive officer of BET Networks.",
+      "First African-American woman to head a Fortune 500 company."
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Debra Granik",
+    "givenNames": [
+      "Debra"
+    ],
+    "familyName": "Granik",
+    "wikipedia": "https://en.wikipedia.org/wiki/Debra_Granik",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Nominated for an Academy Award for Best Director for her film Winter's Bone"
+    ],
+    "yearBorn": 1967
   }
 ]

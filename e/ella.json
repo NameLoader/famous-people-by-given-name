@@ -27,5 +27,21 @@
       "Known for roles in films like 'Charlie's Angels'"
     ],
     "yearBorn": 1996
+  },
+  {
+    "fullName": "Ella Baker",
+    "givenNames": [
+      "Ella",
+      "Josephine"
+    ],
+    "familyName": "Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Baker",
+    "occupation": "Civil Rights Activist",
+    "achievements": [
+      "Key organizer of the Civil Rights Movement",
+      "Helped found the Student Nonviolent Coordinating Committee (SNCC)"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1986
   }
 ]

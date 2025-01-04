@@ -13,5 +13,31 @@
       "Has a large following on YouTube and other social media platforms"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Bailey Zimmerman",
+    "givenNames": [
+      "Bailey",
+      "Lynn"
+    ],
+    "familyName": "Zimmerman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bailey_Zimmerman",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Breakout country star with hits like \"Fall In Love\" and \"Rock and a Hard Place\"",
+      "Signed to Elektra Records."
+    ],
+    "yearBorn": 1999
+  },
+  {
+    "fullName": "Bailey Jay",
+    "givenNames": [
+      "Bailey"
+    ],
+    "familyName": "Jay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bailey_Jay",
+    "occupation": "Adult film actress, musician",
+    "achievements": [],
+    "yearBorn": 1990
   }
 ]

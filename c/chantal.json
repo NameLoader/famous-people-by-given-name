@@ -13,5 +13,19 @@
       "Juno Award winner"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Chantal Petitclerc",
+    "givenNames": [
+      "Chantal"
+    ],
+    "familyName": "Petitclerc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chantal_Petitclerc",
+    "occupation": "Paralympic athlete",
+    "achievements": [
+      "21 Paralympic medals (14 gold)",
+      "World record holder in multiple wheelchair racing events"
+    ],
+    "yearBorn": 1970
   }
 ]

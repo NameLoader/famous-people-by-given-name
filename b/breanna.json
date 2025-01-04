@@ -13,5 +13,20 @@
       "Olympic Gold Medalist"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Breanna Yde",
+    "givenNames": [
+      "Breanna",
+      "Nicole"
+    ],
+    "familyName": "Yde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Breanna_Yde",
+    "occupation": "Actress and voice actress",
+    "achievements": [
+      "Known for roles in Nickelodeon shows like 'School of Rock' and 'The Loud House'",
+      "Voice acting roles in animated series such as 'Butt-Ugly Martians'"
+    ],
+    "yearBorn": 2003
   }
 ]

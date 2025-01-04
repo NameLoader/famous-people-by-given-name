@@ -28,5 +28,18 @@
     ],
     "yearBorn": 1903,
     "yearDied": 2000
+  },
+  {
+    "fullName": "Eberhard Weber",
+    "givenNames": [
+      "Eberhard"
+    ],
+    "familyName": "Weber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eberhard_Weber",
+    "occupation": "Jazz musician",
+    "achievements": [
+      "Acclaimed bassist and composer"
+    ],
+    "yearBorn": 1940
   }
 ]

@@ -29,5 +29,20 @@
       "Known for novels exploring themes of memory, history, and the passage of time"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Penelope Keith",
+    "givenNames": [
+      "Penelope",
+      "Anne",
+      "Constance"
+    ],
+    "familyName": "Keith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Penelope_Keith",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in *The Good Life* and *To the Manor Born*"
+    ],
+    "yearBorn": 1940
   }
 ]

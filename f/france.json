@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "France Gall",
+    "givenNames": [
+      "France"
+    ],
+    "familyName": "Gall",
+    "wikipedia": "https://en.wikipedia.org/wiki/France_Gall",
+    "occupation": "Singer, actress",
+    "achievements": [
+      "Won the Eurovision Song Contest in 1965 with 'Poupée de cire, poupée de son'",
+      "Became one of the most popular singers in France and Europe during the 1960s and 1970s",
+      "Had a successful acting career appearing in films and television shows"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 2018
+  }
+]

@@ -27,5 +27,19 @@
       "2012 Republican presidential candidate"
     ],
     "yearBorn": 1956
+  },
+  {
+    "fullName": "Michele Tafoya",
+    "givenNames": [
+      "Michele"
+    ],
+    "familyName": "Tafoya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michele_Tafoya",
+    "occupation": "Sportscaster",
+    "achievements": [
+      "Longtime sideline reporter for NBC Sports' NFL coverage",
+      "Host of 'The Michele Tafoya Show'"
+    ],
+    "yearBorn": 1965
   }
 ]

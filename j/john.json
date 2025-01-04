@@ -78,5 +78,37 @@
       "Known for his blues-influenced guitar style and soulful vocals"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "John Glenn",
+    "givenNames": [
+      "John",
+      "Herschel"
+    ],
+    "familyName": "Glenn",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Glenn",
+    "occupation": "Astronaut, Senator",
+    "achievements": [
+      "First American to orbit the Earth",
+      "Served as a U.S. Senator from Ohio"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 2016
+  },
+  {
+    "fullName": "John Steinbeck",
+    "givenNames": [
+      "John",
+      "Ernst"
+    ],
+    "familyName": "Steinbeck",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Steinbeck",
+    "occupation": "Author",
+    "achievements": [
+      "Nobel Prize in Literature (1962)",
+      "Known for novels like 'The Grapes of Wrath' and 'Of Mice and Men'"
+    ],
+    "yearBorn": 1902,
+    "yearDied": 1968
   }
 ]

@@ -18,23 +18,6 @@
     "yearDied": 1947
   },
   {
-    "fullName": "Max Weber",
-    "givenNames": [
-      "Maximilian",
-      "Carl",
-      "Emil"
-    ],
-    "familyName": "Weber",
-    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber",
-    "occupation": "Sociologist, philosopher, jurist",
-    "achievements": [
-      "Key figure in the development of sociology as a discipline",
-      "Known for his works on bureaucracy, rationalization, and the Protestant ethic"
-    ],
-    "yearBorn": 1864,
-    "yearDied": 1920
-  },
-  {
     "fullName": "Max Verstappen",
     "givenNames": [
       "Max",
@@ -48,5 +31,22 @@
       "Youngest driver to win a Formula One race"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Max Weber",
+    "givenNames": [
+      "Maximilian",
+      "Carl",
+      "Emil"
+    ],
+    "familyName": "Weber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Max_Weber",
+    "occupation": "Sociologist, philosopher, jurist",
+    "achievements": [
+      "Founder of modern sociology",
+      "Key contributions to political economy, law, and religion"
+    ],
+    "yearBorn": 1864,
+    "yearDied": 1920
   }
 ]

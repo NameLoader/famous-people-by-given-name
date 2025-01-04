@@ -12,5 +12,32 @@
       "Appeared in Australian productions such as 'Adoration' and 'Anonymous'"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Xavier Becerra",
+    "givenNames": [
+      "Xavier"
+    ],
+    "familyName": "Becerra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavier_Becerra",
+    "occupation": "Politician",
+    "achievements": [
+      "Current Attorney General of California",
+      "Former U.S. Representative for California's 34th congressional district"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Xavier Rudd",
+    "givenNames": [
+      "Xavier"
+    ],
+    "familyName": "Rudd",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xavier_Rudd",
+    "occupation": "Musician",
+    "achievements": [
+      "Australian singer-songwriter known for his blend of folk, blues, and reggae"
+    ],
+    "yearBorn": 1978
   }
 ]

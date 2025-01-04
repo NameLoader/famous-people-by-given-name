@@ -12,5 +12,21 @@
       "Nominated for numerous awards, including the AACTA Award for Best Actress"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Abbie Hoffman",
+    "givenNames": [
+      "Abbot",
+      "Howard"
+    ],
+    "familyName": "Hoffman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbie_Hoffman",
+    "occupation": "Political activist",
+    "achievements": [
+      "Key figure in the anti-Vietnam War movement",
+      "Co-founder of the Yippies"
+    ],
+    "yearBorn": 1936,
+    "yearDied": 1989
   }
 ]

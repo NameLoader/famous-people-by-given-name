@@ -28,5 +28,20 @@
       "Known for roles in films like 'Yellowjackets', 'From Dusk Till Dawn', and 'Cape Fear'"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Juliette Gréco",
+    "givenNames": [
+      "Juliette"
+    ],
+    "familyName": "Gréco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliette_Gr%C3%A9co",
+    "occupation": "Singer and Actress",
+    "achievements": [
+      "Pioneer of French chanson",
+      "Recipient of the Légion d'honneur"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2020
   }
 ]

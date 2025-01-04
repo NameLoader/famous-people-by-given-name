@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Laurie Metcalf",
-    "givenNames": [
-      "Laura",
-      "Elizabeth"
-    ],
-    "familyName": "Metcalf",
-    "wikipedia": "https://en.wikipedia.org/wiki/Laurie_Metcalf",
-    "occupation": "Actress",
-    "achievements": [
-      "Three Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series",
-      "Tony Award for Best Featured Actress in a Play"
-    ],
-    "yearBorn": 1955
-  },
-  {
     "fullName": "Laurie Anderson",
     "givenNames": [
       "Laurie"
@@ -27,5 +12,20 @@
       "Grammy Award for Best Alternative Music Album"
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Laurie Metcalf",
+    "givenNames": [
+      "Laura",
+      "Elizabeth"
+    ],
+    "familyName": "Metcalf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laurie_Metcalf",
+    "occupation": "Actress",
+    "achievements": [
+      "Won three Primetime Emmy Awards for her role as Jackie Harris in the television sitcom Roseanne",
+      "Nominated for a Tony Award for Best Featured Actress in a Play for her performance in November"
+    ],
+    "yearBorn": 1955
   }
 ]

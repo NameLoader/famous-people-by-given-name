@@ -58,5 +58,20 @@
     ],
     "yearBorn": 1771,
     "yearDied": 1832
+  },
+  {
+    "fullName": "Walter Benjamin",
+    "givenNames": [
+      "Walter"
+    ],
+    "familyName": "Benjamin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Benjamin",
+    "occupation": "Philosopher, Cultural Critic, Essayist",
+    "achievements": [
+      "Influential figure in literary and cultural theory",
+      "Known for works like 'The Work of Art in the Age of Mechanical Reproduction'"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1940
   }
 ]

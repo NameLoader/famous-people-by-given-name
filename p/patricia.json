@@ -29,19 +29,6 @@
     "yearBorn": 1959
   },
   {
-    "fullName": "Patricia Ireland",
-    "givenNames": [
-      "Patricia"
-    ],
-    "familyName": "Ireland",
-    "wikipedia": "https://en.wikipedia.org/wiki/Patricia_Ireland",
-    "occupation": "Feminist activist",
-    "achievements": [
-      "President of the National Organization for Women (NOW)"
-    ],
-    "yearBorn": 1947
-  },
-  {
     "fullName": "Patricia Routledge",
     "givenNames": [
       "Katherine",
@@ -70,5 +57,35 @@
     ],
     "yearBorn": 1942,
     "yearDied": 2019
+  },
+  {
+    "fullName": "Patricia Highsmith",
+    "givenNames": [
+      "Patricia"
+    ],
+    "familyName": "Highsmith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patricia_Highsmith",
+    "occupation": "Novelist, short-story writer",
+    "achievements": [
+      "Best known for her psychological thrillers, including 'Strangers on a Train' and 'The Talented Mr. Ripley'"
+    ],
+    "yearBorn": 1921,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Patricia Neal",
+    "givenNames": [
+      "Patricia",
+      "Patsy Louise"
+    ],
+    "familyName": "Neal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patricia_Neal",
+    "occupation": "Actress",
+    "achievements": [
+      "Academy Award for Best Actress (Hud)",
+      "Known for roles in films like The Subject Was Roses and Breakfast at Tiffany's"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2010
   }
 ]

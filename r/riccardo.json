@@ -40,5 +40,19 @@
       "Played for AC Milan and the Italian national team"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Riccardo Chailly",
+    "givenNames": [
+      "Riccardo"
+    ],
+    "familyName": "Chailly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Chailly",
+    "occupation": "Conductor",
+    "achievements": [
+      "Music Director of the La Scala opera house",
+      "Principal Conductor of the Gewandhaus Orchestra"
+    ],
+    "yearBorn": 1953
   }
 ]

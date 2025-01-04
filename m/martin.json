@@ -45,5 +45,34 @@
       "Won a BAFTA Award for Best Actor in a Comedy Performance for his role in The Office"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Martin Sheen",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Sheen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Sheen",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like Apocalypse Now and The Departed",
+      "Starred in the TV series The West Wing"
+    ],
+    "yearBorn": 1940
+  },
+  {
+    "fullName": "Martin Heidegger",
+    "givenNames": [
+      "Martin"
+    ],
+    "familyName": "Heidegger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Heidegger",
+    "occupation": "Philosopher",
+    "achievements": [
+      "Influential figure in existentialism and phenomenology",
+      "Known for his complex works on Being and Time"
+    ],
+    "yearBorn": 1889,
+    "yearDied": 1976
   }
 ]

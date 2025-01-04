@@ -2,7 +2,9 @@
   {
     "fullName": "Jean-Claude Van Damme",
     "givenNames": [
-      "Jean-Claude"
+      "Jean-Claude",
+      "Camille",
+      "François"
     ],
     "familyName": "Van Damme",
     "wikipedia": "https://en.wikipedia.org/wiki/Jean-Claude_Van_Damme",
@@ -26,5 +28,19 @@
       "Known for his strong stance on inflation control and stability"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Jean-Claude Killy",
+    "givenNames": [
+      "Jean-Claude"
+    ],
+    "familyName": "Killy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Claude_Killy",
+    "occupation": "Ski Racer",
+    "achievements": [
+      "Three-time Olympic champion (1968)",
+      "Dominated alpine skiing in the late 1960s"
+    ],
+    "yearBorn": 1943
   }
 ]

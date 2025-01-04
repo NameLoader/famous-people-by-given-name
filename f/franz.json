@@ -77,5 +77,21 @@
       "Won the World Cup as both a player (1974) and manager (1990)"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Franz Josef I",
+    "givenNames": [
+      "Franz",
+      "Joseph"
+    ],
+    "familyName": "Habsburg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria",
+    "occupation": "Emperor of Austria",
+    "achievements": [
+      "Longest-reigning ruler of Austria",
+      "Oversaw significant expansion and modernization of the Habsburg Empire"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1916
   }
 ]

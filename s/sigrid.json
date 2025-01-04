@@ -12,5 +12,49 @@
       "Known for her roles in Australian television series and films such as 'The Sullivans', 'SeaChange', and 'Wentworth'."
     ],
     "yearBorn": 1957
+  },
+  {
+    "fullName": "Sigrid Undset",
+    "givenNames": [
+      "Sigrid"
+    ],
+    "familyName": "Undset",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigrid_Undset",
+    "occupation": "Novelist, poet, short story writer",
+    "achievements": [
+      "Nobel Prize in Literature (1928)",
+      "Known for historical novels set in medieval Norway, such as Kristin Lavransdatter"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1949
+  },
+  {
+    "fullName": "Sigrid Nunez",
+    "givenNames": [
+      "Sigrid"
+    ],
+    "familyName": "Nunez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigrid_Nunez",
+    "occupation": "Novelist, essayist",
+    "achievements": [
+      "National Book Award for Fiction (2018) for her novel 'The Friend'",
+      "Known for novels exploring themes of loss, grief, and the human-animal bond"
+    ],
+    "yearBorn": 1951
+  },
+  {
+    "fullName": "Sigrid Raabe",
+    "givenNames": [
+      "Sigrid",
+      "Solbakk"
+    ],
+    "familyName": "Raabe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sigrid_(singer)",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Breakthrough artist with her debut single 'Don't Kill My Vibe'",
+      "Known for her electropop sound and introspective lyrics"
+    ],
+    "yearBorn": 1996
   }
 ]

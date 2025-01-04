@@ -28,5 +28,33 @@
       "Appeared on 'Dancing with the Stars'."
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Erin Krakow",
+    "givenNames": [
+      "Erin",
+      "Alisa"
+    ],
+    "familyName": "Krakow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erin_Krakow",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Hallmark Channel movies and the series 'When Calls the Heart'"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Erin Morgenstern",
+    "givenNames": [
+      "Erin"
+    ],
+    "familyName": "Morgenstern",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erin_Morgenstern",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author of novels 'The Night Circus' and 'The Starless Sea'",
+      "Known for her imaginative and atmospheric writing style"
+    ],
+    "yearBorn": 1978
   }
 ]

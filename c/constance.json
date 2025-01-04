@@ -28,5 +28,20 @@
       "Advocate for Asian American representation in Hollywood"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Constance Talmadge",
+    "givenNames": [
+      "Constance",
+      "Alice"
+    ],
+    "familyName": "Talmadge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Constance_Talmadge",
+    "occupation": "Actress",
+    "achievements": [
+      "Silent Film Star"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1937
   }
 ]

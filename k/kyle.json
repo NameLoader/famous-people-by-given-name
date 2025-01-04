@@ -57,5 +57,19 @@
       "Known for roles in 'Twin Peaks', 'Dune'"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Kyle Orton",
+    "givenNames": [
+      "Kyle",
+      "Raymond"
+    ],
+    "familyName": "Orton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyle_Orton",
+    "occupation": "Former American football quarterback",
+    "achievements": [
+      "Played for several NFL teams including the Chicago Bears, Denver Broncos, and Kansas City Chiefs"
+    ],
+    "yearBorn": 1982
   }
 ]

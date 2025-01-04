@@ -27,5 +27,37 @@
       "Two-time Pro Bowler"
     ],
     "yearBorn": 1999
+  },
+  {
+    "fullName": "Tristan Thompson",
+    "givenNames": [
+      "Tristan",
+      "Trevor",
+      "James"
+    ],
+    "familyName": "Thompson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tristan_Thompson",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA Champion (2016)",
+      "NBA All-Star (2018)"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Tristan Wilds",
+    "givenNames": [
+      "Tristan",
+      "Paul",
+      "Mack"
+    ],
+    "familyName": "Wilds",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tristan_Wilds",
+    "occupation": "Actor and musician",
+    "achievements": [
+      "Known for his roles in 'The Wire' and '90210'",
+      "Released music as part of the group"
+    ],
+    "yearBorn": 1989
   }
 ]

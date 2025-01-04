@@ -42,5 +42,22 @@
       "Won five Grand Slam singles titles"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Maria Curie",
+    "givenNames": [
+      "Maria",
+      "Salomea"
+    ],
+    "familyName": "Curie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "occupation": "Physicist, chemist",
+    "achievements": [
+      "Pioneer in the field of radioactivity",
+      "First woman to win a Nobel Prize",
+      "Only person to win Nobel Prizes in two different scientific fields"
+    ],
+    "yearBorn": 1867,
+    "yearDied": 1934
   }
 ]

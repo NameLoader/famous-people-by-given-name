@@ -47,25 +47,9 @@
     "yearDied": 2008
   },
   {
-    "fullName": "Isaac Stern",
-    "givenNames": [
-      "Isaac"
-    ],
-    "familyName": "Stern",
-    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Stern",
-    "occupation": "Violinist, Conductor",
-    "achievements": [
-      "Renowned violinist",
-      "Music educator"
-    ],
-    "yearBorn": 1920,
-    "yearDied": 2001
-  },
-  {
     "fullName": "Isaac Babel",
     "givenNames": [
-      "Isaac",
-      "Emmanuilovich"
+      "Isaac"
     ],
     "familyName": "Babel",
     "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel",

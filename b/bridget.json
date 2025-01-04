@@ -42,5 +42,18 @@
       "Created by author Helen Fielding",
       "Became a cultural icon, representing the anxieties and aspirations of single women in their 30s"
     ]
+  },
+  {
+    "fullName": "Bridget Jones",
+    "givenNames": [
+      "Bridget",
+      "Rose"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Jones",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of Helen Fielding's novel series *Bridget Jones's Diary* and its film adaptations."
+    ]
   }
 ]

@@ -42,5 +42,19 @@
       "Released two studio albums"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Ashley Graham",
+    "givenNames": [
+      "Ashley"
+    ],
+    "familyName": "Graham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashley_Graham",
+    "occupation": "Model, Television Presenter",
+    "achievements": [
+      "Pioneer in the body positivity movement",
+      "First plus-size model to appear on the cover of Sports Illustrated Swimsuit Issue"
+    ],
+    "yearBorn": 1987
   }
 ]

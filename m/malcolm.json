@@ -27,5 +27,21 @@
       "29th Prime Minister of Australia (2015-2018)"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Malcolm Young",
+    "givenNames": [
+      "Malcolm",
+      "Mitchell"
+    ],
+    "familyName": "Young",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_Young",
+    "occupation": "Australian musician (guitarist)",
+    "achievements": [
+      "Co-founder and rhythm guitarist of the rock band AC/DC",
+      "Known for his powerful riffs and distinctive playing style"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 2017
   }
 ]

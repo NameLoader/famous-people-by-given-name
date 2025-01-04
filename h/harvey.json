@@ -45,15 +45,17 @@
     "yearBorn": 1954
   },
   {
-    "fullName": "Harvey Dent",
+    "fullName": "Harvey Keitel",
     "givenNames": [
       "Harvey"
     ],
-    "familyName": "Dent",
-    "wikipedia": "https://en.wikipedia.org/wiki/Two-Face",
-    "occupation": "Fictional Character (District Attorney)",
+    "familyName": "Keitel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Keitel",
+    "occupation": "Actor",
     "achievements": [
-      "Batman adversary known as Two-Face"
-    ]
+      "Known for roles in films like 'Taxi Driver', 'Pulp Fiction'",
+      "Academy Award nominee"
+    ],
+    "yearBorn": 1939
   }
 ]

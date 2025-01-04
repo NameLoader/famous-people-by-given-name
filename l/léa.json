@@ -27,5 +27,18 @@
       "Known for her interviews on France Inter and France 2"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Léa Drucker",
+    "givenNames": [
+      "Léa"
+    ],
+    "familyName": "Drucker",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A9a_Drucker",
+    "occupation": "Actress",
+    "achievements": [
+      "César Award for Best Actress"
+    ],
+    "yearBorn": 1972
   }
 ]

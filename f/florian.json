@@ -43,5 +43,20 @@
       "Academy Award for Best Original Screenplay for 'The Lives of Others'"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Florian Thauvin",
+    "givenNames": [
+      "Florian",
+      "Tristan",
+      "Mariano"
+    ],
+    "familyName": "Thauvin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florian_Thauvin",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the Ligue 1 title with Marseille in 2010"
+    ],
+    "yearBorn": 1993
   }
 ]

@@ -2,7 +2,8 @@
   {
     "fullName": "Tammy Wynette",
     "givenNames": [
-      "Tammy"
+      "Tammy",
+      "Virginia"
     ],
     "familyName": "Wynette",
     "wikipedia": "https://en.wikipedia.org/wiki/Tammy_Wynette",
@@ -13,5 +14,20 @@
     ],
     "yearBorn": 1942,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Tammy Duckworth",
+    "givenNames": [
+      "Tammy",
+      "Ladda"
+    ],
+    "familyName": "Duckworth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tammy_Duckworth",
+    "occupation": "Politician",
+    "achievements": [
+      "U.S. Senator from Illinois",
+      "Iraq War veteran who lost both legs in combat"
+    ],
+    "yearBorn": 1968
   }
 ]

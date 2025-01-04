@@ -12,5 +12,20 @@
       "Known for his energetic live performances"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Mika Häkkinen",
+    "givenNames": [
+      "Mika",
+      "Pauli"
+    ],
+    "familyName": "Häkkinen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
+    "occupation": "Racing Driver",
+    "achievements": [
+      "Two-time Formula One World Champion (1998, 1999)",
+      "Won 20 Grand Prix races"
+    ],
+    "yearBorn": 1968
   }
 ]

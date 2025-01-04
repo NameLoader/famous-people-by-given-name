@@ -35,8 +35,7 @@
   {
     "fullName": "René Lacoste",
     "givenNames": [
-      "René",
-      "Jean"
+      "René"
     ],
     "familyName": "Lacoste",
     "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Lacoste",
@@ -47,5 +46,20 @@
     ],
     "yearBorn": 1904,
     "yearDied": 1996
+  },
+  {
+    "fullName": "René Lévesque",
+    "givenNames": [
+      "René"
+    ],
+    "familyName": "Lévesque",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_L%C3%A9vesque",
+    "occupation": "Politician",
+    "achievements": [
+      "Premier of Quebec from 1976 to 1985",
+      "Key figure in the Quebec sovereignty movement"
+    ],
+    "yearBorn": 1922,
+    "yearDied": 1987
   }
 ]

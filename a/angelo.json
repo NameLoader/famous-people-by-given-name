@@ -45,5 +45,20 @@
     ],
     "yearBorn": 1881,
     "yearDied": 1963
+  },
+  {
+    "fullName": "Angelo Mathews",
+    "givenNames": [
+      "Angelo",
+      "Davis"
+    ],
+    "familyName": "Mathews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angelo_Mathews",
+    "occupation": "Cricketer",
+    "achievements": [
+      "Former captain of the Sri Lankan national cricket team",
+      "All-rounder known for his batting and bowling skills"
+    ],
+    "yearBorn": 1987
   }
 ]

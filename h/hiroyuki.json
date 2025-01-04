@@ -26,5 +26,18 @@
       "Versatile performer who has starred in both dramatic and action roles"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Hiroyuki Sawano",
+    "givenNames": [
+      "Hiroyuki"
+    ],
+    "familyName": "Sawano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiroyuki_Sawano",
+    "occupation": "Composer",
+    "achievements": [
+      "Composed soundtracks for popular anime series such as Attack on Titan, Kill la Kill, and Mobile Suit Gundam Unicorn."
+    ],
+    "yearBorn": 1980
   }
 ]

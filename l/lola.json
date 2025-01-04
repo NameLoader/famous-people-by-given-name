@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Lola Montez",
+    "givenNames": [
+      "Lola"
+    ],
+    "familyName": "Montez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lola_Montez",
+    "occupation": "Dancer, actress, and courtesan",
+    "achievements": [
+      "Gained notoriety for her provocative dancing and performances in Europe.",
+      "Became a mistress to King Ludwig I of Bavaria, leading to political scandal."
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1853
+  },
+  {
+    "fullName": "Lola Falana",
+    "givenNames": [
+      "Lola"
+    ],
+    "familyName": "Falana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lola_Falana",
+    "occupation": "Singer, dancer, and actress",
+    "achievements": [
+      "Known for her energetic stage presence and Motown hits like 'Love Now' and 'My Happiness'.",
+      "Appeared in several films and television shows.",
+      "Became a devout Catholic later in life."
+    ],
+    "yearBorn": 1942
+  }
+]

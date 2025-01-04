@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1945,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Noel Fielding",
+    "givenNames": [
+      "Noel"
+    ],
+    "familyName": "Fielding",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Fielding",
+    "occupation": "Comedian, Presenter, Artist",
+    "achievements": [
+      "Known for his surreal and absurdist comedy style",
+      "Co-host of the baking competition show 'The Great British Bake Off'",
+      "Member of the comedy troupe The Mighty Boosh"
+    ],
+    "yearBorn": 1973
   }
 ]

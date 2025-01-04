@@ -46,5 +46,18 @@
     ],
     "yearBorn": 1888,
     "yearDied": 1935
+  },
+  {
+    "fullName": "Fernando Botero",
+    "givenNames": [
+      "Fernando"
+    ],
+    "familyName": "Botero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Botero",
+    "occupation": "Artist, Sculptor",
+    "achievements": [
+      "Known for his distinctive style of painting and sculpture, characterized by exaggerated proportions and voluptuous figures"
+    ],
+    "yearBorn": 1932
   }
 ]

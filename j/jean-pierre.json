@@ -2,7 +2,9 @@
   {
     "fullName": "Jean-Pierre Papin",
     "givenNames": [
-      "Jean-Pierre"
+      "Jean-Pierre",
+      "Roger",
+      "Guillaume"
     ],
     "familyName": "Papin",
     "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Papin",
@@ -25,5 +27,18 @@
       "Prime Minister of France (2002-2005)"
     ],
     "yearBorn": 1948
+  },
+  {
+    "fullName": "Jean-Pierre Jeunet",
+    "givenNames": [
+      "Jean-Pierre"
+    ],
+    "familyName": "Jeunet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Jeunet",
+    "occupation": "Film director",
+    "achievements": [
+      "Directed films such as Amélie (2001) and Delicatessen (1991)"
+    ],
+    "yearBorn": 1953
   }
 ]

@@ -28,5 +28,20 @@
       "Drummer for the band Blink-182 (son of Travis Barker)"
     ],
     "yearBorn": 2003
+  },
+  {
+    "fullName": "Landon Collins",
+    "givenNames": [
+      "Landon",
+      "Alexander"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Landon_Collins",
+    "occupation": "American football player",
+    "achievements": [
+      "3× Pro Bowl selection",
+      "2× Second-team All-Pro selection"
+    ],
+    "yearBorn": 1994
   }
 ]

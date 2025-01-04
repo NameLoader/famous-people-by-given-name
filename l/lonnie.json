@@ -16,23 +16,6 @@
     "yearBorn": 1972
   },
   {
-    "fullName": "Lonnie Johnson",
-    "givenNames": [
-      "Lonnie",
-      "Alonzo"
-    ],
-    "familyName": "Johnson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Johnson_(musician)",
-    "occupation": "Blues guitarist, singer, songwriter",
-    "achievements": [
-      "Pioneering blues musician",
-      "Influential guitar stylist",
-      "Recorded prolifically throughout his career"
-    ],
-    "yearBorn": 1899,
-    "yearDied": 1973
-  },
-  {
     "fullName": "Lonnie Donegan",
     "givenNames": [
       "Lonnie",
@@ -49,5 +32,21 @@
     ],
     "yearBorn": 1931,
     "yearDied": 2002
+  },
+  {
+    "fullName": "Lonnie Johnson",
+    "givenNames": [
+      "Lonnie",
+      "Alonzo"
+    ],
+    "familyName": "Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Johnson_(musician)",
+    "occupation": "Guitarist, singer, songwriter",
+    "achievements": [
+      "Early jazz and blues guitarist",
+      "Influential figure on electric guitar playing"
+    ],
+    "yearBorn": 1899,
+    "yearDied": 1973
   }
 ]

@@ -44,5 +44,18 @@
       "Host of the popular podcast 'The Ezra Klein Show'"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Ezra Koenig",
+    "givenNames": [
+      "Ezra",
+      "Michael"
+    ],
+    "familyName": "Koenig",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ezra_Koenig",
+    "occupation": "Musician, singer-songwriter, record producer",
+    "achievements": [
+      "Lead vocalist and guitarist for the indie rock band Vampire Weekend"
+    ]
   }
 ]

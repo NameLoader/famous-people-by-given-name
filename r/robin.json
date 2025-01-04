@@ -30,5 +30,35 @@
       "Nominated for four Primetime Emmy Awards"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Robin Sharma",
+    "givenNames": [
+      "Robin"
+    ],
+    "familyName": "Sharma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robin_Sharma",
+    "occupation": "Author, Leadership Speaker",
+    "achievements": [
+      "Bestselling author of 'The Monk Who Sold His Ferrari'",
+      "Internationally renowned speaker on leadership and personal mastery"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Robin Gibb",
+    "givenNames": [
+      "Robin",
+      "Hugh"
+    ],
+    "familyName": "Gibb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robin_Gibb",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Member of the Bee Gees, one of the best-selling music groups of all time",
+      "Grammy Award winner for Best Pop Performance by a Duo or Group with Vocal"
+    ],
+    "yearBorn": 1949,
+    "yearDied": 2012
   }
 ]

@@ -45,5 +45,18 @@
       "Released multiple successful albums and singles"
     ],
     "yearBorn": 2004
+  },
+  {
+    "fullName": "Grace Slick",
+    "givenNames": [
+      "Grace"
+    ],
+    "familyName": "Slick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Slick",
+    "occupation": "Singer and Musician",
+    "achievements": [
+      "Lead singer of the psychedelic rock band Jefferson Airplane"
+    ],
+    "yearBorn": 1939
   }
 ]

@@ -17,23 +17,6 @@
     "yearDied": 1896
   },
   {
-    "fullName": "Clara Barton",
-    "givenNames": [
-      "Clarissa",
-      "Harlowe"
-    ],
-    "familyName": "Barton",
-    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
-    "occupation": "Nurse, humanitarian",
-    "achievements": [
-      "Founder of the American Red Cross",
-      "Civil War battlefield nurse",
-      "Advocate for humanitarian aid"
-    ],
-    "yearBorn": 1821,
-    "yearDied": 1912
-  },
-  {
     "fullName": "Clara Bow",
     "givenNames": [
       "Clara",
@@ -48,5 +31,23 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1965
+  },
+  {
+    "fullName": "Clara Barton",
+    "givenNames": [
+      "Clara",
+      "Clarissa",
+      "Harlowe"
+    ],
+    "familyName": "Barton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
+    "occupation": "Nurse, humanitarian",
+    "achievements": [
+      "Founder of the American Red Cross",
+      "Pioneer in battlefield nursing during the American Civil War",
+      "Advocate for international humanitarian aid"
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1912
   }
 ]

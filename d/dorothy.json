@@ -62,5 +62,22 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1980
+  },
+  {
+    "fullName": "Dorothy Vaughan",
+    "givenNames": [
+      "Dorothy",
+      "Jean"
+    ],
+    "familyName": "Vaughan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+    "occupation": "Mathematician, computer programmer",
+    "achievements": [
+      "First African-American supervisor at NASA's Langley Research Center",
+      "Instrumental in developing the IBM 7090 FORTRAN compiler used for space exploration",
+      "Honored posthumously with a Congressional Gold Medal"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 2008
   }
 ]

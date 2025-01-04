@@ -42,5 +42,37 @@
     ],
     "yearBorn": 1788,
     "yearDied": 1860
+  },
+  {
+    "fullName": "Arthur Conan Doyle",
+    "givenNames": [
+      "Arthur",
+      "Conan"
+    ],
+    "familyName": "Doyle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+    "occupation": "Writer, physician",
+    "achievements": [
+      "Creator of Sherlock Holmes",
+      "Prolific writer of historical novels, science fiction, and fantasy"
+    ],
+    "yearBorn": 1859,
+    "yearDied": 1930
+  },
+  {
+    "fullName": "Arthur C. Clarke",
+    "givenNames": [
+      "Arthur",
+      "Charles"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+    "occupation": "Science fiction writer, futurist, inventor",
+    "achievements": [
+      "Author of '2001: A Space Odyssey' and other influential science fiction novels",
+      "Proposed the concept of geostationary satellites"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2008
   }
 ]

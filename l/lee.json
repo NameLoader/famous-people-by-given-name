@@ -13,5 +13,18 @@
     ],
     "yearBorn": 1924,
     "yearDied": 1987
+  },
+  {
+    "fullName": "Lee Majors",
+    "givenNames": [
+      "Lee"
+    ],
+    "familyName": "Majors",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Majors",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in popular TV series like 'The Six Million Dollar Man'"
+    ],
+    "yearBorn": 1939
   }
 ]

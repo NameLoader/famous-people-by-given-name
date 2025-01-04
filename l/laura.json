@@ -43,5 +43,34 @@
       "Known for roles in You Can Count on Me, Ozark"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Laura Pausini",
+    "givenNames": [
+      "Laura"
+    ],
+    "familyName": "Pausini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Pausini",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won a Grammy Award for Best Latin Pop Album in 2006",
+      "One of the best-selling music artists in Italian history"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Laura Nyro",
+    "givenNames": [
+      "Laura"
+    ],
+    "familyName": "Nyro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laura_Nyro",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Influential figure in the singer-songwriter movement of the 1960s and 1970s",
+      "Known for hits like 'Stoned Soul Picnic' and 'Wedding Bell Blues'"
+    ],
+    "yearBorn": 1947,
+    "yearDied": 1997
   }
 ]

@@ -1,22 +1,5 @@
 [
   {
-    "fullName": "Janice Joplin",
-    "givenNames": [
-      "Janis",
-      "Lyn"
-    ],
-    "familyName": "Joplin",
-    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin",
-    "occupation": "Singer, songwriter",
-    "achievements": [
-      "Rock and roll icon",
-      "Known for her powerful vocals and bluesy style",
-      "Inducted into the Rock and Roll Hall of Fame"
-    ],
-    "yearBorn": 1943,
-    "yearDied": 1970
-  },
-  {
     "fullName": "Janice Dickinson",
     "givenNames": [
       "Janice",
@@ -31,5 +14,21 @@
       "Appeared in numerous magazines and fashion shows"
     ],
     "yearBorn": 1955
+  },
+  {
+    "fullName": "Janice Joplin",
+    "givenNames": [
+      "Janis",
+      "Lyn"
+    ],
+    "familyName": "Joplin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janis_Joplin",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Rock and Roll Hall of Fame inductee",
+      "Known for her powerful vocals and bluesy style"
+    ],
+    "yearBorn": 1943,
+    "yearDied": 1970
   }
 ]

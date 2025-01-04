@@ -13,5 +13,49 @@
       "Golden Globe Award nomination for Best Actor – Miniseries or Television Film"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Dylan Thomas",
+    "givenNames": [
+      "Dylan",
+      "Marlais"
+    ],
+    "familyName": "Thomas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Thomas",
+    "occupation": "Poet",
+    "achievements": [
+      "Considered one of the most important Welsh poets of the 20th century.",
+      "Known for his lyrical and highly imaginative poetry."
+    ],
+    "yearBorn": 1914,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Dylan Sprouse",
+    "givenNames": [
+      "Dylan",
+      "Thomas"
+    ],
+    "familyName": "Sprouse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Sprouse",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Zack Martin in the Disney Channel sitcom \"The Suite Life of Zack & Cody\" and its sequel \"The Suite Life on Deck\""
+    ],
+    "yearBorn": 1992
+  },
+  {
+    "fullName": "Dylan Sprayberry",
+    "givenNames": [
+      "Dylan",
+      "Muse"
+    ],
+    "familyName": "Sprayberry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dylan_Sprayberry",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his role as Liam Dunbar in the MTV series \"Teen Wolf\""
+    ],
+    "yearBorn": 1998
   }
 ]

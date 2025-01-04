@@ -28,5 +28,52 @@
       "Key figure in the anti-apartheid struggle."
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Jacob Grimm",
+    "givenNames": [
+      "Jacob",
+      "Ludwig",
+      "Karl"
+    ],
+    "familyName": "Grimm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Grimm",
+    "occupation": "Linguist, folklorist",
+    "achievements": [
+      "Co-author of 'Grimm's Fairy Tales'",
+      "Contributed to the study of Germanic languages"
+    ],
+    "yearBorn": 1785,
+    "yearDied": 1863
+  },
+  {
+    "fullName": "Jacob deGrom",
+    "givenNames": [
+      "Jacob",
+      "Anthony"
+    ],
+    "familyName": "deGrom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_deGrom",
+    "occupation": "Baseball Pitcher",
+    "achievements": [
+      "Two-time Cy Young Award winner"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Jacob Lawrence",
+    "givenNames": [
+      "Jacob",
+      "Armstead"
+    ],
+    "familyName": "Lawrence",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Lawrence",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his vibrant depictions of African American life",
+      "Developed a distinctive style using bold colors and geometric shapes"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2000
   }
 ]

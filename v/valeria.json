@@ -41,5 +41,20 @@
       "Known for her experimental and thought-provoking writing style"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Valeria Messalina",
+    "givenNames": [
+      "Valeria"
+    ],
+    "familyName": "Messalina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Messalina",
+    "occupation": "Roman Empress",
+    "achievements": [
+      "Third wife of Roman Emperor Claudius",
+      "Known for her alleged promiscuity and political intrigue"
+    ],
+    "yearBorn": 20,
+    "yearDied": 48
   }
 ]

@@ -27,5 +27,19 @@
     ],
     "yearBorn": 1878,
     "yearDied": 1967
+  },
+  {
+    "fullName": "Shigeru Ban",
+    "givenNames": [
+      "Shigeru"
+    ],
+    "familyName": "Ban",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shigeru_Ban",
+    "occupation": "Architect",
+    "achievements": [
+      "Known for his innovative use of paper tubes and other unconventional materials in architecture.",
+      "Received the Pritzker Architecture Prize in 2014."
+    ],
+    "yearBorn": 1957
   }
 ]

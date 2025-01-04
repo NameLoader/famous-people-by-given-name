@@ -13,5 +13,35 @@
       "Golden Globe winner for Best Actress – Motion Picture Musical or Comedy (What's Love Got to Do with It)"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Angela Merkel",
+    "givenNames": [
+      "Angela",
+      "Dorothea"
+    ],
+    "familyName": "Merkel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merkel",
+    "occupation": "Politician",
+    "achievements": [
+      "First female Chancellor of Germany",
+      "Longest-serving leader in the European Union"
+    ],
+    "yearBorn": 1954
+  },
+  {
+    "fullName": "Angela Davis",
+    "givenNames": [
+      "Angela",
+      "Yvonne"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Angela_Davis",
+    "occupation": "Political activist, scholar",
+    "achievements": [
+      "Prominent figure in the Civil Rights Movement",
+      "Advocate for prison abolition and social justice"
+    ],
+    "yearBorn": 1944
   }
 ]

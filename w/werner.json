@@ -30,18 +30,18 @@
     "yearBorn": 1942
   },
   {
-    "fullName": "Werner von Braun",
+    "fullName": "Werner Von Braun",
     "givenNames": [
       "Wernher",
       "Magnus",
       "Maximilian"
     ],
-    "familyName": "von Braun",
+    "familyName": "Von Braun",
     "wikipedia": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
     "occupation": "Rocket scientist and aerospace engineer",
     "achievements": [
-      "Key figure in the development of Germany's V-2 rocket during World War II.",
-      "Led the team that developed the Saturn V rocket, which launched Apollo astronauts to the Moon."
+      "Led the development of Germany's V-2 rocket during World War II.",
+      "Played a key role in the US space program, contributing to the development of rockets used for NASA missions like Apollo."
     ],
     "yearBorn": 1912,
     "yearDied": 1977

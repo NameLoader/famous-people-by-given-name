@@ -42,5 +42,20 @@
       "First Dutch couturier to be awarded the ANDAM Fashion Award in 2016."
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Iris DeMent",
+    "givenNames": [
+      "Iris",
+      "Luella"
+    ],
+    "familyName": "DeMent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iris_DeMent",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Known for her Americana and folk music.",
+      "Grammy Award nominee."
+    ],
+    "yearBorn": 1961
   }
 ]

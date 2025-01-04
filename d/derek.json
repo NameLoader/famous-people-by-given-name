@@ -29,5 +29,17 @@
       "Known for his slide guitar skills and blues-rock style"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Derek Zoolander",
+    "givenNames": [
+      "Derek"
+    ],
+    "familyName": "Zoolander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zoolander",
+    "occupation": "Fictional Fashion Model",
+    "achievements": [
+      "Subject of the comedy film Zoolander (2001)"
+    ]
   }
 ]

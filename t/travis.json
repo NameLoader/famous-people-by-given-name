@@ -12,5 +12,20 @@
       "Co-founder of Uber"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Travis Tritt",
+    "givenNames": [
+      "Travis"
+    ],
+    "familyName": "Tritt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Travis_Tritt",
+    "occupation": "Country Music Singer, Songwriter, Actor",
+    "achievements": [
+      "Grammy Award winner",
+      "Multiple Country Music Association Awards",
+      "Known for his distinctive vocal style and blend of traditional and contemporary country music"
+    ],
+    "yearBorn": 1963
   }
 ]

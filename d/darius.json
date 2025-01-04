@@ -27,5 +27,20 @@
       "Played in the NBA for the Cleveland Cavaliers and Portland Trail Blazers"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Darius Milhaud",
+    "givenNames": [
+      "Darius"
+    ],
+    "familyName": "Milhaud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Darius_Milhaud",
+    "occupation": "Composer",
+    "achievements": [
+      "Pioneer of polytonality and neo-classicism in music",
+      "Prolific composer with over 400 works"
+    ],
+    "yearBorn": 1892,
+    "yearDied": 1974
   }
 ]

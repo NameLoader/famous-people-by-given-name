@@ -11,5 +11,30 @@
       "Creator of the Kirby and Super Smash Bros. video game franchises"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Masahiro Tanaka",
+    "givenNames": [
+      "Masahiro"
+    ],
+    "familyName": "Tanaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masahiro_Tanaka",
+    "occupation": "Professional baseball player",
+    "achievements": [
+      "Pitcher for the New York Yankees"
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Masahiro Ito",
+    "givenNames": [
+      "Masahiro"
+    ],
+    "familyName": "Ito",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masahiro_Ito",
+    "occupation": "Video game artist and designer",
+    "achievements": [
+      "Known for his work on the Silent Hill franchise"
+    ]
   }
 ]

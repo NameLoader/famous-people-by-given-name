@@ -59,5 +59,35 @@
       "Plays for the New Orleans Pelicans"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Brandon Roy",
+    "givenNames": [
+      "Brandon",
+      "Dawayne"
+    ],
+    "familyName": "Roy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Roy",
+    "occupation": "Basketball player",
+    "achievements": [
+      "NBA All-Star",
+      "NBA Rookie of the Year Award"
+    ],
+    "yearBorn": 1984
+  },
+  {
+    "fullName": "Brandon Sanderson",
+    "givenNames": [
+      "Brandon",
+      "Winn"
+    ],
+    "familyName": "Sanderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+    "occupation": "Author",
+    "achievements": [
+      "New York Times bestselling author",
+      "Known for epic fantasy novels like Mistborn and The Stormlight Archive"
+    ],
+    "yearBorn": 1975
   }
 ]

@@ -30,5 +30,50 @@
     ],
     "yearBorn": 1885,
     "yearDied": 1947
+  },
+  {
+    "fullName": "Luigi Boccherini",
+    "givenNames": [
+      "Luigi",
+      "Ridolfo"
+    ],
+    "familyName": "Boccherini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
+    "occupation": "Composer",
+    "achievements": [
+      "Prolific composer of the Classical era",
+      "Known for his chamber music and concertos"
+    ],
+    "yearBorn": 1743,
+    "yearDied": 1805
+  },
+  {
+    "fullName": "Luigi Galvani",
+    "givenNames": [
+      "Luigi"
+    ],
+    "familyName": "Galvani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Galvani",
+    "occupation": "Physician, Physicist",
+    "achievements": [
+      "Discovered bioelectricity (animal electricity)",
+      "His work paved the way for electrophysiology"
+    ],
+    "yearBorn": 1737,
+    "yearDied": 1798
+  },
+  {
+    "fullName": "Luigi Di Maio",
+    "givenNames": [
+      "Luigi"
+    ],
+    "familyName": "Di Maio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Di_Maio",
+    "occupation": "Politician",
+    "achievements": [
+      "Former Foreign Minister of Italy (2018-2021)",
+      "Leader of the Five Star Movement political party"
+    ],
+    "yearBorn": 1986
   }
 ]

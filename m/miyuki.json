@@ -12,5 +12,19 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1987
+  },
+  {
+    "fullName": "Miyuki Nakajima",
+    "givenNames": [
+      "Miyuki"
+    ],
+    "familyName": "Nakajima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miyuki_Nakajima",
+    "occupation": "Singer-songwriter, musician",
+    "achievements": [
+      "Influential figure in Japanese pop music",
+      "Known for her poetic lyrics and distinctive vocal style"
+    ],
+    "yearBorn": 1952
   }
 ]

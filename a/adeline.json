@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Adeline Virginia Woolf",
+    "givenNames": [
+      "Adeline",
+      "Virginia"
+    ],
+    "familyName": "Woolf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf",
+    "occupation": "Writer",
+    "achievements": [
+      "Pioneer of modernist literature",
+      "Author of novels like Mrs. Dalloway and To the Lighthouse",
+      "Essayist and feminist thinker"
+    ],
+    "yearBorn": 1882,
+    "yearDied": 1941
+  },
+  {
+    "fullName": "Adeline Yen Mah",
+    "givenNames": [
+      "Adeline"
+    ],
+    "familyName": "Yen Mah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adeline_Yen_Mah",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote the bestselling memoir Falling Leaves: The Story of an Unwanted Chinese Daughter"
+    ],
+    "yearBorn": 1937
+  }
+]

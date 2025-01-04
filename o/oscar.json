@@ -16,5 +16,20 @@
     ],
     "yearBorn": 1854,
     "yearDied": 1900
+  },
+  {
+    "fullName": "Oscar de la Renta",
+    "givenNames": [
+      "Oscar"
+    ],
+    "familyName": "de la Renta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_de_la_Renta",
+    "occupation": "Fashion Designer",
+    "achievements": [
+      "Dominant figure in American fashion",
+      "Known for elegant gowns and designs worn by celebrities"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2014
   }
 ]

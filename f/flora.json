@@ -43,5 +43,24 @@
       "World Triathlon Series champion (2016, 2017)"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Flora Tristan",
+    "givenNames": [
+      "Flora",
+      "Flore",
+      "Célestine",
+      "Thérèse",
+      "Henriette"
+    ],
+    "familyName": "Tristan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Flora_Tristan",
+    "occupation": "Utopian socialist, feminist writer and traveler",
+    "achievements": [
+      "Published influential travelogues and social critiques",
+      "Advocate for women's rights and worker's equality"
+    ],
+    "yearBorn": 1803,
+    "yearDied": 1844
   }
 ]

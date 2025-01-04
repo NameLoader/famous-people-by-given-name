@@ -14,5 +14,33 @@
     ],
     "yearBorn": 1940,
     "yearDied": 1999
+  },
+  {
+    "fullName": "Fabrizio Moro",
+    "givenNames": [
+      "Fabrizio"
+    ],
+    "familyName": "Moro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrizio_Moro",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Won the Sanremo Music Festival in 2007.",
+      "Represented Italy at the Eurovision Song Contest in 2007."
+    ],
+    "yearBorn": 1975
+  },
+  {
+    "fullName": "Fabrizio Ravanelli",
+    "givenNames": [
+      "Fabrizio"
+    ],
+    "familyName": "Ravanelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrizio_Ravanelli",
+    "occupation": "Former professional footballer",
+    "achievements": [
+      "Won the UEFA Cup with Middlesbrough in 1997.",
+      "Capped 22 times for Italy."
+    ],
+    "yearBorn": 1968
   }
 ]

@@ -13,5 +13,19 @@
       "Current U.S. Representative for New York's 21st congressional district"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Elise Christie",
+    "givenNames": [
+      "Elise"
+    ],
+    "familyName": "Christie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elise_Christie",
+    "occupation": "Speed skater",
+    "achievements": [
+      "Multiple World Champion",
+      "Olympic Bronze Medalist"
+    ],
+    "yearBorn": 1990
   }
 ]

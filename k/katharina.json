@@ -16,18 +16,47 @@
     "yearDied": 1552
   },
   {
+    "fullName": "Katharina Hepburn",
+    "givenNames": [
+      "Katharine",
+      "Houghton"
+    ],
+    "familyName": "Hepburn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a record four Academy Awards for Best Actress",
+      "Known for her independent spirit and strong female characters"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 2003
+  },
+  {
     "fullName": "Katharina Witt",
     "givenNames": [
-      "Katarina"
+      "Katharina"
     ],
     "familyName": "Witt",
     "wikipedia": "https://en.wikipedia.org/wiki/Katarina_Witt",
-    "occupation": "Figure Skater",
+    "occupation": "Figure skater",
     "achievements": [
-      "Two-time Olympic gold medalist in figure skating",
-      "Four-time World Champion",
-      "Six-time European Champion"
+      "Two-time Olympic champion",
+      "Four-time World champion",
+      "Six-time European champion"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Katharina Grosse",
+    "givenNames": [
+      "Katharina"
+    ],
+    "familyName": "Grosse",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katharina_Grosse",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for her large-scale, abstract paintings and installations",
+      "Represented Germany at the Venice Biennale in 2019"
+    ]
   }
 ]

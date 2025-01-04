@@ -11,5 +11,19 @@
       "Created the popular manga series 'Nana'"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Ai Miyazato",
+    "givenNames": [
+      "Ai"
+    ],
+    "familyName": "Miyazato",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ai_Miyazato",
+    "occupation": "Professional golfer",
+    "achievements": [
+      "Won 9 LPGA Tour events.",
+      "Represented Japan in the Solheim Cup."
+    ],
+    "yearBorn": 1985
   }
 ]

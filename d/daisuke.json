@@ -12,5 +12,33 @@
       "Pitched a no-hitter in Major League Baseball"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Daisuke Ishiwatari",
+    "givenNames": [
+      "Daisuke"
+    ],
+    "familyName": "Ishiwatari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisuke_Ishiwatari",
+    "occupation": "Video game designer and director",
+    "achievements": [
+      "Created the Guilty Gear fighting game series",
+      "Directed the Dragon Ball FighterZ fighting game"
+    ]
+  },
+  {
+    "fullName": "Daisuke Takahashi",
+    "givenNames": [
+      "Daisuke"
+    ],
+    "familyName": "Takahashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daisuke_Takahashi",
+    "occupation": "Figure Skater",
+    "achievements": [
+      "2010 Olympic bronze medalist",
+      "World champion (2010)",
+      "Four Continents champion (2008, 2009)"
+    ],
+    "yearBorn": 1986
   }
 ]

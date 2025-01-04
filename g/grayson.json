@@ -12,5 +12,20 @@
       "Known for his ceramics and tapestries exploring social and gender issues."
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Grayson Allen",
+    "givenNames": [
+      "Grayson",
+      "James"
+    ],
+    "familyName": "Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grayson_Allen",
+    "occupation": "Professional Basketball Player",
+    "achievements": [
+      "NBA Champion (2023)",
+      "NCAA National Champion (2015)"
+    ],
+    "yearBorn": 1995
   }
 ]

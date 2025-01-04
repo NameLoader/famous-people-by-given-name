@@ -42,5 +42,19 @@
       "Indianapolis 500 winner (1969)"
     ],
     "yearBorn": 1940
+  },
+  {
+    "fullName": "Mario Balotelli",
+    "givenNames": [
+      "Mario"
+    ],
+    "familyName": "Balotelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Balotelli",
+    "occupation": "Footballer",
+    "achievements": [
+      "UEFA Champions League winner (2010)",
+      "Premier League winner (2012)"
+    ],
+    "yearBorn": 1990
   }
 ]

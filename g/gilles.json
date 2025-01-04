@@ -45,5 +45,19 @@
       "Prominent advocate for Quebec sovereignty."
     ],
     "yearBorn": 1947
+  },
+  {
+    "fullName": "Gilles Simon",
+    "givenNames": [
+      "Gilles"
+    ],
+    "familyName": "Simon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilles_Simon",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Reached a career-high ranking of World No. 6",
+      "Won 14 ATP singles titles"
+    ],
+    "yearBorn": 1984
   }
 ]

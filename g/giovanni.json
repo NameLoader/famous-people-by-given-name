@@ -44,5 +44,35 @@
       "Appeared in television series like Friends and My Name Is Earl"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Giovanni Verga",
+    "givenNames": [
+      "Giovanni",
+      "Carmelo"
+    ],
+    "familyName": "Verga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Verga",
+    "occupation": "Writer",
+    "achievements": [
+      "Pioneer of Italian Verismo (literary realism)",
+      "Known for novels like 'I Malavoglia'"
+    ],
+    "yearBorn": 1840,
+    "yearDied": 1922
+  },
+  {
+    "fullName": "Giovanni Agnelli",
+    "givenNames": [
+      "Giovanni"
+    ],
+    "familyName": "Agnelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Agnelli",
+    "occupation": "Industrialist",
+    "achievements": [
+      "Founded Fiat Automobiles"
+    ],
+    "yearBorn": 1866,
+    "yearDied": 1945
   }
 ]

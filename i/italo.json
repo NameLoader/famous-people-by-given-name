@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1923,
     "yearDied": 1985
+  },
+  {
+    "fullName": "Italo Svevo",
+    "givenNames": [
+      "Italo"
+    ],
+    "familyName": "Svevo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Italo_Svevo",
+    "occupation": "Writer",
+    "achievements": [
+      "Italian novelist and short story writer.",
+      "His novel 'The Confessions of Zeno' is considered a masterpiece of modernist literature."
+    ],
+    "yearBorn": 1861,
+    "yearDied": 1928
   }
 ]

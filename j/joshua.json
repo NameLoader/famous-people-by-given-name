@@ -59,5 +59,48 @@
       "Known for his role as Ted Mosby in the sitcom 'How I Met Your Mother'"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Joshua Oppenheimer",
+    "givenNames": [
+      "Joshua",
+      "Lincoln"
+    ],
+    "familyName": "Oppenheimer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Oppenheimer",
+    "occupation": "Filmmaker",
+    "achievements": [
+      "Academy Award nominee for Best Documentary Feature for 'The Act of Killing'",
+      "Known for his documentaries exploring complex political and social issues"
+    ]
+  },
+  {
+    "fullName": "Joshua Redman",
+    "givenNames": [
+      "Joshua"
+    ],
+    "familyName": "Redman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Redman",
+    "occupation": "Jazz saxophonist",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for his innovative and improvisational style"
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Joshua Harris",
+    "givenNames": [
+      "Joshua",
+      "Jordan"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josh_Harris_(businessman)",
+    "occupation": "Investor, entrepreneur",
+    "achievements": [
+      "Co-founder of Apollo Global Management",
+      "Known for his investments in distressed assets"
+    ],
+    "yearBorn": 1965
   }
 ]

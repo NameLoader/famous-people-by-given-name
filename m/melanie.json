@@ -42,5 +42,20 @@
       "Successful solo career"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Melanie Brown",
+    "givenNames": [
+      "Melanie",
+      "Janine"
+    ],
+    "familyName": "Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mel_B",
+    "occupation": "Singer, Actress, Television Personality",
+    "achievements": [
+      "Member of the Spice Girls, one of the best-selling girl groups of all time",
+      "Successful solo career and appearances on television shows like America's Got Talent"
+    ],
+    "yearBorn": 1975
   }
 ]

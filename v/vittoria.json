@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1492,
     "yearDied": 1547
+  },
+  {
+    "fullName": "Vittoria Puccini",
+    "givenNames": [
+      "Vittoria"
+    ],
+    "familyName": "Puccini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vittoria_Puccini",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in Italian films and television series.",
+      "Won the Donatello Award for Best Supporting Actress."
+    ],
+    "yearBorn": 1981
   }
 ]

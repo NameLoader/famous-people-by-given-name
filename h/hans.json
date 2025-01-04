@@ -43,5 +43,21 @@
     ],
     "yearBorn": 1881,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Hans Bethe",
+    "givenNames": [
+      "Hans",
+      "Albrecht"
+    ],
+    "familyName": "Bethe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Bethe",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1967 for his work on the theory of stellar nucleosynthesis.",
+      "Contributed to the Manhattan Project during World War II."
+    ],
+    "yearBorn": 1906,
+    "yearDied": 2005
   }
 ]

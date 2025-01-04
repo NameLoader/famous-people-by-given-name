@@ -18,7 +18,9 @@
   {
     "fullName": "Cynthia Erivo",
     "givenNames": [
-      "Cynthia"
+      "Cynthia",
+      "Chinasaokwu",
+      "Onyedinmanasu"
     ],
     "familyName": "Erivo",
     "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Erivo",
@@ -44,5 +46,19 @@
       "Known for her short stories and novels exploring Jewish identity and American culture"
     ],
     "yearBorn": 1928
+  },
+  {
+    "fullName": "Cynthia Lennon",
+    "givenNames": [
+      "Cynthia"
+    ],
+    "familyName": "Lennon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cynthia_Lennon",
+    "occupation": "Artist, Writer",
+    "achievements": [
+      "First wife of John Lennon"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2015
   }
 ]

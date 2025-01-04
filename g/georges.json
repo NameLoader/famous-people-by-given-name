@@ -60,5 +60,21 @@
     ],
     "yearBorn": 1862,
     "yearDied": 1921
+  },
+  {
+    "fullName": "Georges Dumézil",
+    "givenNames": [
+      "Georges",
+      "Edmond",
+      "Raoul"
+    ],
+    "familyName": "Dumézil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Dum%C3%A9zil",
+    "occupation": "Mythologist, Historian of Religion",
+    "achievements": [
+      "Comparative mythology"
+    ],
+    "yearBorn": 1898,
+    "yearDied": 1986
   }
 ]

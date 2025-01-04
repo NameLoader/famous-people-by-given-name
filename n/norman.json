@@ -44,5 +44,51 @@
     ],
     "yearBorn": 1894,
     "yearDied": 1978
+  },
+  {
+    "fullName": "Norman Schwarzkopf Jr.",
+    "givenNames": [
+      "Herbert",
+      "Norman"
+    ],
+    "familyName": "Schwarzkopf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Schwarzkopf_Jr.",
+    "occupation": "General in the United States Army",
+    "achievements": [
+      "Commander of coalition forces during the Persian Gulf War (Operation Desert Storm)",
+      "Distinguished Service Cross recipient"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2012
+  },
+  {
+    "fullName": "Norman Lear",
+    "givenNames": [
+      "Norman",
+      "Milton"
+    ],
+    "familyName": "Lear",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Lear",
+    "occupation": "Television writer, producer and activist",
+    "achievements": [
+      "Created groundbreaking sitcoms like All in the Family, Maude, and The Jeffersons",
+      "Won numerous Emmy Awards and Peabody Awards",
+      "Advocate for social justice and political causes"
+    ],
+    "yearBorn": 1922
+  },
+  {
+    "fullName": "Norman Reedus",
+    "givenNames": [
+      "Norman",
+      "Mark"
+    ],
+    "familyName": "Reedus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norman_Reedus",
+    "occupation": "Actor, model",
+    "achievements": [
+      "Known for his role as Daryl Dixon in 'The Walking Dead'"
+    ],
+    "yearBorn": 1969
   }
 ]

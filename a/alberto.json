@@ -29,5 +29,34 @@
     ],
     "yearBorn": 1939,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Alberto Tomba",
+    "givenNames": [
+      "Alberto"
+    ],
+    "familyName": "Tomba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Tomba",
+    "occupation": "Alpine Ski Racer",
+    "achievements": [
+      "Olympic Gold Medalist (1988, 1992)",
+      "World Champion (1991)"
+    ],
+    "yearBorn": 1966
+  },
+  {
+    "fullName": "Alberto Contador",
+    "givenNames": [
+      "Alberto"
+    ],
+    "familyName": "Contador",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Contador",
+    "occupation": "Professional Cyclist",
+    "achievements": [
+      "Tour de France Winner (2007, 2009)",
+      "Giro d'Italia Winner (2008, 2015)",
+      "Vuelta a España Winner (2008)"
+    ],
+    "yearBorn": 1982
   }
 ]

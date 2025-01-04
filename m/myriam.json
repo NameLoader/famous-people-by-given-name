@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Myriam Makeba",
+    "givenNames": [
+      "Zenzile",
+      "Miriam"
+    ],
+    "familyName": "Makeba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miriam_Makeba",
+    "occupation": "Singer, songwriter, actress, and activist",
+    "achievements": [
+      "Grammy Award winner",
+      "Known as 'Mama Africa'",
+      "Advocate for civil rights and anti-apartheid movements"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2008
+  },
+  {
+    "fullName": "Myriam Fares",
+    "givenNames": [
+      "Myriam"
+    ],
+    "familyName": "Fares",
+    "wikipedia": "https://en.wikipedia.org/wiki/Myriam_Fares",
+    "occupation": "Singer, dancer, and actress",
+    "achievements": [
+      "Successful Lebanese pop star",
+      "Known for her energetic performances and powerful vocals"
+    ],
+    "yearBorn": 1983
+  }
+]

@@ -23,5 +23,18 @@
     "achievements": [
       "Known for his work on acceleration and social theory."
     ]
+  },
+  {
+    "fullName": "Hartmut Esslinger",
+    "givenNames": [
+      "Hartmut"
+    ],
+    "familyName": "Esslinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hartmut_Esslinger",
+    "occupation": "Industrial designer",
+    "achievements": [
+      "Known for his iconic designs for Frog Design",
+      "Designed products for companies like Apple, Sony, and HP"
+    ]
   }
 ]

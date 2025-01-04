@@ -15,22 +15,6 @@
     "yearBorn": 1946
   },
   {
-    "fullName": "Steven Hawking",
-    "givenNames": [
-      "Stephen",
-      "William"
-    ],
-    "familyName": "Hawking",
-    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
-    "occupation": "Theoretical physicist, cosmologist",
-    "achievements": [
-      "Made groundbreaking contributions to our understanding of black holes and the universe",
-      "Authored the bestselling book 'A Brief History of Time'"
-    ],
-    "yearBorn": 1942,
-    "yearDied": 2018
-  },
-  {
     "fullName": "Steven Tyler",
     "givenNames": [
       "Steven"
@@ -57,5 +41,36 @@
       "Known for action films such as Above the Law and Under Siege"
     ],
     "yearBorn": 1952
+  },
+  {
+    "fullName": "Steven Soderbergh",
+    "givenNames": [
+      "Steven",
+      "Andrew"
+    ],
+    "familyName": "Soderbergh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Soderbergh",
+    "occupation": "Film director, screenwriter, producer",
+    "achievements": [
+      "Won the Academy Award for Best Director for Traffic",
+      "Known for his stylistic filmmaking and genre versatility"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Steven Hawking",
+    "givenNames": [
+      "Stephen",
+      "William"
+    ],
+    "familyName": "Hawking",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "occupation": "Theoretical physicist, cosmologist",
+    "achievements": [
+      "Made groundbreaking contributions to understanding black holes and the universe",
+      "Authored the bestselling book 'A Brief History of Time'"
+    ],
+    "yearBorn": 1942,
+    "yearDied": 2018
   }
 ]

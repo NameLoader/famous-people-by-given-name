@@ -32,5 +32,20 @@
     ],
     "yearBorn": 1889,
     "yearDied": 1951
+  },
+  {
+    "fullName": "Ludwig II of Bavaria",
+    "givenNames": [
+      "Ludwig"
+    ],
+    "familyName": "Wittelsbach",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria",
+    "occupation": "King of Bavaria",
+    "achievements": [
+      "Known for his patronage of the arts and architecture.",
+      "Commissioned the construction of Neuschwanstein Castle and other fairytale-like palaces."
+    ],
+    "yearBorn": 1845,
+    "yearDied": 1886
   }
 ]

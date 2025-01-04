@@ -30,17 +30,18 @@
     "yearDied": 1996
   },
   {
-    "fullName": "Marguerite Piazza",
+    "fullName": "Marguerite Bourgeoys",
     "givenNames": [
       "Marguerite"
     ],
-    "familyName": "Piazza",
-    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Piazza",
-    "occupation": "Opera Singer",
+    "familyName": "Bourgeoys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Bourgeoys",
+    "occupation": "Nun, founder of the Congregation of Notre-Dame de Montréal",
     "achievements": [
-      "Performed at the Metropolitan Opera and La Scala",
-      "Known for her powerful soprano voice"
+      "Canonized as a saint by the Roman Catholic Church in 1982",
+      "Founded schools for girls and provided education to marginalized communities in New France"
     ],
-    "yearBorn": 1926
+    "yearBorn": 1620,
+    "yearDied": 1703
   }
 ]

@@ -16,15 +16,32 @@
     "yearDied": 1994
   },
   {
-    "fullName": "Carmen Sandiego",
+    "fullName": "Carmen Electra",
     "givenNames": [
       "Carmen"
     ],
-    "familyName": "Sandiego",
-    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Sandiego",
-    "occupation": "Fictional character",
+    "familyName": "Electra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Electra",
+    "occupation": "Actress, Model",
     "achievements": [
-      "Protagonist of the educational media franchise 'Where in the World Is Carmen Sandiego?'"
-    ]
+      "Appeared in films such as 'Scary Movie' and 'Baywatch'",
+      "Known for her appearances in Playboy magazine"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Carmen Miranda",
+    "givenNames": [
+      "Carmen"
+    ],
+    "familyName": "Miranda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Miranda",
+    "occupation": "Singer, Dancer, Actress",
+    "achievements": [
+      "Known for her flamboyant costumes and energetic performances",
+      "Popularized Brazilian music in the United States"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1955
   }
 ]

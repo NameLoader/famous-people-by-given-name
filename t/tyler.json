@@ -43,5 +43,18 @@
       "Founder of Odd Future"
     ],
     "yearBorn": 1991
+  },
+  {
+    "fullName": "Tyler Cameron",
+    "givenNames": [
+      "Tyler"
+    ],
+    "familyName": "Cameron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Cameron",
+    "occupation": "Reality television personality, model",
+    "achievements": [
+      "Contestant on season 15 of The Bachelorette"
+    ],
+    "yearBorn": 1992
   }
 ]

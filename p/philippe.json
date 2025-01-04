@@ -2,8 +2,8 @@
   {
     "fullName": "Philippe Pétain",
     "givenNames": [
-      "Henri",
       "Philippe",
+      "Henri",
       "Bénoni",
       "Omer",
       "Joseph"
@@ -17,5 +17,19 @@
     ],
     "yearBorn": 1856,
     "yearDied": 1951
+  },
+  {
+    "fullName": "Philippe Starck",
+    "givenNames": [
+      "Philippe"
+    ],
+    "familyName": "Starck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_Starck",
+    "occupation": "Industrial designer",
+    "achievements": [
+      "Known for his innovative and unconventional designs in various fields",
+      "Designed iconic products like the Louis Ghost chair and the Juicy Salif citrus squeezer"
+    ],
+    "yearBorn": 1949
   }
 ]

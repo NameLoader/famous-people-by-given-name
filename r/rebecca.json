@@ -56,5 +56,28 @@
       "National Book Award finalist for her novel 'The Great Believers'",
       "Her works have been published in The New Yorker and other prestigious publications"
     ]
+  },
+  {
+    "fullName": "Rebecca Black",
+    "givenNames": [
+      "Rebecca",
+      "Renee"
+    ],
+    "familyName": "Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Black",
+    "occupation": "Singer, songwriter",
+    "achievements": [],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Rebecca Solnit",
+    "givenNames": [
+      "Rebecca"
+    ],
+    "familyName": "Solnit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Solnit",
+    "occupation": "Writer, historian",
+    "achievements": [],
+    "yearBorn": 1961
   }
 ]

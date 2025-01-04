@@ -28,5 +28,69 @@
       "Known for roles in films like Inception and The Dark Knight Rises"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Marion Morrison",
+    "givenNames": [
+      "Marion",
+      "Robert"
+    ],
+    "familyName": "Morrison",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne",
+    "occupation": "Actor",
+    "achievements": [
+      "Iconic Western film star",
+      "Known for roles in films like 'Stagecoach', 'The Searchers', and 'True Grit'",
+      "Won an Academy Award for Best Actor for his role in 'True Grit'"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1979
+  },
+  {
+    "fullName": "Marion Anderson",
+    "givenNames": [
+      "Marian"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marian_Anderson",
+    "occupation": "Opera singer",
+    "achievements": [
+      "First African-American to perform at the Metropolitan Opera",
+      "Known for her powerful contralto voice"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1993
+  },
+  {
+    "fullName": "Marion Davies",
+    "givenNames": [
+      "Marion"
+    ],
+    "familyName": "Davies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marion_Davies",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous silent films and early talkies",
+      "Known for her comedic timing and beauty"
+    ],
+    "yearBorn": 1897,
+    "yearDied": 1961
+  },
+  {
+    "fullName": "Marion Zimmer Bradley",
+    "givenNames": [
+      "Marion",
+      "Eleanor",
+      "Zimmer"
+    ],
+    "familyName": "Bradley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley",
+    "occupation": "Author",
+    "achievements": [
+      "Best known for her fantasy novel series 'The Mists of Avalon'",
+      "Pioneering writer in the field of feminist science fiction and fantasy"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1999
   }
 ]

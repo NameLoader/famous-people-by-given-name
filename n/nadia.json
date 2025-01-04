@@ -27,5 +27,35 @@
       "Regular panelist on the ITV daytime talk show 'Loose Women'"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Nadia Murad",
+    "givenNames": [
+      "Nadia"
+    ],
+    "familyName": "Murad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Murad",
+    "occupation": "Human rights activist",
+    "achievements": [
+      "Nobel Peace Prize laureate for her work raising awareness about the Yazidi genocide by ISIS"
+    ],
+    "yearBorn": 1993
+  },
+  {
+    "fullName": "Nadia Boulanger",
+    "givenNames": [
+      "Juliette",
+      "Nadia"
+    ],
+    "familyName": "Boulanger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Boulanger",
+    "occupation": "Composer, Conductor, Teacher",
+    "achievements": [
+      "Taught and mentored many renowned composers",
+      "Known for her rigorous teaching style and deep understanding of music theory",
+      "Composed numerous works for orchestra, piano, and voice"
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1979
   }
 ]

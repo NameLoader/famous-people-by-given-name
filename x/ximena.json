@@ -11,5 +11,31 @@
       "Known for her roles in telenovelas"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Ximena Navarrete",
+    "givenNames": [
+      "Ximena"
+    ],
+    "familyName": "Navarrete",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ximena_Navarrete",
+    "occupation": "Model, actress, television host",
+    "achievements": [
+      "Miss Universe 2010"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Ximena Sariñana",
+    "givenNames": [
+      "Ximena"
+    ],
+    "familyName": "Sariñana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ximena_Sari%C3%B1ana",
+    "occupation": "Singer-songwriter, actress",
+    "achievements": [
+      "Latin Grammy Award nomination"
+    ],
+    "yearBorn": 1985
   }
 ]

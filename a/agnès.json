@@ -29,21 +29,5 @@
     ],
     "yearBorn": 1422,
     "yearDied": 1450
-  },
-  {
-    "fullName": "Agnès Martin",
-    "givenNames": [
-      "Agnes",
-      "Bernice"
-    ],
-    "familyName": "Martin",
-    "wikipedia": "https://en.wikipedia.org/wiki/Agnes_Martin",
-    "occupation": "Painter, sculptor",
-    "achievements": [
-      "Known for minimalist abstract paintings",
-      "Work featured in major museums worldwide"
-    ],
-    "yearBorn": 1912,
-    "yearDied": 2004
   }
 ]

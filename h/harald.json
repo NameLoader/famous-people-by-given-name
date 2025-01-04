@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1933,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Harald Hardrada",
+    "givenNames": [
+      "Harald",
+      "Sigurdsson"
+    ],
+    "familyName": "Hardrada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harald_Hardrada",
+    "occupation": "King of Norway",
+    "achievements": [
+      "King of Norway from 1046 to 1066",
+      "Led a successful invasion of England in 1066"
+    ],
+    "yearBorn": 1015,
+    "yearDied": 1066
   }
 ]

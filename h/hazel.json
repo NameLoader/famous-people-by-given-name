@@ -32,8 +32,8 @@
   {
     "fullName": "Hazel Henderson",
     "givenNames": [
-      "Jean",
-      "Hazel"
+      "Hazel",
+      "Jean"
     ],
     "familyName": "Henderson",
     "wikipedia": "https://en.wikipedia.org/wiki/Hazel_Henderson",
@@ -43,5 +43,36 @@
       "Authored books like 'Creating Alternative Futures' and 'Ethical Markets'"
     ],
     "yearBorn": 1933
+  },
+  {
+    "fullName": "Hazel Scott",
+    "givenNames": [
+      "Hazel",
+      "Dorothy"
+    ],
+    "familyName": "Scott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazel_Scott",
+    "occupation": "Jazz Pianist, Singer, Actress",
+    "achievements": [
+      "First Black woman to host her own television variety show.",
+      "Performed at the prestigious Apollo Theater."
+    ],
+    "yearBorn": 1920,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Hazel Blears",
+    "givenNames": [
+      "Hazel",
+      "Anne"
+    ],
+    "familyName": "Blears",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hazel_Blears",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Home Secretary in the United Kingdom from 2006 to 2007",
+      "Member of Parliament for Salford and Eccles"
+    ],
+    "yearBorn": 1956
   }
 ]

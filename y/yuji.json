@@ -1,0 +1,31 @@
+[
+  {
+    "fullName": "Yuji Naka",
+    "givenNames": [
+      "Yuji"
+    ],
+    "familyName": "Naka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuji_Naka",
+    "occupation": "Video game programmer and composer",
+    "achievements": [
+      "Created the Sonic the Hedgehog series",
+      "Developed games like Nights into Dreams...",
+      "Founded Prope, a video game development studio"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Yuji Horii",
+    "givenNames": [
+      "Yuji"
+    ],
+    "familyName": "Horii",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuji_Horii",
+    "occupation": "Video game designer and producer",
+    "achievements": [
+      "Created the Dragon Quest series",
+      "One of the founders of Enix (now Square Enix)"
+    ],
+    "yearBorn": 1954
+  }
+]

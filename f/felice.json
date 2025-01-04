@@ -2,8 +2,8 @@
   {
     "fullName": "Felice Romani",
     "givenNames": [
-      "Giuseppe",
-      "Felice"
+      "Felice",
+      "Giuseppe"
     ],
     "familyName": "Romani",
     "wikipedia": "https://en.wikipedia.org/wiki/Felice_Romani",
@@ -13,5 +13,19 @@
     ],
     "yearBorn": 1788,
     "yearDied": 1865
+  },
+  {
+    "fullName": "Felice Cavallotti",
+    "givenNames": [
+      "Felice"
+    ],
+    "familyName": "Cavallotti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Felice_Cavallotti",
+    "occupation": "Journalist, Politician",
+    "achievements": [
+      "Known for his radical republican views and outspoken criticism of the Italian government"
+    ],
+    "yearBorn": 1839,
+    "yearDied": 1898
   }
 ]

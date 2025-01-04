@@ -14,5 +14,20 @@
       "2-time World Series Champion"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Rickey Smiley",
+    "givenNames": [
+      "Broderick",
+      "Dornell"
+    ],
+    "familyName": "Smiley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rickey_Smiley",
+    "occupation": "Comedian, actor, television host, and radio personality",
+    "achievements": [
+      "Known for his comedic performances on stage and screen",
+      "Hosts the nationally syndicated radio show \"The Rickey Smiley Morning Show\""
+    ],
+    "yearBorn": 1968
   }
 ]

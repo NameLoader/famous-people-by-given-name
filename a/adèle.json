@@ -1,23 +1,5 @@
 [
   {
-    "fullName": "Adèle Laurie Blue Adkins",
-    "givenNames": [
-      "Adele",
-      "Laurie",
-      "Blue"
-    ],
-    "familyName": "Adkins",
-    "wikipedia": "https://en.wikipedia.org/wiki/Adele",
-    "occupation": "Singer-Songwriter",
-    "achievements": [
-      "15 Grammy Awards",
-      "Academy Award for Best Original Song",
-      "Golden Globe Award for Best Original Song",
-      "One of the best-selling music artists of all time"
-    ],
-    "yearBorn": 1988
-  },
-  {
     "fullName": "Adèle Exarchopoulos",
     "givenNames": [
       "Adèle"
@@ -30,5 +12,24 @@
       "International recognition for her role in the film 'Blue Is the Warmest Color'"
     ],
     "yearBorn": 1993
+  },
+  {
+    "fullName": "Adèle Laurie Blue Adkins",
+    "givenNames": [
+      "Adele",
+      "Laurie",
+      "Blue"
+    ],
+    "familyName": "Adkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adele",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner (16)",
+      "Brit Award winner (9)",
+      "Academy Award for Best Original Song",
+      "Golden Globe Award for Best Original Song",
+      "One of the best-selling music artists of all time"
+    ],
+    "yearBorn": 1988
   }
 ]

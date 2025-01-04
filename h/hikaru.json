@@ -28,5 +28,19 @@
       "Highly acclaimed for her in-ring ability and charisma"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Hikaru Utada",
+    "givenNames": [
+      "Hikaru"
+    ],
+    "familyName": "Utada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hikaru_Utada",
+    "occupation": "Singer-songwriter, record producer",
+    "achievements": [
+      "Bestselling Japanese artist of all time",
+      "First Japanese artist to have a number-one album on the Billboard 200 chart"
+    ],
+    "yearBorn": 1983
   }
 ]

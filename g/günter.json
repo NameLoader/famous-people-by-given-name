@@ -29,5 +29,34 @@
     ],
     "yearBorn": 1936,
     "yearDied": 2018
+  },
+  {
+    "fullName": "Günter Guillaume",
+    "givenNames": [
+      "Günter"
+    ],
+    "familyName": "Guillaume",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnter_Guillaume",
+    "occupation": "Spy",
+    "achievements": [
+      "East German spy who infiltrated the West German government in the 1970s and 1980s."
+    ],
+    "yearBorn": 1930,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Günter Netzer",
+    "givenNames": [
+      "Günter",
+      "Theodor"
+    ],
+    "familyName": "Netzer",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnter_Netzer",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for Borussia Mönchengladbach and the West German national team.",
+      "Won the Ballon d'Or in 1972."
+    ],
+    "yearBorn": 1944
   }
 ]

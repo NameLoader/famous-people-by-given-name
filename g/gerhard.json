@@ -41,5 +41,21 @@
       "Nobel Prize in Chemistry (2007) for his studies of chemical processes on solid surfaces"
     ],
     "yearBorn": 1936
+  },
+  {
+    "fullName": "Gerhard Domagk",
+    "givenNames": [
+      "Gerhard",
+      "Johannes",
+      "Paul"
+    ],
+    "familyName": "Domagk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Domagk",
+    "occupation": "Physician and Pharmacologist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1939) for his discovery of Prontosil, the first commercially available antibiotic"
+    ],
+    "yearBorn": 1895,
+    "yearDied": 1964
   }
 ]

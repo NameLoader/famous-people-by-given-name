@@ -28,5 +28,50 @@
     ],
     "yearBorn": 1847,
     "yearDied": 1911
+  },
+  {
+    "fullName": "Joseph Conrad",
+    "givenNames": [
+      "Joseph"
+    ],
+    "familyName": "Conrad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Conrad",
+    "occupation": "Author, Novelist",
+    "achievements": [
+      "Wrote acclaimed novels such as 'Heart of Darkness' and 'Lord Jim'",
+      "Known for his exploration of themes like colonialism, morality, and the human condition"
+    ],
+    "yearBorn": 1857,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "Joseph Gordon-Levitt",
+    "givenNames": [
+      "Joseph",
+      "Leonard"
+    ],
+    "familyName": "Gordon-Levitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt",
+    "occupation": "Actor, Director, Filmmaker",
+    "achievements": [
+      "Starred in films such as 'Inception', '500 Days of Summer', and '(500) Days of Summer'",
+      "Founded the online production company HitRecord"
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Joseph Biden",
+    "givenNames": [
+      "Joseph",
+      "Robinette"
+    ],
+    "familyName": "Biden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Biden",
+    "occupation": "Politician",
+    "achievements": [
+      "46th and current President of the United States",
+      "Former Vice President of the United States (2009-2017)"
+    ],
+    "yearBorn": 1942
   }
 ]

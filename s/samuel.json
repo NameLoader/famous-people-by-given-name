@@ -61,5 +61,34 @@
     ],
     "yearBorn": 1906,
     "yearDied": 1989
+  },
+  {
+    "fullName": "Samuel Pepys",
+    "givenNames": [
+      "Samuel"
+    ],
+    "familyName": "Pepys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Pepys",
+    "occupation": "Diarist, Administrator",
+    "achievements": [
+      "Author of the famous diary chronicling life in London during the 17th century"
+    ],
+    "yearBorn": 1633,
+    "yearDied": 1703
+  },
+  {
+    "fullName": "Samuel Taylor Coleridge",
+    "givenNames": [
+      "Samuel",
+      "Taylor"
+    ],
+    "familyName": "Coleridge",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
+    "occupation": "Poet, Literary Critic",
+    "achievements": [
+      "Romantic era poet known for works like 'The Rime of the Ancient Mariner' and 'Kubla Khan'"
+    ],
+    "yearBorn": 1772,
+    "yearDied": 1834
   }
 ]

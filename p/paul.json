@@ -65,5 +65,20 @@
     ],
     "yearBorn": 1898,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Paul Krugman",
+    "givenNames": [
+      "Paul",
+      "Robin"
+    ],
+    "familyName": "Krugman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Krugman",
+    "occupation": "Economist, Columnist",
+    "achievements": [
+      "Nobel Memorial Prize in Economic Sciences (2008)",
+      "Prominent columnist for The New York Times"
+    ],
+    "yearBorn": 1953
   }
 ]

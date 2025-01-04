@@ -30,5 +30,20 @@
       "Authored several New York Times bestselling novels"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Lauren Sánchez",
+    "givenNames": [
+      "Lauren",
+      "Wendy"
+    ],
+    "familyName": "Sánchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lauren_S%C3%A1nchez",
+    "occupation": "News anchor, Helicopter pilot, Media personality",
+    "achievements": [
+      "Worked as a news anchor for KTTV and KCOP in Los Angeles",
+      "Became the first Latina to host the NFL on Fox pregame show"
+    ],
+    "yearBorn": 1969
   }
 ]

@@ -57,5 +57,19 @@
       "Won the Man Booker Prize for his novel 'The Sense of an Ending'"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Julian Opie",
+    "givenNames": [
+      "Julian"
+    ],
+    "familyName": "Opie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Opie",
+    "occupation": "Artist",
+    "achievements": [
+      "Known for his portraiture and minimalist style",
+      "Works featured in major museums worldwide"
+    ],
+    "yearBorn": 1958
   }
 ]

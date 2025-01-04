@@ -1,28 +1,8 @@
 [
   {
-    "fullName": "Elisabeth I",
-    "givenNames": [
-      "Elizabeth",
-      "I"
-    ],
-    "familyName": "Tudor",
-    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
-    "occupation": "Queen of England and Ireland",
-    "achievements": [
-      "Led England through a Golden Age",
-      "Defeated the Spanish Armada",
-      "Established the Church of England"
-    ],
-    "yearBorn": 1533,
-    "yearDied": 1603
-  },
-  {
     "fullName": "Elisabeth Schwarzkopf",
     "givenNames": [
-      "Elisabeth",
-      "Olga",
-      "Maria",
-      "Friederike"
+      "Elisabeth"
     ],
     "familyName": "Schwarzkopf",
     "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_Schwarzkopf",
@@ -48,5 +28,19 @@
     ],
     "yearBorn": 1926,
     "yearDied": 2004
+  },
+  {
+    "fullName": "Elisabeth Hasselbeck",
+    "givenNames": [
+      "Elisabeth",
+      "DelPadre"
+    ],
+    "familyName": "Hasselbeck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_Hasselbeck",
+    "occupation": "Television personality",
+    "achievements": [
+      "Co-host of 'The View'"
+    ],
+    "yearBorn": 1977
   }
 ]

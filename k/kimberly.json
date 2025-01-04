@@ -27,5 +27,18 @@
       "Directed the films 'Boys Don't Cry' and 'Stop-Loss'."
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Kimberly Elise",
+    "givenNames": [
+      "Kimberly"
+    ],
+    "familyName": "Elise",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimberly_Elise",
+    "occupation": "Actress",
+    "achievements": [
+      "NAACP Image Award for Outstanding Actress in a Motion Picture"
+    ],
+    "yearBorn": 1967
   }
 ]

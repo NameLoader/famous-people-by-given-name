@@ -29,5 +29,50 @@
     ],
     "yearBorn": 1907,
     "yearDied": 1996
+  },
+  {
+    "fullName": "Evelyn Waugh",
+    "givenNames": [
+      "Evelyn"
+    ],
+    "familyName": "Waugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Waugh",
+    "occupation": "Novelist, essayist, biographer",
+    "achievements": [
+      "Satirical novels such as Brideshead Revisited and Decline and Fall"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1966
+  },
+  {
+    "fullName": "Evelyn Nesbit",
+    "givenNames": [
+      "Florence",
+      "Evelyn"
+    ],
+    "familyName": "Nesbit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Nesbit",
+    "occupation": "Model, actress, artist's muse",
+    "achievements": [
+      "Became a celebrated model and performer in the early 20th century",
+      "Inspired artists like Charles Dana Gibson and John Singer Sargent"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Evelyn Beatrice Hall",
+    "givenNames": [
+      "Evelyn",
+      "Beatrice"
+    ],
+    "familyName": "Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall",
+    "occupation": "Writer, biographer",
+    "achievements": [
+      "Known for her biography of Voltaire under the pseudonym S. G. Tallentyre"
+    ],
+    "yearBorn": 1868,
+    "yearDied": 1956
   }
 ]

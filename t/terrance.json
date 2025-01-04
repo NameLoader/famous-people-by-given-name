@@ -1,44 +1,14 @@
 [
   {
-    "fullName": "Terrance Howard",
-    "givenNames": [
-      "Terrence",
-      "Dashon"
-    ],
-    "familyName": "Howard",
-    "wikipedia": "https://en.wikipedia.org/wiki/Terrence_Howard",
-    "occupation": "Actor",
-    "achievements": [
-      "Academy Award nomination for Best Actor for his role in Hustle & Flow",
-      "Known for roles in films like Iron Man, Crash, and Empire"
-    ],
-    "yearBorn": 1969
-  },
-  {
-    "fullName": "Terrance Malick",
-    "givenNames": [
-      "Terrence",
-      "Frederick"
-    ],
-    "familyName": "Malick",
-    "wikipedia": "https://en.wikipedia.org/wiki/Terrence_Malick",
-    "occupation": "Film Director",
-    "achievements": [
-      "Known for his philosophical and visually stunning films like The Tree of Life, Badlands, and Days of Heaven",
-      "Recipient of numerous awards including the Palme d'Or at the Cannes Film Festival"
-    ],
-    "yearBorn": 1943
-  },
-  {
     "fullName": "Terrance J",
     "givenNames": [
       "Terrence"
     ],
     "familyName": "Jenkins",
     "wikipedia": "https://en.wikipedia.org/wiki/Terrence_J",
-    "occupation": "Actor, Television Personality",
+    "occupation": "Television and Film Personality",
     "achievements": [
-      "Known for co-hosting the BET music video countdown show 106 & Park",
+      "Co-host of BET's music video countdown show 106 & Park",
       "Appeared in films like Think Like a Man and The Perfect Match"
     ],
     "yearBorn": 1982

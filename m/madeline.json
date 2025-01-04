@@ -1,16 +1,18 @@
 [
   {
-    "fullName": "Madeline Stowe",
+    "fullName": "Madeline Albright",
     "givenNames": [
-      "Madeleine"
+      "Madeline",
+      "Jana"
     ],
-    "familyName": "Stowe",
-    "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_Stowe",
-    "occupation": "Actress",
+    "familyName": "Albright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_Albright",
+    "occupation": "Diplomat, politician",
     "achievements": [
-      "Known for roles in films like 'Revenge'",
-      "and TV series like 'The Blacklist'"
+      "First female Secretary of State of the United States",
+      "United States Ambassador to the United Nations"
     ],
-    "yearBorn": 1958
+    "yearBorn": 1937,
+    "yearDied": 2022
   }
 ]

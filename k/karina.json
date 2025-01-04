@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Karina Smirnoff",
+    "givenNames": [
+      "Karina"
+    ],
+    "familyName": "Smirnoff",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karina_Smirnoff",
+    "occupation": "Professional dancer",
+    "achievements": [
+      "World Champion Ballroom Dancer",
+      "Winner of the US Open Professional Latin Championship",
+      "Star on 'Dancing with the Stars'"
+    ],
+    "yearBorn": 1977
+  }
+]

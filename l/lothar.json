@@ -13,5 +13,19 @@
       "FIFA World Player of the Year (1990)"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Lothar Meyer",
+    "givenNames": [
+      "Lothar"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lothar_Meyer",
+    "occupation": "German chemist",
+    "achievements": [
+      "Developed a periodic table of elements independently of Dmitri Mendeleev"
+    ],
+    "yearBorn": 1830,
+    "yearDied": 1895
   }
 ]

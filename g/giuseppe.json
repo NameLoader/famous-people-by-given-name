@@ -42,5 +42,20 @@
       "Served as Prime Minister of Italy from 2018 to 2021"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Giuseppe Peano",
+    "givenNames": [
+      "Giuseppe"
+    ],
+    "familyName": "Peano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Peano",
+    "occupation": "Mathematician, Logician",
+    "achievements": [
+      "Pioneer in mathematical logic and set theory",
+      "Developed Peano axioms for natural numbers"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1932
   }
 ]

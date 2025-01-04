@@ -29,5 +29,20 @@
       "Known for her wide vocal range and multilingual repertoire"
     ],
     "yearBorn": 1934
+  },
+  {
+    "fullName": "Nana Patekar",
+    "givenNames": [
+      "Vishwanath",
+      "Nana"
+    ],
+    "familyName": "Patekar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nana_Patekar",
+    "occupation": "Actor, Filmmaker",
+    "achievements": [
+      "Acclaimed actor in Hindi cinema.",
+      "Known for his intense performances and versatility."
+    ],
+    "yearBorn": 1950
   }
 ]

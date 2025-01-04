@@ -41,5 +41,19 @@
     "achievements": [
       "Reached the NBA Finals in 1995"
     ]
+  },
+  {
+    "fullName": "Orlando Jones",
+    "givenNames": [
+      "Orlando"
+    ],
+    "familyName": "Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orlando_Jones",
+    "occupation": "Actor, comedian, writer",
+    "achievements": [
+      "Known for roles in films such as Drumline and Evolution.",
+      "Former cast member on the sketch comedy show MADtv."
+    ],
+    "yearBorn": 1968
   }
 ]

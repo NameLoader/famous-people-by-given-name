@@ -2,8 +2,8 @@
   {
     "fullName": "Giorgio Moroder",
     "givenNames": [
-      "Giorgio",
-      "Giovanni"
+      "Giovanni",
+      "Giorgio"
     ],
     "familyName": "Moroder",
     "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Moroder",
@@ -27,5 +27,35 @@
       "Captain of the Italian national team that won UEFA Euro 2020"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Giorgio Vasari",
+    "givenNames": [
+      "Giorgio"
+    ],
+    "familyName": "Vasari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Vasari",
+    "occupation": "Painter, architect, writer",
+    "achievements": [
+      "Author of 'Lives of the Most Excellent Painters, Sculptors, and Architects'",
+      "Considered a key figure in Renaissance art history"
+    ],
+    "yearBorn": 1511,
+    "yearDied": 1574
+  },
+  {
+    "fullName": "Giorgio Morandi",
+    "givenNames": [
+      "Giorgio"
+    ],
+    "familyName": "Morandi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Morandi",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Known for his still lifes of bottles, vases, and bowls",
+      "Master of subtle color variations and atmospheric perspective"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1964
   }
 ]

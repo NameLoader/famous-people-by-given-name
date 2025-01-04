@@ -27,5 +27,19 @@
       "Known for her Brazilian-influenced jazz style"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Eliane Radigue",
+    "givenNames": [
+      "Éliane"
+    ],
+    "familyName": "Radigue",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%89liane_Radigue",
+    "occupation": "Composer, Electronic Music Pioneer",
+    "achievements": [
+      "Known for her minimalist and experimental electronic music compositions",
+      "Influenced generations of musicians with her innovative use of synthesizers and tape loops"
+    ],
+    "yearBorn": 1932
   }
 ]

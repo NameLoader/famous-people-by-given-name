@@ -2,8 +2,8 @@
   {
     "fullName": "Miguel Cabrera",
     "givenNames": [
-      "Miguel",
-      "José"
+      "José",
+      "Miguel"
     ],
     "familyName": "Cabrera",
     "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Cabrera",
@@ -13,5 +13,23 @@
       "Four-time Silver Slugger Award winner"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Miguel Hidalgo y Costilla",
+    "givenNames": [
+      "Miguel",
+      "Gregorio",
+      "Antonio",
+      "Ignacio"
+    ],
+    "familyName": "Hidalgo y Costilla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla",
+    "occupation": "Priest, Revolutionary Leader",
+    "achievements": [
+      "Led the Mexican War of Independence against Spanish rule.",
+      "Known as the 'Father of Mexican Independence'."
+    ],
+    "yearBorn": 1753,
+    "yearDied": 1811
   }
 ]

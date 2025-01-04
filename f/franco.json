@@ -14,5 +14,34 @@
     ],
     "yearBorn": 1923,
     "yearDied": 2019
+  },
+  {
+    "fullName": "Franco Harris",
+    "givenNames": [
+      "Franco"
+    ],
+    "familyName": "Harris",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Harris",
+    "occupation": "Professional American football player",
+    "achievements": [
+      "Running back for the Pittsburgh Steelers",
+      "Known for his 'Immaculate Reception' play in the 1972 AFC Divisional Playoff Game"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2022
+  },
+  {
+    "fullName": "Franco Armani",
+    "givenNames": [
+      "Franco"
+    ],
+    "familyName": "Armani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Armani",
+    "occupation": "Professional football goalkeeper",
+    "achievements": [
+      "Plays for River Plate and the Argentina national team",
+      "Won the Copa América with Argentina in 2021"
+    ],
+    "yearBorn": 1986
   }
 ]

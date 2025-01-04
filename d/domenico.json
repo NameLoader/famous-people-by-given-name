@@ -42,5 +42,38 @@
       "Known for his dribbling skills and goal-scoring ability"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Domenico Modugno",
+    "givenNames": [
+      "Domenico"
+    ],
+    "familyName": "Modugno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domenico_Modugno",
+    "occupation": "Singer-songwriter, actor",
+    "achievements": [
+      "Won the Sanremo Music Festival in 1958 with \"Nel blu dipinto di blu\" (Volare)",
+      "Became an international star and icon of Italian music",
+      "Known for his distinctive vocal style and romantic ballads"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 1994
+  },
+  {
+    "fullName": "Domenico Ghirardelli",
+    "givenNames": [
+      "Domenico",
+      "Domingo"
+    ],
+    "familyName": "Ghirardelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Domingo_Ghirardelli",
+    "occupation": "Chocolate maker, entrepreneur",
+    "achievements": [
+      "Founded Ghirardelli Chocolate Company in San Francisco",
+      "Known for high-quality chocolate products and innovative techniques",
+      "His legacy continues through the iconic Ghirardelli Square"
+    ],
+    "yearBorn": 1817,
+    "yearDied": 1892
   }
 ]

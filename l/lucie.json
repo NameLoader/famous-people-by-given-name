@@ -28,5 +28,17 @@
     ],
     "yearBorn": 1902,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Lucie Blackman",
+    "givenNames": [
+      "Lucie"
+    ],
+    "familyName": "Blackman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joji_Obara#Lucie_Blackman",
+    "occupation": "British nightclub hostess",
+    "achievements": [],
+    "yearBorn": 1978,
+    "yearDied": 2006
   }
 ]

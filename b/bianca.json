@@ -40,5 +40,19 @@
       "Known for roles in television series like 'Buffy the Vampire Slayer', 'Saved by the Bell: The New Class', and 'Pretty Little Liars'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Bianca Balti",
+    "givenNames": [
+      "Bianca"
+    ],
+    "familyName": "Balti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bianca_Balti",
+    "occupation": "Model",
+    "achievements": [
+      "Walked for major fashion houses like Versace and Chanel",
+      "Appeared in campaigns for brands like Dolce & Gabbana and Gucci"
+    ],
+    "yearBorn": 1984
   }
 ]

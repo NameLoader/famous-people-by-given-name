@@ -26,5 +26,21 @@
       "Powerful Avenger in Marvel Comics",
       "Portrayed by Elizabeth Olsen in the Marvel Cinematic Universe"
     ]
+  },
+  {
+    "fullName": "Wanda Jackson",
+    "givenNames": [
+      "Wanda",
+      "LaVonne"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wanda_Jackson",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Pioneer of rockabilly and country music",
+      "Inducted into the Rock and Roll Hall of Fame in 2008",
+      "Known for hits like 'Let's Have a Party' and 'Mean Mean Man'"
+    ],
+    "yearBorn": 1937
   }
 ]

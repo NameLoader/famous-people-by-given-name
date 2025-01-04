@@ -47,5 +47,36 @@
     ],
     "yearBorn": 1885,
     "yearDied": 1955
+  },
+  {
+    "fullName": "Hermann Bondi",
+    "givenNames": [
+      "Hermann"
+    ],
+    "familyName": "Bondi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Bondi",
+    "occupation": "Cosmologist, Physicist",
+    "achievements": [
+      "Known for his work on cosmology and general relativity",
+      "Proposed the Bondi-Gold Bondi-Metzner Sachs model of a gravitational wave"
+    ],
+    "yearBorn": 1919,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Hermann Joseph Muller",
+    "givenNames": [
+      "Hermann",
+      "Joseph"
+    ],
+    "familyName": "Muller",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_Joseph_Muller",
+    "occupation": "Geneticist",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1946)",
+      "Pioneer in the field of radiation genetics"
+    ],
+    "yearBorn": 1890,
+    "yearDied": 1967
   }
 ]

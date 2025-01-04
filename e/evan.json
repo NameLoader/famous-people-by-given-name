@@ -27,5 +27,34 @@
       "Known for roles in Westworld and Across the Universe"
     ],
     "yearBorn": 1987
+  },
+  {
+    "fullName": "Evan Spiegel",
+    "givenNames": [
+      "Evan",
+      "Thomas"
+    ],
+    "familyName": "Spiegel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evan_Spiegel",
+    "occupation": "Entrepreneur, Businessman",
+    "achievements": [
+      "Co-founder and CEO of Snap Inc.",
+      "Pioneer in social media with the development of Snapchat"
+    ],
+    "yearBorn": 1990
+  },
+  {
+    "fullName": "Evan Handler",
+    "givenNames": [
+      "Evan"
+    ],
+    "familyName": "Handler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evan_Handler",
+    "occupation": "Actor, Author",
+    "achievements": [
+      "Known for roles in 'Sex and the City' and 'Californication'",
+      "Author of memoirs about his experiences with HIV/AIDS"
+    ],
+    "yearBorn": 1961
   }
 ]

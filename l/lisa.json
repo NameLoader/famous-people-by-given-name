@@ -44,5 +44,64 @@
       "Eight-time WNBA All-Star and two-time WNBA MVP"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Lisa Rinna",
+    "givenNames": [
+      "Lisa"
+    ],
+    "familyName": "Rinna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Rinna",
+    "occupation": "Actress, Television Personality",
+    "achievements": [
+      "Known for her role as Billie Reed on the soap opera 'Days of Our Lives'",
+      "Cast member on 'The Real Housewives of Beverly Hills'"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Lisa Bonet",
+    "givenNames": [
+      "Lisa",
+      "Lilakoi",
+      "Michelle"
+    ],
+    "familyName": "Bonet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Bonet",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Denise Huxtable on the sitcom 'The Cosby Show'",
+      "Married to musician Lenny Kravitz"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Lisa Nowak",
+    "givenNames": [
+      "Lisa",
+      "Marie"
+    ],
+    "familyName": "Nowak",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Nowak",
+    "occupation": "Astronaut",
+    "achievements": [
+      "Flew on the Space Shuttle Discovery mission STS-121 in 2006"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Lisa Ling",
+    "givenNames": [
+      "Lisa",
+      "J"
+    ],
+    "familyName": "Ling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Ling",
+    "occupation": "Journalist, television host",
+    "achievements": [
+      "Hosted shows like 'The Oprah Winfrey Show', 'National Geographic Explorer'",
+      "Known for her investigative journalism and documentaries"
+    ],
+    "yearBorn": 1973
   }
 ]

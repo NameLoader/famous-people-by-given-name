@@ -60,5 +60,18 @@
       "Known for his romantic ballads and distinctive voice"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Gérard Jugnot",
+    "givenNames": [
+      "Gérard"
+    ],
+    "familyName": "Jugnot",
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_Jugnot",
+    "occupation": "Actor, director, screenwriter",
+    "achievements": [
+      "Known for his comedic roles in films like"
+    ],
+    "yearBorn": 1951
   }
 ]

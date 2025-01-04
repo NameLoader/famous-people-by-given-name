@@ -43,5 +43,33 @@
       "BAFTA Award winner for 'Secrets & Lies'"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Brenda Walsh",
+    "givenNames": [
+      "Brenda"
+    ],
+    "familyName": "Walsh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Walsh_(Beverly_Hills,_90210)",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Main character on the television series 'Beverly Hills, 90210'"
+    ]
+  },
+  {
+    "fullName": "Brenda Vaccaro",
+    "givenNames": [
+      "Brenda",
+      "Buell"
+    ],
+    "familyName": "Vaccaro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Vaccaro",
+    "occupation": "Actress",
+    "achievements": [
+      "Won a Tony Award for Best Featured Actress in a Play.",
+      "Nominated for an Academy Award and Emmy Awards.",
+      "Known for roles in films like 'Once Upon a Time...in America' and 'Superstar'."
+    ],
+    "yearBorn": 1939
   }
 ]

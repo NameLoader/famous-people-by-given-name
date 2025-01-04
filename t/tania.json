@@ -14,16 +14,16 @@
     "yearBorn": 1948
   },
   {
-    "fullName": "Tania Bryer",
+    "fullName": "Tania Mallet",
     "givenNames": [
       "Tania"
     ],
-    "familyName": "Bryer",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tania_Bryer",
-    "occupation": "Journalist and television presenter",
+    "familyName": "Mallet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tania_Mallet",
+    "occupation": "Actress, model",
     "achievements": [
-      "Presents the Bloomberg Television show 'London Eye'",
-      "Previously worked for CNBC and CNN International"
-    ]
+      "Best known for her role as Tilly Masterson in the James Bond film Goldfinger (1964)"
+    ],
+    "yearBorn": 1941
   }
 ]

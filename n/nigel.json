@@ -29,5 +29,32 @@
       "Won 31 Formula One Grands Prix"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "Nigel Kennedy",
+    "givenNames": [
+      "Nigel"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Kennedy",
+    "occupation": "Violinist",
+    "achievements": [
+      "Internationally renowned violinist known for his unconventional interpretations and electric violin performances",
+      "Winner of multiple Grammy Awards"
+    ],
+    "yearBorn": 1956
+  },
+  {
+    "fullName": "Nigel Slater",
+    "givenNames": [
+      "Nigel"
+    ],
+    "familyName": "Slater",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nigel_Slater",
+    "occupation": "Chef and Food Writer",
+    "achievements": [
+      "Known for his approachable and personal style of cooking",
+      "Author of bestselling cookbooks including 'Real Cooking' and 'Tender'"
+    ]
   }
 ]

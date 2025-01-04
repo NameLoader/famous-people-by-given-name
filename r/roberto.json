@@ -19,8 +19,7 @@
   {
     "fullName": "Roberto Benigni",
     "givenNames": [
-      "Roberto",
-      "Remigio"
+      "Roberto"
     ],
     "familyName": "Benigni",
     "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Benigni",
@@ -44,5 +43,19 @@
       "Established the Roberto Cavalli brand"
     ],
     "yearBorn": 1940
+  },
+  {
+    "fullName": "Roberto Alagna",
+    "givenNames": [
+      "Roberto"
+    ],
+    "familyName": "Alagna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberto_Alagna",
+    "occupation": "Opera singer",
+    "achievements": [
+      "Renowned tenor known for his performances in operas such as 'La Bohème' and 'Carmen'",
+      "Has performed at major opera houses worldwide"
+    ],
+    "yearBorn": 1963
   }
 ]

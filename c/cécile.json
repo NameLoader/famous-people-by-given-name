@@ -27,5 +27,20 @@
       "Served as Minister of Integration in Italy"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Cécile McLorin Salvant",
+    "givenNames": [
+      "Cécile",
+      "McLorin"
+    ],
+    "familyName": "Salvant",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant",
+    "occupation": "Jazz Vocalist",
+    "achievements": [
+      "Grammy Award winner for Best Jazz Vocal Album",
+      "Known for her interpretations of jazz standards and original compositions"
+    ],
+    "yearBorn": 1989
   }
 ]

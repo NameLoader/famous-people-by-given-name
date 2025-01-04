@@ -27,5 +27,19 @@
       "Starred in numerous films and television shows"
     ],
     "yearBorn": 1935
+  },
+  {
+    "fullName": "Renato Dulbecco",
+    "givenNames": [
+      "Renato"
+    ],
+    "familyName": "Dulbecco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renato_Dulbecco",
+    "occupation": "Virologist",
+    "achievements": [
+      "Won the Nobel Prize in Physiology or Medicine in 1975 for his work on oncoviruses"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2012
   }
 ]

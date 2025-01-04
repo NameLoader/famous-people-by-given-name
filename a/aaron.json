@@ -59,5 +59,49 @@
       "Created popular television shows including 'The West Wing', 'Sports Night', and 'The Newsroom'"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Aaron Copland",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Copland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Copland",
+    "occupation": "Composer",
+    "achievements": [
+      "Pioneer of American modernist music",
+      "Wrote famous works like Fanfare for the Common Man and Appalachian Spring"
+    ],
+    "yearBorn": 1900,
+    "yearDied": 1990
+  },
+  {
+    "fullName": "Aaron Hernandez",
+    "givenNames": [
+      "Aaron",
+      "Josef"
+    ],
+    "familyName": "Hernandez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Hernandez",
+    "occupation": "American Football Player",
+    "achievements": [
+      "Tight end for the New England Patriots",
+      "Convicted of murder and committed suicide in prison"
+    ],
+    "yearBorn": 1989,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Aaron Paul",
+    "givenNames": [
+      "Aaron"
+    ],
+    "familyName": "Paul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Paul",
+    "occupation": "Actor",
+    "achievements": [
+      "Won three Primetime Emmy Awards for his role as Jesse Pinkman in Breaking Bad"
+    ],
+    "yearBorn": 1979
   }
 ]

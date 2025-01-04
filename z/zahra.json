@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1948,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Zahra Nemati",
+    "givenNames": [
+      "Zahra"
+    ],
+    "familyName": "Nemati",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zahra_Nemati",
+    "occupation": "Paralympic archer",
+    "achievements": [
+      "First Iranian woman to win a Paralympic gold medal.",
+      "Won gold in the women's individual recurve at the 2016 Summer Paralympics."
+    ],
+    "yearBorn": 1986
   }
 ]

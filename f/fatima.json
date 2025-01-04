@@ -13,5 +13,35 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2010
+  },
+  {
+    "fullName": "Fatima Jinnah",
+    "givenNames": [
+      "Fatima"
+    ],
+    "familyName": "Jinnah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fatima_Jinnah",
+    "occupation": "Politician, activist",
+    "achievements": [
+      "Sister of Muhammad Ali Jinnah, founder of Pakistan.",
+      "Prominent figure in the Pakistani independence movement.",
+      "Advocate for women's rights and social justice."
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1967
+  },
+  {
+    "fullName": "Fatima Sana Shaikh",
+    "givenNames": [
+      "Fatima",
+      "Sana"
+    ],
+    "familyName": "Shaikh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fatima_Sana_Shaikh",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in Bollywood films like 'Dangal' and 'Thugs of Hindostan'."
+    ],
+    "yearBorn": 1992
   }
 ]

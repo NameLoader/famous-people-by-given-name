@@ -16,7 +16,6 @@
   {
     "fullName": "Susanne Vega",
     "givenNames": [
-      "Susanne",
       "Suzanne",
       "Nadine"
     ],
@@ -28,5 +27,21 @@
       "Known for her distinctive voice and introspective lyrics"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Susanne Klatten",
+    "givenNames": [
+      "Susanne",
+      "Hanna",
+      "Ursula"
+    ],
+    "familyName": "Klatten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susanne_Klatten",
+    "occupation": "Businesswoman, heiress",
+    "achievements": [
+      "Richest woman in Germany",
+      "Major shareholder in BMW"
+    ],
+    "yearBorn": 1962
   }
 ]

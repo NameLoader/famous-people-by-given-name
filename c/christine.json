@@ -17,23 +17,6 @@
     "yearBorn": 1956
   },
   {
-    "fullName": "Christine Amanpour",
-    "givenNames": [
-      "Christiane",
-      "Maria",
-      "Heideh"
-    ],
-    "familyName": "Amanpour",
-    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_Amanpour",
-    "occupation": "Journalist, Television Host",
-    "achievements": [
-      "Chief International Anchor for CNN",
-      "Host of Amanpour on PBS",
-      "Known for her coverage of major international events"
-    ],
-    "yearBorn": 1958
-  },
-  {
     "fullName": "Christine Sinclair",
     "givenNames": [
       "Christine",
@@ -48,5 +31,37 @@
       "Olympic bronze medalist (2012, 2016)"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Christine Baranski",
+    "givenNames": [
+      "Christine",
+      "Jane"
+    ],
+    "familyName": "Baranski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Baranski",
+    "occupation": "Actress",
+    "achievements": [
+      "Tony Award winner for her performances on Broadway",
+      "Emmy Award nominee for roles in television series like 'Cybill' and 'The Good Wife'"
+    ],
+    "yearBorn": 1952
+  },
+  {
+    "fullName": "Christine Amanpour",
+    "givenNames": [
+      "Christiane",
+      "Maria",
+      "Heideh"
+    ],
+    "familyName": "Amanpour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_Amanpour",
+    "occupation": "Journalist, Television host",
+    "achievements": [
+      "Chief International Anchor for CNN",
+      "Host of Amanpour on PBS",
+      "Award-winning journalist known for reporting from conflict zones"
+    ],
+    "yearBorn": 1958
   }
 ]

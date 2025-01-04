@@ -30,5 +30,19 @@
     ],
     "yearBorn": 1925,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Gerald Butler",
+    "givenNames": [
+      "Gerard",
+      "James"
+    ],
+    "familyName": "Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Butler",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like '300', 'Phantom of the Opera', and 'Olympus Has Fallen'"
+    ],
+    "yearBorn": 1969
   }
 ]

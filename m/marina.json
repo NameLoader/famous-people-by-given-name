@@ -39,5 +39,22 @@
       "Known for her role as Officer Kim Burgess on the television series Chicago P.D."
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Marina Keegan",
+    "givenNames": [
+      "Marina",
+      "Evelyn"
+    ],
+    "familyName": "Keegan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Keegan",
+    "occupation": "Writer",
+    "achievements": [
+      "Yale graduate",
+      "Author of the essay collection 'The Opposite of Loneliness'",
+      "Posthumously published book became a bestseller"
+    ],
+    "yearBorn": 1989,
+    "yearDied": 2012
   }
 ]

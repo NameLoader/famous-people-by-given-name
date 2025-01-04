@@ -15,18 +15,19 @@
     "yearDied": 1602
   },
   {
-    "fullName": "Agostino Gemelli",
+    "fullName": "Agostino Ramelli",
     "givenNames": [
       "Agostino"
     ],
-    "familyName": "Gemelli",
-    "wikipedia": "https://en.wikipedia.org/wiki/Agostino_Gemelli",
-    "occupation": "Catholic Priest, Founder of the Catholic University of Milan",
+    "familyName": "Ramelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agostino_Ramelli",
+    "occupation": "Engineer, architect",
     "achievements": [
-      "Founded the Gemelli Hospital and the Catholic University of Milan",
-      "Advocated for social justice and the education of disadvantaged youth"
+      "Designed innovative machines and mechanical devices",
+      "Authored 'The Various and Ingenious Machines of Agostino Ramelli'",
+      "Considered a pioneer in engineering drawing and technical illustration"
     ],
-    "yearBorn": 1878,
-    "yearDied": 1959
+    "yearBorn": 1531,
+    "yearDied": 1610
   }
 ]

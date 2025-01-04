@@ -1,0 +1,33 @@
+[
+  {
+    "fullName": "Zainab Salbi",
+    "givenNames": [
+      "Zainab"
+    ],
+    "familyName": "Salbi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zainab_Salbi",
+    "occupation": "Humanitarian, Author, Women's Rights Activist",
+    "achievements": [
+      "Founded Women for Women International, a non-profit organization that supports women survivors of war.",
+      "Author of several books on her experiences and the plight of women in conflict zones.",
+      "Advocate for peace and human rights."
+    ],
+    "yearBorn": 1969
+  },
+  {
+    "fullName": "Zainab Bangura",
+    "givenNames": [
+      "Zainab",
+      "Hawa"
+    ],
+    "familyName": "Bangura",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zainab_Bangura",
+    "occupation": "Diplomat, Politician",
+    "achievements": [
+      "Served as the Special Representative of the United Nations Secretary-General on Sexual Violence in Conflict.",
+      "Led efforts to prevent and respond to sexual violence against women and girls in conflict zones.",
+      "Advocate for women's rights and empowerment."
+    ],
+    "yearBorn": 1959
+  }
+]

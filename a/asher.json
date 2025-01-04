@@ -13,5 +13,20 @@
       "Appeared in television shows like 'Andi Mack'"
     ],
     "yearBorn": 2002
+  },
+  {
+    "fullName": "Asher Roth",
+    "givenNames": [
+      "Asher",
+      "Paul"
+    ],
+    "familyName": "Roth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Asher_Roth",
+    "occupation": "Rapper, Singer-songwriter",
+    "achievements": [
+      "Released debut album 'Asleep in the Bread Aisle' (2009) which went platinum.",
+      "Known for hit singles like 'I Love College'"
+    ],
+    "yearBorn": 1985
   }
 ]

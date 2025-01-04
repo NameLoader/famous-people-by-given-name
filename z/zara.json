@@ -13,5 +13,18 @@
       "Nominated for several Grammy Awards"
     ],
     "yearBorn": 1997
+  },
+  {
+    "fullName": "Zara Rutherford",
+    "givenNames": [
+      "Zara"
+    ],
+    "familyName": "Rutherford",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zara_Rutherford",
+    "occupation": "Aviator, youngest woman to fly solo around the world",
+    "achievements": [
+      "Completed a solo circumnavigation of the globe at age 19"
+    ],
+    "yearBorn": 2002
   }
 ]

@@ -60,5 +60,21 @@
       "Known for roles in films like 'Hilary and Jackie', 'The Boxer' and 'Breaking the Waves'"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Emily Brontë",
+    "givenNames": [
+      "Emily",
+      "Jane"
+    ],
+    "familyName": "Brontë",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Author of the classic novel 'Wuthering Heights'",
+      "Part of the Brontë literary family, alongside sisters Charlotte and Anne"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1848
   }
 ]

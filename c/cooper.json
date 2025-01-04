@@ -14,5 +14,20 @@
       "Dally M Halfback of the Year"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Cooper Kupp",
+    "givenNames": [
+      "Cooper",
+      "Douglas"
+    ],
+    "familyName": "Kupp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cooper_Kupp",
+    "occupation": "American football wide receiver",
+    "achievements": [
+      "Super Bowl LVI champion",
+      "NFL Offensive Player of the Year (2021)"
+    ],
+    "yearBorn": 1993
   }
 ]

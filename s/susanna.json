@@ -27,5 +27,20 @@
       "Author of the acclaimed novel 'Jonathan Strange & Mr Norrell'"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Susanna M. Salter",
+    "givenNames": [
+      "Susanna",
+      "Madora"
+    ],
+    "familyName": "Salter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Susanna_M._Salter",
+    "occupation": "Politician, Mayor",
+    "achievements": [
+      "First female mayor in the United States, elected in Argonia, Kansas in 1887."
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1940
   }
 ]

@@ -19,8 +19,7 @@
     "fullName": "Emma Stone",
     "givenNames": [
       "Emily",
-      "Jean",
-      "Emma"
+      "Jean"
     ],
     "familyName": "Stone",
     "wikipedia": "https://en.wikipedia.org/wiki/Emma_Stone",
@@ -73,5 +72,32 @@
       "Successful solo music career and television presenter"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Emma Goldman",
+    "givenNames": [
+      "Emma"
+    ],
+    "familyName": "Goldman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Goldman",
+    "occupation": "Anarchist, Feminist, Writer",
+    "achievements": [
+      "Prominent figure in the anarchist movement",
+      "Advocated for free speech, women's rights, and social justice"
+    ],
+    "yearBorn": 1869,
+    "yearDied": 1940
+  },
+  {
+    "fullName": "Emma Peel",
+    "givenNames": [
+      "Emma"
+    ],
+    "familyName": "Peel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Peel",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Lead female role in the British spy television series The Avengers"
+    ]
   }
 ]

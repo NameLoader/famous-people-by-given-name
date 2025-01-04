@@ -11,5 +11,18 @@
       "Former CEO and president of Nissan Motor Co., Ltd."
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Hiroto Kyoguchi",
+    "givenNames": [
+      "Hiroto"
+    ],
+    "familyName": "Kyoguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiroto_Kyoguchi",
+    "occupation": "Professional boxer",
+    "achievements": [
+      "WBA minimumweight champion"
+    ],
+    "yearBorn": 1994
   }
 ]

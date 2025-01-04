@@ -13,5 +13,18 @@
     ],
     "yearBorn": 1844,
     "yearDied": 1879
+  },
+  {
+    "fullName": "Bernadette Stanis",
+    "givenNames": [
+      "Bernadette"
+    ],
+    "familyName": "Stanis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bern_Nadette_Stanis",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Thelma Evans in the sitcom 'Good Times'."
+    ],
+    "yearBorn": 1953
   }
 ]

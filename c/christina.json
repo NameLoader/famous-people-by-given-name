@@ -57,5 +57,18 @@
       "Star on the Hollywood Walk of Fame"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Christina Milian",
+    "givenNames": [
+      "Christina"
+    ],
+    "familyName": "Milian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Milian",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Multiple Billboard Music Award nominations"
+    ],
+    "yearBorn": 1981
   }
 ]

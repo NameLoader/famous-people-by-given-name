@@ -14,5 +14,20 @@
       "Won the UEFA Europa League with Chelsea"
     ],
     "yearBorn": 1991
+  },
+  {
+    "fullName": "Eden Espinosa",
+    "givenNames": [
+      "Eden",
+      "Erica"
+    ],
+    "familyName": "Espinosa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eden_Espinosa",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Originated the role of Elphaba in the Broadway production of Wicked",
+      "Performed in numerous other Broadway productions, including Rent and Brooklyn"
+    ],
+    "yearBorn": 1980
   }
 ]

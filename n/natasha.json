@@ -1,18 +1,5 @@
 [
   {
-    "fullName": "Natasha Romanoff",
-    "givenNames": [
-      "Natasha"
-    ],
-    "familyName": "Romanoff",
-    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)",
-    "occupation": "Fictional Superheroine",
-    "achievements": [
-      "Highly skilled assassin and spy",
-      "Member of the Avengers"
-    ]
-  },
-  {
     "fullName": "Natasha Bedingfield",
     "givenNames": [
       "Natasha",
@@ -41,5 +28,21 @@
       "Emmy Award Nominee"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Natasha Richardson",
+    "givenNames": [
+      "Natasha",
+      "Jane"
+    ],
+    "familyName": "Richardson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natasha_Richardson",
+    "occupation": "Actress",
+    "achievements": [
+      "Daughter of Vanessa Redgrave and Tony Richardson",
+      "Nominated for a Tony Award and three Olivier Awards"
+    ],
+    "yearBorn": 1963,
+    "yearDied": 2009
   }
 ]

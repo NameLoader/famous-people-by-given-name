@@ -42,5 +42,19 @@
     ],
     "yearBorn": 1923,
     "yearDied": 1964
+  },
+  {
+    "fullName": "Brendan Gleeson",
+    "givenNames": [
+      "Brendan"
+    ],
+    "familyName": "Gleeson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Gleeson",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nominee for Best Supporting Actor",
+      "Known for roles in films like 'In Bruges', 'Harry Potter' series and 'The Guard'"
+    ],
+    "yearBorn": 1955
   }
 ]

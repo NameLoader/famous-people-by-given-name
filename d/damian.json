@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Damian Hirst",
-    "givenNames": [
-      "Damien",
-      "Steven"
-    ],
-    "familyName": "Hirst",
-    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Hirst",
-    "occupation": "Artist",
-    "achievements": [
-      "Known for his provocative and controversial works",
-      "Pioneer of the Young British Artists (YBAs) movement"
-    ],
-    "yearBorn": 1965
-  },
-  {
     "fullName": "Damian Lewis",
     "givenNames": [
       "Damian",
@@ -44,5 +29,36 @@
       "Son of legendary reggae musician Bob Marley"
     ],
     "yearBorn": 1978
+  },
+  {
+    "fullName": "Damian Hirst",
+    "givenNames": [
+      "Damien",
+      "Steven"
+    ],
+    "familyName": "Hirst",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damien_Hirst",
+    "occupation": "Artist",
+    "achievements": [
+      "Turner Prize nominee",
+      "One of the Young British Artists (YBAs)"
+    ],
+    "yearBorn": 1965
+  },
+  {
+    "fullName": "Damian Lillard",
+    "givenNames": [
+      "Damian",
+      "Lamonte",
+      "Ollie"
+    ],
+    "familyName": "Lillard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Damian_Lillard",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA Rookie of the Year",
+      "6× NBA All-Star"
+    ],
+    "yearBorn": 1990
   }
 ]

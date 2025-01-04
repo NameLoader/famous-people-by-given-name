@@ -25,5 +25,20 @@
       "Known for her comedic roles"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Valérie Bertinelli",
+    "givenNames": [
+      "Valerie",
+      "Anne"
+    ],
+    "familyName": "Bertinelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valerie_Bertinelli",
+    "occupation": "Actress, Author",
+    "achievements": [
+      "Starred in the television series 'One Day at a Time'",
+      "Won two Emmy Awards and a Golden Globe Award"
+    ],
+    "yearBorn": 1960
   }
 ]

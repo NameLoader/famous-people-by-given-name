@@ -18,8 +18,8 @@
   {
     "fullName": "Thierry Mugler",
     "givenNames": [
-      "Manfred",
-      "Thierry"
+      "Thierry",
+      "Manfred"
     ],
     "familyName": "Mugler",
     "wikipedia": "https://en.wikipedia.org/wiki/Thierry_Mugler",
@@ -30,5 +30,34 @@
     ],
     "yearBorn": 1948,
     "yearDied": 2022
+  },
+  {
+    "fullName": "Thierry Baudet",
+    "givenNames": [
+      "Thierry",
+      "Henri",
+      "Philippe"
+    ],
+    "familyName": "Baudet",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thierry_Baudet",
+    "occupation": "Politician",
+    "achievements": [
+      "Founder and leader of the Forum for Democracy political party in the Netherlands"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Thierry Fischer",
+    "givenNames": [
+      "Thierry"
+    ],
+    "familyName": "Fischer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thierry_Fischer",
+    "occupation": "Conductor",
+    "achievements": [
+      "Principal conductor of the Konzerthausorchester Berlin.",
+      "Known for his interpretations of Romantic and contemporary music."
+    ],
+    "yearBorn": 1957
   }
 ]

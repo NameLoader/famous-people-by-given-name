@@ -27,5 +27,34 @@
       "Known for roles in films like Marjaavaan and Tadap"
     ],
     "yearBorn": 1995
+  },
+  {
+    "fullName": "Tara Palmer-Tomkinson",
+    "givenNames": [
+      "Tara",
+      "Claire"
+    ],
+    "familyName": "Palmer-Tomkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_Palmer-Tomkinson",
+    "occupation": "Socialite, Television personality",
+    "achievements": [
+      "Known for her appearances on reality TV shows like I'm a Celebrity...Get Me Out of Here! and her column in The Sunday Times Magazine"
+    ],
+    "yearBorn": 1971,
+    "yearDied": 2017
+  },
+  {
+    "fullName": "Tara Reid",
+    "givenNames": [
+      "Tara",
+      "Donna"
+    ],
+    "familyName": "Reid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_Reid",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in films like American Pie and Sharknado"
+    ],
+    "yearBorn": 1975
   }
 ]

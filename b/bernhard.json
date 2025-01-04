@@ -44,5 +44,18 @@
     ],
     "yearBorn": 1915,
     "yearDied": 1995
+  },
+  {
+    "fullName": "Bernhard Schlink",
+    "givenNames": [
+      "Bernhard"
+    ],
+    "familyName": "Schlink",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernhard_Schlink",
+    "occupation": "Novelist, lawyer",
+    "achievements": [
+      "Author of the bestselling novel 'The Reader'"
+    ],
+    "yearBorn": 1947
   }
 ]

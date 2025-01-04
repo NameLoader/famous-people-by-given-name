@@ -1,0 +1,30 @@
+[
+  {
+    "fullName": "Masami Nagasawa",
+    "givenNames": [
+      "Masami"
+    ],
+    "familyName": "Nagasawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masami_Nagasawa",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Crying Out Love in the Center of the World'",
+      "Won numerous awards including the Japanese Academy Award for Best Actress"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Masami Kurumada",
+    "givenNames": [
+      "Masami"
+    ],
+    "familyName": "Kurumada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masami_Kurumada",
+    "occupation": "Manga Artist",
+    "achievements": [
+      "Created popular manga series like 'Saint Seiya' and 'Ring ni Kakero'",
+      "His works have sold over 100 million copies worldwide"
+    ],
+    "yearBorn": 1953
+  }
+]

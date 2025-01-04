@@ -46,5 +46,19 @@
     ],
     "yearBorn": 1896,
     "yearDied": 1977
+  },
+  {
+    "fullName": "Ethel Kennedy",
+    "givenNames": [
+      "Ethel"
+    ],
+    "familyName": "Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Kennedy",
+    "occupation": "Activist",
+    "achievements": [
+      "Widow of Robert F. Kennedy",
+      "Prominent advocate for social justice and human rights"
+    ],
+    "yearBorn": 1928
   }
 ]

@@ -28,5 +28,20 @@
       "Known for books like 'Odd Thomas' and 'Watchers'"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Dean Acheson",
+    "givenNames": [
+      "Dean",
+      "Gooderham"
+    ],
+    "familyName": "Acheson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dean_Acheson",
+    "occupation": "U.S. Secretary of State",
+    "achievements": [
+      "Key figure in the Truman administration's foreign policy"
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1971
   }
 ]

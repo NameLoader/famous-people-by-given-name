@@ -12,5 +12,34 @@
     ],
     "yearBorn": 1946,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Allan McLeod Cormack",
+    "givenNames": [
+      "Allan",
+      "MacLeod"
+    ],
+    "familyName": "Cormack",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_MacLeod_Cormack",
+    "occupation": "Physicist",
+    "achievements": [
+      "Development of the computed tomography (CT) scan, for which he shared the 1979 Nobel Prize in Physiology or Medicine"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 1998
+  },
+  {
+    "fullName": "Allan Kaprow",
+    "givenNames": [
+      "Allan"
+    ],
+    "familyName": "Kaprow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allan_Kaprow",
+    "occupation": "Artist, pioneer of Happenings",
+    "achievements": [
+      "Influential figure in performance art and the blurring of boundaries between art and life"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2006
   }
 ]

@@ -13,5 +13,33 @@
       "Tony Award for Best Actress in a Play for God of Carnage (2009)"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Marcia Cross",
+    "givenNames": [
+      "Marcia"
+    ],
+    "familyName": "Cross",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcia_Cross",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Bree Van de Kamp on the television series Desperate Housewives (2004-2012)"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Marcia Griffiths",
+    "givenNames": [
+      "Marcia",
+      "Llyneth"
+    ],
+    "familyName": "Griffiths",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcia_Griffiths",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Known as the 'Queen of Reggae'",
+      "Member of the vocal trio I Threes"
+    ],
+    "yearBorn": 1949
   }
 ]

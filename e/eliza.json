@@ -38,5 +38,21 @@
       "Known for roles in Buffy the Vampire Slayer, Angel, and Bring It On"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Eliza Hamilton",
+    "givenNames": [
+      "Eliza",
+      "Elizabeth"
+    ],
+    "familyName": "Hamilton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Schuyler_Hamilton",
+    "occupation": "Historical Figure",
+    "achievements": [
+      "Wife of Alexander Hamilton, first Secretary of the Treasury of the United States",
+      "Philanthropist and advocate for education"
+    ],
+    "yearBorn": 1757,
+    "yearDied": 1854
   }
 ]

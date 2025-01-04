@@ -1,17 +1,17 @@
 [
   {
-    "fullName": "Adrianna Huffington",
+    "fullName": "Adrianna Lima",
     "givenNames": [
-      "Arianna",
-      "Stassinopoulos"
+      "Adriana"
     ],
-    "familyName": "Huffington",
-    "wikipedia": "https://en.wikipedia.org/wiki/Arianna_Huffington",
-    "occupation": "Author, businesswoman, columnist",
+    "familyName": "Lima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriana_Lima",
+    "occupation": "Model, Actress",
     "achievements": [
-      "Founder of The Huffington Post",
-      "Authored several bestselling books on topics like wellness and success"
+      "Victoria's Secret Angel (1999-2018)",
+      "Ranked among the world's highest-paid models",
+      "Appeared in numerous magazines and campaigns"
     ],
-    "yearBorn": 1950
+    "yearBorn": 1981
   }
 ]

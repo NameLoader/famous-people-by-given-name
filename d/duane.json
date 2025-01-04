@@ -15,5 +15,20 @@
     ],
     "yearBorn": 1946,
     "yearDied": 1971
+  },
+  {
+    "fullName": "Duane Hanson",
+    "givenNames": [
+      "Duane",
+      "Elwood"
+    ],
+    "familyName": "Hanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Duane_Hanson",
+    "occupation": "Artist, Sculptor",
+    "achievements": [
+      "Known for his hyperrealistic sculptures of everyday people"
+    ],
+    "yearBorn": 1925,
+    "yearDied": 1996
   }
 ]

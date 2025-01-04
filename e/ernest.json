@@ -62,5 +62,37 @@
     ],
     "yearBorn": 1901,
     "yearDied": 1958
+  },
+  {
+    "fullName": "Ernest Walton",
+    "givenNames": [
+      "Ernest",
+      "Thomas",
+      "Sinton"
+    ],
+    "familyName": "Walton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Walton",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1951)",
+      "First to split the atom using artificially accelerated particles"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1995
+  },
+  {
+    "fullName": "Ernest Borgnine",
+    "givenNames": [
+      "Ernest"
+    ],
+    "familyName": "Borgnine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Borgnine",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor",
+      "Known for roles in 'From Here to Eternity' and 'McHale's Navy'"
+    ],
+    "yearBorn": 1917,
+    "yearDied": 2012
   }
 ]

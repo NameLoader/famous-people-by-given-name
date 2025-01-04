@@ -44,5 +44,36 @@
     ],
     "yearBorn": 1885,
     "yearDied": 1952
+  },
+  {
+    "fullName": "Karen Gillan",
+    "givenNames": [
+      "Karen",
+      "Sheila"
+    ],
+    "familyName": "Gillan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Gillan",
+    "occupation": "Actress, Filmmaker",
+    "achievements": [
+      "Known for roles in Doctor Who and Guardians of the Galaxy",
+      "Won a BAFTA Scotland Award for Best Actress in Film"
+    ],
+    "yearBorn": 1987
+  },
+  {
+    "fullName": "Karen Silkwood",
+    "givenNames": [
+      "Karen",
+      "Gay"
+    ],
+    "familyName": "Silkwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Silkwood",
+    "occupation": "Nuclear safety activist",
+    "achievements": [
+      "Worked at the Kerr-McGee plutonium processing plant and raised concerns about safety issues.",
+      "Subject of the film 'Silkwood' (1983)"
+    ],
+    "yearBorn": 1946,
+    "yearDied": 1974
   }
 ]

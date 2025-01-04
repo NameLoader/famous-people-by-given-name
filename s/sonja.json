@@ -28,5 +28,21 @@
       "Cast member on the reality television series The Real Housewives of New York City"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Sonja Kovalevsky",
+    "givenNames": [
+      "Sofya",
+      "Sonja"
+    ],
+    "familyName": "Kovalevskaya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya",
+    "occupation": "Mathematician",
+    "achievements": [
+      "First woman to obtain a doctorate in mathematics in Europe",
+      "Made significant contributions to the fields of analysis, partial differential equations, and mechanics"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1891
   }
 ]

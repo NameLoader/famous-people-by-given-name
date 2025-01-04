@@ -42,5 +42,20 @@
       "Pioneer of many modern skateboarding tricks."
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Rodney Marsh",
+    "givenNames": [
+      "Rodney",
+      "William"
+    ],
+    "familyName": "Marsh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Marsh",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for several English clubs including Fulham and Manchester City",
+      "Represented England at the international level"
+    ],
+    "yearBorn": 1946
   }
 ]

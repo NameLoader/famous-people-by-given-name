@@ -2,7 +2,9 @@
   {
     "fullName": "Barry Allen",
     "givenNames": [
-      "Barry"
+      "Barry",
+      "Bartholomew",
+      "Henry"
     ],
     "familyName": "Allen",
     "wikipedia": "https://en.wikipedia.org/wiki/Barry_Allen",
@@ -56,5 +58,36 @@
     ],
     "yearBorn": 1909,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Barry White",
+    "givenNames": [
+      "Barry",
+      "Eugene"
+    ],
+    "familyName": "White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_White",
+    "occupation": "Singer, Songwriter, Musician, Record Producer",
+    "achievements": [
+      "Grammy Award winner",
+      "Known for his deep baritone voice and romantic ballads"
+    ],
+    "yearBorn": 1944,
+    "yearDied": 2003
+  },
+  {
+    "fullName": "Barry Levinson",
+    "givenNames": [
+      "Barry",
+      "Lee"
+    ],
+    "familyName": "Levinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Levinson",
+    "occupation": "Film Director, Producer, Screenwriter",
+    "achievements": [
+      "Academy Award winner for Best Director (Rain Man)",
+      "Known for directing acclaimed films like Diner, Good Morning, Vietnam, and Bugsy"
+    ],
+    "yearBorn": 1942
   }
 ]

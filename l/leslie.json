@@ -48,8 +48,7 @@
   {
     "fullName": "Leslie Cheung",
     "givenNames": [
-      "Leslie",
-      "Kwok-wing"
+      "Leslie"
     ],
     "familyName": "Cheung",
     "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Cheung",
@@ -60,5 +59,19 @@
     ],
     "yearBorn": 1956,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Leslie Knope",
+    "givenNames": [
+      "Leslie",
+      "Barbara"
+    ],
+    "familyName": "Knope",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leslie_Knope",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of the NBC sitcom 'Parks and Recreation'",
+      "Known for her unwavering optimism, dedication to public service, and love of waffles"
+    ]
   }
 ]

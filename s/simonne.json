@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1927,
     "yearDied": 2017
+  },
+  {
+    "fullName": "Simonne Mathieu",
+    "givenNames": [
+      "Simonne"
+    ],
+    "familyName": "Mathieu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simonne_Mathieu",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Won seven Grand Slam titles in singles, doubles and mixed doubles.",
+      "Considered one of the best female tennis players of the 1930s."
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1980
   }
 ]

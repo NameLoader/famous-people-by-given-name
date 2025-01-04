@@ -42,5 +42,18 @@
       "Successful striker for Juventus and AC Milan"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Filippo Grandi",
+    "givenNames": [
+      "Filippo"
+    ],
+    "familyName": "Grandi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Grandi",
+    "occupation": "Diplomat, Humanitarian",
+    "achievements": [
+      "High Commissioner for Refugees (UNHCR)"
+    ],
+    "yearBorn": 1957
   }
 ]

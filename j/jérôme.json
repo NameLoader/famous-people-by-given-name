@@ -29,5 +29,19 @@
     ],
     "yearBorn": 1919,
     "yearDied": 2010
+  },
+  {
+    "fullName": "Jérôme Boateng",
+    "givenNames": [
+      "Jérôme",
+      "Agyenim"
+    ],
+    "familyName": "Boateng",
+    "wikipedia": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Boateng",
+    "occupation": "Footballer",
+    "achievements": [
+      "Won the FIFA World Cup with Germany in 2014"
+    ],
+    "yearBorn": 1988
   }
 ]

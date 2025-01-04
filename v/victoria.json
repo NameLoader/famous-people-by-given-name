@@ -18,7 +18,7 @@
     "fullName": "Victoria Principal",
     "givenNames": [
       "Victoria",
-      "Vicki Ree"
+      "Vicki"
     ],
     "familyName": "Principal",
     "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Principal",
@@ -43,5 +43,20 @@
       "Two-time Grand Slam singles champion"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Victoria Wood",
+    "givenNames": [
+      "Victoria"
+    ],
+    "familyName": "Wood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Wood",
+    "occupation": "Comedian, Actress, Writer",
+    "achievements": [
+      "Award-winning comedian and writer",
+      "Known for her observational humour and sharp wit"
+    ],
+    "yearBorn": 1954,
+    "yearDied": 2016
   }
 ]

@@ -18,7 +18,8 @@
   {
     "fullName": "Shawn Johnson",
     "givenNames": [
-      "Shawn"
+      "Shawn",
+      "Machel"
     ],
     "familyName": "Johnson",
     "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Johnson_East",
@@ -42,5 +43,19 @@
       "Known for roles in 'X-Men' and 'The Following'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Shawn Michaels",
+    "givenNames": [
+      "Shawn"
+    ],
+    "familyName": "Michaels",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Michaels",
+    "occupation": "Retired professional wrestler",
+    "achievements": [
+      "WWE Champion",
+      "World Heavyweight Champion"
+    ],
+    "yearBorn": 1965
   }
 ]

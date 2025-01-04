@@ -27,5 +27,20 @@
       "Mercury Prize nominee"
     ],
     "yearBorn": 1998
+  },
+  {
+    "fullName": "Declan Donnellan",
+    "givenNames": [
+      "Declan",
+      "Michael",
+      "Martin"
+    ],
+    "familyName": "Donnellan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Declan_Donnellan",
+    "occupation": "Theatre director",
+    "achievements": [
+      "Co-founder of Cheek by Jowl theatre company",
+      "Olivier Award winner"
+    ]
   }
 ]

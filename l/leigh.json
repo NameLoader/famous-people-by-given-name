@@ -27,5 +27,20 @@
       "Known for her charitable work and adoption advocacy"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Leigh Hunt",
+    "givenNames": [
+      "Leigh"
+    ],
+    "familyName": "Hunt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leigh_Hunt",
+    "occupation": "Poet, essayist, and literary critic",
+    "achievements": [
+      "Co-founded the literary magazine 'The Examiner'",
+      "Known for his poems and essays on literature and art"
+    ],
+    "yearBorn": 1784,
+    "yearDied": 1859
   }
 ]

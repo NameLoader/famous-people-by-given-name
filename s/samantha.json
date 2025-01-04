@@ -42,5 +42,20 @@
       "Holds the record for longest uninterrupted spaceflight by a European astronaut"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Samantha Stosur",
+    "givenNames": [
+      "Samantha",
+      "Jane"
+    ],
+    "familyName": "Stosur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Stosur",
+    "occupation": "Tennis Player",
+    "achievements": [
+      "Won the 2011 US Open Singles title",
+      "Reached world number four ranking in singles"
+    ],
+    "yearBorn": 1984
   }
 ]

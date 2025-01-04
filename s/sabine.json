@@ -13,5 +13,34 @@
       "Reached a career-high ranking of No. 12 in the world"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Sabine Meyer",
+    "givenNames": [
+      "Sabine"
+    ],
+    "familyName": "Meyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabine_Meyer",
+    "occupation": "Clarinetist",
+    "achievements": [
+      "Internationally renowned classical clarinetist",
+      "Professor of Clarinet at the Musikhochschule Lübeck"
+    ],
+    "yearBorn": 1959
+  },
+  {
+    "fullName": "Sabine Schmitz",
+    "givenNames": [
+      "Sabine"
+    ],
+    "familyName": "Schmitz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabine_Schmitz",
+    "occupation": "Racing driver and television presenter",
+    "achievements": [
+      "Known as the 'Queen of the Nürburgring' for her success on the German race track",
+      "Co-presented the BBC motoring show 'Top Gear'"
+    ],
+    "yearBorn": 1969,
+    "yearDied": 2021
   }
 ]

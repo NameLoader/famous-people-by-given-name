@@ -13,5 +13,38 @@
     ],
     "yearBorn": 1913,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Lilian Baylis",
+    "givenNames": [
+      "Lilian",
+      "Mary"
+    ],
+    "familyName": "Baylis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lilian_Baylis",
+    "occupation": "Theatre manager and producer",
+    "achievements": [
+      "Founded the Old Vic theatre company in London.",
+      "Championed the works of William Shakespeare."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1958
+  },
+  {
+    "fullName": "Lilian Gish",
+    "givenNames": [
+      "Lillian",
+      "Diana"
+    ],
+    "familyName": "Gish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lillian_Gish",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in silent films directed by D.W. Griffith.",
+      "Pioneer of American cinema.",
+      "Recipient of the Academy Honorary Award."
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1993
   }
 ]

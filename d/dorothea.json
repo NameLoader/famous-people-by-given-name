@@ -42,5 +42,21 @@
     "achievements": [],
     "yearBorn": 1929,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Dorothea Benton Frank",
+    "givenNames": [
+      "Dorothea",
+      "Olivia",
+      "Benton"
+    ],
+    "familyName": "Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Benton_Frank",
+    "occupation": "Author",
+    "achievements": [
+      "Wrote over 20 bestselling novels set in the American South"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2017
   }
 ]

@@ -19,7 +19,7 @@
     "fullName": "Esteban Cambiasso",
     "givenNames": [
       "Esteban",
-      "Matías"
+      "Matias"
     ],
     "familyName": "Cambiasso",
     "wikipedia": "https://en.wikipedia.org/wiki/Esteban_Cambiasso",
@@ -29,5 +29,19 @@
       "Played for clubs like Real Madrid and Inter Milan"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Esteban Chaves",
+    "givenNames": [
+      "Esteban"
+    ],
+    "familyName": "Chaves",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esteban_Chaves",
+    "occupation": "Cyclist",
+    "achievements": [
+      "Professional road bicycle racer",
+      "Won stages in the Giro d'Italia and Vuelta a España"
+    ],
+    "yearBorn": 1990
   }
 ]

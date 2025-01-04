@@ -29,5 +29,65 @@
       "Known for her distinctive voice and socially conscious lyrics"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Natalie Cole",
+    "givenNames": [
+      "Natalie",
+      "Maria"
+    ],
+    "familyName": "Cole",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Cole",
+    "occupation": "Singer",
+    "achievements": [
+      "Nine Grammy Awards",
+      "Daughter of jazz legend Nat King Cole"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2015
+  },
+  {
+    "fullName": "Natalie Wood",
+    "givenNames": [
+      "Natalie"
+    ],
+    "familyName": "Wood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Wood",
+    "occupation": "Actress",
+    "achievements": [
+      "Three Academy Award nominations",
+      "Golden Globe Award for Best Actress – Motion Picture Drama"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 1981
+  },
+  {
+    "fullName": "Natalie Dessay",
+    "givenNames": [
+      "Natalie"
+    ],
+    "familyName": "Dessay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Dessay",
+    "occupation": "Opera Singer (Soprano)",
+    "achievements": [
+      "Renowned for roles in operas by Mozart, Donizetti, and Strauss",
+      "Grammy Award winner"
+    ],
+    "yearBorn": 1964
+  },
+  {
+    "fullName": "Natalie Imbruglia",
+    "givenNames": [
+      "Natalie",
+      "Jane"
+    ],
+    "familyName": "Imbruglia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Imbruglia",
+    "occupation": "Singer-Songwriter, Actress",
+    "achievements": [
+      "Breakthrough hit single 'Torn'",
+      "Successful acting career in film and television"
+    ],
+    "yearBorn": 1975
   }
 ]

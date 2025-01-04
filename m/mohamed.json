@@ -3,9 +3,7 @@
     "fullName": "Mohamed Salah",
     "givenNames": [
       "Mohamed",
-      "Hamed",
-      "Mahrous",
-      "Ghaly"
+      "Mo"
     ],
     "familyName": "Salah",
     "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Salah",
@@ -48,5 +46,35 @@
     ],
     "yearBorn": 1984,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Mohamed ElBaradei",
+    "givenNames": [
+      "Mohamed",
+      "Mostafa"
+    ],
+    "familyName": "ElBaradei",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
+    "occupation": "Diplomat, lawyer, Nobel Peace Prize laureate",
+    "achievements": [
+      "Director General of the International Atomic Energy Agency (IAEA)",
+      "Nobel Peace Prize winner (2005)"
+    ],
+    "yearBorn": 1942
+  },
+  {
+    "fullName": "Mohamed Morsi",
+    "givenNames": [
+      "Mohamed",
+      "Mohamed"
+    ],
+    "familyName": "Morsi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_Morsi",
+    "occupation": "Politician",
+    "achievements": [
+      "First democratically elected President of Egypt"
+    ],
+    "yearBorn": 1951,
+    "yearDied": 2019
   }
 ]

@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1917,
     "yearDied": 2017
+  },
+  {
+    "fullName": "June Squibb",
+    "givenNames": [
+      "June",
+      "Louise"
+    ],
+    "familyName": "Squibb",
+    "wikipedia": "https://en.wikipedia.org/wiki/June_Squibb",
+    "occupation": "Actress",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actress for her role in 'Nebraska'"
+    ],
+    "yearBorn": 1929
   }
 ]

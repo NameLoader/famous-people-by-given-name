@@ -28,5 +28,21 @@
     ],
     "yearBorn": 1889,
     "yearDied": 1956
+  },
+  {
+    "fullName": "Elsie Ferguson",
+    "givenNames": [
+      "Elsie",
+      "Louise"
+    ],
+    "familyName": "Ferguson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elsie_Ferguson",
+    "occupation": "Actress",
+    "achievements": [
+      "Leading lady of silent films in the early 20th century.",
+      "Known for her roles in romantic comedies and melodramas."
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1960
   }
 ]

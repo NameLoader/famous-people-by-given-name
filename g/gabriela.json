@@ -13,5 +13,18 @@
       "Reached a career-high ranking of No. 3 in the world"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Gabriela Cowperthwaite",
+    "givenNames": [
+      "Gabriela"
+    ],
+    "familyName": "Cowperthwaite",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabriela_Cowperthwaite",
+    "occupation": "Film Director, Producer",
+    "achievements": [
+      "Directed the documentary film 'Blackfish' (2013)",
+      "Raised awareness about the ethical treatment of captive orcas"
+    ]
   }
 ]

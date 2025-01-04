@@ -48,5 +48,20 @@
     ],
     "yearBorn": 1887,
     "yearDied": 1914
+  },
+  {
+    "fullName": "Georg Simmel",
+    "givenNames": [
+      "Georg"
+    ],
+    "familyName": "Simmel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Simmel",
+    "occupation": "Sociologist, philosopher",
+    "achievements": [
+      "Pioneer of modern sociology",
+      "Known for his work on urban life, individual interaction, and the philosophy of culture"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1918
   }
 ]

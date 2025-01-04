@@ -13,5 +13,20 @@
       "Chelsea Player of the Year (2021)"
     ],
     "yearBorn": 1999
+  },
+  {
+    "fullName": "Mason Greenwood",
+    "givenNames": [
+      "Mason",
+      "Will",
+      "John"
+    ],
+    "familyName": "Greenwood",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mason_Greenwood",
+    "occupation": "Footballer",
+    "achievements": [
+      "Manchester United Young Player of the Year (2019-20)"
+    ],
+    "yearBorn": 2001
   }
 ]

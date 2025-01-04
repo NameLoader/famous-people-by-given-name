@@ -43,17 +43,32 @@
     "yearBorn": 1973
   },
   {
-    "fullName": "Kathryn Dennis",
+    "fullName": "Kathryn Joosten",
+    "givenNames": [
+      "Kathryn"
+    ],
+    "familyName": "Joosten",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Joosten",
+    "occupation": "Actress",
+    "achievements": [
+      "Emmy Award winner for her role as Karen McCluskey on Desperate Housewives",
+      "Known for roles in series such as Family Matters and West Wing"
+    ],
+    "yearBorn": 1939,
+    "yearDied": 2011
+  },
+  {
+    "fullName": "Kathryn Erbe",
     "givenNames": [
       "Kathryn",
-      "Calhoun"
+      "Elsbeth"
     ],
-    "familyName": "Dennis",
-    "wikipedia": "https://en.wikipedia.org/wiki/Southern_Charm",
-    "occupation": "Reality television personality",
+    "familyName": "Erbe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kathryn_Erbe",
+    "occupation": "Actress",
     "achievements": [
-      "Known for her appearances on the Bravo reality series Southern Charm"
+      "Known for role as Alexandra Eames in Law & Order: Criminal Intent"
     ],
-    "yearBorn": 1991
+    "yearBorn": 1967
   }
 ]

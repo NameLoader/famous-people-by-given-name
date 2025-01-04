@@ -38,5 +38,21 @@
       "Wrote the internationally bestselling novel 'The Book Thief'"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Markus Söder",
+    "givenNames": [
+      "Markus",
+      "Thomas",
+      "Theodor"
+    ],
+    "familyName": "Söder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Markus_S%C3%B6der",
+    "occupation": "Politician",
+    "achievements": [
+      "Minister-President of Bavaria (Germany)",
+      "Leader of the Christian Social Union (CSU)"
+    ],
+    "yearBorn": 1967
   }
 ]

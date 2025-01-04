@@ -25,5 +25,20 @@
       "Drummer for the Australian pop rock band 5 Seconds of Summer"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Ashton Sanders",
+    "givenNames": [
+      "Ashton",
+      "Durrand"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashton_Sanders",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in films like 'Moonlight', 'The Equalizer 2'",
+      "Critical acclaim for his performances"
+    ],
+    "yearBorn": 1995
   }
 ]

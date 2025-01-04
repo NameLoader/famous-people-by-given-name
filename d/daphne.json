@@ -30,5 +30,20 @@
       "Released a self-titled debut album in 2010"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Daphne Oz",
+    "givenNames": [
+      "Daphne",
+      "Nur"
+    ],
+    "familyName": "Oz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daphne_Oz",
+    "occupation": "Television host, author, and chef",
+    "achievements": [
+      "Co-host of the television talk show 'The Chew'",
+      "Author of several cookbooks focusing on healthy eating"
+    ],
+    "yearBorn": 1986
   }
 ]

@@ -9,8 +9,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
     "occupation": "Author, Politician",
     "achievements": [
-      "Bestselling author of novels and short stories",
-      "Member of the House of Lords"
+      "Bestselling author of numerous novels",
+      "Member of the British Parliament"
     ],
     "yearBorn": 1940
   },
@@ -22,25 +22,12 @@
     ],
     "familyName": "Epstein",
     "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
-    "occupation": "Financier, convicted sex offender",
+    "occupation": "Financier, Convicted Sex Offender",
     "achievements": [
-      "Managed finances for high-profile individuals"
+      "Managed hedge funds and amassed a large fortune",
+      "Convicted of sex trafficking and died in prison"
     ],
     "yearBorn": 1953,
     "yearDied": 2019
-  },
-  {
-    "fullName": "Jeffery Wright",
-    "givenNames": [
-      "Jeffrey"
-    ],
-    "familyName": "Wright",
-    "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Wright",
-    "occupation": "Actor",
-    "achievements": [
-      "Tony Award winner for his performance in 'Angels in America'",
-      "Starred in films like 'The Hunger Games' and 'Westworld'"
-    ],
-    "yearBorn": 1965
   }
 ]

@@ -12,5 +12,18 @@
       "German Federal Minister of Health"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Ulla Salzgeber",
+    "givenNames": [
+      "Ulla"
+    ],
+    "familyName": "Salzgeber",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulla_Salzgeber",
+    "occupation": "Dressage rider",
+    "achievements": [
+      "Won individual and team bronze medals at the 2004 Summer Olympics"
+    ],
+    "yearBorn": 1958
   }
 ]

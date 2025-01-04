@@ -27,5 +27,49 @@
       "Reached a career-high ranking of No. 3 in the world"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Elena Ferrante",
+    "givenNames": [
+      "Elena"
+    ],
+    "familyName": "Ferrante",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elena_Ferrante",
+    "occupation": "Novelist",
+    "achievements": [
+      "Author of the Neapolitan Novels series",
+      "Won numerous literary awards"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Elena Kagan",
+    "givenNames": [
+      "Elena"
+    ],
+    "familyName": "Kagan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elena_Kagan",
+    "occupation": "Associate Justice of the Supreme Court of the United States",
+    "achievements": [
+      "First female Solicitor General of the United States",
+      "Nominated to the Supreme Court by President Obama in 2010"
+    ],
+    "yearBorn": 1960
+  },
+  {
+    "fullName": "Elena Bonner",
+    "givenNames": [
+      "Elena",
+      "Yelena"
+    ],
+    "familyName": "Bonner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yelena_Bonner",
+    "occupation": "Human rights activist",
+    "achievements": [
+      "Wife of Soviet dissident Andrei Sakharov",
+      "Advocate for human rights in the Soviet Union and Russia"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2011
   }
 ]

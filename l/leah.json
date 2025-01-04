@@ -27,5 +27,20 @@
       "Known for her role as Camille O'Connell in the television series 'The Originals'"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Leah Williamson",
+    "givenNames": [
+      "Leah",
+      "Cathrine"
+    ],
+    "familyName": "Williamson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leah_Williamson",
+    "occupation": "Footballer",
+    "achievements": [
+      "Captain of the England women's national football team",
+      "Arsenal Women player"
+    ],
+    "yearBorn": 1997
   }
 ]

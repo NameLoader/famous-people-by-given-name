@@ -16,7 +16,8 @@
   {
     "fullName": "Sebastian Bach",
     "givenNames": [
-      "Sebastian"
+      "Sebastian",
+      "Philip"
     ],
     "familyName": "Bach",
     "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Bach",
@@ -25,5 +26,19 @@
       "Former lead vocalist of Skid Row"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Sebastian Stan",
+    "givenNames": [
+      "Sebastian"
+    ],
+    "familyName": "Stan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Stan",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in the Marvel Cinematic Universe as Bucky Barnes / The Winter Soldier",
+      "Appeared in films such as 'Captain America: The Winter Soldier', 'Avengers: Endgame', and the TV series 'The Falcon and the Winter Soldier'"
+    ],
+    "yearBorn": 1982
   }
 ]

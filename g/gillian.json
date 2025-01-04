@@ -13,5 +13,20 @@
       "Multiple Emmy Award and Golden Globe Award winner"
     ],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Gillian Flynn",
+    "givenNames": [
+      "Gillian",
+      "Schieber"
+    ],
+    "familyName": "Flynn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gillian_Flynn",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author known for thrillers such as 'Gone Girl' and 'Sharp Objects'",
+      "Her novels have been adapted into successful films"
+    ],
+    "yearBorn": 1971
   }
 ]

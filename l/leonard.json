@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Leonard Euler",
-    "givenNames": [
-      "Leonhard"
-    ],
-    "familyName": "Euler",
-    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
-    "occupation": "Mathematician and physicist",
-    "achievements": [
-      "Contributions to calculus, graph theory, topology",
-      "Euler's identity"
-    ],
-    "yearBorn": 1707,
-    "yearDied": 1783
-  },
-  {
     "fullName": "Leonard Bernstein",
     "givenNames": [
       "Leonard"
@@ -46,5 +31,22 @@
     ],
     "yearBorn": 1934,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Leonard Nimoy",
+    "givenNames": [
+      "Leonard",
+      "Simon"
+    ],
+    "familyName": "Nimoy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Nimoy",
+    "occupation": "Actor, director, writer and photographer",
+    "achievements": [
+      "Portrayed Spock in the Star Trek franchise",
+      "Directed several films and television episodes",
+      "Published books on photography and acting"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 2015
   }
 ]

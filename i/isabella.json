@@ -15,5 +15,21 @@
       "Became a successful fashion model for Lancôme"
     ],
     "yearBorn": 1952
+  },
+  {
+    "fullName": "Isabella Bird",
+    "givenNames": [
+      "Isabella",
+      "Lucy"
+    ],
+    "familyName": "Bird",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isabella_Bird",
+    "occupation": "Explorer, writer",
+    "achievements": [
+      "Traveled extensively throughout Asia, the Middle East, and North America",
+      "Authored numerous books detailing her travels and experiences"
+    ],
+    "yearBorn": 1831,
+    "yearDied": 1904
   }
 ]

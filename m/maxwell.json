@@ -2,10 +2,8 @@
   {
     "fullName": "Maxwell Perkins",
     "givenNames": [
-      "William",
       "Maxwell",
-      "Evarts",
-      "Max"
+      "William"
     ],
     "familyName": "Perkins",
     "wikipedia": "https://en.wikipedia.org/wiki/Maxwell_Perkins",
@@ -20,15 +18,14 @@
   {
     "fullName": "Maxwell Anderson",
     "givenNames": [
-      "Maxwell",
-      "James"
+      "Maxwell"
     ],
     "familyName": "Anderson",
     "wikipedia": "https://en.wikipedia.org/wiki/Maxwell_Anderson",
-    "occupation": "Playwright, poet, novelist",
+    "occupation": "Playwright, Poet, Novelist",
     "achievements": [
-      "Wrote successful Broadway plays such as 'Winterset' and 'Gods of the Mountain'",
-      "Known for his historical dramas and exploration of social themes"
+      "Wrote critically acclaimed plays such as 'Winterset' and 'Both Your Houses'",
+      "Known for his realistic portrayal of American society and themes of social justice"
     ],
     "yearBorn": 1888,
     "yearDied": 1959

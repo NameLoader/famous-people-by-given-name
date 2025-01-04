@@ -46,5 +46,34 @@
       "Known for her comedic timing and sharp wit"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Julia Cameron",
+    "givenNames": [
+      "Julia",
+      "B"
+    ],
+    "familyName": "Cameron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Cameron",
+    "occupation": "Author, Artist",
+    "achievements": [
+      "Authored the best-selling book 'The Artist's Way'",
+      "Developed a twelve-week program for creative recovery and self-discovery"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Julia Butterfly Hill",
+    "givenNames": [
+      "Julia",
+      "Lorraine"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Butterfly_Hill",
+    "occupation": "Environmental Activist",
+    "achievements": [
+      "Known for her tree-sit protest against logging in Humboldt Redwoods State Park"
+    ],
+    "yearBorn": 1974
   }
 ]

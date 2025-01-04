@@ -29,5 +29,19 @@
       "Married to Emmanuel Macron, President of France"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "Brigitte Nielsen",
+    "givenNames": [
+      "Brigitte"
+    ],
+    "familyName": "Nielsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brigitte_Nielsen",
+    "occupation": "Actress, model",
+    "achievements": [
+      "Known for roles in films like 'Red Sonja' and 'Rocky IV'",
+      "Successful modeling career"
+    ],
+    "yearBorn": 1963
   }
 ]

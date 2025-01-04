@@ -27,5 +27,19 @@
       "National Book Award winner for her memoir 'Lab Girl'"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Hope Hicks",
+    "givenNames": [
+      "Hope",
+      "Charlotte"
+    ],
+    "familyName": "Hicks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hope_Hicks",
+    "occupation": "Political Aide, Public Relations",
+    "achievements": [
+      "Served as White House Communications Director and Counselor to the President under Donald Trump"
+    ],
+    "yearBorn": 1988
   }
 ]

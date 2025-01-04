@@ -8,9 +8,26 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Mia_Wasikowska",
     "occupation": "Actress",
     "achievements": [
-      "Known for her roles in films such as Alice in Wonderland, Jane Eyre, and The Kids Are All Right.",
-      "Nominated for several awards, including a Golden Globe Award."
+      "Known for her roles in films such as Alice in Wonderland and Jane Eyre"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Mia Farrow",
+    "givenNames": [
+      "Maria",
+      "de",
+      "Lourdes",
+      "Villiers",
+      "Mia"
+    ],
+    "familyName": "Farrow",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mia_Farrow",
+    "occupation": "Actress, Activist",
+    "achievements": [
+      "Academy Award Nomination for Best Actress",
+      "UNICEF Goodwill Ambassador"
+    ],
+    "yearBorn": 1945
   }
 ]

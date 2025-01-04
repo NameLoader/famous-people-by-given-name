@@ -1,20 +1,5 @@
 [
   {
-    "fullName": "Eddie Murphy",
-    "givenNames": [
-      "Edward",
-      "Regan"
-    ],
-    "familyName": "Murphy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Murphy",
-    "occupation": "Actor, comedian",
-    "achievements": [
-      "Won a Golden Globe Award",
-      "Nominated for six Primetime Emmy Awards"
-    ],
-    "yearBorn": 1961
-  },
-  {
     "fullName": "Eddie Vedder",
     "givenNames": [
       "Eddie",
@@ -28,5 +13,21 @@
       "Inducted into the Rock and Roll Hall of Fame with Pearl Jam"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Eddie Murphy",
+    "givenNames": [
+      "Edward",
+      "Regan"
+    ],
+    "familyName": "Murphy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Murphy",
+    "occupation": "Actor, Comedian",
+    "achievements": [
+      "Multiple Grammy Award winner",
+      "Academy Award nominee",
+      "Known for roles in films like 'Beverly Hills Cop', 'Coming to America', and 'Shrek'"
+    ],
+    "yearBorn": 1961
   }
 ]

@@ -13,5 +13,37 @@
       "Activist against violence against women and girls"
     ],
     "yearBorn": 1953
+  },
+  {
+    "fullName": "Eve Hewson",
+    "givenNames": [
+      "Memphis",
+      "Eve",
+      "Sunny",
+      "Day",
+      "Iris"
+    ],
+    "familyName": "Hewson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eve_Hewson",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in films like 'Before I Go to Sleep' and 'Bridge of Spies'",
+      "Daughter of U2 frontman Bono"
+    ],
+    "yearBorn": 1991
+  },
+  {
+    "fullName": "Eve Plumb",
+    "givenNames": [
+      "Eve",
+      "Aline"
+    ],
+    "familyName": "Plumb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eve_Plumb",
+    "occupation": "Actress",
+    "achievements": [
+      "Best known for her role as Jan Brady on the sitcom 'The Brady Bunch'"
+    ],
+    "yearBorn": 1958
   }
 ]

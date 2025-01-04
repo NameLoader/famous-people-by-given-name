@@ -29,21 +29,18 @@
     ]
   },
   {
-    "fullName": "Amelia Boynton Robinson",
+    "fullName": "Amelia Hamlin",
     "givenNames": [
       "Amelia",
-      "Isadora",
-      "Platts",
-      "Boynton"
+      "Gray"
     ],
-    "familyName": "Robinson",
-    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Boynton_Robinson",
-    "occupation": "Civil rights activist",
+    "familyName": "Hamlin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Gray_Hamlin",
+    "occupation": "Model, Television Personality",
     "achievements": [
-      "Led the Selma to Montgomery marches",
-      "Helped secure voting rights for African Americans"
+      "Appeared on reality TV show 'The Real Housewives of Beverly Hills'",
+      "Walked runways for major fashion brands"
     ],
-    "yearBorn": 1911,
-    "yearDied": 2015
+    "yearBorn": 2001
   }
 ]

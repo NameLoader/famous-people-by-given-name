@@ -24,12 +24,28 @@
     ],
     "familyName": "Redding",
     "wikipedia": "https://en.wikipedia.org/wiki/Noel_Redding",
-    "occupation": "Musician",
+    "occupation": "Musician, bassist",
     "achievements": [
-      "Bassist for the rock band The Yardbirds",
-      "Known for his blues-influenced style"
+      "Original bassist for the rock band The Jimi Hendrix Experience.",
+      "Contributed to iconic albums such as 'Are You Experienced?' and 'Axis: Bold as Love'."
     ],
     "yearBorn": 1945,
     "yearDied": 2003
+  },
+  {
+    "fullName": "Noël Gallagher",
+    "givenNames": [
+      "Noel",
+      "Thomas",
+      "David"
+    ],
+    "familyName": "Gallagher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Gallagher",
+    "occupation": "Musician, songwriter, guitarist",
+    "achievements": [
+      "Co-founder and lead guitarist of the Britpop band Oasis.",
+      "Known for his distinctive guitar riffs and songwriting contributions to hit albums like '(What's the Story) Morning Glory?'"
+    ],
+    "yearBorn": 1967
   }
 ]

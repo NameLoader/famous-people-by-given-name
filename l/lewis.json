@@ -43,5 +43,20 @@
       "Known for his stand-up comedy featuring political satire and social commentary"
     ],
     "yearBorn": 1948
+  },
+  {
+    "fullName": "Lewis Capaldi",
+    "givenNames": [
+      "Lewis",
+      "Marc"
+    ],
+    "familyName": "Capaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Capaldi",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Grammy Award nomination for Song of the Year (Someone You Loved)",
+      "Chart-topping albums and singles"
+    ],
+    "yearBorn": 1996
   }
 ]

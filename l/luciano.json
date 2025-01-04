@@ -43,5 +43,19 @@
       "Known for his introspective lyrics and energetic performances"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Luciano Spalletti",
+    "givenNames": [
+      "Luciano"
+    ],
+    "familyName": "Spalletti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luciano_Spalletti",
+    "occupation": "Football manager",
+    "achievements": [
+      "Managed several Italian football clubs including Roma and Napoli",
+      "Known for his tactical acumen and ability to develop young players"
+    ],
+    "yearBorn": 1959
   }
 ]

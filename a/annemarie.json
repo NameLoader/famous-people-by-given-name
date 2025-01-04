@@ -15,5 +15,19 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1942
+  },
+  {
+    "fullName": "Annemarie Moser-Pröll",
+    "givenNames": [
+      "Annemarie"
+    ],
+    "familyName": "Moser-Pröll",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annemarie_Moser-Pr%C3%B6ll",
+    "occupation": "Alpine skier",
+    "achievements": [
+      "Three-time Olympic champion",
+      "Five-time World Champion"
+    ],
+    "yearBorn": 1953
   }
 ]

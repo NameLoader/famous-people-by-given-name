@@ -1,19 +1,5 @@
 [
   {
-    "fullName": "Nicholas Copernicus",
-    "givenNames": [
-      "Nicolaus"
-    ],
-    "familyName": "Copernicus",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
-    "occupation": "Astronomer, Mathematician",
-    "achievements": [
-      "Developed the heliocentric model of the solar system"
-    ],
-    "yearBorn": 1473,
-    "yearDied": 1543
-  },
-  {
     "fullName": "Nicholas Sparks",
     "givenNames": [
       "Nicholas",
@@ -42,5 +28,33 @@
       "Known for roles in films such as  The Promise, Shaolin Soccer, and New Police Story"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Nicholas Copernicus",
+    "givenNames": [
+      "Nicolaus"
+    ],
+    "familyName": "Copernicus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "occupation": "Astronomer, Mathematician",
+    "achievements": [
+      "Developed the heliocentric model of the solar system"
+    ],
+    "yearBorn": 1473,
+    "yearDied": 1543
+  },
+  {
+    "fullName": "Nicholas Hoult",
+    "givenNames": [
+      "Nicholas",
+      "Caradoc"
+    ],
+    "familyName": "Hoult",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Hoult",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in About a Boy, X-Men series, The Favourite"
+    ],
+    "yearBorn": 1989
   }
 ]

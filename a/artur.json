@@ -15,20 +15,32 @@
     "yearDied": 1982
   },
   {
-    "fullName": "Artur M. Schlesinger Jr.",
+    "fullName": "Artur Schnabel",
     "givenNames": [
-      "Arthur",
-      "Meier",
-      "Jr."
+      "Artur"
     ],
-    "familyName": "Schlesinger",
-    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_M._Schlesinger_Jr.",
-    "occupation": "Historian",
+    "familyName": "Schnabel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Artur_Schnabel",
+    "occupation": "Pianist, composer, conductor",
     "achievements": [
-      "Pulitzer Prize-winning author",
-      "Known for his works on American history and liberalism"
+      "Renowned interpreter of the piano works of Beethoven, Schubert, and Mozart",
+      "Highly regarded for his musical insight and intellectual approach to performance"
     ],
-    "yearBorn": 1917,
-    "yearDied": 2014
+    "yearBorn": 1882,
+    "yearDied": 1951
+  },
+  {
+    "fullName": "Artur Boruc",
+    "givenNames": [
+      "Artur"
+    ],
+    "familyName": "Boruc",
+    "wikipedia": "https://en.wikipedia.org/wiki/Artur_Boruc",
+    "occupation": "Footballer (Goalkeeper)",
+    "achievements": [
+      "Represented Poland in international football",
+      "Played for clubs such as Celtic and Southampton"
+    ],
+    "yearBorn": 1980
   }
 ]

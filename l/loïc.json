@@ -14,5 +14,19 @@
       "Known for his unique vocal style and theatrical performances"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Loïc Bruni",
+    "givenNames": [
+      "Loïc"
+    ],
+    "familyName": "Bruni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lo%C3%AFc_Bruni",
+    "occupation": "Downhill mountain biker",
+    "achievements": [
+      "2015 UCI Mountain Bike World Champion",
+      "Multiple UCI World Cup victories"
+    ],
+    "yearBorn": 1994
   }
 ]

@@ -33,8 +33,7 @@
   {
     "fullName": "Anton Yelchin",
     "givenNames": [
-      "Anton",
-      "Viktorovich"
+      "Anton"
     ],
     "familyName": "Yelchin",
     "wikipedia": "https://en.wikipedia.org/wiki/Anton_Yelchin",
@@ -45,5 +44,20 @@
     ],
     "yearBorn": 1989,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Anton Ferdinand",
+    "givenNames": [
+      "Anton",
+      "Julian"
+    ],
+    "familyName": "Ferdinand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Ferdinand",
+    "occupation": "Footballer",
+    "achievements": [
+      "Played for clubs such as West Ham United and Queens Park Rangers",
+      "Represented the German national team at youth levels"
+    ],
+    "yearBorn": 1985
   }
 ]

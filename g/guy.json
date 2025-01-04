@@ -40,5 +40,36 @@
       "Presenter of shows like Guy Martin's Wall of Death, Speed with Guy Martin"
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Guy Sebastian",
+    "givenNames": [
+      "Guy",
+      "Theodore"
+    ],
+    "familyName": "Sebastian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guy_Sebastian",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Won the first season of Australian Idol in 2003.",
+      "Has released numerous chart-topping albums and singles in Australia."
+    ],
+    "yearBorn": 1981
+  },
+  {
+    "fullName": "Guy Kawasaki",
+    "givenNames": [
+      "Guy",
+      "Takeo"
+    ],
+    "familyName": "Kawasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Guy_Kawasaki",
+    "occupation": "Marketing specialist, author, venture capitalist",
+    "achievements": [
+      "Former Apple Fellow, known for his marketing expertise and evangelist role",
+      "Author of several books on entrepreneurship and innovation",
+      "Venture capitalist investing in technology startups"
+    ],
+    "yearBorn": 1954
   }
 ]

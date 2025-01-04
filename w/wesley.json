@@ -43,5 +43,18 @@
       "Known for his strong defense and three-point shooting"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Wesley Mathews",
+    "givenNames": [
+      "Wesley"
+    ],
+    "familyName": "Mathews",
+    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Sherin_Mathews",
+    "occupation": "Former technology executive",
+    "achievements": [
+      "Convicted of capital murder for the death of his adopted daughter Sherin Mathews"
+    ],
+    "yearBorn": 1980
   }
 ]

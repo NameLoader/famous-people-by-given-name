@@ -43,5 +43,35 @@
       "Multiple Grammy Award winner"
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Mary Cassatt",
+    "givenNames": [
+      "Mary",
+      "Stevenson"
+    ],
+    "familyName": "Cassatt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Cassatt",
+    "occupation": "Painter, printmaker",
+    "achievements": [
+      "Impressionist painter known for her depictions of women and children"
+    ],
+    "yearBorn": 1844,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Mary Leakey",
+    "givenNames": [
+      "Mary",
+      "Douglas"
+    ],
+    "familyName": "Leakey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Leakey",
+    "occupation": "Paleoanthropologist, archaeologist",
+    "achievements": [
+      "Discoveries of early hominin fossils in Tanzania"
+    ],
+    "yearBorn": 1913,
+    "yearDied": 1996
   }
 ]

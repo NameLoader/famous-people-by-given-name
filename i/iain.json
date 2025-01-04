@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1954,
     "yearDied": 2013
+  },
+  {
+    "fullName": "Iain Glen",
+    "givenNames": [
+      "Iain",
+      "Alan",
+      "Sutherland"
+    ],
+    "familyName": "Glen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Iain_Glen",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for roles in Game of Thrones and Resident Evil",
+      "Acclaimed stage actor"
+    ],
+    "yearBorn": 1961
   }
 ]

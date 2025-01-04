@@ -13,5 +13,20 @@
     ],
     "yearBorn": 718,
     "yearDied": 782
+  },
+  {
+    "fullName": "Ibrahim Pasha",
+    "givenNames": [
+      "Ibrahim"
+    ],
+    "familyName": "Pasha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nev%C5%9Fehirli_Damat_Ibrahim_Pasha",
+    "occupation": "Ottoman general and statesman",
+    "achievements": [
+      "Served as Grand Vizier of the Ottoman Empire.",
+      "Known for his military campaigns in Europe and North Africa."
+    ],
+    "yearBorn": 1657,
+    "yearDied": 1730
   }
 ]

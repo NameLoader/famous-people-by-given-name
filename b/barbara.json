@@ -3,7 +3,8 @@
     "fullName": "Barbara Streisand",
     "givenNames": [
       "Barbara",
-      "Joan"
+      "Joan",
+      "Barbra"
     ],
     "familyName": "Streisand",
     "wikipedia": "https://en.wikipedia.org/wiki/Barbra_Streisand",
@@ -62,5 +63,35 @@
     ],
     "yearBorn": 1902,
     "yearDied": 1992
+  },
+  {
+    "fullName": "Barbara Tuchman",
+    "givenNames": [
+      "Barbara",
+      "Wertheim"
+    ],
+    "familyName": "Tuchman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_W._Tuchman",
+    "occupation": "Historian, author",
+    "achievements": [
+      "Two-time Pulitzer Prize winner for History",
+      "Known for her accessible and engaging historical writing style"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1989
+  },
+  {
+    "fullName": "Barbara Cartland",
+    "givenNames": [
+      "Barbara"
+    ],
+    "familyName": "Cartland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Cartland",
+    "occupation": "Novelist",
+    "achievements": [
+      "Prolific romance novelist"
+    ],
+    "yearBorn": 1901,
+    "yearDied": 2000
   }
 ]

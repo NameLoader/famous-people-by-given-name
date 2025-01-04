@@ -27,5 +27,16 @@
       "Won a Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series."
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Cheryl Burke",
+    "givenNames": [
+      "Cheryl"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Burke",
+    "occupation": "Dancer, Choreographer, Television Personality",
+    "achievements": [],
+    "yearBorn": 1984
   }
 ]

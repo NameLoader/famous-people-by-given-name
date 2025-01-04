@@ -13,5 +13,20 @@
       "Writer and director of films such as 'In the Loop' and 'The Death of Stalin'"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Armando Manzanero",
+    "givenNames": [
+      "Armando"
+    ],
+    "familyName": "Manzanero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armando_Manzanero",
+    "occupation": "Singer, songwriter, composer",
+    "achievements": [
+      "One of Mexico's most beloved and prolific singer-songwriters",
+      "Known for romantic ballads and boleros"
+    ],
+    "yearBorn": 1934,
+    "yearDied": 2020
   }
 ]

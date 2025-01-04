@@ -25,5 +25,21 @@
     ],
     "yearBorn": 1882,
     "yearDied": 1965
+  },
+  {
+    "fullName": "Felix Kjellberg",
+    "givenNames": [
+      "Felix",
+      "Arvid",
+      "Ulf"
+    ],
+    "familyName": "Kjellberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/PewDiePie",
+    "occupation": "YouTuber, Gamer",
+    "achievements": [
+      "One of the most subscribed YouTube channels worldwide",
+      "Known for his Let's Play videos and comedic commentary"
+    ],
+    "yearBorn": 1989
   }
 ]

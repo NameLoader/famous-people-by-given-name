@@ -29,5 +29,36 @@
       "Successful solo career with multiple chart-topping albums and singles"
     ],
     "yearBorn": 1994
+  },
+  {
+    "fullName": "Harry Houdini",
+    "givenNames": [
+      "Harry"
+    ],
+    "familyName": "Houdini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Houdini",
+    "occupation": "Magician and Escape Artist",
+    "achievements": [
+      "Renowned escape artist known for his daring stunts.",
+      "Popularized magic and illusion in the early 20th century."
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1926
+  },
+  {
+    "fullName": "Harry Belafonte",
+    "givenNames": [
+      "Harry"
+    ],
+    "familyName": "Belafonte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Belafonte",
+    "occupation": "Singer, Actor, Activist",
+    "achievements": [
+      "Popularized Caribbean music worldwide with hits like 'Day-O'.",
+      "Acted in films and Broadway productions.",
+      "Vocal civil rights activist who worked alongside Martin Luther King Jr."
+    ],
+    "yearBorn": 1927,
+    "yearDied": 2023
   }
 ]

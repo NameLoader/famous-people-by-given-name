@@ -15,22 +15,6 @@
     "yearBorn": 1958
   },
   {
-    "fullName": "Olaf Palme",
-    "givenNames": [
-      "Sven",
-      "Olof",
-      "Joachim"
-    ],
-    "familyName": "Palme",
-    "wikipedia": "https://en.wikipedia.org/wiki/Olof_Palme",
-    "occupation": "Politician",
-    "achievements": [
-      "Prime Minister of Sweden"
-    ],
-    "yearBorn": 1927,
-    "yearDied": 1986
-  },
-  {
     "fullName": "Olaf Stapledon",
     "givenNames": [
       "Olaf",
@@ -45,5 +29,37 @@
     ],
     "yearBorn": 1886,
     "yearDied": 1950
+  },
+  {
+    "fullName": "Olaf Palme",
+    "givenNames": [
+      "Sven",
+      "Olof",
+      "Joachim"
+    ],
+    "familyName": "Palme",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olof_Palme",
+    "occupation": "Politician",
+    "achievements": [
+      "Prime Minister of Sweden (1969-1976, 1982-1986)",
+      "Prominent advocate for international peace and disarmament",
+      "Nobel Peace Prize nominee"
+    ],
+    "yearBorn": 1927,
+    "yearDied": 1986
+  },
+  {
+    "fullName": "Olaf Thon",
+    "givenNames": [
+      "Olaf"
+    ],
+    "familyName": "Thon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Thon",
+    "occupation": "Footballer",
+    "achievements": [
+      "World Cup winner with Germany (1990)",
+      "Bundesliga champion with Bayern Munich (1989, 1990)"
+    ],
+    "yearBorn": 1966
   }
 ]

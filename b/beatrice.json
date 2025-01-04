@@ -46,5 +46,34 @@
     ],
     "yearBorn": 1914,
     "yearDied": 2002
+  },
+  {
+    "fullName": "Beatrice d'Este",
+    "givenNames": [
+      "Beatrice"
+    ],
+    "familyName": "d'Este",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_d%27Este",
+    "occupation": "Noblewoman, Duchess of Milan",
+    "achievements": [
+      "Known for her intelligence and patronage of the arts"
+    ],
+    "yearBorn": 1475,
+    "yearDied": 1497
+  },
+  {
+    "fullName": "Beatrice Webb",
+    "givenNames": [
+      "Beatrice"
+    ],
+    "familyName": "Webb",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_Webb",
+    "occupation": "Social reformer, economist",
+    "achievements": [
+      "Co-founded the London School of Economics and Political Science",
+      "Advocated for social welfare policies"
+    ],
+    "yearBorn": 1858,
+    "yearDied": 1943
   }
 ]

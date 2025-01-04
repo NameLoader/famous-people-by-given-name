@@ -2,7 +2,6 @@
   {
     "fullName": "Klaus Barbie",
     "givenNames": [
-      "Klaus",
       "Nikolaus"
     ],
     "familyName": "Barbie",
@@ -45,16 +44,30 @@
     "yearDied": 2023
   },
   {
-    "fullName": "Klaus Maria Brandauer",
+    "fullName": "Klaus Schwab",
     "givenNames": [
       "Klaus",
-      "Maria"
+      "Martin"
     ],
-    "familyName": "Brandauer",
-    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Maria_Brandauer",
-    "occupation": "Actor",
+    "familyName": "Schwab",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Schwab",
+    "occupation": "Economist, Founder and Executive Chairman of the World Economic Forum",
     "achievements": [
-      "Won an Academy Award for Best Supporting Actor in the film 'Out of Africa'."
+      "Founded the World Economic Forum in 1971",
+      "Author of several books on globalization and international economics"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Klaus von Klitzing",
+    "givenNames": [
+      "Klaus"
+    ],
+    "familyName": "von Klitzing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Klaus_von_Klitzing",
+    "occupation": "Physicist",
+    "achievements": [
+      "Won the Nobel Prize in Physics in 1985 for the discovery of the quantum Hall effect"
     ],
     "yearBorn": 1943
   }

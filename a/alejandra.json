@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1936,
     "yearDied": 1972
+  },
+  {
+    "fullName": "Alejandra Guzmán",
+    "givenNames": [
+      "Alejandra",
+      "Gabriela"
+    ],
+    "familyName": "Guzmán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alejandra_Guzm%C3%A1n",
+    "occupation": "Singer, songwriter, actress",
+    "achievements": [
+      "Latin Grammy Award winner",
+      "Sold over 20 million records worldwide"
+    ],
+    "yearBorn": 1967
   }
 ]

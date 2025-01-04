@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Benoît Mandelbrot",
+    "givenNames": [
+      "Benoît",
+      "B."
+    ],
+    "familyName": "Mandelbrot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot",
+    "occupation": "Mathematician",
+    "achievements": [
+      "Father of fractal geometry",
+      "Developed the Mandelbrot set"
+    ],
+    "yearBorn": 1924,
+    "yearDied": 2010
+  }
+]

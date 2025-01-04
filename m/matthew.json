@@ -47,8 +47,8 @@
   {
     "fullName": "Matthew Sweet",
     "givenNames": [
-      "Matthew",
-      "Sidney"
+      "Sidney",
+      "Matthew"
     ],
     "familyName": "Sweet",
     "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Sweet",
@@ -57,5 +57,74 @@
       "Known for alternative rock albums like Girlfriend and 100% Fun"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Matthew broderick",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Broderick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Broderick",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in Ferris Bueller's Day Off and the Broadway musical How to Succeed in Business Without Really Trying"
+    ],
+    "yearBorn": 1962
+  },
+  {
+    "fullName": "Matthew Vaughn",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Vaughn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Vaughn",
+    "occupation": "Film director and producer",
+    "achievements": [
+      "Directed films such as Kick-Ass, X-Men: First Class, and Kingsman: The Secret Service"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Matthew Bellamy",
+    "givenNames": [
+      "Matthew",
+      "James"
+    ],
+    "familyName": "Bellamy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matt_Bellamy",
+    "occupation": "Musician",
+    "achievements": [
+      "Lead vocalist and guitarist for the rock band Muse"
+    ],
+    "yearBorn": 1978
+  },
+  {
+    "fullName": "Matthew Rhys",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Rhys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Rhys",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in 'The Americans' and 'Brothers & Sisters'",
+      "Won a Primetime Emmy Award for his role as Philip Jennings in 'The Americans'"
+    ],
+    "yearBorn": 1974
+  },
+  {
+    "fullName": "Matthew Arnold",
+    "givenNames": [
+      "Matthew"
+    ],
+    "familyName": "Arnold",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Arnold",
+    "occupation": "Poet, cultural critic",
+    "achievements": [
+      "Known for his poetry collections like 'The Strayed Reveller' and 'New Poems'",
+      "Influential figure in Victorian literature and culture"
+    ],
+    "yearBorn": 1822,
+    "yearDied": 1888
   }
 ]

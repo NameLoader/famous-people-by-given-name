@@ -2,8 +2,8 @@
   {
     "fullName": "Hunter Biden",
     "givenNames": [
-      "Robert",
-      "Hunter"
+      "Hunter",
+      "Robert"
     ],
     "familyName": "Biden",
     "wikipedia": "https://en.wikipedia.org/wiki/Hunter_Biden",
@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1937,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Hunter Hayes",
+    "givenNames": [
+      "Hunter",
+      "Easton"
+    ],
+    "familyName": "Hayes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunter_Hayes",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy-nominated musician",
+      "Known for country pop hits"
+    ],
+    "yearBorn": 1991
   }
 ]

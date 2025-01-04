@@ -13,5 +13,20 @@
       "Active in political activism and social justice causes"
     ],
     "yearBorn": 1972
+  },
+  {
+    "fullName": "Alyssa Naeher",
+    "givenNames": [
+      "Alyssa",
+      "Michele"
+    ],
+    "familyName": "Naeher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alyssa_Naeher",
+    "occupation": "Professional Soccer Player",
+    "achievements": [
+      "Goalkeeper for the United States women's national soccer team",
+      "Won two FIFA Women's World Cups (2015, 2019)"
+    ],
+    "yearBorn": 1988
   }
 ]

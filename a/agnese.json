@@ -1,0 +1,19 @@
+[
+  {
+    "fullName": "Agnese Gonxha Bojaxhiu",
+    "givenNames": [
+      "Agnese",
+      "Gonxha"
+    ],
+    "familyName": "Bojaxhiu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mother_Teresa",
+    "occupation": "Missionary, nun",
+    "achievements": [
+      "Founded the Missionaries of Charity in Kolkata, India.",
+      "Dedicated her life to serving the poor and sick.",
+      "Awarded the Nobel Peace Prize in 1979."
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1997
+  }
+]

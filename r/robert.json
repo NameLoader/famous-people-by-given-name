@@ -60,5 +60,35 @@
     ],
     "yearBorn": 1904,
     "yearDied": 1967
+  },
+  {
+    "fullName": "Robert Louis Stevenson",
+    "givenNames": [
+      "Robert",
+      "Louis"
+    ],
+    "familyName": "Stevenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+    "occupation": "Novelist, Poet, Essayist",
+    "achievements": [
+      "Author of Treasure Island and The Strange Case of Dr Jekyll and Mr Hyde"
+    ],
+    "yearBorn": 1850,
+    "yearDied": 1894
+  },
+  {
+    "fullName": "Robert Hooke",
+    "givenNames": [
+      "Robert"
+    ],
+    "familyName": "Hooke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hooke",
+    "occupation": "Scientist",
+    "achievements": [
+      "Discovered the cell",
+      "Formulated Hooke's Law of elasticity"
+    ],
+    "yearBorn": 1635,
+    "yearDied": 1703
   }
 ]

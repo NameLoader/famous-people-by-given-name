@@ -42,5 +42,19 @@
     ],
     "yearBorn": 1397,
     "yearDied": 1475
+  },
+  {
+    "fullName": "Paolo Rossi",
+    "givenNames": [
+      "Paolo"
+    ],
+    "familyName": "Rossi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Rossi",
+    "occupation": "Former footballer",
+    "achievements": [
+      "Top scorer and World Cup winner with Italy in 1982"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 2020
   }
 ]

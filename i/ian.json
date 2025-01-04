@@ -46,5 +46,34 @@
       "Former world record holder in multiple freestyle events"
     ],
     "yearBorn": 1982
+  },
+  {
+    "fullName": "Ian Curtis",
+    "givenNames": [
+      "Ian",
+      "Kevin"
+    ],
+    "familyName": "Curtis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Curtis",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "Lead singer of the post-punk band Joy Division"
+    ],
+    "yearBorn": 1956,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Ian Somerhalder",
+    "givenNames": [
+      "Ian",
+      "Joseph"
+    ],
+    "familyName": "Somerhalder",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Somerhalder",
+    "occupation": "Actor, Model, Director",
+    "achievements": [
+      "Known for his roles in Lost and The Vampire Diaries"
+    ],
+    "yearBorn": 1978
   }
 ]

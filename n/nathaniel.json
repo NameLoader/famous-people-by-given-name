@@ -27,5 +27,32 @@
       "Fronted the band Nathaniel Rateliff & The Night Sweats",
       "Known for his soulful vocals and Americana sound"
     ]
+  },
+  {
+    "fullName": "Nathaniel Mackey",
+    "givenNames": [
+      "Nathaniel"
+    ],
+    "familyName": "Mackey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Mackey",
+    "occupation": "Poet, essayist",
+    "achievements": [
+      "National Book Award for Poetry winner",
+      "Known for his experimental and philosophical poetry"
+    ]
+  },
+  {
+    "fullName": "Nathaniel Philbrick",
+    "givenNames": [
+      "Nathaniel"
+    ],
+    "familyName": "Philbrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Philbrick",
+    "occupation": "Historian, Author",
+    "achievements": [
+      "Won the National Book Award for Nonfiction for 'In the Heart of the Sea: The Tragedy of the Whaleship Essex'",
+      "Known for his historical narratives focusing on maritime history and early America"
+    ],
+    "yearBorn": 1956
   }
 ]

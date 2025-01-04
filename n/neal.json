@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1926,
     "yearDied": 1968
+  },
+  {
+    "fullName": "Neal Stephenson",
+    "givenNames": [
+      "Neal",
+      "Town"
+    ],
+    "familyName": "Stephenson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neal_Stephenson",
+    "occupation": "Novelist",
+    "achievements": [
+      "Science fiction author known for works like Snow Crash and Cryptonomicon.",
+      "Influential in the cyberpunk genre."
+    ],
+    "yearBorn": 1958
   }
 ]

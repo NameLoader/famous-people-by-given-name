@@ -2,7 +2,8 @@
   {
     "fullName": "Andreas Vesalius",
     "givenNames": [
-      "Andreas"
+      "Andreas",
+      "Andries"
     ],
     "familyName": "Vesalius",
     "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Vesalius",
@@ -43,5 +44,47 @@
       "Won four ATP Tour singles titles."
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Andreas Christensen",
+    "givenNames": [
+      "Andreas",
+      "Bødtker"
+    ],
+    "familyName": "Christensen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Christensen",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a center-back for FC Barcelona and the Denmark national team.",
+      "Won the UEFA Champions League with Chelsea in 2021."
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Andreas Gursky",
+    "givenNames": [
+      "Andreas"
+    ],
+    "familyName": "Gursky",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Gursky",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for his large-format photographic works depicting landscapes and urban scenes.",
+      "His photographs often explore themes of globalization, consumerism, and the built environment."
+    ],
+    "yearBorn": 1955
+  },
+  {
+    "fullName": "Andreas Mikkelsen",
+    "givenNames": [
+      "Andreas"
+    ],
+    "familyName": "Mikkelsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Mikkelsen",
+    "occupation": "Rally driver",
+    "achievements": [
+      "Won the WRC-2 championship in 2016.",
+      "Finished on the podium multiple times in the World Rally Championship."
+    ]
   }
 ]

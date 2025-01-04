@@ -42,5 +42,19 @@
       "Served as Minister Delegate for European Affairs from 2020 to 2022."
     ],
     "yearBorn": 1981
+  },
+  {
+    "fullName": "Clément Noël",
+    "givenNames": [
+      "Clément"
+    ],
+    "familyName": "Noël",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_No%C3%ABl",
+    "occupation": "Alpine skier",
+    "achievements": [
+      "Olympic slalom champion (2022)",
+      "Multiple World Cup wins in slalom"
+    ],
+    "yearBorn": 1997
   }
 ]

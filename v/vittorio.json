@@ -42,5 +42,21 @@
       "Known for his powerful voice and charismatic stage presence"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Vittorio Emanuele II",
+    "givenNames": [
+      "Vittorio",
+      "Emanuele"
+    ],
+    "familyName": "Savoia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Emmanuel_II",
+    "occupation": "King of Italy",
+    "achievements": [
+      "Unified Italy",
+      "First King of a unified Italy"
+    ],
+    "yearBorn": 1820,
+    "yearDied": 1878
   }
 ]

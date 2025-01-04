@@ -27,5 +27,32 @@
       "Daughter of Romano Mussolini, Benito Mussolini's son"
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Alessandra Facchinetti",
+    "givenNames": [
+      "Alessandra"
+    ],
+    "familyName": "Facchinetti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandra_Facchinetti",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Creative director of Gucci",
+      "Founded her own label, Alessandra Facchinetti"
+    ]
+  },
+  {
+    "fullName": "Alessandra Torresani",
+    "givenNames": [
+      "Alessandra"
+    ],
+    "familyName": "Torresani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessandra_Torresani",
+    "occupation": "Actress, Musician",
+    "achievements": [
+      "Known for roles in TV series like 'Caprica' and 'The Big Bang Theory'",
+      "Musician with the band 'The Last Vegas'"
+    ],
+    "yearBorn": 1987
   }
 ]

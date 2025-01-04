@@ -43,5 +43,19 @@
     ],
     "yearBorn": 1492,
     "yearDied": 1556
+  },
+  {
+    "fullName": "Pietro Annigoni",
+    "givenNames": [
+      "Pietro"
+    ],
+    "familyName": "Annigoni",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Annigoni",
+    "occupation": "Painter",
+    "achievements": [
+      "Known for his portraits of Queen Elizabeth II and Pope John XXIII"
+    ],
+    "yearBorn": 1910,
+    "yearDied": 1988
   }
 ]

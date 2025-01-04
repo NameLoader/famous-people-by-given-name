@@ -43,5 +43,20 @@
       "Popularized the song 'Daddy Don't You Walk So Far'"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Wayne Rooney",
+    "givenNames": [
+      "Wayne",
+      "Mark"
+    ],
+    "familyName": "Rooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Rooney",
+    "occupation": "Footballer (Soccer Player)",
+    "achievements": [
+      "England's all-time leading goalscorer.",
+      "Won numerous trophies with Manchester United."
+    ],
+    "yearBorn": 1985
   }
 ]

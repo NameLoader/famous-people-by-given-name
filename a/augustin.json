@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1789,
     "yearDied": 1857
+  },
+  {
+    "fullName": "Augustin Thierry",
+    "givenNames": [
+      "Augustin"
+    ],
+    "familyName": "Thierry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustin_Thierry",
+    "occupation": "Historian, Writer",
+    "achievements": [
+      "Pioneering work on the history of France in the Middle Ages",
+      "Known for his romanticized and nationalistic approach to history"
+    ],
+    "yearBorn": 1795,
+    "yearDied": 1856
   }
 ]

@@ -54,5 +54,33 @@
       "Won multiple Champions League titles as a manager with AC Milan and Real Madrid"
     ],
     "yearBorn": 1959
+  },
+  {
+    "fullName": "Carlo Maria Giulini",
+    "givenNames": [
+      "Carlo",
+      "Maria"
+    ],
+    "familyName": "Giulini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Maria_Giulini",
+    "occupation": "Conductor",
+    "achievements": [
+      "Renowned conductor known for his interpretations of Italian operas"
+    ],
+    "yearBorn": 1914,
+    "yearDied": 2005
+  },
+  {
+    "fullName": "Carlo Rubbia",
+    "givenNames": [
+      "Carlo"
+    ],
+    "familyName": "Rubbia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlo_Rubbia",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (1984) for the discovery of the W and Z bosons"
+    ],
+    "yearBorn": 1934
   }
 ]

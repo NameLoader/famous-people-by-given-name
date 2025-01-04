@@ -28,5 +28,18 @@
       "Hosted the CBS daytime talk show 'The Talk'"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Aisha Dee",
+    "givenNames": [
+      "Aisha"
+    ],
+    "familyName": "Dee",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aisha_Dee",
+    "occupation": "Actress and singer",
+    "achievements": [
+      "Known for her role as Kat Edison in the television series The Bold Type"
+    ],
+    "yearBorn": 1993
   }
 ]

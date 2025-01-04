@@ -28,5 +28,34 @@
       "Transitioned to professional boxing with exhibition bouts against Floyd Mayweather Jr. and KSI"
     ],
     "yearBorn": 1995
+  },
+  {
+    "fullName": "Logan Couture",
+    "givenNames": [
+      "Logan"
+    ],
+    "familyName": "Couture",
+    "wikipedia": "https://en.wikipedia.org/wiki/Logan_Couture",
+    "occupation": "Professional Ice Hockey Player",
+    "achievements": [
+      "Plays center for the San Jose Sharks of the NHL",
+      "Won the Stanley Cup with the Sharks in 2016"
+    ],
+    "yearBorn": 1989
+  },
+  {
+    "fullName": "Logan Browning",
+    "givenNames": [
+      "Logan",
+      "Laurice"
+    ],
+    "familyName": "Browning",
+    "wikipedia": "https://en.wikipedia.org/wiki/Logan_Browning",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in series like 'Hit the Floor' and 'Dear White People'",
+      "Received critical acclaim for her performances"
+    ],
+    "yearBorn": 1989
   }
 ]

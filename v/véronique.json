@@ -14,5 +14,18 @@
       "Known for her distinctive voice and poetic lyrics"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Véronique Tadjo",
+    "givenNames": [
+      "Véronique"
+    ],
+    "familyName": "Tadjo",
+    "wikipedia": "https://en.wikipedia.org/wiki/V%C3%A9ronique_Tadjo",
+    "occupation": "Novelist, poet, essayist",
+    "achievements": [
+      "Won the Grand prix littéraire d'Afrique noire in 2001.",
+      "Her works explore themes of colonialism, feminism and African identity."
+    ]
   }
 ]

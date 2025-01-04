@@ -13,5 +13,20 @@
       "Starred in films such as A.I. Artificial Intelligence (2001) and Secondhand Lions (2003)"
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Haley Reinhart",
+    "givenNames": [
+      "Haley",
+      "Elizabeth"
+    ],
+    "familyName": "Reinhart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haley_Reinhart",
+    "occupation": "Singer",
+    "achievements": [
+      "Third-place finalist on the tenth season of American Idol",
+      "Released successful albums including 'Listen Up!' and 'Better'"
+    ],
+    "yearBorn": 1990
   }
 ]

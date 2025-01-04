@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1888,
     "yearDied": 1993
+  },
+  {
+    "fullName": "Inge Morath",
+    "givenNames": [
+      "Inge",
+      "Ingeborg Hermine"
+    ],
+    "familyName": "Morath",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inge_Morath",
+    "occupation": "Photographer",
+    "achievements": [
+      "Known for her portraiture and documentary photography",
+      "Longtime collaborator with author and playwright Arthur Miller"
+    ],
+    "yearBorn": 1923,
+    "yearDied": 2002
   }
 ]

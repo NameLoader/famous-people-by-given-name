@@ -28,20 +28,5 @@
       "President of Harvard University"
     ],
     "yearBorn": 1954
-  },
-  {
-    "fullName": "Lawrence Fishburne",
-    "givenNames": [
-      "Laurence",
-      "John"
-    ],
-    "familyName": "Fishburne",
-    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Fishburne",
-    "occupation": "Actor, Producer",
-    "achievements": [
-      "Known for roles in films like 'The Matrix', 'Boyz n the Hood', and 'Apocalypse Now'",
-      "Academy Award nominee"
-    ],
-    "yearBorn": 1961
   }
 ]

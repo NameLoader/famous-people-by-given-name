@@ -1,0 +1,45 @@
+[
+  {
+    "fullName": "Chloe Kim",
+    "givenNames": [
+      "Chloe"
+    ],
+    "familyName": "Kim",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chloe_Kim",
+    "occupation": "Snowboarder",
+    "achievements": [
+      "Olympic gold medalist in halfpipe snowboarding (2018, 2022)",
+      "Six-time X Games champion"
+    ],
+    "yearBorn": 2000
+  },
+  {
+    "fullName": "Chloe Grace Moretz",
+    "givenNames": [
+      "Chloë",
+      "Grace"
+    ],
+    "familyName": "Moretz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chlo%C3%AB_Grace_Moretz",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Kick-Ass', 'Carrie', and 'Let Me In'"
+    ],
+    "yearBorn": 1997
+  },
+  {
+    "fullName": "Chloe Sevigny",
+    "givenNames": [
+      "Chloë",
+      "Stevens"
+    ],
+    "familyName": "Sevigny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chlo%C3%AB_Sevigny",
+    "occupation": "Actress, Model",
+    "achievements": [
+      "Academy Award nominee for Best Supporting Actress ('Boys Don't Cry')",
+      "Known for roles in independent films and television series"
+    ],
+    "yearBorn": 1974
+  }
+]

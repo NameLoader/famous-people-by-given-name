@@ -41,5 +41,20 @@
       "Published collections of short stories and essays"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Miranda Lambert",
+    "givenNames": [
+      "Miranda",
+      "Leigh"
+    ],
+    "familyName": "Lambert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Lambert",
+    "occupation": "Singer, Songwriter",
+    "achievements": [
+      "One of the most successful country music artists of the 21st century",
+      "Won numerous awards including Grammy Awards, Academy of Country Music Awards, and Country Music Association Awards"
+    ],
+    "yearBorn": 1983
   }
 ]

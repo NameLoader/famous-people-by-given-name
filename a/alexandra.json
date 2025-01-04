@@ -1,19 +1,5 @@
 [
   {
-    "fullName": "Alexandra Ocasio-Cortez",
-    "givenNames": [
-      "Alexandria"
-    ],
-    "familyName": "Ocasio-Cortez",
-    "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
-    "occupation": "Politician",
-    "achievements": [
-      "Youngest woman to serve in the United States Congress",
-      "Advocate for progressive policies such as Medicare for All and the Green New Deal"
-    ],
-    "yearBorn": 1989
-  },
-  {
     "fullName": "Alexandra Daddario",
     "givenNames": [
       "Alexandra",
@@ -27,5 +13,49 @@
       "Appeared in numerous television series including 'True Detective'"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Alexandra Feodorovna",
+    "givenNames": [
+      "Alexandra"
+    ],
+    "familyName": "Feodorovna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Alix_of_Hesse)",
+    "occupation": "Empress consort of Russia",
+    "achievements": [
+      "Last Empress of Russia, known for her devotion to her family and religious faith."
+    ],
+    "yearBorn": 1872,
+    "yearDied": 1918
+  },
+  {
+    "fullName": "Alexandra Burke",
+    "givenNames": [
+      "Alexandra",
+      "Imelda",
+      "Cecelia",
+      "Ewen"
+    ],
+    "familyName": "Burke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandra_Burke",
+    "occupation": "Singer, Actress",
+    "achievements": [
+      "Winner of the fifth series of The X Factor (UK)."
+    ],
+    "yearBorn": 1988
+  },
+  {
+    "fullName": "Alexandra Ocasio-Cortez",
+    "givenNames": [
+      "Alexandria"
+    ],
+    "familyName": "Ocasio-Cortez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "occupation": "Politician",
+    "achievements": [
+      "Youngest woman ever elected to the United States Congress",
+      "Prominent advocate for progressive policies"
+    ],
+    "yearBorn": 1989
   }
 ]

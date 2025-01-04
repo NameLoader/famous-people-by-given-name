@@ -46,5 +46,22 @@
     ],
     "yearBorn": 1905,
     "yearDied": 1975
+  },
+  {
+    "fullName": "Lionel Hampton",
+    "givenNames": [
+      "Lionel",
+      "Leo"
+    ],
+    "familyName": "Hampton",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Hampton",
+    "occupation": "Jazz musician, vibraphonist, bandleader",
+    "achievements": [
+      "Pioneer of the vibraphone in jazz music",
+      "Led his own influential big band for decades",
+      "Collaborated with numerous jazz legends"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 2002
   }
 ]

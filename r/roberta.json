@@ -27,5 +27,31 @@
       "Won ten WTA singles titles"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Roberta Guaspari",
+    "givenNames": [
+      "Roberta"
+    ],
+    "familyName": "Guaspari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberta_Guaspari",
+    "occupation": "Violinist, educator",
+    "achievements": [
+      "Founded the Harlem String Players",
+      "Subject of the documentary 'Small Wonders'"
+    ]
+  },
+  {
+    "fullName": "Roberta Metsola",
+    "givenNames": [
+      "Roberta"
+    ],
+    "familyName": "Metsola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Roberta_Metsola",
+    "occupation": "Politician",
+    "achievements": [
+      "President of the European Parliament since 2022"
+    ],
+    "yearBorn": 1979
   }
 ]

@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1898,
     "yearDied": 1990
+  },
+  {
+    "fullName": "Armand Peugeot",
+    "givenNames": [
+      "Armand"
+    ],
+    "familyName": "Peugeot",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armand_Peugeot",
+    "occupation": "Industrialist",
+    "achievements": [
+      "Co-founder of the Peugeot automotive company",
+      "Pioneer in bicycle and automobile manufacturing"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1915
   }
 ]

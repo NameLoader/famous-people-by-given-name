@@ -12,5 +12,19 @@
       "Considered one of the most influential video game composers of all time"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Koji Yakusho",
+    "givenNames": [
+      "Kōji"
+    ],
+    "familyName": "Yakusho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koji_Yakusho",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award nomination for Best Actor in a Supporting Role for his performance in Shall We Dance?",
+      "Known for roles in films like 13 Assassins and Memoirs of a Geisha"
+    ],
+    "yearBorn": 1957
   }
 ]

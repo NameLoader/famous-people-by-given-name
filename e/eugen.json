@@ -15,21 +15,6 @@
     "yearDied": 1922
   },
   {
-    "fullName": "Eugen Ionesco",
-    "givenNames": [
-      "Eugène"
-    ],
-    "familyName": "Ionesco",
-    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
-    "occupation": "Playwright, director, essayist",
-    "achievements": [
-      "Key figure in the Theatre of the Absurd",
-      "Known for plays like 'The Bald Soprano' and 'Rhinoceros'"
-    ],
-    "yearBorn": 1909,
-    "yearDied": 1994
-  },
-  {
     "fullName": "Eugen Weber",
     "givenNames": [
       "Eugen",
@@ -44,5 +29,20 @@
     ],
     "yearBorn": 1925,
     "yearDied": 2007
+  },
+  {
+    "fullName": "Eugen Ionesco",
+    "givenNames": [
+      "Eugène"
+    ],
+    "familyName": "Ionesco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
+    "occupation": "Playwright, essayist, director",
+    "achievements": [
+      "Pioneer of absurdist theatre",
+      "Known for plays like 'The Bald Soprano' and 'Rhinoceros'"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1994
   }
 ]

@@ -24,5 +24,31 @@
       "Starred in 'The Hobbit' film trilogy and the television series 'Poldark'"
     ],
     "yearBorn": 1983
+  },
+  {
+    "fullName": "Aidan Quinn",
+    "givenNames": [
+      "Aidan"
+    ],
+    "familyName": "Quinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aidan_Quinn",
+    "occupation": "Actor",
+    "achievements": [
+      "Nominated for an Academy Award for Best Supporting Actor for his role in 'Desperately Seeking Susan'"
+    ],
+    "yearBorn": 1958
+  },
+  {
+    "fullName": "Aidan Gallagher",
+    "givenNames": [
+      "Aidan"
+    ],
+    "familyName": "Gallagher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aidan_Gallagher",
+    "occupation": "Actor, Singer-Songwriter",
+    "achievements": [
+      "Known for his role as Number Five in 'The Umbrella Academy'"
+    ],
+    "yearBorn": 2003
   }
 ]

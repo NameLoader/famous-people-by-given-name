@@ -15,18 +15,6 @@
     "yearBorn": 1970
   },
   {
-    "fullName": "Claudia Kishi",
-    "givenNames": [
-      "Claudia"
-    ],
-    "familyName": "Kishi",
-    "wikipedia": "https://en.wikipedia.org/wiki/The_Baby-Sitters_Club#Claudia_Lynn_Kishi",
-    "occupation": "Fictional Character",
-    "achievements": [
-      "Popular character in the Baby-Sitters Club book series"
-    ]
-  },
-  {
     "fullName": "Claudia Wells",
     "givenNames": [
       "Claudia"
@@ -38,5 +26,34 @@
       "Known for her role as Jennifer Parker in 'Back to the Future'"
     ],
     "yearBorn": 1966
+  },
+  {
+    "fullName": "Claudia Cardinale",
+    "givenNames": [
+      "Claudia",
+      "Claude",
+      "Joséphine",
+      "Rose"
+    ],
+    "familyName": "Cardinale",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Cardinale",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in numerous Italian and French films",
+      "Won awards at the Cannes Film Festival and Venice Film Festival"
+    ],
+    "yearBorn": 1938
+  },
+  {
+    "fullName": "Claudia Kishi",
+    "givenNames": [
+      "Claudia"
+    ],
+    "familyName": "Kishi",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Baby-Sitters_Club#Claudia_Lynn_Kishi",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "One of the main characters in the Baby-Sitters Club book series"
+    ]
   }
 ]

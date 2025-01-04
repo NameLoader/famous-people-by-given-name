@@ -14,5 +14,18 @@
       "First woman to shoot a 59 in a professional tournament"
     ],
     "yearBorn": 1970
+  },
+  {
+    "fullName": "Annika Beck",
+    "givenNames": [
+      "Annika"
+    ],
+    "familyName": "Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Annika_Beck",
+    "occupation": "Professional tennis player",
+    "achievements": [
+      "Reached a career-high WTA ranking of No. 36"
+    ],
+    "yearBorn": 1994
   }
 ]

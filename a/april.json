@@ -25,5 +25,17 @@
       "Popular character on the NBC sitcom 'Parks and Recreation'",
       "Known for her sarcastic wit and deadpan delivery"
     ]
+  },
+  {
+    "fullName": "April O'Neil",
+    "givenNames": [
+      "April"
+    ],
+    "familyName": "O'Neil",
+    "wikipedia": "https://en.wikipedia.org/wiki/April_O%27Neil",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "A reporter for Channel 6 News in the Teenage Mutant Ninja Turtles franchise"
+    ]
   }
 ]

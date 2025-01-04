@@ -27,5 +27,19 @@
       "Won the Premier League and FA Cup with Arsenal"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Mathieu van der Poel",
+    "givenNames": [
+      "Mathieu"
+    ],
+    "familyName": "van der Poel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mathieu_van_der_Poel",
+    "occupation": "Cyclist",
+    "achievements": [
+      "World Champion in Cyclocross (multiple times)",
+      "Winner of stages in the Tour de France"
+    ],
+    "yearBorn": 1995
   }
 ]

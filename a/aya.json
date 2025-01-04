@@ -27,5 +27,18 @@
       "Successful singing career with several hit singles"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Aya Hirano",
+    "givenNames": [
+      "Aya"
+    ],
+    "familyName": "Hirano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aya_Hirano",
+    "occupation": "Voice actress, singer",
+    "achievements": [
+      "Known for voicing Konata Izumi in Lucky Star"
+    ],
+    "yearBorn": 1987
   }
 ]

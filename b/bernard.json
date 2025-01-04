@@ -2,8 +2,8 @@
   {
     "fullName": "Bernard Shaw",
     "givenNames": [
-      "Bernard",
-      "George"
+      "George",
+      "Bernard"
     ],
     "familyName": "Shaw",
     "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
@@ -63,5 +63,33 @@
       "Known for his defensive skills and longevity in the sport"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Bernard Herrmann",
+    "givenNames": [
+      "Bernard"
+    ],
+    "familyName": "Herrmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Herrmann",
+    "occupation": "Composer",
+    "achievements": [
+      "Scored numerous Alfred Hitchcock films",
+      "Won Academy Award for Best Original Score for 'Psycho'"
+    ],
+    "yearBorn": 1911,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Bernard Cornwell",
+    "givenNames": [
+      "Bernard"
+    ],
+    "familyName": "Cornwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Cornwell",
+    "occupation": "Author",
+    "achievements": [
+      "Bestselling author known for historical fiction novels, particularly the Sharpe series"
+    ],
+    "yearBorn": 1944
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "fullName": "Masatoshi Koshiba",
+    "givenNames": [
+      "Masatoshi"
+    ],
+    "familyName": "Koshiba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba",
+    "occupation": "Physicist",
+    "achievements": [
+      "Nobel Prize in Physics (2002)",
+      "Discovery of neutrinos from Supernova 87A",
+      "Pioneer in neutrino astronomy"
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2020
+  }
+]

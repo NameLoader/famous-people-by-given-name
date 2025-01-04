@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1485,
     "yearDied": 1547
+  },
+  {
+    "fullName": "Sebastiano Ricci",
+    "givenNames": [
+      "Sebastiano"
+    ],
+    "familyName": "Ricci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sebastiano_Ricci",
+    "occupation": "Painter",
+    "achievements": [
+      "Venetian painter known for his Rococo style.",
+      "Produced numerous altarpieces and frescoes."
+    ],
+    "yearBorn": 1659,
+    "yearDied": 1734
   }
 ]

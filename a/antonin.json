@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1936,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Antonin Artaud",
+    "givenNames": [
+      "Antonin"
+    ],
+    "familyName": "Artaud",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antonin_Artaud",
+    "occupation": "Writer, Poet, Actor, Dramatist",
+    "achievements": [
+      "Pioneer of the Theatre of Cruelty",
+      "Influential figure in surrealism and avant-garde theatre"
+    ],
+    "yearBorn": 1896,
+    "yearDied": 1948
   }
 ]

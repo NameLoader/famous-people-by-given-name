@@ -58,5 +58,39 @@
     ],
     "yearBorn": 1880,
     "yearDied": 1965
+  },
+  {
+    "fullName": "Frances Hodgson Burnett",
+    "givenNames": [
+      "Frances",
+      "Eliza",
+      "Hodgson"
+    ],
+    "familyName": "Burnett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett",
+    "occupation": "Novelist, Playwright",
+    "achievements": [
+      "Author of classic children's novels like 'A Little Princess' and 'The Secret Garden'",
+      "Prolific writer of both fiction and non-fiction"
+    ],
+    "yearBorn": 1849,
+    "yearDied": 1924
+  },
+  {
+    "fullName": "Frances Ellen Watkins Harper",
+    "givenNames": [
+      "Frances",
+      "Ellen",
+      "Watkins"
+    ],
+    "familyName": "Harper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Ellen_Watkins_Harper",
+    "occupation": "Poet, novelist, short story writer, and activist",
+    "achievements": [
+      "Pioneer in African-American literature",
+      "Prominent abolitionist and women's rights advocate"
+    ],
+    "yearBorn": 1825,
+    "yearDied": 1911
   }
 ]

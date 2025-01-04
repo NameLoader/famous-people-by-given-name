@@ -55,5 +55,19 @@
     "achievements": [],
     "yearBorn": 1949,
     "yearDied": 2002
+  },
+  {
+    "fullName": "Linda Blair",
+    "givenNames": [
+      "Linda",
+      "Denise"
+    ],
+    "familyName": "Blair",
+    "wikipedia": "https://en.wikipedia.org/wiki/Linda_Blair",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her role as Regan MacNeil in the horror film 'The Exorcist'"
+    ],
+    "yearBorn": 1959
   }
 ]

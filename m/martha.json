@@ -43,5 +43,23 @@
     ],
     "yearBorn": 1908,
     "yearDied": 1998
+  },
+  {
+    "fullName": "Martha Washington",
+    "givenNames": [
+      "Martha",
+      "Dandridge",
+      "Custis"
+    ],
+    "familyName": "Washington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Washington",
+    "occupation": "First Lady of the United States",
+    "achievements": [
+      "Wife of George Washington, the first President of the United States",
+      "Known for her hospitality and social grace",
+      "Played a significant role in supporting her husband during the American Revolution"
+    ],
+    "yearBorn": 1731,
+    "yearDied": 1802
   }
 ]

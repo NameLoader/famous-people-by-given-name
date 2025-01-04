@@ -45,5 +45,21 @@
     ],
     "yearBorn": 1870,
     "yearDied": 1953
+  },
+  {
+    "fullName": "Ivan Goncharov",
+    "givenNames": [
+      "Ivan",
+      "Aleksandrovich"
+    ],
+    "familyName": "Goncharov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ivan_Goncharov",
+    "occupation": "Novelist, Poet",
+    "achievements": [
+      "Authored the classic novel *Oblomov*, a masterpiece of Russian literature.",
+      "Known for his insightful portrayal of social and psychological themes."
+    ],
+    "yearBorn": 1812,
+    "yearDied": 1891
   }
 ]

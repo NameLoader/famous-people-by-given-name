@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1928,
     "yearDied": 1991
+  },
+  {
+    "fullName": "Serge Ibaka",
+    "givenNames": [
+      "Serge",
+      "Jonás"
+    ],
+    "familyName": "Ibaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Serge_Ibaka",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "NBA Champion (2014)",
+      "3x NBA All-Defensive First Team selection"
+    ],
+    "yearBorn": 1989
   }
 ]

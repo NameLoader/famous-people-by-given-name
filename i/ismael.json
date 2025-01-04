@@ -12,5 +12,34 @@
       "Popular in Spain and Latin America"
     ],
     "yearBorn": 1974
+  },
+  {
+    "fullName": "Ismael Rivera",
+    "givenNames": [
+      "Ismael"
+    ],
+    "familyName": "Rivera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ismael_Rivera",
+    "occupation": "Singer, musician",
+    "achievements": [
+      "Considered one of the most important salsa singers of all time.",
+      "Known for his powerful voice and improvisational skills."
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1987
+  },
+  {
+    "fullName": "Ismael Bennacer",
+    "givenNames": [
+      "Ismael"
+    ],
+    "familyName": "Bennacer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Bennacer",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a midfielder for AC Milan and the Algerian national team.",
+      "Won the Africa Cup of Nations with Algeria in 2019."
+    ],
+    "yearBorn": 1997
   }
 ]

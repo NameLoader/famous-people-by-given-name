@@ -25,5 +25,21 @@
       "Previously served as Work and Pensions Secretary."
     ],
     "yearBorn": 1971
+  },
+  {
+    "fullName": "Thérèse de Lisieux",
+    "givenNames": [
+      "Marie",
+      "Françoise-Thérèse"
+    ],
+    "familyName": "Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux",
+    "occupation": "Carmelite nun, Doctor of the Church",
+    "achievements": [
+      "Known for her writings on spiritual childhood and devotion to Jesus",
+      "Canonized in 1925 and declared a Doctor of the Church in 1997"
+    ],
+    "yearBorn": 1873,
+    "yearDied": 1897
   }
 ]

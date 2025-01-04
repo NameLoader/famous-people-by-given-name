@@ -1,0 +1,42 @@
+[
+  {
+    "fullName": "Leroy Anderson",
+    "givenNames": [
+      "Leroy"
+    ],
+    "familyName": "Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leroy_Anderson",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for light orchestral pieces like 'Blue Tango' and 'Sleigh Ride'"
+    ],
+    "yearBorn": 1908,
+    "yearDied": 1975
+  },
+  {
+    "fullName": "Leroy Sane",
+    "givenNames": [
+      "Leroy",
+      "Aziz"
+    ],
+    "familyName": "Sane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leroy_San%C3%A9",
+    "occupation": "Footballer",
+    "achievements": [
+      "Plays as a winger for Bayern Munich and the German national team"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Leroy Jenkins",
+    "givenNames": [
+      "Leeroy"
+    ],
+    "familyName": "Jenkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leeroy_Jenkins",
+    "occupation": "World of Warcraft Player (Meme)",
+    "achievements": [
+      "Became an internet meme after a video of him charging into battle alone went viral"
+    ]
+  }
+]

@@ -10,5 +10,20 @@
     "occupation": "Television personality, chef, author",
     "achievements": [],
     "yearBorn": 1968
+  },
+  {
+    "fullName": "Rachael Leigh Cook",
+    "givenNames": [
+      "Rachael",
+      "Leigh"
+    ],
+    "familyName": "Cook",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachael_Leigh_Cook",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'She's All That' and 'The Baby-Sitters Club'",
+      "Voice actress in animated series and video games"
+    ],
+    "yearBorn": 1979
   }
 ]

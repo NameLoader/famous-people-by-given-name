@@ -13,5 +13,21 @@
     ],
     "yearBorn": 1934,
     "yearDied": 1997
+  },
+  {
+    "fullName": "Shintaro Ishihara",
+    "givenNames": [
+      "Shintaro"
+    ],
+    "familyName": "Ishihara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shintaro_Ishihara",
+    "occupation": "Politician, Author",
+    "achievements": [
+      "Governor of Tokyo (1999-2012)",
+      "Member of the House of Representatives (1962-1974, 1986-1995)",
+      "Author of numerous books, including novels and political commentaries"
+    ],
+    "yearBorn": 1932,
+    "yearDied": 2022
   }
 ]

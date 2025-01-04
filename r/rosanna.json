@@ -28,5 +28,19 @@
       "Released a successful pop album in Ireland"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Rosanna Scotto",
+    "givenNames": [
+      "Rosanna"
+    ],
+    "familyName": "Scotto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosanna_Scotto",
+    "occupation": "Television Journalist",
+    "achievements": [
+      "Longtime anchor of Fox 5's Good Day New York",
+      "Award-winning journalist"
+    ],
+    "yearBorn": 1958
   }
 ]

@@ -35,7 +35,8 @@
   {
     "fullName": "Arnold Bennett",
     "givenNames": [
-      "Arnold"
+      "Arnold",
+      "Enoch"
     ],
     "familyName": "Bennett",
     "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Bennett",
@@ -46,5 +47,20 @@
     ],
     "yearBorn": 1867,
     "yearDied": 1931
+  },
+  {
+    "fullName": "Arnold Schoenberg",
+    "givenNames": [
+      "Arnold"
+    ],
+    "familyName": "Schoenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+    "occupation": "Composer, Music Theorist",
+    "achievements": [
+      "Developed twelve-tone technique",
+      "Influential figure in twentieth-century music"
+    ],
+    "yearBorn": 1874,
+    "yearDied": 1951
   }
 ]

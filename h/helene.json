@@ -12,5 +12,37 @@
       "Multiple ECHO awards winner"
     ],
     "yearBorn": 1984
+  },
+  {
+    "fullName": "Helene Mayer",
+    "givenNames": [
+      "Helene",
+      "Julie"
+    ],
+    "familyName": "Mayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helene_Mayer",
+    "occupation": "Fencer",
+    "achievements": [
+      "First Jewish athlete to win an Olympic medal for Germany",
+      "Olympic Silver medalist in foil (1928)"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1953
+  },
+  {
+    "fullName": "Helene Grimaud",
+    "givenNames": [
+      "Helene",
+      "Rose",
+      "Paule"
+    ],
+    "familyName": "Grimaud",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Grimaud",
+    "occupation": "Pianist",
+    "achievements": [
+      "Internationally renowned classical pianist",
+      "Grammy Award nominee"
+    ],
+    "yearBorn": 1969
   }
 ]

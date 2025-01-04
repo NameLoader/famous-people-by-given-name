@@ -29,5 +29,35 @@
     ],
     "yearBorn": 1900,
     "yearDied": 1983
+  },
+  {
+    "fullName": "Luis Miguel",
+    "givenNames": [
+      "Luis",
+      "Miguel"
+    ],
+    "familyName": "Gallego Basteri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Miguel",
+    "occupation": "Singer, songwriter, and actor",
+    "achievements": [
+      "Best-selling Latin American artist of all time",
+      "Won five Grammy Awards"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Luis Fonsi",
+    "givenNames": [
+      "Luis",
+      "Alfonso"
+    ],
+    "familyName": "Rodríguez López-Cepero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Fonsi",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Known for the hit song 'Despacito'",
+      "Won multiple Latin Grammy Awards"
+    ],
+    "yearBorn": 1978
   }
 ]

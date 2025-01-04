@@ -13,5 +13,19 @@
       "Emmy Award winner"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Heidi Fleiss",
+    "givenNames": [
+      "Heidi",
+      "Lynne"
+    ],
+    "familyName": "Fleiss",
+    "wikipedia": "https://en.wikipedia.org/wiki/Heidi_Fleiss",
+    "occupation": "Former madam",
+    "achievements": [
+      "Infamous for running a high-end prostitution ring in Los Angeles"
+    ],
+    "yearBorn": 1965
   }
 ]

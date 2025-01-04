@@ -41,5 +41,32 @@
       "Author of critically acclaimed novels such as 'The End' and 'A Novel'."
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Salvatore Adamo",
+    "givenNames": [
+      "Salvatore"
+    ],
+    "familyName": "Adamo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Adamo",
+    "occupation": "Singer-Songwriter",
+    "achievements": [
+      "Popular Italian and French singer known for romantic ballads"
+    ],
+    "yearBorn": 1943
+  },
+  {
+    "fullName": "Salvatore Sciarrino",
+    "givenNames": [
+      "Salvatore"
+    ],
+    "familyName": "Sciarrino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salvatore_Sciarrino",
+    "occupation": "Composer",
+    "achievements": [
+      "Known for his experimental and avant-garde compositions",
+      "Uses unconventional musical techniques and instrumentation"
+    ],
+    "yearBorn": 1947
   }
 ]

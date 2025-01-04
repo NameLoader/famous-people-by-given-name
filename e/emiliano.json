@@ -7,11 +7,25 @@
     ],
     "familyName": "Martínez",
     "wikipedia": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
-    "occupation": "Footballer",
+    "occupation": "Professional footballer",
     "achievements": [
       "Won the Copa América with Argentina in 2021.",
-      "Key member of Aston Villa Football Club."
+      "Known for his shot-stopping ability and eccentric personality."
     ],
     "yearBorn": 1992
+  },
+  {
+    "fullName": "Emiliano Moretti",
+    "givenNames": [
+      "Emiliano"
+    ],
+    "familyName": "Moretti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emiliano_Moretti",
+    "occupation": "Former professional footballer",
+    "achievements": [
+      "Played for several Italian clubs, including Udinese and Genoa.",
+      "Known for his defensive skills and leadership qualities."
+    ],
+    "yearBorn": 1981
   }
 ]

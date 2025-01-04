@@ -59,5 +59,20 @@
       "Columnist for The Sunday Times and The Sun"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Jeremy Irons",
+    "givenNames": [
+      "Jeremy",
+      "John"
+    ],
+    "familyName": "Irons",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Irons",
+    "occupation": "Actor",
+    "achievements": [
+      "Academy Award for Best Actor (Reversal of Fortune)",
+      "Tony Award for Best Actor in a Play (The Real Thing)"
+    ],
+    "yearBorn": 1947
   }
 ]

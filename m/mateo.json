@@ -1,16 +1,18 @@
 [
   {
-    "fullName": "Mateo Guidicelli",
+    "fullName": "Mateo Ricci",
     "givenNames": [
-      "Matteo"
+      "Matteo",
+      "Matthaeus"
     ],
-    "familyName": "Guidicelli",
-    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Guidicelli",
-    "occupation": "Actor, model, and musician",
+    "familyName": "Ricci",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matteo_Ricci",
+    "occupation": "Jesuit missionary",
     "achievements": [
-      "Known for his roles in Filipino television series and films",
-      "Has released several music albums"
+      "Introduced Western science and mathematics to China",
+      "Became a respected advisor to the Chinese emperor"
     ],
-    "yearBorn": 1986
+    "yearBorn": 1552,
+    "yearDied": 1610
   }
 ]

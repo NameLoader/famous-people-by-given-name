@@ -42,5 +42,51 @@
       "Known for her distinctive vocal style and blend of R&B, soul, and jazz"
     ],
     "yearBorn": 1958
+  },
+  {
+    "fullName": "Anita Garibaldi",
+    "givenNames": [
+      "Anita"
+    ],
+    "familyName": "Garibaldi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Garibaldi",
+    "occupation": "Patriot, Revolutionary",
+    "achievements": [
+      "Fought alongside her husband Giuseppe Garibaldi in the Italian Risorgimento.",
+      "Became a symbol of courage and patriotism."
+    ],
+    "yearBorn": 1821,
+    "yearDied": 1849
+  },
+  {
+    "fullName": "Anita Shreve",
+    "givenNames": [
+      "Anita",
+      "Hale"
+    ],
+    "familyName": "Shreve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Shreve",
+    "occupation": "Novelist",
+    "achievements": [
+      "Published numerous bestselling novels.",
+      "Known for her evocative portrayals of relationships and family life."
+    ],
+    "yearBorn": 1946,
+    "yearDied": 2018
+  },
+  {
+    "fullName": "Anita Hill",
+    "givenNames": [
+      "Anita",
+      "Faye"
+    ],
+    "familyName": "Hill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anita_Hill",
+    "occupation": "Lawyer, Professor",
+    "achievements": [
+      "Testified against Clarence Thomas during his Supreme Court confirmation hearings.",
+      "Raised awareness about sexual harassment in the workplace."
+    ],
+    "yearBorn": 1956
   }
 ]

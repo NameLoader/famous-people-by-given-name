@@ -28,5 +28,20 @@
       "Known for roles in films such as Casino Royale, The Dreamers, and Penny Dreadful"
     ],
     "yearBorn": 1980
+  },
+  {
+    "fullName": "Eva Perón",
+    "givenNames": [
+      "Eva"
+    ],
+    "familyName": "Perón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evita_(1996_film)",
+    "occupation": "Politician, Actress, First Lady of Argentina",
+    "achievements": [
+      "Championed the rights of the working class and poor in Argentina.",
+      "Became a cultural icon and symbol of Peronism."
+    ],
+    "yearBorn": 1919,
+    "yearDied": 1952
   }
 ]

@@ -18,9 +18,7 @@
   {
     "fullName": "Reginald Dyer",
     "givenNames": [
-      "Reginald",
-      "Edward",
-      "Harry"
+      "Reginald"
     ],
     "familyName": "Dyer",
     "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Dyer",
@@ -30,5 +28,20 @@
     ],
     "yearBorn": 1864,
     "yearDied": 1927
+  },
+  {
+    "fullName": "Reginald Owen",
+    "givenNames": [
+      "John",
+      "Reginald"
+    ],
+    "familyName": "Owen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Owen",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films such as 'The Hunchback of Notre Dame' and 'The Adventures of Robin Hood'."
+    ],
+    "yearBorn": 1887,
+    "yearDied": 1972
   }
 ]

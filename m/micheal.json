@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Micheal Jackson",
+    "givenNames": [
+      "Michael",
+      "Joseph"
+    ],
+    "familyName": "Jackson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "occupation": "Singer, songwriter, dancer",
+    "achievements": [
+      "King of Pop",
+      "Best-selling music artist of all time",
+      "Won 13 Grammy Awards"
+    ],
+    "yearBorn": 1958,
+    "yearDied": 2009
+  },
+  {
+    "fullName": "Micheal Phelps",
+    "givenNames": [
+      "Michael",
+      "Fred"
+    ],
+    "familyName": "Phelps",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Phelps",
+    "occupation": "Swimmer",
+    "achievements": [
+      "Most decorated Olympian of all time with 28 medals",
+      "Holds the record for most Olympic gold medals (23)"
+    ],
+    "yearBorn": 1985
+  },
+  {
+    "fullName": "Micheal Caine",
+    "givenNames": [
+      "Michael"
+    ],
+    "familyName": "Caine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Caine",
+    "occupation": "Actor",
+    "achievements": [
+      "Two Academy Awards for Best Supporting Actor",
+      "Knighted in 2000"
+    ],
+    "yearBorn": 1933
+  }
+]

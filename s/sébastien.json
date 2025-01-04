@@ -39,5 +39,21 @@
       "Won the Six Nations Championship with France in 2006 and 2010"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Sébastien Ogier",
+    "givenNames": [
+      "Sébastien",
+      "Eugène",
+      "Emile"
+    ],
+    "familyName": "Ogier",
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Ogier",
+    "occupation": "Rally Driver",
+    "achievements": [
+      "Eight-time World Rally Champion",
+      "Known for his precise driving and tactical skills"
+    ],
+    "yearBorn": 1983
   }
 ]

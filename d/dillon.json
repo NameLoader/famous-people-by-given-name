@@ -40,5 +40,33 @@
       "Played for the New York Mets and Toronto Blue Jays"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Dillon Brooks",
+    "givenNames": [
+      "Dillon"
+    ],
+    "familyName": "Brooks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dillon_Brooks",
+    "occupation": "Professional basketball player",
+    "achievements": [
+      "Plays for the Memphis Grizzlies in the NBA",
+      "Known for his defensive intensity and scoring ability"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Dillon Carmichael",
+    "givenNames": [
+      "Dillon"
+    ],
+    "familyName": "Carmichael",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dillon_Carmichael",
+    "occupation": "Country music singer",
+    "achievements": [
+      "Signed to the Big Loud Records label",
+      "Known for his traditional country sound"
+    ],
+    "yearBorn": 1993
   }
 ]

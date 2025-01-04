@@ -30,5 +30,36 @@
     ],
     "yearBorn": 1930,
     "yearDied": 2011
+  },
+  {
+    "fullName": "Derrick Coleman",
+    "givenNames": [
+      "Derrick",
+      "Demetrius"
+    ],
+    "familyName": "Coleman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derrick_Coleman",
+    "occupation": "Basketball Player",
+    "achievements": [
+      "NBA All-Star (four times)",
+      "NBA Rookie of the Year (1991)",
+      "Led the NBA in rebounding (twice)"
+    ],
+    "yearBorn": 1967
+  },
+  {
+    "fullName": "Derrick Lewis",
+    "givenNames": [
+      "Derrick",
+      "James"
+    ],
+    "familyName": "Lewis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derrick_Lewis",
+    "occupation": "Mixed Martial Artist",
+    "achievements": [
+      "UFC Heavyweight contender",
+      "Holds the record for most knockouts in UFC history"
+    ],
+    "yearBorn": 1985
   }
 ]

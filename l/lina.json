@@ -2,10 +2,7 @@
   {
     "fullName": "Lina Wertmüller",
     "givenNames": [
-      "Lina",
-      "Arcangela",
-      "Felice",
-      "Assunta"
+      "Lina"
     ],
     "familyName": "Wertmüller",
     "wikipedia": "https://en.wikipedia.org/wiki/Lina_Wertm%C3%BCller",
@@ -27,5 +24,19 @@
     "achievements": [
       "Protagonist of the Slayers fantasy light novel, manga and anime series"
     ]
+  },
+  {
+    "fullName": "Lina Medina",
+    "givenNames": [
+      "Lina",
+      "Marcela"
+    ],
+    "familyName": "Medina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lina_Medina",
+    "occupation": "Subject of medical study",
+    "achievements": [
+      "Youngest confirmed mother in history, giving birth at age five"
+    ],
+    "yearBorn": 1933
   }
 ]

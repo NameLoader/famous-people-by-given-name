@@ -10,5 +10,20 @@
     "achievements": [
       "Provided detailed confessions of witchcraft during the Scottish witch trials"
     ]
+  },
+  {
+    "fullName": "Isobel Campbell",
+    "givenNames": [
+      "Isobel"
+    ],
+    "familyName": "Campbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isobel_Campbell",
+    "occupation": "Singer-Songwriter, Musician",
+    "achievements": [
+      "Known for her work with the band Belle and Sebastian",
+      "Released successful solo albums",
+      "Collaborated with various artists including Mark Lanegan and The Pastels"
+    ],
+    "yearBorn": 1975
   }
 ]

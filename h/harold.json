@@ -59,5 +59,20 @@
     ],
     "yearBorn": 1899,
     "yearDied": 1978
+  },
+  {
+    "fullName": "Harold Bloom",
+    "givenNames": [
+      "Harold"
+    ],
+    "familyName": "Bloom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Bloom",
+    "occupation": "Literary critic and theorist",
+    "achievements": [
+      "Authored numerous influential books on literature and literary theory",
+      "Developed the concept of 'the anxiety of influence'"
+    ],
+    "yearBorn": 1930,
+    "yearDied": 2019
   }
 ]

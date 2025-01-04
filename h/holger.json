@@ -42,5 +42,20 @@
     "achievements": [],
     "yearBorn": 1941,
     "yearDied": 1974
+  },
+  {
+    "fullName": "Holger Czukay",
+    "givenNames": [
+      "Holger"
+    ],
+    "familyName": "Czukay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Holger_Czukay",
+    "occupation": "Musician, composer",
+    "achievements": [
+      "Member of the experimental rock band Can",
+      "Known for his innovative use of sampling and tape manipulation"
+    ],
+    "yearBorn": 1938,
+    "yearDied": 2017
   }
 ]

@@ -13,19 +13,6 @@
     "yearBorn": 1961
   },
   {
-    "fullName": "Armin Shimerman",
-    "givenNames": [
-      "Armin"
-    ],
-    "familyName": "Shimerman",
-    "wikipedia": "https://en.wikipedia.org/wiki/Armin_Shimerman",
-    "occupation": "Actor",
-    "achievements": [
-      "Known for his role as Quark in Star Trek: Deep Space Nine"
-    ],
-    "yearBorn": 1947
-  },
-  {
     "fullName": "Armin van Buuren",
     "givenNames": [
       "Armin",
@@ -40,5 +27,18 @@
       "One of the world's most popular trance DJs"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Armin Meiwes",
+    "givenNames": [
+      "Armin"
+    ],
+    "familyName": "Meiwes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armin_Meiwes",
+    "occupation": "Convicted murderer",
+    "achievements": [
+      "Known for the cannibalistic murder of Bernd Jürgen Brandes in 2001."
+    ],
+    "yearBorn": 1961
   }
 ]

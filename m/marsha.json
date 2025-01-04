@@ -3,7 +3,7 @@
     "fullName": "Marsha P. Johnson",
     "givenNames": [
       "Marsha",
-      "P."
+      "P"
     ],
     "familyName": "Johnson",
     "wikipedia": "https://en.wikipedia.org/wiki/Marsha_P._Johnson",
@@ -14,5 +14,20 @@
     ],
     "yearBorn": 1945,
     "yearDied": 1992
+  },
+  {
+    "fullName": "Marsha Warfield",
+    "givenNames": [
+      "Marsha",
+      "Francine"
+    ],
+    "familyName": "Warfield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsha_Warfield",
+    "occupation": "Comedian and actress",
+    "achievements": [
+      "Known for her stand-up comedy and appearances on 'The Tonight Show Starring Johnny Carson'",
+      "Starred as the sassy bailiff Roz Russell on the sitcom 'Night Court'"
+    ],
+    "yearBorn": 1954
   }
 ]

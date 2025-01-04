@@ -12,5 +12,19 @@
       "Starred in films by Federico Fellini and Michelangelo Antonioni"
     ],
     "yearBorn": 1946
+  },
+  {
+    "fullName": "Stefania Belmondo",
+    "givenNames": [
+      "Stefania"
+    ],
+    "familyName": "Belmondo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stefania_Belmondo",
+    "occupation": "Cross-country skier",
+    "achievements": [
+      "Won two Olympic medals (silver and bronze) in cross-country skiing.",
+      "Has won multiple World Championship medals."
+    ],
+    "yearBorn": 1969
   }
 ]

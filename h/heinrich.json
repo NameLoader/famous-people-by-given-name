@@ -2,9 +2,7 @@
   {
     "fullName": "Heinrich Heine",
     "givenNames": [
-      "Heinrich",
-      "Christian",
-      "Johann"
+      "Heinrich"
     ],
     "familyName": "Heine",
     "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
@@ -35,9 +33,7 @@
   {
     "fullName": "Heinrich Schliemann",
     "givenNames": [
-      "Heinrich",
-      "Johann",
-      "Ludwig"
+      "Heinrich"
     ],
     "familyName": "Schliemann",
     "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Schliemann",

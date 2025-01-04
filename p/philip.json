@@ -30,5 +30,20 @@
     ],
     "yearBorn": 1967,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Philip III Arrhidaeus",
+    "givenNames": [
+      "Philip",
+      "III"
+    ],
+    "familyName": "Arrhidaeus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Philip_III_of_Macedon",
+    "occupation": "King",
+    "achievements": [
+      "Ruled Macedon after Alexander the Great's death, though he was mentally disabled and largely under the control of regents"
+    ],
+    "yearBorn": 359,
+    "yearDied": 316
   }
 ]

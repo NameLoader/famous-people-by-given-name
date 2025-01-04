@@ -64,5 +64,36 @@
     ],
     "yearBorn": 1938,
     "yearDied": 1988
+  },
+  {
+    "fullName": "Raymond Kurzweil",
+    "givenNames": [
+      "Raymond"
+    ],
+    "familyName": "Kurzweil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Kurzweil",
+    "occupation": "Inventor, author, futurist",
+    "achievements": [
+      "Pioneer in artificial intelligence and optical character recognition",
+      "Author of bestselling books on futurism and technology"
+    ],
+    "yearBorn": 1948
+  },
+  {
+    "fullName": "Raymond Poincaré",
+    "givenNames": [
+      "Raymond",
+      "Nicolas",
+      "Landry"
+    ],
+    "familyName": "Poincaré",
+    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+    "occupation": "Politician",
+    "achievements": [
+      "President of France (1913-1920)",
+      "Prime Minister of France on several occasions"
+    ],
+    "yearBorn": 1860,
+    "yearDied": 1934
   }
 ]

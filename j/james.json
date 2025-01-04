@@ -62,5 +62,69 @@
       "Pioneer in filmmaking technology"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "James Watson",
+    "givenNames": [
+      "James",
+      "Dewey"
+    ],
+    "familyName": "Watson",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Watson",
+    "occupation": "Molecular biologist, geneticist",
+    "achievements": [
+      "Co-discoverer of the double helix structure of DNA",
+      "Nobel Prize in Physiology or Medicine (1962)"
+    ],
+    "yearBorn": 1928
+  },
+  {
+    "fullName": "James Madison",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Madison",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
+    "occupation": "Politician",
+    "achievements": [
+      "Fourth President of the United States",
+      "Father of the Constitution",
+      "Co-author of The Federalist Papers"
+    ],
+    "yearBorn": 1751,
+    "yearDied": 1836
+  },
+  {
+    "fullName": "James Cook",
+    "givenNames": [
+      "James"
+    ],
+    "familyName": "Cook",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
+    "occupation": "Explorer, Navigator",
+    "achievements": [
+      "Explored and mapped much of the Pacific Ocean",
+      "Discovered Australia's east coast",
+      "Made significant contributions to cartography and navigation"
+    ],
+    "yearBorn": 1728,
+    "yearDied": 1779
+  },
+  {
+    "fullName": "James Dean",
+    "givenNames": [
+      "James",
+      "Byron"
+    ],
+    "familyName": "Dean",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dean",
+    "occupation": "Actor",
+    "achievements": [
+      "Starred in Rebel Without a Cause, East of Eden, and Giant",
+      "Cultural icon of teenage rebellion",
+      "Died tragically young in a car accident"
+    ],
+    "yearBorn": 1931,
+    "yearDied": 1955
   }
 ]

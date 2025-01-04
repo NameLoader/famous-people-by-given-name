@@ -10,5 +10,19 @@
     "achievements": [
       "Protagonist of the Tekken fighting game series"
     ]
+  },
+  {
+    "fullName": "Kazuya Kamenashi",
+    "givenNames": [
+      "Kazuya"
+    ],
+    "familyName": "Kamenashi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazuya_Kamenashi",
+    "occupation": "Singer, actor",
+    "achievements": [
+      "Member of the popular Japanese boy band KAT-TUN.",
+      "Successful acting career in Japanese dramas and films."
+    ],
+    "yearBorn": 1986
   }
 ]

@@ -17,10 +17,7 @@
   {
     "fullName": "Fritz Lang",
     "givenNames": [
-      "Fritz",
-      "Friedrich",
-      "Christian",
-      "Anton"
+      "Fritz"
     ],
     "familyName": "Lang",
     "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Lang",
@@ -35,8 +32,8 @@
   {
     "fullName": "Fritz Kreisler",
     "givenNames": [
-      "Fritz",
-      "Friedrich"
+      "Friedrich",
+      "Fritz"
     ],
     "familyName": "Kreisler",
     "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Kreisler",

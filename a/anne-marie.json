@@ -14,5 +14,20 @@
       "Collaborations with artists like Marshmello, David Guetta, and Rudimental"
     ],
     "yearBorn": 1991
+  },
+  {
+    "fullName": "Anne-Marie Slaughter",
+    "givenNames": [
+      "Anne-Marie"
+    ],
+    "familyName": "Slaughter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anne-Marie_Slaughter",
+    "occupation": "Political scientist, academic",
+    "achievements": [
+      "Director of Policy Planning at the U.S. Department of State (2009-2011)",
+      "Author of influential books on foreign policy and gender equality",
+      "Professor at Princeton University"
+    ],
+    "yearBorn": 1958
   }
 ]

@@ -13,5 +13,18 @@
     ],
     "yearBorn": 1986,
     "yearDied": 2021
+  },
+  {
+    "fullName": "Sayaka Sasaki",
+    "givenNames": [
+      "Sayaka"
+    ],
+    "familyName": "Sasaki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sayaka_Sasaki",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Performed theme songs for anime series such as 'K-On!' and 'Non Non Biyori'",
+      "Released multiple studio albums and singles"
+    ]
   }
 ]

@@ -12,5 +12,23 @@
       "Former Secretary of State for Social Economy and Solidarity."
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Aurore Dupin",
+    "givenNames": [
+      "Amantine",
+      "Lucile",
+      "Aurore"
+    ],
+    "familyName": "Dupin",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Sand",
+    "occupation": "Writer",
+    "achievements": [
+      "Wrote novels, plays and memoirs under the pseudonym George Sand",
+      "Prominent figure in the Romantic movement",
+      "Known for exploring themes of love, gender roles and social justice"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1876
   }
 ]

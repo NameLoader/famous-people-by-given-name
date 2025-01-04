@@ -43,5 +43,32 @@
       "Appeared in films like 'Ocean's Eleven'"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Scott Speed",
+    "givenNames": [
+      "Scott",
+      "Andrew"
+    ],
+    "familyName": "Speed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Speed",
+    "occupation": "Racing driver",
+    "achievements": [
+      "Competed in Formula One and NASCAR"
+    ],
+    "yearBorn": 1983
+  },
+  {
+    "fullName": "Scott Pilgrim",
+    "givenNames": [
+      "Scott"
+    ],
+    "familyName": "Pilgrim",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_Scott_Pilgrim_characters#Scott_Pilgrim",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Protagonist of the graphic novel series 'Scott Pilgrim' by Bryan Lee O'Malley",
+      "Became popular through video game and film adaptations"
+    ]
   }
 ]

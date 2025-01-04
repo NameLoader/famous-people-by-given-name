@@ -46,5 +46,33 @@
       "Played for several Italian clubs including Fiorentina, Juventus, and Palermo"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Luca Signorelli",
+    "givenNames": [
+      "Luca"
+    ],
+    "familyName": "Signorelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Signorelli",
+    "occupation": "Italian painter",
+    "achievements": [
+      "Known for his expressive and dramatic frescoes"
+    ],
+    "yearBorn": 1445,
+    "yearDied": 1523
+  },
+  {
+    "fullName": "Luca Guadagnino",
+    "givenNames": [
+      "Luca"
+    ],
+    "familyName": "Guadagnino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luca_Guadagnino",
+    "occupation": "Film director, screenwriter",
+    "achievements": [
+      "Known for films like 'Call Me by Your Name' and 'Suspiria'",
+      "Won numerous awards including an Academy Award nomination"
+    ],
+    "yearBorn": 1971
   }
 ]

@@ -29,5 +29,19 @@
       "Has sold over 150 million records worldwide"
     ],
     "yearBorn": 1938
+  },
+  {
+    "fullName": "Adriano Galliani",
+    "givenNames": [
+      "Adriano"
+    ],
+    "familyName": "Galliani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adriano_Galliani",
+    "occupation": "Football executive",
+    "achievements": [
+      "Long-time CEO and vice-president of A.C. Milan",
+      "Won numerous Serie A titles and Champions League trophies with Milan"
+    ],
+    "yearBorn": 1944
   }
 ]

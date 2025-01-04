@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alessia Cara",
+    "givenNames": [
+      "Alessia"
+    ],
+    "familyName": "Caracciolo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessia_Cara",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Grammy Award winner for Best New Artist (2018)",
+      "Multi-platinum selling artist known for hits like 'Here' and 'Scars to Your Beautiful'"
+    ],
+    "yearBorn": 1996
+  },
+  {
+    "fullName": "Alessia Russo",
+    "givenNames": [
+      "Alessia",
+      "Mia",
+      "Teresa"
+    ],
+    "familyName": "Russo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alessia_Russo",
+    "occupation": "Footballer",
+    "achievements": [
+      "Forward for the England national team and Manchester United",
+      "UEFA Women's Euro 2022 winner"
+    ],
+    "yearBorn": 1999
+  }
+]

@@ -49,18 +49,19 @@
     "yearDied": 1996
   },
   {
-    "fullName": "Carl Lewis",
+    "fullName": "Carl Reiner",
     "givenNames": [
-      "Frederick",
-      "Carlton"
+      "Carl"
     ],
-    "familyName": "Lewis",
-    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Lewis",
-    "occupation": "Track and field athlete",
+    "familyName": "Reiner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Reiner",
+    "occupation": "Actor, Comedian, Director, Writer, Producer",
     "achievements": [
-      "Won nine Olympic gold medals",
-      "Considered one of the greatest sprinters of all time."
+      "Created The Dick Van Dyke Show.",
+      "Directed films such as Oh God! and All of Me.",
+      "Known for his comedic timing and influential work in television."
     ],
-    "yearBorn": 1961
+    "yearBorn": 1922,
+    "yearDied": 2020
   }
 ]

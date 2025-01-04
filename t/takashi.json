@@ -13,5 +13,19 @@
       "Has exhibited work worldwide."
     ],
     "yearBorn": 1962
+  },
+  {
+    "fullName": "Takashi Miike",
+    "givenNames": [
+      "Takashi"
+    ],
+    "familyName": "Miike",
+    "wikipedia": "https://en.wikipedia.org/wiki/Takashi_Miike",
+    "occupation": "Film Director",
+    "achievements": [
+      "Prolific director known for his diverse and often extreme films",
+      "Films include Audition, Ichi the Killer, and 13 Assassins"
+    ],
+    "yearBorn": 1960
   }
 ]

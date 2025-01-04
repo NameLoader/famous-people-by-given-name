@@ -28,5 +28,37 @@
       "Stand-up comedian and author"
     ],
     "yearBorn": 1942
+  },
+  {
+    "fullName": "Joy Division",
+    "givenNames": [
+      "Joy"
+    ],
+    "familyName": "Division",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joy_Division",
+    "occupation": "Post-punk band",
+    "achievements": [
+      "Highly influential post-punk band",
+      "Released critically acclaimed albums like 'Unknown Pleasures' and 'Closer'",
+      "Pioneered a dark and atmospheric sound"
+    ],
+    "yearBorn": 1976,
+    "yearDied": 1980
+  },
+  {
+    "fullName": "Joy Williams",
+    "givenNames": [
+      "Joy",
+      "Elizabeth"
+    ],
+    "familyName": "Williams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joy_Williams_(singer)",
+    "occupation": "Singer-songwriter",
+    "achievements": [
+      "Former member of the duo The Civil Wars",
+      "Grammy Award winner for Best Folk Album",
+      "Released solo albums like 'Venus'"
+    ],
+    "yearBorn": 1982
   }
 ]

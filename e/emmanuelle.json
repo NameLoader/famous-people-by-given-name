@@ -12,5 +12,19 @@
       "International acclaim for roles in films like 'Manon of the Spring'"
     ],
     "yearBorn": 1963
+  },
+  {
+    "fullName": "Emmanuelle Seigner",
+    "givenNames": [
+      "Emmanuelle"
+    ],
+    "familyName": "Seigner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emmanuelle_Seigner",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Nominated for César Award for Best Actress",
+      "Known for roles in films like 'The Diving Bell and the Butterfly', 'La Haine'"
+    ],
+    "yearBorn": 1966
   }
 ]

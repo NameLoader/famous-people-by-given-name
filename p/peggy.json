@@ -17,8 +17,8 @@
   {
     "fullName": "Peggy Guggenheim",
     "givenNames": [
-      "Peggy",
-      "Marguerite"
+      "Marguerite",
+      "Peggy"
     ],
     "familyName": "Guggenheim",
     "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Guggenheim",
@@ -44,5 +44,21 @@
       "First woman to command the International Space Station twice"
     ],
     "yearBorn": 1960
+  },
+  {
+    "fullName": "Peggy Noonan",
+    "givenNames": [
+      "Margaret",
+      "Ellen",
+      "Peggy"
+    ],
+    "familyName": "Noonan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Noonan",
+    "occupation": "Writer, speechwriter, political commentator",
+    "achievements": [
+      "Wrote speeches for President Ronald Reagan",
+      "Pulitzer Prize winner for her commentary"
+    ],
+    "yearBorn": 1950
   }
 ]

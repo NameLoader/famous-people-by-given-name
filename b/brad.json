@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Brad Pitt",
+    "givenNames": [
+      "William",
+      "Bradley"
+    ],
+    "familyName": "Pitt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brad_Pitt",
+    "occupation": "Actor, Film Producer",
+    "achievements": [
+      "Academy Award for Best Supporting Actor",
+      "Two Golden Globe Awards",
+      "Primetime Emmy Award"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Brad Paisley",
+    "givenNames": [
+      "Brad",
+      "Douglas"
+    ],
+    "familyName": "Paisley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brad_Paisley",
+    "occupation": "Country Music Singer, Songwriter, Guitarist",
+    "achievements": [
+      "Three Grammy Awards",
+      "CMA Award for Entertainer of the Year",
+      "ACM Award for Top Male Vocalist"
+    ],
+    "yearBorn": 1972
+  }
+]

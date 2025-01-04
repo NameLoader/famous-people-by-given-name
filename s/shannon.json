@@ -29,5 +29,19 @@
       "Two-time FIFA Women's World Cup champion"
     ],
     "yearBorn": 1977
+  },
+  {
+    "fullName": "Shannon Leto",
+    "givenNames": [
+      "Shannon"
+    ],
+    "familyName": "Leto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shannon_Leto",
+    "occupation": "Musician, Actor",
+    "achievements": [
+      "Drummer for the band Thirty Seconds to Mars",
+      "Actor in films such as 'Requiem for a Dream'"
+    ],
+    "yearBorn": 1970
   }
 ]

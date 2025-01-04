@@ -58,5 +58,34 @@
     ],
     "yearBorn": 1878,
     "yearDied": 1976
+  },
+  {
+    "fullName": "Eileen Myles",
+    "givenNames": [
+      "Eileen"
+    ],
+    "familyName": "Myles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Myles",
+    "occupation": "Poet, novelist, and memoirist",
+    "achievements": [
+      "Known for their groundbreaking work in queer literature",
+      "Published several acclaimed poetry collections, including 'Inferno' (1987) and 'Chelsea Girls' (1994)"
+    ],
+    "yearBorn": 1949
+  },
+  {
+    "fullName": "Eileen Collins",
+    "givenNames": [
+      "Eileen",
+      "Marie"
+    ],
+    "familyName": "Collins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eileen_Collins",
+    "occupation": "Astronaut, Air Force colonel",
+    "achievements": [
+      "First woman to pilot a Space Shuttle",
+      "Commanded Space Shuttle missions STS-93 and STS-114"
+    ],
+    "yearBorn": 1956
   }
 ]

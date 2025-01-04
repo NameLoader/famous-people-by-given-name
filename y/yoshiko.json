@@ -13,5 +13,20 @@
     ],
     "yearBorn": 1907,
     "yearDied": 1948
+  },
+  {
+    "fullName": "Yoshiko Yamaguchi",
+    "givenNames": [
+      "Yoshiko"
+    ],
+    "familyName": "Yamaguchi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yoshiko_Yamaguchi",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Known as the 'Japanese Shirley Temple'",
+      "Starred in numerous films and television shows during Japan's Golden Age of Cinema"
+    ],
+    "yearBorn": 1920,
+    "yearDied": 2014
   }
 ]

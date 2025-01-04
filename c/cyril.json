@@ -46,5 +46,21 @@
     ],
     "yearBorn": 1879,
     "yearDied": 1971
+  },
+  {
+    "fullName": "Cyril Northcote Parkinson",
+    "givenNames": [
+      "Cyril",
+      "Northcote"
+    ],
+    "familyName": "Parkinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._Northcote_Parkinson",
+    "occupation": "Historian, Writer",
+    "achievements": [
+      "Developed Parkinson's Law",
+      "Authored numerous books on history and management"
+    ],
+    "yearBorn": 1909,
+    "yearDied": 1993
   }
 ]

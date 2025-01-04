@@ -43,5 +43,20 @@
     ],
     "yearBorn": 1982,
     "yearDied": 2014
+  },
+  {
+    "fullName": "Stella Adler",
+    "givenNames": [
+      "Stella"
+    ],
+    "familyName": "Adler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stella_Adler",
+    "occupation": "Acting coach, actress",
+    "achievements": [
+      "Founded the Stella Adler Studio of Acting in New York City.",
+      "Influential acting teacher who emphasized emotional truth and improvisation."
+    ],
+    "yearBorn": 1901,
+    "yearDied": 1992
   }
 ]

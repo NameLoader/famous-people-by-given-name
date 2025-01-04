@@ -42,5 +42,19 @@
       "Successful solo career"
     ],
     "yearBorn": 1945
+  },
+  {
+    "fullName": "Bryan Singer",
+    "givenNames": [
+      "Bryan",
+      "Jay"
+    ],
+    "familyName": "Singer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bryan_Singer",
+    "occupation": "Film Director, Producer",
+    "achievements": [
+      "Directed films such as 'The Usual Suspects', 'X-Men' and 'Bohemian Rhapsody'"
+    ],
+    "yearBorn": 1965
   }
 ]

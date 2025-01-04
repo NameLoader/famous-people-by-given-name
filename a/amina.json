@@ -27,5 +27,21 @@
       "Won awards for her performances."
     ],
     "yearBorn": 1988
+  },
+  {
+    "fullName": "Amina Mohamed",
+    "givenNames": [
+      "Amina",
+      "Chawahir"
+    ],
+    "familyName": "Mohamed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amina_Mohamed",
+    "occupation": "Kenyan diplomat and politician",
+    "achievements": [
+      "Former Cabinet Secretary for Foreign Affairs of Kenya.",
+      "Deputy Director-General of the World Trade Organization (WTO).",
+      "Candidate for the position of WTO Director-General in 2021."
+    ],
+    "yearBorn": 1961
   }
 ]

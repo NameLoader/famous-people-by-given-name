@@ -42,5 +42,19 @@
       "MMA commentator for Showtime and Bellator"
     ],
     "yearBorn": 1969
+  },
+  {
+    "fullName": "Mauro Forghieri",
+    "givenNames": [
+      "Mauro"
+    ],
+    "familyName": "Forghieri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauro_Forghieri",
+    "occupation": "Engineer",
+    "achievements": [
+      "Designed successful Formula One cars for Ferrari"
+    ],
+    "yearBorn": 1935,
+    "yearDied": 2014
   }
 ]

@@ -57,5 +57,18 @@
       "Starred in numerous successful films"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Kevin Feige",
+    "givenNames": [
+      "Kevin"
+    ],
+    "familyName": "Feige",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Feige",
+    "occupation": "Film Producer",
+    "achievements": [
+      "President of Marvel Studios"
+    ],
+    "yearBorn": 1973
   }
 ]

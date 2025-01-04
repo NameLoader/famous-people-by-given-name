@@ -27,5 +27,21 @@
     ],
     "yearBorn": 1918,
     "yearDied": 2005
+  },
+  {
+    "fullName": "Teresa Teng",
+    "givenNames": [
+      "Li-chun",
+      "Teresa"
+    ],
+    "familyName": "Teng",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Teng",
+    "occupation": "Singer",
+    "achievements": [
+      "Beloved Taiwanese singer known for her romantic ballads",
+      "Popular throughout Asia and beyond"
+    ],
+    "yearBorn": 1953,
+    "yearDied": 1982
   }
 ]

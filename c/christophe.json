@@ -12,5 +12,32 @@
       "Multiple platinum-selling albums in France."
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Christophe Dugarry",
+    "givenNames": [
+      "Christophe",
+      "Jérôme"
+    ],
+    "familyName": "Dugarry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christophe_Dugarry",
+    "occupation": "Footballer, Commentator",
+    "achievements": [
+      "Won the FIFA World Cup with France in 1998"
+    ],
+    "yearBorn": 1972
+  },
+  {
+    "fullName": "Christophe Willem",
+    "givenNames": [
+      "Christophe"
+    ],
+    "familyName": "Willem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christophe_Willem",
+    "occupation": "Singer",
+    "achievements": [
+      "Won the fourth season of the French reality singing competition Nouvelle Star in 2006."
+    ],
+    "yearBorn": 1983
   }
 ]

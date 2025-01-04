@@ -2,8 +2,7 @@
   {
     "fullName": "Nicolas Cage",
     "givenNames": [
-      "Nicolas",
-      "Kim"
+      "Nicolas"
     ],
     "familyName": "Cage",
     "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Cage",
@@ -13,21 +12,6 @@
       "Known for roles in films like Face/Off, Con Air, and Raising Arizona"
     ],
     "yearBorn": 1964
-  },
-  {
-    "fullName": "Nicolas Sarkozy",
-    "givenNames": [
-      "Nicolas",
-      "Paul",
-      "Stéphane"
-    ],
-    "familyName": "Sarkozy",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Sarkozy",
-    "occupation": "Politician",
-    "achievements": [
-      "President of France from 2007 to 2012"
-    ],
-    "yearBorn": 1955
   },
   {
     "fullName": "Nicolas Winding Refn",

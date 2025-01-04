@@ -8,8 +8,8 @@
     "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Beller%C3%ADn",
     "occupation": "Footballer",
     "achievements": [
-      "FA Cup winner with Arsenal (2020)",
-      "Community Shield winner with Arsenal (2020)"
+      "Won the FA Cup with Arsenal in 2017 and 2020",
+      "Represented Spain at various youth levels"
     ],
     "yearBorn": 1995
   },
@@ -22,24 +22,26 @@
     "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Elizondo",
     "occupation": "Actor",
     "achievements": [
-      "Nominated for an Academy Award for Best Supporting Actor for his role in 'Popi' (1969)",
-      "Starred in numerous television series and films, including 'Chicago Hope' and 'The Princess Diaries'"
+      "Nominated for a Primetime Emmy Award",
+      "Starred in films like 'The Magnificent Seven' and 'American Gigolo'",
+      "Known for his roles on television series like 'Chicago Hope'"
     ],
     "yearBorn": 1936
   },
   {
-    "fullName": "Hector Babenco",
+    "fullName": "Hector Hugh Munro",
     "givenNames": [
-      "Héctor",
-      "Eduardo"
+      "Hector",
+      "Hugh"
     ],
-    "familyName": "Babenco",
-    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Babenco",
-    "occupation": "Film director and screenwriter",
+    "familyName": "Munro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saki",
+    "occupation": "Writer",
     "achievements": [
-      "Directed acclaimed films such as 'Kiss of the Spider Woman' (1985) and 'Ironweed' (1987)"
+      "Known for his satirical short stories under the pen name Saki",
+      "His works are characterized by wit, irony and macabre humor"
     ],
-    "yearBorn": 1946,
-    "yearDied": 2016
+    "yearBorn": 1870,
+    "yearDied": 1916
   }
 ]

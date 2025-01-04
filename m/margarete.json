@@ -12,5 +12,20 @@
     ],
     "yearBorn": 1847,
     "yearDied": 1909
+  },
+  {
+    "fullName": "Margarete Buber-Neumann",
+    "givenNames": [
+      "Margarete"
+    ],
+    "familyName": "Buber-Neumann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margarete_Buber-Neumann",
+    "occupation": "Writer, Holocaust survivor",
+    "achievements": [
+      "Survived imprisonment in Nazi concentration camps",
+      "Wrote about her experiences and the dangers of totalitarian regimes"
+    ],
+    "yearBorn": 1907,
+    "yearDied": 1989
   }
 ]

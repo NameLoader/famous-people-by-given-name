@@ -28,5 +28,21 @@
       "Served as a coach on the singing competition show The Voice"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Blake Griffin",
+    "givenNames": [
+      "Blake",
+      "Austin"
+    ],
+    "familyName": "Griffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blake_Griffin",
+    "occupation": "Basketball player",
+    "achievements": [
+      "Six-time NBA All-Star",
+      "Five-time All-NBA selection",
+      "2011 NBA Rookie of the Year"
+    ],
+    "yearBorn": 1989
   }
 ]

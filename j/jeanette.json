@@ -2,8 +2,8 @@
   {
     "fullName": "Jeanette Rankin",
     "givenNames": [
-      "Jeanette",
-      "Jeannette"
+      "Jeannette",
+      "Pickering"
     ],
     "familyName": "Rankin",
     "wikipedia": "https://en.wikipedia.org/wiki/Jeannette_Rankin",
@@ -14,5 +14,21 @@
     ],
     "yearBorn": 1880,
     "yearDied": 1973
+  },
+  {
+    "fullName": "Jeanette MacDonald",
+    "givenNames": [
+      "Jeanette",
+      "Anna"
+    ],
+    "familyName": "MacDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeanette_MacDonald",
+    "occupation": "Actress, Singer",
+    "achievements": [
+      "Starred in numerous musical films during the Golden Age of Hollywood",
+      "Known for her operatic soprano voice and on-screen chemistry with Nelson Eddy"
+    ],
+    "yearBorn": 1903,
+    "yearDied": 1965
   }
 ]

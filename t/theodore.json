@@ -66,5 +66,21 @@
     ],
     "yearBorn": 1871,
     "yearDied": 1945
+  },
+  {
+    "fullName": "Theodore Judah",
+    "givenNames": [
+      "Theodore",
+      "Dehone"
+    ],
+    "familyName": "Judah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Judah",
+    "occupation": "Civil Engineer",
+    "achievements": [
+      "Key figure in the construction of the First Transcontinental Railroad",
+      "Surveyed and planned the route through the Sierra Nevada mountains"
+    ],
+    "yearBorn": 1826,
+    "yearDied": 1883
   }
 ]

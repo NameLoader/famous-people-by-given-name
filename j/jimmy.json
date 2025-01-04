@@ -1,0 +1,47 @@
+[
+  {
+    "fullName": "James Earl Carter Jr.",
+    "givenNames": [
+      "James",
+      "Earl"
+    ],
+    "familyName": "Carter",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+    "occupation": "Politician, Activist",
+    "achievements": [
+      "39th President of the United States",
+      "Nobel Peace Prize laureate (2002)"
+    ],
+    "yearBorn": 1924
+  },
+  {
+    "fullName": "James Buffett",
+    "givenNames": [
+      "James",
+      "William"
+    ],
+    "familyName": "Buffett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Buffett",
+    "occupation": "Singer-Songwriter, Musician, Author, Businessman",
+    "achievements": [
+      "Known for his 'tropical rock' music and laid-back lifestyle.",
+      "Founder of the Margaritaville brand"
+    ],
+    "yearBorn": 1946
+  },
+  {
+    "fullName": "James Fallon",
+    "givenNames": [
+      "James",
+      "Thomas"
+    ],
+    "familyName": "Fallon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Fallon",
+    "occupation": "Comedian, Actor, Television Host",
+    "achievements": [
+      "Host of 'The Tonight Show Starring Jimmy Fallon'",
+      "Former host of 'Late Night with Jimmy Fallon'"
+    ],
+    "yearBorn": 1974
+  }
+]

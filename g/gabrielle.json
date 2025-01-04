@@ -1,0 +1,65 @@
+[
+  {
+    "fullName": "Gabrielle Bonheur Colcogne-Chanel",
+    "givenNames": [
+      "Gabrielle",
+      "Bonheur",
+      "Coco"
+    ],
+    "familyName": "Chanel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coco_Chanel",
+    "occupation": "Fashion designer",
+    "achievements": [
+      "Revolutionized women's fashion",
+      "Created iconic designs like the little black dress and the Chanel suit",
+      "Founded the luxury brand Chanel"
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1971
+  },
+  {
+    "fullName": "Gabrielle Giffords",
+    "givenNames": [
+      "Gabrielle",
+      "Dee"
+    ],
+    "familyName": "Giffords",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabby_Giffords",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as a U.S. Representative from Arizona",
+      "Survived an assassination attempt in 2011 and became a gun control advocate"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Gabrielle Reece",
+    "givenNames": [
+      "Gabrielle",
+      "Allyse"
+    ],
+    "familyName": "Reece",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabrielle_Reece",
+    "occupation": "Professional volleyball player, model, author",
+    "achievements": [
+      "Won numerous professional volleyball titles",
+      "Appeared in Sports Illustrated Swimsuit Issue",
+      "Authored several best-selling books on fitness and wellness"
+    ],
+    "yearBorn": 1970
+  },
+  {
+    "fullName": "Gabrielle Anwar",
+    "givenNames": [
+      "Gabrielle"
+    ],
+    "familyName": "Anwar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabrielle_Anwar",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for roles in films like 'Scent of a Woman' and 'Body Snatchers'",
+      "Starred in the television series 'Burn Notice'"
+    ],
+    "yearBorn": 1969
+  }
+]

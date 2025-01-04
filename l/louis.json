@@ -47,5 +47,19 @@
     ],
     "yearBorn": 1638,
     "yearDied": 1715
+  },
+  {
+    "fullName": "Louis Braille",
+    "givenNames": [
+      "Louis"
+    ],
+    "familyName": "Braille",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Braille",
+    "occupation": "Educator, inventor",
+    "achievements": [
+      "Created the Braille reading and writing system for the blind"
+    ],
+    "yearBorn": 1809,
+    "yearDied": 1852
   }
 ]

@@ -59,5 +59,19 @@
     ],
     "yearBorn": 1804,
     "yearDied": 1881
+  },
+  {
+    "fullName": "Matthias Schoenaerts",
+    "givenNames": [
+      "Matthias"
+    ],
+    "familyName": "Schoenaerts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matthias_Schoenaerts",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his roles in films such as 'Rust and Bone' and 'The Drop'.",
+      "Acclaimed Belgian actor who has gained international recognition."
+    ],
+    "yearBorn": 1977
   }
 ]

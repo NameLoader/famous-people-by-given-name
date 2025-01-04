@@ -29,5 +29,20 @@
     ],
     "yearBorn": 1928,
     "yearDied": 2016
+  },
+  {
+    "fullName": "Vera Miles",
+    "givenNames": [
+      "Vera",
+      "June"
+    ],
+    "familyName": "Miles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vera_Miles",
+    "occupation": "Actress",
+    "achievements": [
+      "Starred in Alfred Hitchcock's film 'Psycho'",
+      "Nominated for an Academy Award for her role in 'The Searchers'"
+    ],
+    "yearBorn": 1929
   }
 ]

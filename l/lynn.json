@@ -29,5 +29,21 @@
     ],
     "yearBorn": 1942,
     "yearDied": 2010
+  },
+  {
+    "fullName": "Lynn Swann",
+    "givenNames": [
+      "Lynn",
+      "Curtis"
+    ],
+    "familyName": "Swann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynn_Swann",
+    "occupation": "American football player, politician",
+    "achievements": [
+      "Won Super Bowls IX and X with the Pittsburgh Steelers",
+      "Named NFL MVP in Super Bowl X",
+      "Served as Lieutenant Governor of Pennsylvania"
+    ],
+    "yearBorn": 1952
   }
 ]

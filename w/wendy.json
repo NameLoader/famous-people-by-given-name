@@ -12,5 +12,50 @@
       "Radio personality known for her outspoken commentary"
     ],
     "yearBorn": 1964
+  },
+  {
+    "fullName": "Wendy Carlos",
+    "givenNames": [
+      "Wendy"
+    ],
+    "familyName": "Carlos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendy_Carlos",
+    "occupation": "Composer, musician",
+    "achievements": [
+      "Pioneering figure in electronic music",
+      "Won three Grammy Awards for the soundtrack to the film 'A Clockwork Orange'",
+      "Known for experimental and avant-garde compositions"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Wendy Davis",
+    "givenNames": [
+      "Wendy",
+      "Russell"
+    ],
+    "familyName": "Davis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendy_Davis_(politician)",
+    "occupation": "Politician",
+    "achievements": [
+      "Served in the Texas Senate",
+      "Gained national attention for her filibuster against restrictive abortion legislation"
+    ],
+    "yearBorn": 1963
+  },
+  {
+    "fullName": "Wendy Wasserstein",
+    "givenNames": [
+      "Wendy"
+    ],
+    "familyName": "Wasserstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wendy_Wasserstein",
+    "occupation": "Playwright",
+    "achievements": [
+      "Pulitzer Prize for Drama",
+      "Tony Award for Best Play"
+    ],
+    "yearBorn": 1950,
+    "yearDied": 2001
   }
 ]

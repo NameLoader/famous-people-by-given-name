@@ -58,5 +58,20 @@
       "Known for his role as Pete Campbell in the television series 'Mad Men'"
     ],
     "yearBorn": 1979
+  },
+  {
+    "fullName": "Vincent Schiavelli",
+    "givenNames": [
+      "Vincent",
+      "Andrew"
+    ],
+    "familyName": "Schiavelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Schiavelli",
+    "occupation": "Actor",
+    "achievements": [
+      "Known for his distinctive appearance and roles in films like 'One Flew Over the Cuckoo's Nest' and 'Ghost'."
+    ],
+    "yearBorn": 1948,
+    "yearDied": 2005
   }
 ]

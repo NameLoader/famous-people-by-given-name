@@ -61,5 +61,20 @@
       "Prominent humanitarian and activist"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "George Lucas",
+    "givenNames": [
+      "George",
+      "Walton"
+    ],
+    "familyName": "Lucas",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Lucas",
+    "occupation": "Filmmaker, entrepreneur",
+    "achievements": [
+      "Creator of the Star Wars and Indiana Jones franchises",
+      "Founder of Lucasfilm Ltd."
+    ],
+    "yearBorn": 1944
   }
 ]

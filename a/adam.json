@@ -43,5 +43,36 @@
       "First openly gay American athlete to win a medal at the Winter Olympics"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Adam Smith",
+    "givenNames": [
+      "Adam"
+    ],
+    "familyName": "Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith",
+    "occupation": "Economist, philosopher",
+    "achievements": [
+      "Considered the father of modern economics",
+      "Authored 'The Wealth of Nations'",
+      "Influential in shaping economic thought and policy"
+    ],
+    "yearBorn": 1723,
+    "yearDied": 1790
+  },
+  {
+    "fullName": "Adam Levine",
+    "givenNames": [
+      "Adam",
+      "Noah"
+    ],
+    "familyName": "Levine",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Levine",
+    "occupation": "Singer, songwriter, musician, actor",
+    "achievements": [
+      "Lead vocalist and guitarist of the pop rock band Maroon 5",
+      "Coach on the reality singing competition show 'The Voice'"
+    ],
+    "yearBorn": 1979
   }
 ]

@@ -45,22 +45,6 @@
     "yearDied": 1697
   },
   {
-    "fullName": "Francesco Maria Grimaldi",
-    "givenNames": [
-      "Francesco",
-      "Maria"
-    ],
-    "familyName": "Grimaldi",
-    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Maria_Grimaldi",
-    "occupation": "Jesuit Priest, Physicist",
-    "achievements": [
-      "Observed the diffraction of light",
-      "Contributed to understanding wave phenomena"
-    ],
-    "yearBorn": 1618,
-    "yearDied": 1663
-  },
-  {
     "fullName": "Francesco Totti",
     "givenNames": [
       "Francesco"
@@ -73,5 +57,63 @@
       "Won the FIFA World Cup with Italy in 2006"
     ],
     "yearBorn": 1976
+  },
+  {
+    "fullName": "Francesco Molinari",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Molinari",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Molinari",
+    "occupation": "Golfer",
+    "achievements": [
+      "Won the 2018 Open Championship"
+    ]
+  },
+  {
+    "fullName": "Francesco Guicciardini",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Guicciardini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Guicciardini",
+    "occupation": "Historian, statesman",
+    "achievements": [
+      "Wrote the influential historical work 'History of Italy'",
+      "Served as a diplomat and advisor to the Florentine government"
+    ],
+    "yearBorn": 1483,
+    "yearDied": 1540
+  },
+  {
+    "fullName": "Francesco Maria Veracini",
+    "givenNames": [
+      "Francesco",
+      "Maria"
+    ],
+    "familyName": "Veracini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Maria_Veracini",
+    "occupation": "Violinist, composer",
+    "achievements": [
+      "Known for his virtuosic violin playing and influential concertos",
+      "Contributed to the development of the Baroque style in music"
+    ],
+    "yearBorn": 1699,
+    "yearDied": 1768
+  },
+  {
+    "fullName": "Francesco Crispi",
+    "givenNames": [
+      "Francesco"
+    ],
+    "familyName": "Crispi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francesco_Crispi",
+    "occupation": "Politician",
+    "achievements": [
+      "Served as Prime Minister of Italy several times",
+      "Led Italy during its colonial expansion in Africa"
+    ],
+    "yearBorn": 1818,
+    "yearDied": 1901
   }
 ]

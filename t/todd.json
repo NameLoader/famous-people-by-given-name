@@ -29,5 +29,36 @@
       "Renowned for his dynamic and detailed art style"
     ],
     "yearBorn": 1961
+  },
+  {
+    "fullName": "Todd Gurley",
+    "givenNames": [
+      "Todd",
+      "Jerome"
+    ],
+    "familyName": "Gurley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Todd_Gurley",
+    "occupation": "Former American football running back",
+    "achievements": [
+      "NFL Offensive Player of the Year (2017)",
+      "Three-time Pro Bowl selection",
+      "Led the NFL in rushing touchdowns (2017)"
+    ],
+    "yearBorn": 1994
+  },
+  {
+    "fullName": "Todd Howard",
+    "givenNames": [
+      "Todd",
+      "Andrew"
+    ],
+    "familyName": "Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Todd_Howard",
+    "occupation": "Video game designer",
+    "achievements": [
+      "Led the development of major video game franchises like The Elder Scrolls and Fallout",
+      "Known for his innovative gameplay mechanics and immersive world-building"
+    ],
+    "yearBorn": 1971
   }
 ]

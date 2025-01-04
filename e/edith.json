@@ -32,5 +32,33 @@
     ],
     "yearBorn": 1915,
     "yearDied": 1963
+  },
+  {
+    "fullName": "Edith Bunker",
+    "givenNames": [
+      "Edith"
+    ],
+    "familyName": "Bunker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Bunker",
+    "occupation": "Fictional character",
+    "achievements": [
+      "Beloved and memorable character on the sitcom 'All in the Family'",
+      "Known for her sharp wit, bigoted views, and loving relationship with Archie Bunker"
+    ]
+  },
+  {
+    "fullName": "Edith Clarke",
+    "givenNames": [
+      "Edith"
+    ],
+    "familyName": "Clarke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Clarke",
+    "occupation": "Electrical Engineer",
+    "achievements": [
+      "First woman to earn an electrical engineering degree from MIT.",
+      "Developed the Clarke Calculator for analyzing power systems and contributed significantly to the field of electrical engineering."
+    ],
+    "yearBorn": 1883,
+    "yearDied": 1959
   }
 ]

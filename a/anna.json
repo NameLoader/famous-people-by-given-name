@@ -58,5 +58,37 @@
       "Starred in musicals like 'Pitch Perfect' and 'Into the Woods'"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Anna Pavlova",
+    "givenNames": [
+      "Anna",
+      "Pavlovna"
+    ],
+    "familyName": "Pavlova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Pavlova",
+    "occupation": "Ballerina",
+    "achievements": [
+      "One of the most famous ballerinas of the early 20th century",
+      "Known for her ethereal and technically brilliant performances"
+    ],
+    "yearBorn": 1881,
+    "yearDied": 1931
+  },
+  {
+    "fullName": "Anna Eleanor Roosevelt",
+    "givenNames": [
+      "Anna",
+      "Eleanor"
+    ],
+    "familyName": "Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+    "occupation": "Human Rights Activist, Diplomat",
+    "achievements": [
+      "First Lady of the United States (1933-1945)",
+      "Advocate for human rights and social justice"
+    ],
+    "yearBorn": 1884,
+    "yearDied": 1962
   }
 ]

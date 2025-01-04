@@ -27,5 +27,19 @@
       "Appeared in films such as 'Blindspotting' and 'Dog Days'"
     ],
     "yearBorn": 1989
+  },
+  {
+    "fullName": "Jasmine Sanders",
+    "givenNames": [
+      "Jasmine"
+    ],
+    "familyName": "Sanders",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jasmine_Sanders",
+    "occupation": "Model, Actress",
+    "achievements": [
+      "Appeared in campaigns for major brands like Nike and Adidas",
+      "Walked runways for designers like Alexander Wang and Marc Jacobs"
+    ],
+    "yearBorn": 1991
   }
 ]

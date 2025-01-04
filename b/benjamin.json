@@ -30,5 +30,32 @@
       "Longest-serving Prime Minister of Israel"
     ],
     "yearBorn": 1949
+  },
+  {
+    "fullName": "Benjamin Disraeli",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Disraeli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+    "occupation": "Politician, Author",
+    "achievements": [
+      "Prime Minister of the United Kingdom twice",
+      "Known for his literary works such as 'Sybil' and 'Coningsby'"
+    ],
+    "yearBorn": 1804,
+    "yearDied": 1881
+  },
+  {
+    "fullName": "Benjamin Button",
+    "givenNames": [
+      "Benjamin"
+    ],
+    "familyName": "Button",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(short_story)",
+    "occupation": "Fictional Character",
+    "achievements": [
+      "Protagonist of F. Scott Fitzgerald's short story 'The Curious Case of Benjamin Button'"
+    ]
   }
 ]

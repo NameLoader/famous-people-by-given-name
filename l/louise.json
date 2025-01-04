@@ -1,21 +1,5 @@
 [
   {
-    "fullName": "Louise May Alcott",
-    "givenNames": [
-      "Louisa",
-      "May"
-    ],
-    "familyName": "Alcott",
-    "wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
-    "occupation": "Novelist, poet, short story writer",
-    "achievements": [
-      "Author of Little Women and other popular novels",
-      "Advocate for women's rights"
-    ],
-    "yearBorn": 1832,
-    "yearDied": 1888
-  },
-  {
     "fullName": "Louise Bourgeois",
     "givenNames": [
       "Louise",
@@ -45,5 +29,37 @@
       "Named United States Poet Laureate from 2003 to 2004"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Louise Élisabeth de France",
+    "givenNames": [
+      "Louise",
+      "Élisabeth"
+    ],
+    "familyName": "de France",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louise-%C3%89lisabeth_of_France",
+    "occupation": "Royalty",
+    "achievements": [
+      "Daughter of Louis XV of France and Maria Leszczyńska",
+      "Known as Madame Seconde"
+    ],
+    "yearBorn": 1727,
+    "yearDied": 1759
+  },
+  {
+    "fullName": "Louise Hay",
+    "givenNames": [
+      "Louise",
+      "Lynn"
+    ],
+    "familyName": "Hay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louise_Hay",
+    "occupation": "Author, self-help guru",
+    "achievements": [
+      "Best known for her book 'You Can Heal Your Life'",
+      "Promoted the idea that positive thinking could cure illnesses."
+    ],
+    "yearBorn": 1926,
+    "yearDied": 2017
   }
 ]

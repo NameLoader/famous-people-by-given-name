@@ -44,5 +44,21 @@
     ],
     "yearBorn": 1918,
     "yearDied": 2008
+  },
+  {
+    "fullName": "Avery Fisher",
+    "givenNames": [
+      "Avery",
+      "Robert"
+    ],
+    "familyName": "Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Avery_Fisher",
+    "occupation": "Businessman, Philanthropist",
+    "achievements": [
+      "Founded Fisher Radio Corporation and the Fisher Electronics Company",
+      "Major philanthropist who donated millions to support the arts and education"
+    ],
+    "yearBorn": 1906,
+    "yearDied": 2004
   }
 ]

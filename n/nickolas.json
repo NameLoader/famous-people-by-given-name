@@ -1,19 +1,5 @@
 [
   {
-    "fullName": "Nickolas Cage",
-    "givenNames": [
-      "Nicolas"
-    ],
-    "familyName": "Cage",
-    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Cage",
-    "occupation": "Actor",
-    "achievements": [
-      "Academy Award for Best Actor",
-      "Known for roles in films like 'Leaving Las Vegas', 'Raising Arizona', and 'National Treasure'"
-    ],
-    "yearBorn": 1964
-  },
-  {
     "fullName": "Nickolas Tse",
     "givenNames": [
       "Nicholas",
@@ -21,10 +7,10 @@
     ],
     "familyName": "Tse",
     "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Tse",
-    "occupation": "Actor, Singer, Martial Artist",
+    "occupation": "Actor, Singer, Musician",
     "achievements": [
-      "Popular Hong Kong entertainer",
-      "Known for roles in films like 'Gen-X Cops' and 'The Storm Riders'"
+      "Hong Kong film star",
+      "Successful Cantopop singer and musician"
     ],
     "yearBorn": 1980
   }

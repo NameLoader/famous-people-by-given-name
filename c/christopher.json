@@ -58,5 +58,50 @@
       "Known for his distinctive voice and acting style"
     ],
     "yearBorn": 1943
+  },
+  {
+    "fullName": "Christopher Marlowe",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Marlowe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Marlowe",
+    "occupation": "Playwright, poet",
+    "achievements": [
+      "Considered one of the most important Elizabethan dramatists.",
+      "Wrote influential plays like 'Doctor Faustus' and 'Tamburlaine'."
+    ],
+    "yearBorn": 1564,
+    "yearDied": 1593
+  },
+  {
+    "fullName": "Christopher Wren",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Wren",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Wren",
+    "occupation": "Architect, astronomer, mathematician",
+    "achievements": [
+      "Designed numerous prominent buildings in London, including St. Paul's Cathedral.",
+      "Made significant contributions to astronomy and mathematics."
+    ],
+    "yearBorn": 1632,
+    "yearDied": 1723
+  },
+  {
+    "fullName": "Christopher Reeve",
+    "givenNames": [
+      "Christopher"
+    ],
+    "familyName": "Reeve",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Reeve",
+    "occupation": "Actor, activist",
+    "achievements": [
+      "Best known for his role as Superman in the film series",
+      "Became a prominent advocate for people with spinal cord injuries after becoming paralyzed in an equestrian accident"
+    ],
+    "yearBorn": 1952,
+    "yearDied": 2004
   }
 ]

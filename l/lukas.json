@@ -14,5 +14,19 @@
       "Prolific goalscorer for club and country"
     ],
     "yearBorn": 1985
+  },
+  {
+    "fullName": "Lukas Graham Forchhammer",
+    "givenNames": [
+      "Lukas"
+    ],
+    "familyName": "Forchhammer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lukas_Forchhammer",
+    "occupation": "Singer, songwriter",
+    "achievements": [
+      "Grammy Award nomination for Song of the Year (2016)",
+      "Multi-platinum selling artist"
+    ],
+    "yearBorn": 1988
   }
 ]

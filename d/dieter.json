@@ -29,5 +29,20 @@
       "Longtime judge on the German singing competition 'Deutschland sucht den Superstar'"
     ],
     "yearBorn": 1954
+  },
+  {
+    "fullName": "Dieter Rams",
+    "givenNames": [
+      "Dieter"
+    ],
+    "familyName": "Rams",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dieter_Rams",
+    "occupation": "Industrial designer",
+    "achievements": [
+      "Pioneer of functional design",
+      "Created the '10 principles for good design'",
+      "Designed iconic Braun products"
+    ],
+    "yearBorn": 1932
   }
 ]

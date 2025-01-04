@@ -2,7 +2,6 @@
   {
     "fullName": "Irma Grese",
     "givenNames": [
-      "Irma",
       "Irmgard",
       "Ilse",
       "Ida"
@@ -15,5 +14,19 @@
     ],
     "yearBorn": 1923,
     "yearDied": 1945
+  },
+  {
+    "fullName": "Irma Rombauer",
+    "givenNames": [
+      "Irma"
+    ],
+    "familyName": "Rombauer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irma_S._Rombauer",
+    "occupation": "Chef, cookbook author",
+    "achievements": [
+      "Authored the classic cookbook 'The Joy of Cooking'"
+    ],
+    "yearBorn": 1877,
+    "yearDied": 1962
   }
 ]

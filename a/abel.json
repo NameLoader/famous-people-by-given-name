@@ -14,5 +14,19 @@
     ],
     "yearBorn": 1603,
     "yearDied": 1659
+  },
+  {
+    "fullName": "Abel Ferrara",
+    "givenNames": [
+      "Abel"
+    ],
+    "familyName": "Ferrara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abel_Ferrara",
+    "occupation": "Film Director, Screenwriter",
+    "achievements": [
+      "Known for his gritty and often controversial films",
+      "Notable works include: 'King of New York', 'Bad Lieutenant', 'The Funeral'"
+    ],
+    "yearBorn": 1951
   }
 ]

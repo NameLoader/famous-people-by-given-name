@@ -28,5 +28,33 @@
       "Holds the Major League Baseball record for most career saves by a right-handed pitcher"
     ],
     "yearBorn": 1967
+  },
+  {
+    "fullName": "Trevor McDonald",
+    "givenNames": [
+      "Trevor",
+      "Lawson"
+    ],
+    "familyName": "McDonald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_McDonald",
+    "occupation": "Journalist, newsreader",
+    "achievements": [
+      "Longest-serving presenter of ITV News at Ten",
+      "Recipient of multiple awards for journalism"
+    ],
+    "yearBorn": 1939
+  },
+  {
+    "fullName": "Trevor Brazile",
+    "givenNames": [
+      "Trevor"
+    ],
+    "familyName": "Brazile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trevor_Brazile",
+    "occupation": "Rodeo cowboy",
+    "achievements": [
+      "26-time world champion in rodeo"
+    ],
+    "yearBorn": 1975
   }
 ]

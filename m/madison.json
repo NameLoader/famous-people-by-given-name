@@ -27,5 +27,34 @@
       "Released successful singles and albums"
     ],
     "yearBorn": 1999
+  },
+  {
+    "fullName": "Madison Keys",
+    "givenNames": [
+      "Madison"
+    ],
+    "familyName": "Keys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Keys",
+    "occupation": "Tennis player",
+    "achievements": [
+      "Reached the semifinals of the Australian Open and US Open",
+      "Won 7 WTA Tour singles titles"
+    ],
+    "yearBorn": 1995
+  },
+  {
+    "fullName": "Madison Bumgarner",
+    "givenNames": [
+      "Madison",
+      "Kyle"
+    ],
+    "familyName": "Bumgarner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madison_Bumgarner",
+    "occupation": "Baseball player",
+    "achievements": [
+      "Three-time World Series champion with the San Francisco Giants",
+      "World Series MVP in 2014"
+    ],
+    "yearBorn": 1989
   }
 ]

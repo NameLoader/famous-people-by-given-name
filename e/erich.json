@@ -46,5 +46,21 @@
     ],
     "yearBorn": 1897,
     "yearDied": 1957
+  },
+  {
+    "fullName": "Erich Honecker",
+    "givenNames": [
+      "Erich",
+      "Ernst",
+      "Paul"
+    ],
+    "familyName": "Honecker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erich_Honecker",
+    "occupation": "Politician",
+    "achievements": [
+      "Leader of East Germany from 1971 to 1989"
+    ],
+    "yearBorn": 1912,
+    "yearDied": 1994
   }
 ]

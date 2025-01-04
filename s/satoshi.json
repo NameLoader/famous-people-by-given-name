@@ -1,18 +1,5 @@
 [
   {
-    "fullName": "Satoshi Nakamoto",
-    "givenNames": [
-      "Satoshi"
-    ],
-    "familyName": "Nakamoto",
-    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
-    "occupation": "Cryptographer, creator of Bitcoin",
-    "achievements": [
-      "Created Bitcoin, the first decentralized cryptocurrency",
-      "Authored the Bitcoin whitepaper"
-    ]
-  },
-  {
     "fullName": "Satoshi Tajiri",
     "givenNames": [
       "Satoshi"
@@ -25,5 +12,33 @@
       "Founded Game Freak"
     ],
     "yearBorn": 1965
+  },
+  {
+    "fullName": "Satoshi Nakamoto",
+    "givenNames": [
+      "Satoshi"
+    ],
+    "familyName": "Nakamoto",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
+    "occupation": "Cryptographer, creator of Bitcoin",
+    "achievements": [
+      "Created Bitcoin, the first decentralized cryptocurrency.",
+      "Authored the Bitcoin white paper."
+    ]
+  },
+  {
+    "fullName": "Satoshi Kon",
+    "givenNames": [
+      "Satoshi"
+    ],
+    "familyName": "Kon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Kon",
+    "occupation": "Anime filmmaker, screenwriter, manga artist",
+    "achievements": [
+      "Directed critically acclaimed anime films like Perfect Blue and Paprika",
+      "Known for his exploration of psychological themes and surreal imagery"
+    ],
+    "yearBorn": 1963,
+    "yearDied": 2010
   }
 ]

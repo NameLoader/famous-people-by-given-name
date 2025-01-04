@@ -27,5 +27,21 @@
       "Nastro d'Argento for Best Actress"
     ],
     "yearBorn": 1973
+  },
+  {
+    "fullName": "Paola Oliveira",
+    "givenNames": [
+      "Paolla",
+      "Paola",
+      "Caroline Paola"
+    ],
+    "familyName": "Oliveira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paolla_Oliveira",
+    "occupation": "Actress and model",
+    "achievements": [
+      "Known for her roles in Brazilian telenovelas such as 'O Clone' and 'Amor à Vida'",
+      "Won the Prêmio Extra de Televisão for Best Actress in a Supporting Role in 2014"
+    ],
+    "yearBorn": 1982
   }
 ]

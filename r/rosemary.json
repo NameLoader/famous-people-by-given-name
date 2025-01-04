@@ -1,22 +1,5 @@
 [
   {
-    "fullName": "Rosemary Clooney",
-    "givenNames": [
-      "Rose",
-      "Mary"
-    ],
-    "familyName": "Clooney",
-    "wikipedia": "https://en.wikipedia.org/wiki/Rosemary_Clooney",
-    "occupation": "Singer and actress",
-    "achievements": [
-      "Sold over 50 million records worldwide.",
-      "Starred in films such as 'White Christmas' and 'The Stars Are Singing'",
-      "Won a Grammy Award for Lifetime Achievement"
-    ],
-    "yearBorn": 1928,
-    "yearDied": 2002
-  },
-  {
     "fullName": "Rosemary Harris",
     "givenNames": [
       "Rosemary",
@@ -46,5 +29,21 @@
     ],
     "yearBorn": 1920,
     "yearDied": 1992
+  },
+  {
+    "fullName": "Rosemary Clooney",
+    "givenNames": [
+      "Rose",
+      "Mary"
+    ],
+    "familyName": "Clooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosemary_Clooney",
+    "occupation": "Singer and actress",
+    "achievements": [
+      "Grammy Award nominee",
+      "Known for hits like 'Come On-a My House'"
+    ],
+    "yearBorn": 1928,
+    "yearDied": 2002
   }
 ]

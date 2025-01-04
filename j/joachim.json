@@ -42,5 +42,19 @@
     ],
     "yearBorn": 1767,
     "yearDied": 1815
+  },
+  {
+    "fullName": "Joachim von Ribbentrop",
+    "givenNames": [
+      "Joachim"
+    ],
+    "familyName": "von Ribbentrop",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop",
+    "occupation": "Nazi Foreign Minister",
+    "achievements": [
+      "Negotiated the Molotov-Ribbentrop Pact with the Soviet Union."
+    ],
+    "yearBorn": 1893,
+    "yearDied": 1946
   }
 ]

@@ -42,5 +42,20 @@
       "Successful music career as a singer-songwriter"
     ],
     "yearBorn": 1975
+  },
+  {
+    "fullName": "Alicia Vikander",
+    "givenNames": [
+      "Alicia",
+      "Amanda"
+    ],
+    "familyName": "Vikander",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alicia_Vikander",
+    "occupation": "Actress, producer",
+    "achievements": [
+      "Academy Award for Best Supporting Actress in 'The Danish Girl'",
+      "Known for roles in 'Ex Machina', 'Tomb Raider'"
+    ],
+    "yearBorn": 1988
   }
 ]

@@ -12,5 +12,34 @@
       "Host of The Kristine Leahy Show podcast"
     ],
     "yearBorn": 1986
+  },
+  {
+    "fullName": "Kristine Marie Lilly",
+    "givenNames": [
+      "Kristine",
+      "Marie"
+    ],
+    "familyName": "Lilly",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristine_Lilly",
+    "occupation": "Soccer player",
+    "achievements": [
+      "Two-time Olympic gold medalist",
+      "Two-time FIFA Women's World Cup champion",
+      "Most capped player in U.S. soccer history (male or female)"
+    ],
+    "yearBorn": 1971
+  },
+  {
+    "fullName": "Kristine Froseth",
+    "givenNames": [
+      "Kristine"
+    ],
+    "familyName": "Froseth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristine_Froseth",
+    "occupation": "Actress",
+    "achievements": [
+      "Known for her roles in 'The Society' and 'Looking for Alaska'"
+    ],
+    "yearBorn": 1995
   }
 ]
